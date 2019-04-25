@@ -8,8 +8,8 @@ $author = $_POST["author"];
 
 $number = rand(0,2147483647);
 
-system("mkdir ".dirname(__FILE__)."\\tmp\\".$number);
-$dirname = dirname(__FILE__)."\\tmp\\".$number."\\";
+system("mkdir ".dirname(__FILE__)."/tmp/".$number);
+$dirname = dirname(__FILE__)."/tmp/".$number."/";
 
 $tex = fopen($dirname.$number.".tex","w");
 
@@ -27,7 +27,7 @@ fwrite($tex,'\documentclass[11pt]{article}
 \end{document}');
 fclose($tex);
 
-system("pdflatex.exe -interaction=nonstopmode -output-directory=".$dirname." ".$dirname.$number.".tex");
+system("pdflatex -interaction=nonstopmode -output-directory=".$dirname." ".$dirname.$number.".tex");
 
 redirect("./tmp/".$number."/".$number.".pdf");
 
