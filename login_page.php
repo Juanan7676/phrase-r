@@ -21,7 +21,7 @@ function myF()
 <tr height=30>
 <td height=70 colspan="2">
 <div align="center" class="Title">
-<b>STAR-AB Corpus</b>
+<b>Phrase-R Login page</b>
 </div>
 </td>
 </tr>

@@ -26,7 +26,7 @@ function changeRoute(msg)
 <td rowspan="7" width="70%" style="border-left:3px solid #000"><iframe width="100%" height="100%" frameborder="0" id="results" name="results" scrolling="auto"></iframe></td>
 </tr>
 <tr height="10%">
-<td style="font-size:12px;"><div align="center">Phrase or word:</div></td>
+<td style="font-size:12px;"><div align="center">Type a lemma or a phrase</div></td>
 </tr>
 <tr height="10%">
 <td><div align="center"><input name="phrase" type="text" maxlength="60" size="30" style="font-size:16px; text-align:center;" /></div></td>

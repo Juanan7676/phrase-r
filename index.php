@@ -13,6 +13,11 @@
 			<div align="center" class="Title"><b><img src="img/logo.png" /></b></div>
 		</td>
 	</tr>
+    <tr height=20>
+        <td colspan="3" align="center" style="font-family:Lato;font-size:20px;color:#0073C6">
+            A Corpus-Based Tool for Academic English Language Training in Specialised Fields
+        </td>
+    </tr>
 	<tr height=10>
 		<td colspan="3">
 		</td>

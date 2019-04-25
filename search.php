@@ -32,8 +32,8 @@ function newWindow(name,w1,h1,s1) {
 <td width="50%"><div align="center"><b>Advanced Search</b></div></td>
 </tr>
 <tr height="50">
-<td width="50%"><div align="center" style="font-size:11px"><i>Search words/phrases.</i></div></td>
-<td width="50%"><div align="center" style="font-size:11px"><i>Add filters to your searc by selecting domain, subdomain and abstract section.</i></div></td>
+<td width="50%"><div align="center" style="font-size:11px"><i>Search for a word or phrase.</i></div></td>
+<td width="50%"><div align="center" style="font-size:11px"><i>Refine your query by selecting domain, subdomain and abstract section from the display menu.</i></div></td>
 </tr>
 <tr height="150"></tr>
 <tr height="50">
