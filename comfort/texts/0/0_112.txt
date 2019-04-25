@@ -1,0 +1,35 @@
+This_DD1 paper_NN1 describes_VVZ the_AT effects_NN2 of_IO non-axisymmetric_JJ 
+endwall_NN1 profiling_VVG on_II the_AT aerodynamic_JJ performance_NN1 of_IO 
+a_AT1 linear_JJ turbine_NN1 cascade_NN1 at_II different_JJ incidence_NN1 
+angles_NN2 ._. 
+The_AT sinusoidal_JJ profiling_NN1 is_VBZ carried_VVN out_RP with_IW 
+constant_JJ profile_NN1 curvature_NN1 along_II the_AT mean_JJ streamline_VV0 
+path_NN1 ._. 
+Three_MC different_JJ profiles_NN2 ,_, with_IW varying_JJ hump_NN1 to_TO 
+dip_VVI height_NN1 ,_, are_VBR analyzed_VVN numerically_RR and_CC the_AT 
+performances_NN2 are_VBR compared_VVN with_IW the_AT planar_JJ profile_NN1 ._. 
+Reynolds_NP1 Averaged_VVD Navier_NP1 Stokes_NP1 (_( RANS_NP2 )_) equations_NN2 
+are_VBR solved_VVN in_II their_APPGE conservative_JJ form_NN1 using_VVG 
+Finite_JJ Volume_NN1 Method_NN1 with_IW SST_NP1 turbulence_NN1 model_NN1 ._. 
+The_AT calculated_JJ results_NN2 indicate_VV0 that_CST the_AT profiled_JJ 
+endwall_NN1 minimizes_VVZ the_AT lateral_JJ movement_NN1 of_IO weaker_JJR 
+boundary_NN1 layer_NN1 fluid_NN1 from_II the_AT hub-pressure_JJ side_NN1 
+corner_NN1 ._. 
+In_II31 comparison_II32 with_II33 planar_JJ case_NN1 ,_, the_AT flow_NN1 
+deviations_NN2 are_VBR largely_RR contained_VVN with_IW endwall_NN1 
+profiling_VVG but_CCB closer_RRR to_II the_AT endwall_NN1 it_PPH1 enhances_VVZ 
+the_AT overturning_NN1 and_CC secondary_JJ flow_NN1 kinetic_JJ energy_NN1 ._. 
+The_AT reduction_NN1 in_II loss_NN1 coefficient_NN1 is_VBZ estimated_VVN to_TO 
+be_VBI 1.3%_FO ,_, 8.7%_FO and_CC 38%_NNU for_IF incidence_NN1 angles_NN2 
+of_IO 10_MC ,_, nominal_JJ and_CC +15_MC respectively_RR ._. 
+The_AT sinusoidal_JJ profiling_NN1 has_VHZ brought_VVN down_RP the_AT 
+pitch_NN1 averaged_JJ flow_NN1 deviation_NN1 and_CC secondary_JJ flow_NN1 
+kinetic_JJ energy_NN1 at_II nominal_JJ and_CC positive_JJ incidence_NN1 
+angles_NN2 but_CCB the_AT impact_NN1 is_VBZ insignificant_JJ at_II negative_JJ 
+incidence_NN1 ._. 
+Profiling_NP1 minimizes_VVZ the_AT rolling_VVG up_RP of_IO the_AT passage_NN1 
+vortex_NN1 and_CC makes_VVZ the_AT passage_NN1 vortex_NN1 to_TO migrate_VVI 
+closer_RRR to_II the_AT endwall_NN1 ._. 
+This_DD1 flow_NN1 modification_NN1 brings_VVZ down_RP the_AT losses_NN2 in_II 
+the_AT core_NN1 flow_NN1 but_CCB enhances_VVZ the_AT losses_NN2 near_II the_AT 
+endwall_NN1 ._. 

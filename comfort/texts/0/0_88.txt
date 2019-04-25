@@ -1,0 +1,30 @@
+This_DD1 study_NN1 aims_VVZ at_II revealing_VVG the_AT effect_NN1 of_IO the_AT 
+simple_JJ control_NN1 of_IO oxidizer_NN1 flux_NN1 on_II a_AT1 hybrid_JJ 
+rocket_NN1 engine_NN1 for_IF an_AT1 efficient_JJ extinctionreignition_NN1 
+sequence_NN1 to_TO extend_VVI the_AT downrange_NN1 as_II31 well_II32 as_II33 
+the_AT duration_NN1 in_II the_AT lower_JJR thermosphere_NN1 ._. 
+The_AT data_NN mining_VVG result_NN1 in_II the_AT prior_JJ study_NN1 
+achieved_VVN a_AT1 hypothesis_NN1 that_CST the_AT thrust_NN1 control_NN1 
+between_II 1st_MD and_CC 2nd_MD combustions_NN2 spurs_NN2 improving_VVG 
+extinctionreignition_NN1 performance_NN1 ._. 
+Accordingly_RR ,_, this_DD1 study_NN1 simply_RR defines_VVZ two_MC amounts_NN2 
+of_IO oxidizer_NN1 flux_NN1 for_IF 1st_MD and_CC 2nd_MD combustions_NN2 ;_; 
+we_PPIS2 investigate_VV0 using_VVG the_AT design_NN1 informatics_NN1 
+platform_NN1 whether_CSW this_DD1 simple_JJ control_NN1 of_IO oxidizer_NN1 
+flux_NN1 is_VBZ practically_RR effective_JJ to_II improving_JJ 
+extinctionreignition_NN1 performance_NN1 ._. 
+Consequently_RR ,_, oxidizer_NN1 flux_NN1 control_NN1 successfully_RR 
+fulfills_VVZ the_AT downrange_NN1 extension_NN1 as_II31 well_II32 as_II33 
+the_AT duration_NN1 protraction_NN1 as_CSA we_PPIS2 had_VHD expected_VVN ._. 
+Furthermore_RR ,_, the_AT evolutionary_JJ multiobjective_JJ optimization_NN1 
+generates_VVZ non-simple_JJ structure_NN1 of_IO the_AT feasible_JJ region_NN1 
+in_II the_AT design_NN1 space_NN1 ._. 
+Trajectory_NN1 analyses_VVZ for_IF signature_NN1 individuals_NN2 and_CC a_AT1 
+data_NN mining_NN1 have_VH0 specified_VVN detailed_JJ design_NN1 
+strategies_NN2 ._. 
+In_RR21 addition_RR22 ,_, they_PPHS2 have_VH0 also_RR explained_VVN 
+physical_JJ reasons_NN2 why_RRQ the_AT non-simple_JJ structure_NN1 is_VBZ 
+formed_VVN ._. 
+Extinctionreignition_NN1 with_IW oxidizer_NN1 flux_NN1 control_NN1 is_VBZ 
+useful_JJ for_IF efficient_JJ operations_NN2 of_IO the_AT hybrid_JJ rocket_NN1 
+system_NN1 ._. 

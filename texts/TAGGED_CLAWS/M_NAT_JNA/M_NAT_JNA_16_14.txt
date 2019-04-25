@@ -1,0 +1,27 @@
+Facilitated_VVN by_II recent_JJ establishment_NN1 of_IO terrestrial_JJ 
+networks_NN2 and_CC satellite_NN1 constellations_NN2 of_IO Automatic_JJ 
+Identification_NN1 System_NN1 (_( AIS_NN2 )_) receivers_NN2 ,_, ship_NN1 
+trajectories_NN2 are_VBR becoming_VVG increasingly_RR available_JJ and_CC 
+the_AT size_NN1 of_IO recorded_JJ trajectories_NN2 is_VBZ getting_VVG 
+larger_JJR ._. 
+Large_JJ sets_NN2 of_IO trajectories_NN2 create_VV0 problems_NN2 of_IO 
+storing_VVG ,_, transmitting_VVG and_CC processing_VVG data_NN ._. 
+Using_VVG appropriate_JJ methods_NN2 ,_, an_AT1 accurate_JJ representation_NN1 
+of_IO the_AT original_JJ trajectories_NN2 can_VM be_VBI obtained_VVN by_II 
+compressing_VVG redundant_JJ information_NN1 ,_, while_CS maintaining_VVG 
+the_AT main_JJ characteristic_JJ elements_NN2 ._. 
+In_II this_DD1 paper_NN1 ,_, a_AT1 new_JJ scheme_NN1 and_CC the_AT 
+implementation_NN1 of_IO the_AT Douglas-Peucker_NP1 (_( DP_NP1 )_) 
+algorithm_NN1 are_VBR presented_VVN ,_, which_DDQ can_VM simplify_VVI AIS_NN2 
+trajectories_NN2 by_II extracting_VVG characteristic_JJ points_NN2 ._. 
+As_II21 for_II22 the_AT simplification_NN1 threshold_NN1 ,_, the_AT solo_NN1 
+parameter_NN1 of_IO the_AT DP_NP1 algorithm_NN1 ,_, a_AT1 new_JJ AIS-based_JJ 
+minimum_JJ ship_NN1 domain_NN1 evaluation_NN1 method_NN1 is_VBZ proposed_VVN 
+and_CC acts_NN2 as_CSA criteria_NN2 for_IF simplification_NN1 threshold_NN1 
+determination_NN1 ._. 
+Finally_RR ,_, a_AT1 validation_NN1 is_VBZ made_VVN to_TO examine_VVI the_AT 
+effectiveness_NN1 of_IO the_AT DP_NP1 simplification_NN1 algorithm_NN1 and_CC 
+the_AT rationality_NN1 of_IO the_AT simplification_NN1 threshold_NN1 ._. 
+The_AT result_NN1 indicates_VVZ that_CST the_AT DP_NP1 algorithm_NN1 can_VM 
+simplify_VVI AIS_NN2 trajectories_NN2 effectively_RR ;_; the_AT 
+simplification_NN1 threshold_NN1 is_VBZ scientific_JJ and_CC reasonable_JJ ._. 

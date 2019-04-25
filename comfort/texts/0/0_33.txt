@@ -1,0 +1,28 @@
+Aircraft_NN design_VV0 today_RT requires_VVZ large_JJ amount_NN1 of_IO CFD_NP1 
+calculation_NN1 ._. 
+For_REX21 example_REX22 when_CS Natural_JJ Laminar_JJ Flow_NN1 technique_NN1 
+is_VBZ applied_VVN to_TO reduce_VVI aircraft_NN skin_NN1 friction_NN1 drag_VV0 
+by_II extending_VVG laminar_JJ length_NN1 over_II surface_NN1 ,_, 
+flowfield_NN1 calculation_NN1 related_VVN with_IW airfoil_NN1 laminar_NN1 
+transition_NN1 is_VBZ computationally_RR intense_JJ ._. 
+Situations_NN2 like_II this_DD1 make_VV0 iterative_JJ trial-and-error_JJ 
+approach_NN1 very_RG inefficient_JJ ._. 
+In_BCL21 order_BCL22 to_TO improve_VVI this_DD1 ,_, this_DD1 paper_NN1 
+aims_VVZ to_TO exploit_VVI airfoil_NN1 database_NN1 of_IO geometry_NN1 and_CC 
+aerodynamic_JJ performance_NN1 (_( from_II accumulated_JJ experiment_NN1 
+and_CC CFD_NP1 calculation_NN1 results_NN2 )_) based_VVN on_II Artificial_JJ 
+Neural_JJ Network_NN1 to_TO develop_VVI the_AT approach_NN1 ofdatabase_NN1 
+self-expansion_NN1 ._. 
+It_PPH1 can_VM generate_VVI airfoils_NN2 with_IW better_JJR aerodynamic_JJ 
+performance_NN1 from_II original_JJ database_NN1 ,_, so_CS21 that_CS22 the_AT 
+new_JJ airfoils_NN2 can_VM be_VBI applied_VVN to_TO improve_VVI local_JJ 
+aerodynamic_JJ performance_NN1 of_IO aircraft_NN ._. 
+The_AT motive_NN1 of_IO the_AT approach_NN1 is_VBZ to_TO utilize_VVI the_AT 
+resource_NN1 of_IO accumulated_JJ optimization_NN1 products_NN2 in_BCL21 
+order_BCL22 to_TO aid_VVI aircraft_NN design_NN1 ._. 
+In_II this_DD1 paper_NN1 ,_, we_PPIS2 will_VM discuss_VVI its_APPGE 
+application_NN1 in_II laminar_JJ length_NN1 extension_NN1 over_II the_AT 
+surface_NN1 of_IO nacelle_NN1 and_CC wing_NN1 ._. 
+Geometry_NN1 description_NN1 in_II preparation_NN1 of_IO database_NN1 
+establishment_NN1 ,_, configuration_NN1 of_IO network_NN1 training_NN1 ,_, 
+and_CC workflow_NN1 will_VM be_VBI described_VVN in_II the_AT paper_NN1 ._. 

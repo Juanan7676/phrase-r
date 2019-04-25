@@ -1,0 +1,25 @@
+This_DD1 paper_NN1 describes_VVZ the_AT implementation_NN1 of_IO a_AT1 
+framework_NN1 which_DDQ can_VM be_VBI used_VVN to_TO optimize_VVI the_AT 
+external_JJ shape_NN1 of_IO an_AT1 unconventional_JJ airship_NN1 
+configuration_NN1 ._. 
+This_DD1 framework_NN1 includes_VVZ the_AT estimation_NN1 of_IO Added_JJ 
+Masses_NN2 (_( AM_RA )_) which_DDQ captures_VVZ the_AT contribution_NN1 of_IO 
+the_AT dynamic_JJ effect_NN1 related_VVN to_II the_AT acceleration_NN1 of_IO 
+a_AT1 body_NN1 immersed_VVN in_II a_AT1 fluid_NN1 having_VHG a_AT1 similar_JJ 
+density_NN1 to_II that_DD1 of_IO the_AT body_NN1 itself_PPX1 ._. 
+A_AT1 computationally_RR efficient_JJ routine_NN1 to_TO compute_VVI AM_VBM 
+has_VHZ been_VBN implemented_VVN in_II a_AT1 heuristic_JJ optimization_NN1 
+loop_NN1 based_VVN on_II a_AT1 Particle_NN1 Swarm_NN1 Optimization_NN1 (_( 
+PSO_NN1 )_) algorithm_NN1 ,_, and_CC has_VHZ been_VBN integrated_VVN into_II 
+a_AT1 simple_JJ model_NN1 which_DDQ provides_VVZ hybrid_JJ airship_NN1 's_GE 
+aerodynamics_NN1 characteristics_NN2 ._. 
+As_II a_AT1 case_NN1 study_NN1 ,_, the_AT take-off_NN1 distance_NN1 of_IO 
+a_AT1 hybrid_JJ airship_NN1 has_VHZ been_VBN optimized_VVN by_II the_AT 
+methodology_NN1 ,_, and_CC it_PPH1 is_VBZ used_VVN to_TO show_VVI the_AT 
+effect_NN1 on_II the_AT optimization_NN1 loop_NN1 and_CC the_AT errors_NN2 
+arising_VVG from_II using_VVG conventional_JJ approximated_JJ AM_RA 
+evaluation_NN1 methods_NN2 ._. 
+The_AT proposed_JJ set_NN1 of_IO simulations_NN2 clearly_RR evaluates_VVZ 
+the_AT errors_NN2 expected_VVN on_II the_AT unconventional_JJ airships_NN2 
+performances_NN2 when_CS approximated_VVN methods_NN2 are_VBR used_VVN in_II 
+the_AT evaluation_NN1 of_IO the_AT AM_RA 

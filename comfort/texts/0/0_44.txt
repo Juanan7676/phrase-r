@@ -1,0 +1,31 @@
+A_AT1 three-dimensional_JJ ,_, multi-passage_JJ unsteady_JJ numerical_JJ 
+study_NN1 was_VBDZ conducted_VVN to_TO enhance_VVI the_AT understanding_NN1 
+of_IO unsteady_JJ flow_NN1 phenomena_NN2 in_II the_AT tip_NN1 region_NN1 of_IO 
+a_AT1 transonic_JJ axial_JJ compressor_NN1 rotor_NN1 ._. 
+Two_MC different_JJ inlet_NN1 conditions_NN2 were_VBDR applied_VVN to_II 
+the_AT transonic_JJ rotor_NN1 to_TO demonstrate_VVI the_AT effect_NN1 of_IO 
+the_AT inlet_NN1 condition_NN1 on_II the_AT unsteady_JJ flow_NN1 
+phenomenon_NN1 in_II the_AT rotor_NN1 tip_NN1 region_NN1 ._. 
+The_AT inlet_NN1 conditions_NN2 selected_VVN were_VBDR axial_JJ inflow_NN1 
+and_CC 16-deg_NNU of_IO co-swirl_NN1 ._. 
+The_AT results_NN2 show_VV0 that_CST different_JJ inlet_NN1 conditions_NN2 
+lead_VV0 to_II different_JJ shock_NN1 wave_NN1 intensities_NN2 and_CC 
+positions_NN2 ,_, which_DDQ critically_RR affects_VVZ the_AT unsteady_JJ 
+flow_NN1 structure_NN1 in_II the_AT tip_NN1 region_NN1 of_IO the_AT 
+transonic_JJ rotor_NN1 ._. 
+Under_II the_AT co-swirl_NN1 inlet_NN1 condition_NN1 ,_, the_AT tip_NN1 
+leakage_NN1 vortex_NN1 of_IO each_DD1 blade_NN1 oscillates_VVZ 
+synchronously_RR at_II the_AT near_JJ stall_NN1 point_NN1 because_II21 of_II22 
+the_AT weak_JJ interaction_NN1 between_II the_AT tip_NN1 leakage_NN1 
+vortex_NN1 and_CC the_AT shock_NN1 ._. 
+Under_II the_AT axial_JJ inlet_NN1 condition_NN1 ,_, the_AT rotating_JJ 
+instability_NN1 phenomenon_NN1 appears_VVZ as_II the_AT Smulti-passage_JJ 
+structure_NN1 ,_, which_DDQ propagates_VVZ along_II the_AT circumference_NN1 
+occurring_VVG at_II the_AT tip_NN1 of_IO the_AT rotor_NN1 in_II the_AT 
+stable_JJ operating_NN1 range_NN1 due_II21 to_II22 the_AT strong_JJ 
+interaction_NN1 between_II the_AT tip_NN1 leakage_NN1 vortex_NN1 and_CC the_AT 
+shock_NN1 wave_NN1 ._. 
+With_IW the_AT decrease_NN1 of_IO the_AT mass_JJ flow_NN1 ,_, the_AT mode_NN1 
+order_NN1 of_IO the_AT Smulti-passage_JJ structure_NN1 does_VDZ not_XX 
+change_VVI ,_, but_CCB the_AT fluctuation_NN1 frequency_NN1 decreases_VVZ 
+gradually_RR ._. 

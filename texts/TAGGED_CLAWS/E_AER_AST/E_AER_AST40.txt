@@ -1,0 +1,24 @@
+This_DD1 paper_NN1 presents_VVZ a_AT1 sliding_JJ control_NN1 strategy_NN1 
+for_IF executing_VVG a_AT1 sideslip_NN1 perching_VVG maneuver_NN1 under_II 
+dynamic_JJ stall_NN1 influence_NN1 ._. 
+Perching_NP1 is_VBZ a_AT1 type_NN1 of_IO aggressive_JJ maneuver_NN1 
+performed_VVN by_II the_AT avian_JJ species_NN to_TO acquire_VVI rapid_JJ 
+deceleration_NN1 ,_, which_DDQ is_VBZ frequently_RR followed_VVN by_II a_AT1 
+precision_NN1 landing_NN1 ._. 
+Due_II21 to_II22 the_AT high_JJ turn_NN1 rates_NN2 and_CC rapid_JJ changes_NN2 
+in_II aerodynamic_JJ angles_NN2 in_II the_AT three-dimensional_JJ domain_NN1 
+,_, robustness_NN1 to_TO state_VVI perturbations_NN2 and_CC model_NN1 
+inaccuracies_NN2 is_VBZ mandatory_JJ as_CSA it_PPH1 is_VBZ impossible_JJ to_TO 
+develop_VVI a_AT1 completely_RR accurate_JJ aerodynamic_JJ model_NN1 for_IF 
+perching_VVG that_CST involves_VVZ many_DA2 dynamic_JJ phenomena_NN2 and_CC 
+different_JJ flow_NN1 regimes_NN2 ._. 
+Based_VVN on_II the_AT optimal_JJ trajectory_NN1 solutions_NN2 generated_VVN 
+through_II an_AT1 optimization_NN1 procedure_NN1 ,_, sliding_JJ mode_NN1 
+control_NN1 is_VBZ proposed_VVN to_TO address_VVI the_AT need_NN1 for_IF 
+robust_JJ tracking_NN1 in_II the_AT nonlinear_JJ ,_, unsteady_JJ region_NN1 
+of_IO flight_NN1 dynamics_NN with_IW the_AT inclusion_NN1 of_IO dynamic_JJ 
+stall_NN1 delay_NN1 ._. 
+Performance_NN1 of_IO the_AT controller_NN1 is_VBZ validated_VVN under_II 
+different_JJ scenarios_NN2 involving_VVG varying_JJ initial_JJ spatial_JJ 
+and_CC state_VV0 conditions_NN2 and_CC state_VV0 perturbations_NN2 
+throughout_II the_AT course_NN1 of_IO the_AT perching_JJ maneuver_NN1 ._. 

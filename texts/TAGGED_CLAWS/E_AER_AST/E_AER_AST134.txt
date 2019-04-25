@@ -1,0 +1,40 @@
+A_AT1 rapid_JJ entry_NN1 trajectory_NN1 planning_NN1 algorithm_NN1 for_IF 
+hypersonic_JJ glide_NN1 vehicles_NN2 is_VBZ presented_VVN in_II this_DD1 
+paper_NN1 ,_, and_CC the_AT avoidance_NN1 of_IO no-fly_JJ zones_NN2 with_IW 
+large_JJ cross-range_NN1 is_VBZ achieved_VVN ._. 
+The_AT highly-constrained_JJ entry_NN1 trajectory_NN1 generation_NN1 
+mission_NN1 is_VBZ accomplished_VVN using_VVG an_AT1 adjustable_JJ angle_NN1 
+of_IO attack_NN1 and_CC bank_NN1 ,_, instead_II21 of_II22 a_AT1 nominal_JJ 
+angle_NN1 of_IO attack_NN1 and_CC reversal_NN1 logic_NN1 of_IO bank_NN1 
+angle_NN1 ._. 
+In_II this_DD1 way_NN1 ,_, the_AT maneuvering_JJ capability_NN1 of_IO the_AT 
+vehicle_NN1 is_VBZ greatly_RR improved_VVN ._. 
+Moreover_RR ,_, as_CSA no_AT reversal_NN1 of_IO bank_NN1 angle_NN1 exists_VVZ 
+in_II the_AT whole_JJ flight_NN1 ,_, the_AT control_NN1 command_NN1 is_VBZ 
+easier_JJR to_TO follow_VVI ._. 
+Firstly_RR ,_, longitudinal_JJ entry_NN1 corridor_NN1 with_IW an_AT1 
+adjustable_JJ angle_NN1 of_IO attack_NN1 is_VBZ built_VVN up_RP ._. 
+The_AT drag_VV0 acceleration_NN1 profile_NN1 is_VBZ represented_VVN as_CSA 
+five_MC piecewise_JJ affine_JJ functions_NN2 of_IO the_AT energy_NN1 ,_, 
+which_DDQ are_VBR adjusted_VVN to_TO meet_VVI the_AT requirements_NN2 of_IO 
+the_AT trajectory_NN1 length_NN1 and_CC lateral_JJ maneuvering_JJ 
+capability_NN1 ._. 
+Secondly_RR ,_, based_VVN on_II the_AT quasi-equilibrium_NN1 glide_NN1 
+condition_NN1 (_( QEGC_NP1 )_) ,_, the_AT maximum_NN1 and_CC minimum_JJ 
+boundary_NN1 of_IO the_AT lateral_JJ lift-to-drag_VV0 corridor_NN1 
+corresponding_VVG to_II the_AT current_JJ drag_VV0 acceleration_NN1 
+profile_NN1 is_VBZ approximated_VVN ,_, and_CC the_AT lateral_JJ profile_NN1 
+is_VBZ represented_VVN as_II an_AT1 interpolation_NN1 result_NN1 of_IO the_AT 
+boundaries_NN2 ._. 
+Finally_RR ,_, the_AT parameters_NN2 of_IO longitudinal_JJ and_CC lateral_JJ 
+profile_NN1 are_VBR found_VVN by_II the_AT Newton_NP1 iteration_NN1 scheme_NN1 
+with_IW the_AT help_NN1 of_IO a_AT1 reduced_JJ order_NN1 system_NN1 ._. 
+A_AT1 combined_JJ proportional_JJ integral_JJ derivative_NN1 (_( PID_NP1 )_) 
+tracker_NN1 is_VBZ also_RR designed_VVN to_TO follow_VVI the_AT drag_VV0 
+and_CC heading_VVG angle_NN1 profile_NN1 ._. 
+The_AT approach_NN1 is_VBZ tested_VVN using_VVG the_AT Common_JJ Aero_NN1 
+Vehicle_NN1 model_NN1 ._. 
+Simulation_NN1 results_NN2 demonstrate_VV0 that_CST the_AT generated_JJ 
+entry_NN1 trajectories_NN2 can_VM avoid_VVI no-fly_JJ zone_NN1 with_IW a_AT1 
+large_JJ cross-range_NN1 and_CC achieve_VV0 the_AT terminal_JJ conditions_NN2 
+while_CS satisfying_VVG all_DB the_AT complex_JJ path_NN1 constraints_NN2 ._. 

@@ -1,0 +1,23 @@
+A_AT1 novel_JJ quasi-3D_NNU hyperbolic_JJ theory_NN1 is_VBZ presented_VVN 
+for_IF the_AT free_JJ vibration_NN1 analysis_NN1 of_IO functionally_RR 
+graded_VVN (_( FG_NP1 )_) porous_JJ plates_NN2 resting_VVG on_II elastic_JJ 
+foundations_NN2 by_II dividing_VVG transverse_JJ displacement_NN1 into_II 
+bending_VVG ,_, shear_VV0 ,_, and_CC thickness_NN1 stretching_VVG parts_NN2 
+._. 
+The_AT elastic_JJ foundation_NN1 can_VM be_VBI chosen_VVN as_CSA Winkler_NP1 
+,_, Pasternak_NP1 or_CC Kerr_NP1 foundation_NN1 ._. 
+Three_MC different_JJ patterns_NN2 of_IO porosity_NN1 distributions_NN2 (_( 
+including_II even_RR and_CC uneven_JJ distribution_NN1 patterns_NN2 ,_, and_CC 
+the_AT logarithmic-uneven_JJ pattern_NN1 )_) are_VBR considered_VVN ._. 
+A_AT1 Galerkin_NN1 method_NN1 is_VBZ developed_VVN for_IF the_AT solution_NN1 
+of_IO the_AT eigenvalue_NN1 problem_NN1 of_IO the_AT presented_JJ quasi-3D_NNU 
+hyperbolic_JJ plate_NN1 model_NN1 ._. 
+The_AT presented_JJ quasi-3D_NNU hyperbolic_JJ theory_NN1 is_VBZ simple_JJ 
+and_CC easy_JJ to_TO implement_VVI since_CS it_PPH1 uses_VVZ only_RR 
+five-unknown_JJ variables_NN2 to_TO determine_VVI fourfold_JJ coupled_JJ (_( 
+axial-shear-bending-stretching_FU )_) vibration_NN1 responses_NN2 ._. 
+A_AT1 comprehensive_JJ parametric_JJ study_NN1 is_VBZ carried_VVN out_RP to_TO 
+assess_VVI the_AT effects_NN2 of_IO volume_NN1 fraction_NN1 index_NN1 ,_, 
+porosity_NN1 fraction_NN1 index_NN1 ,_, stiffness_NN1 of_IO foundation_NN1 
+parameters_NN2 ,_, mode_NN1 numbers_NN2 ,_, and_CC geometry_NN1 on_II the_AT 
+natural_JJ frequencies_NN2 of_IO imperfect_JJ FG_NP1 plates_NN2 ._. 

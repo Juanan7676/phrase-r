@@ -1,0 +1,22 @@
+Current_JJ scenarios_NN2 for_IF marine_JJ spill_NN1 accidents_NN2 were_VBDR 
+developed_VVN based_VVN on_II probable_JJ maximum_NN1 spill_VV0 accidents_NN2 
+._. 
+However_RR ,_, ,_, accidents_NN2 of_IO similar_JJ scale_NN1 to_II maximum_JJ 
+spill_NN1 accidents_NN2 are_VBR virtually_RR non-existent_JJ ,_, and_CC 
+training_NN1 or_CC deployment_NN1 of_IO response_NN1 equipment_NN1 based_VVN 
+on_II these_DD2 scenarios_NN2 can_VM be_VBI cost_VVN prohibitive_JJ ._. 
+Current_JJ scenarios_NN2 require_VV0 realism_NN1 for_IF practical_JJ use_NN1 
+and_CC need_VV0 to_TO be_VBI designed_VVN for_IF purpose_NN1 of_IO use_NN1 ._. 
+In_II this_DD1 study_NN1 we_PPIS2 developed_VVD scenarios_NN2 that_CST may_VM 
+replace_VVI current_JJ scenarios_NN2 by_II using_VVG the_AT HNS_NP1 
+accident_NN1 standard_NN1 codes_NN2 based_VVN on_II past_JJ accident_NN1 
+cases_NN2 ._. 
+Scenarios_NN2 were_VBDR developed_VVN by_II modularizing_VVG the_AT HNS_NP1 
+accident_NN1 standard_NN1 code_NN1 ,_, that_DD1 is_VBZ classified_VVN into_II 
+three_MC scenarios_NN2 :_: Maximum_JJ Frequency_NN1 Scenario_NN1 ,_, 
+Maximum_JJ Damage_NN1 Scenario_NN1 ,_, and_CC Maximum_JJ Vulnerability_NN1 
+Scenario_NN1 ._. 
+The_AT situation_NN1 of_IO an_AT1 accident_NN1 presented_VVN in_II each_DD1 
+scenario_NN1 developed_VVN in_II this_DD1 process_NN1 is_VBZ much_RR like_II 
+a_AT1 real_JJ accident_NN1 ,_, and_CC therefore_RR ,_, it_PPH1 is_VBZ has_VHZ 
+practical_JJ application_NN1 ._. 

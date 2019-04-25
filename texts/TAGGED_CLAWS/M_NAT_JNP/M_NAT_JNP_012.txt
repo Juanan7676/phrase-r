@@ -1,0 +1,15 @@
+In_II the_AT offshore_JJ crane_NN1 system_NN1 ,_, the_AT requirements_NN2 
+on_II the_AT operating_NN1 safety_NN1 are_VBR extremely_RR high_JJ due_II21 
+to_II22 many_DA2 external_JJ factors_NN2 ._. 
+Rope_NN1 extension_NN1 is_VBZ one_MC1 of_IO the_AT factors_NN2 producing_VVG 
+vertical_JJ vibration_NN1 of_IO load_NN1 ._. 
+In_II this_DD1 study_NN1 ,_, the_AT load_NN1 is_VBZ carried_VVN by_II the_AT 
+motor-winch_JJ actuator_NN1 control_NN1 and_CC the_AT rope_NN1 is_VBZ 
+modeled_VVN as_II a_AT1 mass-damper-spring_JJ system_NN1 ._. 
+To_TO control_VVI the_AT load_NN1 position_NN1 and_CC suppress_VVI the_AT 
+vertical_JJ vibration_NN1 of_IO the_AT load_NN1 ,_, a_AT1 control_NN1 
+system_NN1 based_VVN on_II input-output_NN1 linearization_NN1 method_NN1 
+is_VBZ proposed_VVN ._. 
+By_II the_AT simulation_NN1 and_CC experiment_NN1 results_NN2 with_IW 
+pilot_NN1 crane_NN1 model_NN1 ,_, the_AT effectiveness_NN1 of_IO proposed_JJ 
+control_NN1 method_NN1 is_VBZ evaluated_VVN and_CC verified_VVN ._. 

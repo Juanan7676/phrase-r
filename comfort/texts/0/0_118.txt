@@ -1,0 +1,23 @@
+This_DD1 work_NN1 analyzes_VVZ an_AT1 approximate_JJ solution_NN1 of_IO the_AT 
+equations_NN2 of_IO motion_NN1 for_IF a_AT1 spacecraft_NN propelled_VVN by_II 
+an_AT1 Electric_JJ Solar_JJ Wind_NN1 Sail_VV0 with_IW a_AT1 fixed_JJ 
+attitude_NN1 ._. 
+The_AT peculiarity_NN1 of_IO such_DA a_AT1 propulsion_NN1 system_NN1 is_VBZ 
+that_CST its_APPGE thrust_NN1 scales_NN2 as_II the_AT inverse_JJ 
+heliocentric_JJ distance_NN1 ._. 
+This_DD1 represents_VVZ a_AT1 substantial_JJ difference_NN1 from_II a_AT1 
+classical_JJ solar_JJ sail_NN1 ,_, whose_DDQGE propelling_JJ force_NN1 is_VBZ 
+known_VVN to_TO be_VBI proportional_JJ to_II inverse_JJ square_JJ distance_NN1 
+from_II the_AT Sun_NN1 ._. 
+Assuming_VVG a_AT1 heliocentric_JJ ,_, two-dimensional_JJ mission_NN1 
+scenario_NN1 ,_, the_AT polar_JJ form_NN1 of_IO the_AT spacecraft_NN 
+trajectory_NN1 equation_NN1 is_VBZ obtained_VVN for_IF a_AT1 closed_JJ 
+parking_NN1 orbit_NN1 of_IO given_JJ characteristics_NN2 by_II31 means_II32 
+of_II33 an_AT1 asymptotic_JJ expansion_NN1 procedure_NN1 ._. 
+The_AT proposed_JJ approach_NN1 significantly_RR improves_VVZ the_AT 
+existing_JJ results_NN2 as_CSA presented_VVN in_II the_AT literature_NN1 ._. 
+A_AT1 suitable_JJ choice_NN1 of_IO propulsion_NN1 system_NN1 parameters_NN2 
+and_CC parking_NN1 orbit_NN1 characteristics_NN2 provides_VVZ interesting_JJ 
+similarities_NN2 with_IW recent_JJ solutions_NN2 obtained_VVN for_IF a_AT1 
+solar_JJ sail-based_JJ spacecraft_NN in_II a_AT1 heliocentric_JJ ,_, 
+two-dimensional_JJ ,_, mission_NN1 scenario_NN1 ._. 

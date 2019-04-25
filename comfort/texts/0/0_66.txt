@@ -1,0 +1,33 @@
+Unsteady_JJ pulsed_JJ suction_NN1 (_( UPS_NN2 )_) as_II a_AT1 novel_JJ 
+unsteady_JJ flow_NN1 control_NN1 (_( UFC_NP1 )_) technique_NN1 is_VBZ 
+applied_VVN in_II a_AT1 certain_JJ highly_RR loaded_JJ compressor_NN1 
+cascade_NN1 for_IF the_AT control_NN1 of_IO flow_NN1 separations_NN2 ._. 
+Some_DD related_JJ aerodynamic_JJ parameters_NN2 such_II21 as_II22 
+excitation_NN1 frequency_NN1 and_CC time-averaged_JJ suction_NN1 flow_NN1 
+rate_NN1 are_VBR studied_VVN in_II detail_NN1 ._. 
+UPS_NN2 and_CC steady_JJ constant_JJ suction_NN1 (_( SCS_NP1 )_) are_VBR 
+investigated_VVN to_II analysis_NN1 comparatively_RR the_AT control_NN1 
+effects_NN2 of_IO flow_NN1 separations_NN2 with_IW the_AT same_DA 
+time-averaged_JJ suction_NN1 flow_NN1 rate_NN1 ._. 
+The_AT results_NN2 show_VV0 that_CST UPS_NN2 can_VM provide_VVI appreciable_JJ 
+improvement_NN1 of_IO cascade_NN1 performance_NN1 in_II a_AT1 wide_JJ 
+range_NN1 of_IO excitation_NN1 frequencies_NN2 ._. 
+There_EX are_VBR different_JJ optimum_JJ frequencies_NN2 under_II different_JJ 
+time-averaged_JJ suction_NN1 flow_NN1 rates_NN2 ,_, but_CCB the_AT optimum_JJ 
+frequencies_NN2 are_VBR both_RR an_AT1 integer_NN1 multiple_NN1 of_IO the_AT 
+natural_JJ frequency_NN1 of_IO vortex_NN1 shedding_NN1 ._. 
+Based_VVN on_II the_AT optimum_JJ frequency_NN1 ,_, the_AT total_JJ 
+pressure_NN1 loss_NN1 coefficients_NN2 under_II the_AT time-averaged_JJ 
+suction_NN1 flow_NN1 ratesms=0.4%andms=0.53%are_FO reduced_VVN by_II 9.4%_FO 
+and_CC 14.2%_FO ,_, respectively_RR ._. 
+The_AT time-averaged_JJ suction_NN1 flow_NN1 rate_NN1 plays_VVZ a_AT1 more_RGR 
+crucial_JJ role_NN1 than_CSN the_AT excitation_NN1 frequency_NN1 ._. 
+Simultaneously_RR ,_, UPS_NN2 can_VM provide_VVI a_AT1 better_JJR flow_NN1 
+control_NN1 effect_NN1 than_CSN SCS_NP1 with_IW the_AT same_DA 
+time-averaged_JJ suction_NN1 flow_NN1 rate_NN1 in_II the_AT control_NN1 of_IO 
+flow_NN1 separation_NN1 ._. 
+The_AT time-averaged_JJ suction_NN1 flow_NN1 rate_NN1 range_NN1 that_CST 
+can_VM obtain_VVI positive_JJ effects_NN2 for_IF UPS_NN2 is_VBZ wider_JJR 
+than_CSN that_DD1 for_IF SCS_NP1 ._. 
+Additionally_RR ,_, the_AT potentials_NN2 of_IO UPS_NN2 at_II off-design_JJ 
+points_NN2 are_VBR also_RR validated_VVN ._. 

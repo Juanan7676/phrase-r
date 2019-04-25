@@ -1,0 +1,56 @@
+Peak_NN1 events_NN2 of_IO unsteady_JJ total_JJ pressure_NN1 and_CC swirl_VV0 
+distortion_NN1 generated_VVN within_II S-duct_JJ intakes_NN2 can_VM affect_VVI 
+the_AT engine_NN1 stability_NN1 ,_, even_CS21 when_CS22 within_II 
+acceptable_JJ mean_JJ distortion_NN1 levels_NN2 ._. 
+Even_CS21 though_CS22 the_AT swirl_NN1 distortion_NN1 descriptors_NN2 have_VH0 
+been_VBN evaluated_VVN in_II S-duct_JJ intakes_NN2 ,_, the_AT associated_JJ 
+flow_NN1 field_NN1 pattern_NN1 has_VHZ not_XX been_VBN reported_VVN in_II 
+detail_NN1 ._. 
+This_DD1 is_VBZ of_IO importance_NN1 since_CS engine_NN1 tolerance_NN1 to_II 
+distortion_NN1 is_VBZ usually_RR tested_VVN with_IW representative_JJ 
+patterns_NN2 from_II intake_NN1 tests_NN2 replicated_VVN with_IW steady_JJ 
+distortion_NN1 generators_NN2 ._. 
+Despite_II its_APPGE importance_NN1 in_II intake/engine_NN1 compatibility_NN1 
+assessments_NN2 ,_, the_AT spectral_JJ characteristics_NN2 of_IO the_AT 
+distortion_NN1 descriptors_NN2 and_CC the_AT relationship_NN1 between_II 
+peak_NN1 unsteady_JJ swirl_NN1 and_CC both_RR radial_JJ and_CC 
+circumferential_JJ total_JJ pressure_NN1 distortion_NN1 has_VHZ not_XX 
+been_VBN assessed_VVN previously_RR ._. 
+The_AT peak_NN1 distortion_NN1 data_NN is_VBZ typically_RR low-pass_NN1 
+filtered_VVN at_II a_AT1 frequency_NN1 associated_VVN with_IW the_AT 
+minimum_JJ response_NN1 time_NNT1 of_IO the_AT engine_NN1 ._. 
+However_RRQV the_AT engine_NN1 design_NN1 is_VBZ not_XX always_RR known_VVN 
+a_JJ21 priori_JJ22 in_II intakes_NN2 investigations_NN2 and_CC a_AT1 
+standard_JJ approach_NN1 to_II reporting_VVG peak_NN1 distortion_NN1 data_NN 
+is_VBZ needed_VVN ._. 
+In_RR21 addition_RR22 ,_, expensive_JJ and_CC time-consuming_JJ tests_NN2 
+are_VBR usually_RR required_VVN to_TO capture_VVI representative_JJ extreme_JJ 
+distortion_NN1 levels_NN2 ._. 
+This_DD1 work_NN1 presents_VVZ a_AT1 range_NN1 of_IO analyses_NN2 based_VVN 
+on_II Delayed_JJ Detached-Eddy_NP1 Simulation_NN1 and_CC Stereo_NN1 
+Particle_NN1 Image_NN1 Velocimetry_NN1 data_NN at_II the_AT outlet_NN1 of_IO 
+a_AT1 representative_JJ S-duct_JJ intake_NN1 to_TO assess_VVI these_DD2 
+aspects_NN2 of_IO the_AT unsteady_JJ flow_NN1 distortion_NN1 ._. 
+The_AT distorted_JJ pattern_NN1 associated_VVN with_IW different_JJ swirl_NN1 
+distortion_NN1 metrics_NN1 is_VBZ identified_VVN based_VVN on_II a_AT1 
+conditional_JJ averaging_NN1 technique_NN1 ,_, which_DDQ indicates_VVZ 
+that_CST the_AT most_RGT intense_JJ swirl_NN1 events_NN2 are_VBR 
+associated_VVN with_IW a_AT1 single_JJ rotating_JJ structure_NN1 ._. 
+The_AT main_JJ frequencies_NN2 of_IO the_AT flow_NN1 distortion_NN1 
+descriptors_NN2 are_VBR found_VVN to_TO lie_VVI within_II the_AT range_NN1 
+in_II which_DDQ the_AT engine_NN1 stability_NN1 may_VM be_VBI compromised_VVN 
+._. 
+The_AT peak_NN1 total_JJ pressure_NN1 and_CC swirl_VV0 distortion_NN1 
+events_NN2 are_VBR found_VVN to_TO be_VBI not_XX synchronous_JJ ,_, which_DDQ 
+highlights_VVZ the_AT need_NN1 to_TO assess_VVI both_DB2 types_NN2 of_IO 
+distortion_NN1 ._. 
+Peak_NN1 swirl_NN1 and_CC total-pressure_JJ distortion_NN1 data_NN is_VBZ 
+reported_VVN as_II a_AT1 function_NN1 of_IO its_APPGE associated_JJ time_NNT1 
+scale_NN1 in_II a_AT1 more_RGR general_JJ way_NN1 that_CST can_VM be_VBI 
+used_VVN in_II the_AT assessment_NN1 of_IO intake_NN1 unsteady_JJ flow_NN1 
+distortion_NN1 ._. 
+Extreme_JJ Value_NN1 Theory_NN1 has_VHZ been_VBN applied_VVN to_TO predict_VVI 
+peak_NN1 distortion_NN1 values_NN2 beyond_II those_DD2 measured_VVN in_II 
+the_AT available_JJ dataset_NN1 ,_, and_CC whose_DDQGE measurement_NN1 
+would_VM otherwise_RR require_VVI testing_VVG times_II two_MC orders_NN2 of_IO 
+magnitude_NN1 longer_RRR than_CSN those_DD2 typically_RR considered_VVN ._. 

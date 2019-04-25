@@ -1,0 +1,20 @@
+This_DD1 paper_NN1 focuses_VVZ on_II the_AT dynamic_JJ stability_NN1 of_IO 
+rolling_JJ missiles_NN2 equipped_VVN with_IW angle-of-attack_JJ feedback_NN1 
+three-loop_NN1 autopilot_NN1 considering_II parasitic_JJ effect_NN1 
+induced_VVN by_II radar_NN1 radome_NN1 slope_NN1 ._. 
+By_II analyzing_VVG the_AT parasitic_JJ effect_NN1 ,_, it_PPH1 is_VBZ 
+found_VVN that_CST an_AT1 extra_JJ feedback_NN1 loop_NN1 occurs_VVZ in_II 
+the_AT guidance_NN1 and_CC control_NN1 system_NN1 ._. 
+This_DD1 undesired_JJ loop_NN1 will_VM strongly_RR affect_VVI the_AT 
+dynamic_JJ stability_NN1 of_IO rolling_JJ missile_NN1 ._. 
+Based_VVN on_II the_AT differential_JJ equations_NN2 expressed_VVN in_II 
+the_AT complex_JJ form_NN1 ,_, the_AT sufficient_JJ and_CC necessary_JJ 
+stability_NN1 condition_NN1 for_IF rolling_JJ missiles_NN2 with_IW 
+angle-of-attack_JJ feedback_NN1 three-loop_NN1 autopilot_NN1 considering_II 
+parasitic_JJ effect_NN1 is_VBZ obtained_VVN ._. 
+Numerical_JJ simulations_NN2 and_CC theoretical_JJ discussions_NN2 are_VBR 
+conducted_VVN to_TO demonstrate_VVI the_AT validity_NN1 of_IO stability_NN1 
+condition_NN1 ._. 
+The_AT results_NN2 indicated_VVD that_CST the_AT rolling_JJ effect_NN1 and_CC 
+parasitic_JJ effect_NN1 will_VM deteriorate_VVI the_AT stability_NN1 of_IO 
+autopilot_NN1 designed_VVN in_II conventional_JJ method_NN1 ._. 

@@ -1,0 +1,39 @@
+Designing_VVG combat_NN1 aircraft_NN with_IW high_JJ military_JJ 
+effectiveness_NN1 ,_, affordability_NN1 and_CC military_JJ suitability_NN1 
+requires_VVZ balancing_VVG the_AT efforts_NN2 of_IO many_DA2 engineering_NN1 
+disciplines_NN2 during_II all_DB phases_NN2 of_IO the_AT development_NN1 ._. 
+One_MC1 particular_JJ challenge_NN1 is_VBZ aircraft_NN survivability_NN1 ,_, 
+the_AT aircraft_NN 's_GE ability_NN1 to_TO avoid_VVI or_CC withstand_VVI 
+hostile_JJ actions_NN2 ._. 
+Signature_NN1 management_NN1 is_VBZ one_MC1 way_NN1 of_IO increasing_VVG 
+the_AT survivability_NN1 by_II improving_VVG the_AT ability_NN1 to_TO 
+avoid_VVI detection_NN1 ._. 
+Here_RL ,_, the_AT long-wave_JJ infrared_JJ and_CC radar_NN1 signatures_NN2 
+are_VBR studied_VVN simultaneously_RR in_II a_AT1 mission_NN1 context_NN1 ._. 
+By_II establishing_VVG a_AT1 system_NN1 of_IO systems_NN2 approach_VV0 at_II 
+mission_NN1 system_NN1 level_NN1 ,_, the_AT risk_NN1 of_IO sub_JJ 
+optimization_NN1 at_II a_AT1 technical_JJ level_NN1 is_VBZ greatly_RR 
+reduced_VVN ._. 
+A_AT1 relevant_JJ scenario_NN1 is_VBZ presented_VVN where_CS the_AT aim_NN1 
+is_VBZ to_TO incapacitate_VVI an_AT1 air-defense_JJ system_NN1 using_VVG 
+three_MC different_JJ tactics_NN2 :_: A_ZZ1 low-altitude_JJ cruise_NN1 
+missile_NN1 option_NN1 ,_, a_AT1 low_JJ and_CC medium_JJ altitude_NN1 
+combat_NN1 aircraft_NN option_NN1 ._. 
+The_AT technical_JJ sub-models_NN2 ,_, i.e._REX the_AT properties_NN2 of_IO 
+the_AT signatures_NN2 ,_, the_AT weapons_NN2 and_CC the_AT sensors_NN2 are_VBR 
+modeled_VVN to_II a_AT1 level_JJ suitable_JJ for_IF early_JJ concept_NN1 
+development_NN1 ._. 
+The_AT results_NN2 from_II the_AT scenario_NN1 simulations_NN2 are_VBR 
+useful_JJ for_IF a_AT1 relative_JJ comparison_NN1 of_IO properties_NN2 ._. 
+Depending_II21 on_II22 the_AT situation_NN1 ,_, first_MD detection_NN1 is_VBZ 
+made_VVN by_II either_RR radar_NN1 or_CC infrared_JJ sensors_NN2 ._. 
+Although_CS the_AT modeling_NN1 is_VBZ basic_JJ ,_, the_AT complexity_NN1 
+of_IO the_AT infrared_JJ signature_NN1 and_CC detection_NN1 chain_NN1 is_VBZ 
+demonstrated_VVN and_CC possible_JJ pivot_NN1 points_NN2 for_IF the_AT 
+balancing_NN1 of_IO radar_NN1 and_CC IR_NN1 signature_NN1 requirements_NN2 
+are_VBR identified_VVN ._. 
+The_AT evaluation_NN1 methodology_NN1 can_VM be_VBI used_VVN for_IF 
+qualitative_JJ evaluation_NN1 of_IO aircraft_NN concepts_NN2 at_II 
+different_JJ design_NN1 phases_NN2 ,_, provided_CS21 that_CS22 the_AT 
+technical_JJ models_NN2 are_VBR adapted_VVN to_II a_AT1 suitable_JJ level_NN1 
+of_IO detail_NN1 ._. 

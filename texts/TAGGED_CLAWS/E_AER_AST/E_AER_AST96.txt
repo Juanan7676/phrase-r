@@ -1,0 +1,43 @@
+A_AT1 trimming_NN1 method_NN1 to_TO optimize_VVI the_AT configuration_NN1 
+of_IO a_AT1 three-dimensional_JJ asymmetric_JJ nozzle_NN1 with_IW shape_NN1 
+transition_NN1 ,_, which_DDQ aims_VVZ to_TO obtain_VVI good_JJ aerodynamic_JJ 
+performance_NN1 and_CC to_TO save_VVI weight_NN1 at_II the_AT same_DA 
+time_NNT1 ,_, is_VBZ presented_VVN in_II this_DD1 paper_NN1 ._. 
+Then_RT the_AT effects_NN2 of_IO the_AT entry_NN1 shape_NN1 on_II the_AT 
+performance_NN1 of_IO the_AT three-dimensional_JJ nozzle_NN1 are_VBR 
+investigated_VVN ._. 
+The_AT streamline_VV0 tracing_VVG involved_JJ in_II an_AT1 axisymmetric_JJ 
+flowfield_NN1 with_IW optimal_JJ thrust_NN1 is_VBZ employed_VVN to_TO 
+obtain_VVI the_AT inviscid_JJ contour_NN1 of_IO the_AT three-dimensional_JJ 
+nozzle_NN1 with_IW shape_NN1 transition_NN1 ,_, and_CC the_AT reference_NN1 
+temperature_NN1 method_NN1 is_VBZ applied_VVN to_TO correct_VVI the_AT 
+thickness_NN1 of_IO the_AT boundary_NN1 layer_NN1 ._. 
+The_AT performance_NN1 of_IO the_AT designed_JJ nozzle_NN1 is_VBZ obtained_VVN 
+by_II using_VVG computational_JJ fluid_NN1 dynamics_NN ._. 
+The_AT calculated_JJ results_NN2 show_VV0 that_CST the_AT trimmed_JJ 
+nozzle_NN1 gains_NN2 increases_VVZ in_II the_AT lift_NN1 and_CC pitching_VVG 
+moment_NN1 by_II 427.00%_FO and_CC 10.80%_FO ,_, respectively_RR ,_, with_IW 
+only_RR a_AT1 0.76%_FO decrease_VV0 in_II the_AT axial_JJ thrust_NN1 
+coefficient_NN1 ,_, while_CS the_AT weight_NN1 can_VM be_VBI reduced_VVN by_II 
+as_RG much_DA1 as_CSA 37.51%_FO ._. 
+For_IF the_AT nozzles_NN2 with_IW elliptical_JJ entrances_NN2 ,_, as_CSA 
+the_AT axial_JJ ratio_NN1 ranges_VVZ from_II 1.0_MC to_II 2.0_MC ,_, the_AT 
+axial_JJ thrust_NN1 coefficient_NN1 is_VBZ increased_VVN by_II 5.38%_FO ,_, 
+while_CS the_AT lift_NN1 is_VBZ decreased_VVN by_II 67.74%_FO ._. 
+When_CS considering_VVG the_AT nozzles_NN2 with_IW rectangular_JJ 
+entrances_NN2 ,_, as_CSA the_AT aspect_NN1 ratio_NN1 ranges_VVZ 1.0_MC to_II 
+2.0_MC ,_, the_AT axial_JJ thrust_NN1 coefficient_NN1 is_VBZ increased_VVN 
+by_II 3.58%_FO ,_, while_CS the_AT lift_NN1 and_CC pitching_VVG moment_NN1 
+are_VBR decreased_VVN by_II 82.09%_FO and_CC 16.43%_FO ,_, respectively_RR ._. 
+Most_DAT of_IO the_AT axial_JJ thrust_NN1 is_VBZ produced_VVN on_II the_AT 
+upper-wall_NN1 and_CC side-walls_NN2 in_II all_DB nozzles_NN2 ,_, and_CC 
+the_AT contribution_NN1 of_IO the_AT expansion_NN1 flow_NN1 along_II the_AT 
+side-walls_NN2 on_II the_AT thrust_NN1 generation_NN1 is_VBZ pronounced_VVN 
+in_II the_AT nozzle_NN1 with_IW a_AT1 relatively_RR smaller_JJR entry_NN1 
+ratio_NN1 ._. 
+However_RR ,_, the_AT majority_NN1 of_IO the_AT lift_NN1 and_CC pitching_VVG 
+moment_NN1 are_VBR generated_VVN on_II the_AT upper-wall_NN1 and_CC 
+lower-wall_NN1 ._. 
+Besides_RR ,_, the_AT viscosity_NN1 loss_NN1 and_CC weight_NN1 can_VM be_VBI 
+reduced_VVN by_II applying_VVG the_AT elliptical_JJ cross-section_NN1 in_II 
+the_AT propulsion_NN1 system_NN1 ._. 

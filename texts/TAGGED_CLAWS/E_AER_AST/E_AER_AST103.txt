@@ -1,0 +1,27 @@
+This_DD1 paper_NN1 studies_NN2 the_AT finite-time_JJ tracking_JJ control_NN1 
+problem_NN1 of_IO hypersonic_JJ vehicle_NN1 in_II presence_NN1 of_IO model_NN1 
+parameter_NN1 uncertainties_NN2 ,_, external_JJ disturbance_NN1 and_CC 
+input_NN1 saturation_NN1 ._. 
+Firstly_RR ,_, to_TO cope_VVI with_IW the_AT unknown_JJ upper_JJ bound_JJ 
+disturbance_NN1 of_IO the_AT system_NN1 ,_, an_AT1 adaptive_JJ fast_JJ 
+terminal_JJ sliding_JJ mode_NN1 controller_NN1 is_VBZ designed_VVN based_VVN 
+on_II a_AT1 non-homogeneous_JJ disturbance_NN1 observer_NN1 (_( NHDO_NP1 )_) 
+which_DDQ can_VM alleviate_VVI the_AT chattering_NN1 and_CC make_VVI the_AT 
+proposed_JJ controller_NN1 strongly_RR robust_JJ ._. 
+Meanwhile_RR ,_, a_AT1 new_JJ saturation_NN1 function_NN1 is_VBZ 
+introduced_VVN to_TO solve_VVI the_AT singular_JJ problems_NN2 of_IO the_AT 
+controller_NN1 ._. 
+Secondly_RR ,_, to_TO further_RRR solve_VVI the_AT problem_NN1 of_IO input_NN1 
+saturation_NN1 ,_, the_AT hyperbolic_JJ tangent_JJ function_NN1 and_CC 
+auxiliary_JJ system_NN1 are_VBR introduced_VVN to_TO design_VVI an_AT1 
+anti-saturation_JJ fast_JJ adaptive_JJ terminal_JJ sliding_JJ mode_NN1 
+controller_NN1 which_DDQ not_XX only_RR can_VM satisfy_VVI the_AT 
+requirements_NN2 of_IO the_AT actuator_NN1 's_GE physical_JJ limitation_NN1 
+,_, but_CCB also_RR guarantees_VVZ that_CST the_AT sliding_JJ mode_NN1 
+manifold_NN1 is_VBZ finite-time_JJ stable_JJ ._. 
+Finally_RR ,_, Lyapunov_NP1 theory_NN1 is_VBZ used_VVN to_TO prove_VVI the_AT 
+stability_NN1 of_IO the_AT designed_JJ controller_NN1 strictly_RR ,_, and_CC 
+the_AT numerical_JJ simulations_NN2 of_IO the_AT longitudinal_JJ model_NN1 
+of_IO the_AT hypersonic_JJ vehicle_NN1 are_VBR carried_VVN out_RP ,_, 
+which_DDQ further_RRR confirm_VV0 the_AT robustness_NN1 and_CC 
+effectiveness_NN1 of_IO the_AT two_MC designed_VVD controllers_NN2 ._. 

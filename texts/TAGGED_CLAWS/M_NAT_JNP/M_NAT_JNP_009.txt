@@ -1,0 +1,36 @@
+IMO_NP1 introduced_VVD e-Navigation_JJ concept_NN1 to_TO improve_VVI the_AT 
+efficiency_NN1 of_IO ship_NN1 operation_NN1 ,_, port_NN1 operation_NN1 ,_, 
+and_CC ship_NN1 navigation_NN1 technology_NN1 ._. 
+IMO_NP1 proposed_VVD sixteen_MC MSPs_NP1 (_( Maritime_JJ Service_NN1 
+Portfolio_NN1 )_) applicable_JJ to_II the_AT ships_NN2 and_CC onshore_JJ 
+in_II31 case_II32 of_II33 e-Navigation_JJ implementation_NN1 ._. 
+In_BCL21 order_BCL22 to_TO meet_VVI the_AT demands_NN2 of_IO the_AT 
+international_JJ society_NN1 ,_, the_AT system_NN1 implementation_NN1 work_NN1 
+for_IF the_AT Korean_JJ e-Navigation_NN1 has_VHZ been_VBN specified_VVN ._. 
+The_AT Korean_JJ e-Navigation_JJ system_NN1 has_VHZ five_MC service_NN1 
+categories_NN2 :_: the_AT S2_FO service_NN1 category_NN1 ,_, which_DDQ is_VBZ 
+a_AT1 ship_NN1 anomaly_NN1 monitoring_NN1 service_NN1 ,_, is_VBZ a_AT1 
+service_NN1 that_CST classifies_VVZ emergency_NN1 levels_NN2 according_II21 
+to_II22 the_AT degree_NN1 of_IO abnormal_JJ condition_NN1 when_CS a_AT1 
+ship_NN1 has_VHZ an_AT1 abnormality_NN1 in_II ship_NN1 operation_NN1 ,_, 
+and_CC provides_VVZ guidance_NN1 for_IF emergency_NN1 situations_NN2 ._. 
+The_AT navigation_NN1 safety_NN1 module_NN1 is_VBZ a_AT1 sub-module_NN1 of_IO 
+the_AT S2_FO service_NN1 that_CST determines_VVZ the_AT emergency_NN1 
+level_NN1 in_II31 case_II32 of_II33 navigation_NN1 equipment_NN1 
+malfunctioning_VVG ,_, engine_NN1 or_CC steering_VVG gear_NN1 failure_NN1 
+during_II navigation_NN1 ._. 
+It_PPH1 provides_VVZ emergency_NN1 response_NN1 guidance_NN1 based_VVN on_II 
+emergency_NN1 level_NN1 to_II the_AT abnormal_JJ ship_NN1 ._. 
+If_CS an_AT1 abnormal_JJ condition_NN1 occurs_VVZ during_II the_AT ship_NN1 
+operation_NN1 ,_, first_MD ,_, the_AT ship_NN1 shall_VM determine_VVI the_AT 
+emergency_NN1 level_NN1 ,_, according_II21 to_II22 the_AT degree_NN1 of_IO 
+abnormality_NN1 of_IO the_AT ship_NN1 ._. 
+Second_MD ,_, an_AT1 emergency_NN1 response_NN1 guidance_NN1 is_VBZ 
+generated_VVN based_VVN on_II the_AT determined_JJ emergency_NN1 level_NN1 ,_, 
+and_CC the_AT guidance_NN1 is_VBZ transmitted_VVN to_II the_AT ship_NN1 ,_, 
+which_DDQ helps_VVZ the_AT navigators_NN2 prevent_VVI accidents_NN2 and_CC 
+not_XX to_TO spread_VVI ._. 
+In_II this_DD1 study_NN1 ,_, the_AT operational_JJ concept_NN1 for_IF the_AT 
+implementation_NN1 of_IO the_AT Korean_JJ e-Navigation_JJ system_NN1 is_VBZ 
+designed_VVN and_CC the_AT concept_NN1 is_VBZ focused_VVN on_II the_AT 
+navigation_NN1 safety_NN1 module_NN1 of_IO S2_FO service_NN1 ._. 

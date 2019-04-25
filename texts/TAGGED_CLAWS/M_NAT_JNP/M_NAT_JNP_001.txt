@@ -1,0 +1,31 @@
+Shortage_NN1 of_IO trained_JJ seafarers_NN2 is_VBZ an_AT1 issue_NN1 ,_, 
+which_DDQ many_DA2 ship-owners_NN2 are_VBR facing_VVG and_CC ,_, 
+according_II21 to_II22 recent_JJ studies_NN2 ,_, the_AT shortfall_NN1 of_IO 
+both_RR officers_NN2 and_CC rating_NN1 will_VM worsen_VVI in_II the_AT next_MD 
+few_DA2 years_NNT2 ._. 
+The_AT key_JJ role_NN1 of_IO seafarers_NN2 is_VBZ of_IO fundamental_JJ 
+importance_NN1 in_II international_JJ trade_NN1 ,_, as_CSA they_PPHS2 are_VBR 
+the_AT ones_NN2 responsible_JJ for_IF safely_RR manning_VVG and_CC 
+operating_VVG ships_NN2 ._. 
+In_II developing_JJ countries_NN2 ,_, they_PPHS2 also_RR perform_VV0 a_AT1 
+strategic_JJ aspect_NN1 in_II31 terms_II32 of_II33 contribution_NN1 to_II 
+GDP_NN1 ,_, mainly_RR by_II earning_VVG foreign_JJ currency_NN1 and_CC 
+increasing_JJ national_JJ consumption_NN1 of_IO goods_NN2 and_CC services_NN2 
+._. 
+Myanmar_NP1 is_VBZ still_RR considered_VVN a_AT1 developing_JJ country_NN1 
+with_IW an_AT1 economy_NN1 ,_, which_DDQ has_VHZ only_RR recently_RR 
+started_VVN growing_JJ steady_JJ ._. 
+It_PPH1 is_VBZ also_RR one_MC1 of_IO the_AT major_JJ seafarers_NN2 
+supplying_VVG nations_NN2 and_CC the_AT contribution_NN1 ,_, which_DDQ 
+seafarers_NN2 have_VH0 on_II the_AT national_JJ GDP_NN1 may_VM be_VBI 
+particularly_RR significant_JJ in_II comparison_NN1 to_II other_JJ 
+countries_NN2 ._. 
+This_DD1 study_NN1 aims_VVZ at_II investigating_VVG seafarers_NN2 impact_NN1 
+towards_II the_AT Myanmar_NP1 national_JJ economy_NN1 ._. 
+The_AT paper_NN1 describes_VVZ the_AT status_NN1 of_IO Myanmar_NP1 
+seafarers_NN2 ,_, and_CC the_AT seafarers_NN2 current_JJ and_CC forecasted_JJ 
+impact_NN1 towards_II the_AT Myanmar_NP1 economy_NN1 through_II a_AT1 
+regression_NN1 model_NN1 ._. 
+The_AT study_NN1 concludes_VVZ with_IW recommendations_NN2 to_TO make_VVI 
+Myanmar_NP1 seafarers_NN2 more_RGR competitive_JJ internationally_RR and_CC 
+increase_VV0 their_APPGE economic_JJ contribution_NN1 nationally_RR ._. 

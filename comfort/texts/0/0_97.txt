@@ -1,0 +1,47 @@
+More_RGR strict_JJ aircraft_NN emission_NN1 criteria_NN2 are_VBR proposed_VVN 
+by_II the_AT European_JJ Union_NN1 and_CC the_AT United_NP1 States_NP1 ._. 
+Moreover_RR ,_, the_AT rapid_JJ development_NN1 of_IO the_AT global_JJ 
+aviation_NN1 transportation_NN1 market_NN1 also_RR asks_VVZ for_IF more_RGR 
+fuel-efficient_JJ aircraft_NN ._. 
+An_AT1 innovative_JJ assisted_JJ takeoff_NN1 and_CC landing_VVG technology_NN1 
+is_VBZ proposed_VVN in_II the_AT EU_NP1 FP-7_MC project_NN1 GABRIEL_NP1 
+with_IW the_AT aim_NN1 to_TO improve_VVI fuel-efficiency_NN1 of_IO 
+commercial_JJ aircraft_NN ._. 
+The_AT technology_NN1 is_VBZ based_VVN on_II the_AT removal_NN1 of_IO the_AT 
+conventional_JJ landing_NN1 gears_NN2 and_CC the_AT introduction_NN1 of_IO 
+a_AT1 ground_NN1 based_VVN landing_VVG system_NN1 ._. 
+This_DD1 result_NN1 in_II a_AT1 significant_JJ reduction_NN1 of_IO the_AT 
+structural_JJ weight_NN1 and_CC thereby_RR aircraft_NN performance_NN1 and_CC 
+fuel_NN1 efficiency_NN1 are_VBR improved_VVN ._. 
+Furthermore_RR ,_, both_DB2 airport_NN1 noise_NN1 and_CC congestion_NN1 can_VM 
+be_VBI decreased_VVN as_II the_AT aircraft_NN can_VM reach_VVI a_AT1 
+higher_JJR take-off_NN1 speed_NN1 without_IW the_AT need_NN1 for_IF longer_JJR 
+runways_NN2 ._. 
+The_AT ground_NN1 based_VVN system_NN1 has_VHZ a_AT1 yaw_NN1 degree_NN1 of_IO 
+freedom_NN1 and_CC therefore_RR ,_, the_AT conventional_JJ de-crab_NN1 
+maneuver_NN1 for_IF crosswind_NN1 landings_NN2 can_VM be_VBI avoided_VVN ._. 
+As_II a_AT1 consequence_NN1 ,_, the_AT possible_JJ touchdown_NN1 attitudes_NN2 
+and_CC control_NN1 inputs_NN2 will_VM be_VBI different_JJ from_II those_DD2 
+seen_VVN in_II conventional_JJ landing_NN1 ._. 
+The_AT flight_NN1 attitudes_NN2 and_CC control_NN1 inputs_NN2 of_IO 
+aircraft_NN during_II touchdown_NN1 can_VM significantly_RR influence_VVI 
+the_AT landing_NN1 impacts_NN2 ._. 
+Generally_RR ,_, these_DD2 parameters_NN2 are_VBR obtained_VVN from_II 
+flight_NN1 test_NN1 or_CC empirical_JJ data_NN and_CC they_PPHS2 are_VBR 
+crucial_JJ for_IF landing_VVG gear_NN1 design_NN1 ._. 
+However_RR ,_, the_AT use_NN1 of_IO empirical_JJ data_NN is_VBZ not_XX 
+possible_JJ for_IF new_JJ innovative_JJ designs_NN2 such_II21 as_II22 the_AT 
+GABRIEL_NP1 system_NN1 ._. 
+This_DD1 paper_NN1 proposes_VVZ a_AT1 solution_NN1 to_TO estimate_VVI all_DB 
+possible_JJ aircraft_NN touchdown_NN1 attitudes_NN2 and_CC control_NN1 
+inputs_NN2 based_VVN on_II flight_NN1 dynamics_NN simulations_NN2 and_CC 
+Monte_NP1 Carlo_NP1 evaluation_NN1 ._. 
+Turbulence_NN1 is_VBZ accounted_VVN for_IF based_VVN on_II the_AT von_NP1 
+Karman_NP1 turbulence_NN1 model_NN1 ._. 
+The_AT GABRIEL_NP1 system_NN1 is_VBZ used_VVN as_II a_AT1 test_NN1 case_NN1 
+and_CC 100_MC sets_NN2 of_IO stochastic_JJ turbulence_NN1 are_VBR 
+implemented_VVN ._. 
+The_AT resulting_JJ flight_NN1 attitudes_NN2 and_CC control_NN1 inputs_NN2 
+are_VBR presented_VVN for_IF different_JJ control_NN1 strategies_NN2 and_CC 
+compared_VVN to_II the_AT results_NN2 of_IO landing_VVG simulations_NN2 
+with_IW a_AT1 conventional_JJ landing_NN1 gear_NN1 ._. 

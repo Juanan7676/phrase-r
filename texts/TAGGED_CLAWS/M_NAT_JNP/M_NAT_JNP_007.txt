@@ -1,0 +1,31 @@
+Earnings_NN2 management_NN1 is_VBZ defined_VVN as_II an_AT1 intentional_JJ 
+act_NN1 during_II the_AT financial_JJ reporting_NN1 process_NN1 or_CC a_AT1 
+managers_NN2 choice_NN1 of_IO accounting_NN1 policies_NN2 to_TO avoid_VVI 
+earnings_NN2 decreases_VVZ or_CC obtain_VV0 some_DD private_JJ gains_NN2 ._. 
+Shipping_VVG firms_NN2 have_VH0 a_AT1 highly_RR debt-intensive_JJ capital_NN1 
+structure_NN1 and_CC a_AT1 significant_JJ motivation_NN1 in_II earnings_NN2 
+management_NN1 to_TO avoid_VVI failure_NN1 of_IO a_AT1 Debt_NN1 Covenant_NN1 
+._. 
+From_II this_DD1 point_NN1 of_IO views_NN2 ,_, this_DD1 paper_NN1 tries_VVZ 
+to_TO determine_VVI the_AT relationship_NN1 between_II the_AT capital_NN1 
+structure_NN1 and_CC discretionary_JJ accruals_NN2 estimated_VVD using_VVG 
+the_AT re-modified_JJ Jones_NP1 model_NN1 (_( 1995_MC )_) ._. 
+The_AT sample_NN1 used_VMK to_TO test_VVI the_AT research_NN1 models_NN2 
+is_VBZ made_VVN up_RP of_IO 87_MC Korean_JJ shipping_NN1 firms_NN2 during_II 
+the_AT period_NN1 from_II 2007_MC to_II 2015_MC ._. 
+A_AT1 histogram_NN1 analysis_NN1 ,_, t-test_JJ and_CC FGLS_NP1 confirm_VV0 
+the_AT possibility_NN1 of_IO using_VVG earnings_NN2 management_NN1 ,_, and_CC 
+it_PPH1 proved_VVD that_CST Korean_JJ shipping_NN1 firms_NN2 manage_VV0 
+their_APPGE earnings_NN2 to_TO avoid_VVI financial_JJ loss_NN1 ._. 
+An_AT1 analysis_NN1 of_IO the_AT relationship_NN1 between_II the_AT 
+capital_NN1 structure_NN1 and_CC earning_VVG managements_NN2 ,_, shows_VVZ 
+it_PPH1 is_VBZ difficult_JJ to_TO support_VVI the_AT Debt_NN1 Covenant_NN1 ,_, 
+shown_VVN as_II a_AT1 negative_JJ relationship_NN1 between_II the_AT debt_NN1 
+ratio_NN1 and_CC debt_NN1 maturity_NN1 as_CSA shipping_VVG firms_NN2 
+capital_NN1 structure_NN1 and_CC discretionary_JJ accruals_NN2 as_CSA 
+earning_VVG management_NN1 variable_NN1 ._. 
+An_AT1 additional_JJ analysis_NN1 presents_VVZ a_AT1 negative_JJ 
+relationship_NN1 between_II previous_JJ debt_NN1 maturity_NN1 and_CC 
+discretionary_JJ accruals_NN2 ,_, and_CC the_AT possibility_NN1 of_IO 
+earning_VVG management_NN1 in_II a_AT1 highly_RR increased_JJ debt_NN1 
+ration_NN1 group_NN1 ._. 

@@ -1,0 +1,27 @@
+Despite_II the_AT extent_NN1 of_IO works_NN done_VDN on_II modelling_VVG 
+port_NN1 water_NN1 collisions_NN2 ,_, not_XX much_DA1 research_NN1 effort_NN1 
+has_VHZ been_VBN devoted_VVN to_II modelling_VVG collisions_NN2 at_II port_NN1 
+anchorages_NN2 ._. 
+This_DD1 paper_NN1 aims_VVZ to_TO fill_VVI this_DD1 important_JJ gap_NN1 in_II 
+the_AT literature_NN1 by_II applying_VVG the_AT Navigation_NN1 Traffic_NN1 
+Conflict_NN1 Technique_NN1 (_( NTCT_NP1 )_) to_II measuring_VVG the_AT 
+collision_NN1 potentials_NN2 in_II anchorages_NN2 and_CC for_IF examining_VVG 
+the_AT factors_NN2 contributing_VVG to_II collisions_NN2 ._. 
+Building_NN1 on_II the_AT principles_NN2 of_IO the_AT NTCT_NP1 ,_, a_AT1 
+collision_NN1 potential_NN1 measurement_NN1 model_NN1 and_CC a_AT1 
+collision_NN1 potential_NN1 prediction_NN1 model_NN1 were_VBDR developed_VVN 
+._. 
+These_DD2 models_NN2 were_VBDR illustrated_VVN by_II using_VVG vessel_NN1 
+movement_NN1 data_NN of_IO the_AT anchorages_NN2 in_II Singapore_NP1 port_NN1 
+waters_NN2 ._. 
+Results_NN2 showed_VVD that_CST the_AT measured_JJ collision_NN1 
+potentials_NN2 are_VBR in_II close_JJ agreement_NN1 with_IW those_DD2 
+perceived_VVN by_II harbour_NN1 pilots_NN2 ._. 
+Higher_JJR collision_NN1 potentials_NN2 were_VBDR found_VVN in_II 
+anchorages_NN2 attached_VVN to_II the_AT shoreline_NN1 and_CC international_JJ 
+fairways_NN2 ,_, but_CCB not_XX at_II those_DD2 attached_VVN to_II confined_JJ 
+water_NN1 ._. 
+Higher_JJR operating_NN1 speeds_NN2 ,_, larger_JJR numbers_NN2 of_IO 
+isolated_JJ danger_NN1 marks_NN2 and_CC day_NNT1 conditions_NN2 were_VBDR 
+associated_VVN with_IW reduction_NN1 in_II the_AT collision_NN1 potentials_NN2 
+._. 

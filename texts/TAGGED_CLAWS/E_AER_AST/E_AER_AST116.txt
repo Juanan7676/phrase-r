@@ -1,0 +1,28 @@
+Key_JJ disciplines_NN2 at_II the_AT conceptual_JJ design_NN1 stage_NN1 for_IF 
+space_NN1 station_NN1 are_VBR introduced_VVN ,_, which_DDQ are_VBR 
+configuration_NN1 ,_, dynamics_NN and_CC control_NN1 ,_, and_CC power_NN1 
+disciplines_NN2 ._. 
+The_AT main_JJ variables_NN2 and_CC parameters_NN2 in_II the_AT three_MC 
+disciplines_NN2 are_VBR presented_VVN ,_, and_CC the_AT relevant_JJ 
+disciplinary_JJ analysis_NN1 models_NN2 are_VBR developed_VVN ._. 
+The_AT integrated_JJ analysis_NN1 framework_NN1 of_IO the_AT space_NN1 
+station_NN1 is_VBZ obtained_VVN afterward_RL ._. 
+Then_RT ,_, the_AT multidisciplinary_JJ optimization_NN1 for_IF solar_JJ 
+array_NN1 configuration_NN1 is_VBZ taken_VVN as_II an_AT1 example_NN1 of_IO 
+the_AT space_NN1 station_NN1 optimization_NN1 based_VVN on_II the_AT 
+integrated_JJ analysis_NN1 model_NN1 ._. 
+The_AT optimization_NN1 problem_NN1 is_VBZ modeled_VVN with_IW the_AT use_NN1 
+of_IO the_AT collaborative_JJ optimization_NN1 (_( CO_FO )_) ._. 
+The_AT system-level_NN1 and_CC three_MC disciplinary_JJ optimization_NN1 
+models_NN2 are_VBR introduced_VVN ._. 
+In_II the_AT optimization_NN1 process_NN1 ,_, MATLAB_NP1 is_VBZ utilized_VVN 
+for_IF simulation_NN1 ,_, and_CC the_AT adaptive_JJ genetic_JJ algorithm_NN1 
+(_( AGA_NP1 )_) is_VBZ applied_VVN as_II the_AT basic_JJ optimization_NN1 
+algorithm_NN1 ._. 
+It_PPH1 is_VBZ shown_VVN that_CST the_AT optimization_NN1 problem_NN1 is_VBZ 
+effectively_RR solved_VVN with_IW the_AT use_NN1 of_IO the_AT CO_NP1 and_CC 
+AGA_NP1 ._. 
+Moreover_RR ,_, using_VVG the_AT integrated_JJ analysis_NN1 framework_NN1 ,_, 
+the_AT parameters_NN2 of_IO space_NN1 station_NN1 are_VBR successfully_RR 
+calculated_VVN with_IW high_JJ computational_JJ efficiency_NN1 at_II the_AT 
+conceptual_JJ design_NN1 stage_NN1 ._. 

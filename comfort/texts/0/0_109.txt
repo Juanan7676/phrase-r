@@ -1,0 +1,38 @@
+The_AT elastic_JJ deformation_NN1 of_IO modern_JJ projectiles_NN2 with_IW 
+large_JJ slenderness_NN1 ratio_NN1 can_VM not_XX be_VBI ignored_VVN with_IW 
+the_AT increasing_JJ of_IO flight_NN1 speed_NN1 and_CC maneuverability_NN1 ._. 
+Unsteady_JJ Reynolds-averaged_JJ NavierStokes_NP2 (_( URANS_NP2 )_) 
+Equations_NN2 are_VBR solved_VVN through_II CFD_NP1 technique_NN1 in_II 
+this_DD1 paper_NN1 ._. 
+Based_VVN on_II the_AT frame_NN1 of_IO unstructured_JJ mesh_NN1 ,_, 
+techniques_NN2 of_IO rigid-motion_JJ mesh_NN1 and_CC 
+inverse-distance-weighted_NN1 (_( IDW_NP1 )_) morphing_VVG mesh_NN1 are_VBR 
+adopted_VVN to_TO treat_VVI the_AT rigid_JJ motion_NN1 caused_VVN by_II 
+flight_NN1 dynamics_NN and_CC flexible_JJ structure_NN1 deformation_NN1 
+due_II21 to_II22 aeroelasticity_NN1 ,_, respectively_RR ._. 
+Moreover_RR ,_, the_AT six_MC degree_NN1 of_IO freedom_NN1 (_( SDOF_NP1 )_) 
+dynamic_JJ equations_NN2 and_CC static_JJ aeroelastic_JJ equation_NN1 are_VBR 
+solved_VVN through_II the_AT aerodynamic_JJ coupling_NN1 ._. 
+Numerical_JJ results_NN2 of_IO both_DB2 free_JJ flight_NN1 case_NN1 and_CC 
+aeroelastic_JJ case_NN1 calculated_VVN by_II the_AT in-house_JJ code_NN1 
+agree_VV0 well_RR with_IW the_AT experimental_JJ data_NN ,_, validating_VVG 
+the_AT numerical_JJ method_NN1 ._. 
+A_AT1 projectile_NN1 model_NN1 with_IW XX_NP1 configuration_NN1 is_VBZ 
+constructed_VVN to_TO investigate_VVI the_AT effect_NN1 of_IO elastic_JJ 
+deformation_NN1 on_II the_AT flight_NN1 dynamics_NN ._. 
+Comparison_NN1 results_NN2 show_VV0 that_CST the_AT longitudinal_JJ 
+oscillation_NN1 is_VBZ more_RRR affected_VVN by_II the_AT elastic_JJ 
+deformation_NN1 than_CSN the_AT centroid_NN1 motion_NN1 ,_, and_CC the_AT 
+oscillation_NN1 cycle_NN1 of_IO the_AT orientation_NN1 angle_NN1 increases_NN2 
+._. 
+Furthermore_RR ,_, the_AT trajectories_NN2 of_IO rigid_JJ models_NN2 with_IW 
+various_JJ centroid_NN1 locations_NN2 are_VBR simulated_VVN ,_, 
+illustrating_VVG that_CST the_AT elastic_JJ deformation_NN1 could_VM move_VVI 
+the_AT aerodynamic_JJ center_NN1 forward_RL and_CC weaken_VVI the_AT 
+margin_NN1 of_IO the_AT static_JJ stability_NN1 margin_NN1 ._. 
+In_II the_AT end_NN1 ,_, detailed_JJ analysis_NN1 and_CC comparison_NN1 of_IO 
+the_AT pressure_NN1 distribution_NN1 indicates_VVZ the_AT mechanism_NN1 by_II 
+which_DDQ the_AT elastic_JJ deformation_NN1 leads_VVZ to_II the_AT 
+movement_NN1 of_IO the_AT aerodynamic_JJ center_NN1 and_CC changes_VVZ the_AT 
+flight_NN1 dynamic_JJ characteristics_NN2 of_IO the_AT flexible_JJ 
+projectile_NN1 ._. 

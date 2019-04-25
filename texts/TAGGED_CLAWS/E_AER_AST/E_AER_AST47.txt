@@ -1,0 +1,37 @@
+For_IF linear_JJ discrete-time_JJ stochastic_JJ systems_NN2 with_IW mixed_JJ 
+uncertainties_NN2 including_II multiplicative_JJ and_CC uncertain-variance_NN1 
+linearly_RR correlated_VVN additive_JJ white_JJ noises_NN2 ,_, this_DD1 
+paper_NN1 addresses_VVZ the_AT problem_NN1 of_IO designing_VVG robust_JJ 
+Kalman_NN1 estimators_NN2 ._. 
+By_II the_AT fictitious_JJ noise-based_NN1 Lyapunov_NP1 equation_NN1 
+approach_NN1 ,_, the_AT system_NN1 under_II consideration_NN1 is_VBZ 
+converted_VVN into_II one_MC1 with_IW only_JJ uncertain_JJ noise_NN1 
+variances_NN2 ._. 
+Based_VVN on_II the_AT worst-case_JJ system_NN1 with_IW conservative_JJ 
+upper_JJ bounds_NN2 of_IO actual_JJ noise_NN1 variances_NN2 ,_, the_AT 
+minimax_NN1 robust_JJ time-varying_JJ Kalman_NN1 estimators_NN2 (_( 
+predictor_NN1 ,_, filter_NN1 ,_, and_CC smoother_JJR )_) are_VBR presented_VVN 
+in_II a_AT1 unified_JJ framework_NN1 ._. 
+Their_APPGE robustness_NN1 is_VBZ proved_VVN in_II the_AT sense_NN1 that_CST 
+their_APPGE actual_JJ estimation_NN1 error_NN1 variances_NN2 are_VBR 
+guaranteed_VVN to_TO have_VHI the_AT corresponding_JJ minimal_JJ upper_JJ 
+bounds_NN2 for_IF all_DB admissible_JJ uncertainties_NN2 ._. 
+The_AT corresponding_JJ robust_JJ steady-state_JJ Kalman_NN1 estimators_NN2 
+are_VBR also_RR presented_VVN ._. 
+An_AT1 innovation_NN1 test_NN1 rule_NN1 and_CC a_AT1 search_NN1 technique_NN1 
+of_IO selecting_VVG the_AT less-conservative_JJ upper_JJ bounds_NN2 of_IO 
+actual_JJ noise_NN1 variances_NN2 are_VBR presented_VVN ,_, by_II which_DDQ 
+the_AT two_MC classes_NN2 of_IO guaranteed_JJ robust_JJ accuracy_NN1 
+Kalman_NN1 estimators_NN2 are_VBR presented_VVN ._. 
+One_MC1 class_NN1 is_VBZ robust_JJ Kalman_NN1 estimators_NN2 with_IW 
+improved_JJ robust_JJ accuracy_NN1 ,_, the_AT other_JJ class_NN1 is_VBZ 
+ones_NN2 with_IW the_AT prescribed_JJ robust_JJ accuracy_NN1 index_NN1 ._. 
+Three_MC modes_NN2 of_IO convergence_NN1 in_II a_AT1 realization_NN1 among_II 
+the_AT time-varying_NN1 and_CC steady-state_JJ robust_JJ Kalman_NN1 
+estimators_NN2 for_IF the_AT time-varying_NN1 and_CC time-invariant_JJ 
+systems_NN2 are_VBR presented_VVN and_CC proved_VVN by_II the_AT dynamic_JJ 
+error_NN1 system_NN1 analysis_NN1 (_( DESA_NP1 )_) method_NN1 ._. 
+Two_MC simulation_NN1 examples_NN2 applied_VVN to_II autoregressive_JJ (_( 
+AR_UH )_) signal_NN1 processing_NN1 and_CC uninterruptible_JJ power_NN1 
+system_NN1 (_( UPS_NN2 )_) show_VV0 the_AT effectiveness_NN1 of_IO the_AT 
+proposed_JJ results_NN2 ._. 

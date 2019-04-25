@@ -1,0 +1,28 @@
+The_AT broadband_JJ reduction_NN1 of_IO the_AT specular_JJ reflections_NN2 
+by_II sonic_JJ crystals_NN2 (_( SCs_NP1 )_) is_VBZ theoretically_RR and_CC 
+experimentally_RR reported_VVN in_II this_DD1 work_NN1 ._. 
+The_AT analysed_JJ system_NN1 consists_VVZ of_IO a_AT1 sound_NN1 source_NN1 
+radiating_VVG a_AT1 SC_FO made_VVN of_IO acoustically_RR rigid_JJ 
+scatterers_NN2 embedded_VVN in_II water_NN1 partially_RR covering_VVG an_AT1 
+open_JJ cavity_NN1 ._. 
+By_II comparison_NN1 with_IW a_AT1 reference_NN1 flat_JJ reflector_NN1 ,_, 
+we_PPIS2 observe_VV0 that_CST reflected_VVD waves_NN2 spread_VVN in_II 
+space_NN1 as_II a_AT1 consequence_NN1 of_IO the_AT spatially_RR modulated_VVN 
+properties_NN2 of_IO the_AT SC_FO ._. 
+Moreover_RR ,_, due_II21 to_II22 the_AT different_JJ working_JJ frequency_NN1 
+ranges_NN2 of_IO the_AT SC_FO a_AT1 significant_JJ noise_NN1 reduction_NN1 
+is_VBZ produced_VVN in_II a_AT1 broadband_JJ region_NN1 ._. 
+Therefore_RR ,_, due_II21 to_II22 the_AT spreading_NN1 of_IO the_AT 
+reflected_JJ waves_NN2 ,_, the_AT system_NN1 produces_VVZ a_AT1 broadband_JJ 
+noise_NN1 reduction_NN1 in_II the_AT area_NN1 of_IO the_AT source_NN1 ._. 
+In_RR21 particular_RR22 ,_, the_AT noise_NN1 reduction_NN1 is_VBZ close_JJ 
+to_II 2_MC dB_NNU for_IF the_AT two_MC octaves_NN2 emitted_VVD by_II our_APPGE 
+source_NN1 ,_, which_DDQ represents_VVZ a_AT1 decrease_NN1 of37%of_FO the_AT 
+acoustic_JJ energy_NN1 ._. 
+The_AT results_NN2 shown_VVN in_II this_DD1 work_NN1 constitute_VV0 a_AT1 
+proof_NN1 of_IO concept_NN1 for_IF the_AT use_NN1 of_IO SCs_NP1 as_CSA 
+broadband-noise_JJ reduction_NN1 systems_NN2 at_II the_AT launch_NN1 pad_NN1 
+._. 
+An_AT1 approach_NN1 to_II the_AT geometry_NN1 of_IO the_AT Vega_NP1 launch_NN1 
+vehicle_NN1 the_AT European_JJ Space_NN1 Agency_NN1 is_VBZ proposed_VVN and_CC 
+the_AT limitations_NN2 of_IO the_AT study_NN1 are_VBR discussed_VVN ._. 

@@ -1,0 +1,28 @@
+A_AT1 region_NN1 tracking_NN1 fault_NN1 tolerant_JJ control_NN1 approach_NN1 
+based_VVN on_II backstepping_VVG technique_NN1 is_VBZ proposed_VVN for_IF 
+Autonomous_JJ Underwater_JJ Vehicles_NN2 (_( AUV_NP1 )_) ._. 
+The_AT proposed_JJ approach_NN1 aims_VVZ at_II driving_VVG tracking_JJ 
+error_NN1 to_TO reach_VVI into_II the_AT desired_JJ region_NN1 in_II 
+presence_NN1 of_IO ocean_NN1 current_JJ disturbance_NN1 ,_, modelling_VVG 
+uncertainty_NN1 ,_, unknown_JJ thruster_NN1 faults_NN2 and_CC thruster_NN1 
+amplitude_NN1 and_CC rate_NN1 saturation_NN1 constraints_NN2 ._. 
+At_RR21 first_RR22 ,_, a_AT1 type_NN1 of_IO piecewise_JJ and_CC 
+differential_JJ Lyapunov_NP1 function_NN1 is_VBZ constructed_VVN to_TO 
+achieve_VVI region_NN1 tracking_NN1 control_NN1 in_II the_AT frame_NN1 of_IO 
+backstepping_VVG technique_NN1 ._. 
+Then_RT ,_, the_AT paper_NN1 analyses_NN2 and_CC acquires_VVZ the_AT bound_JJ 
+structures_NN2 of_IO the_AT lumped_JJ uncertainty_NN1 (_( including_II 
+ocean_NN1 current_JJ disturbance_NN1 and_CC model_NN1 uncertainty_NN1 )_) 
+and_CC the_AT variation_NN1 of_IO thruster_NN1 distribution_NN1 matrix_NN1 
+caused_VVN by_II unknown_JJ thruster_NN1 faults_NN2 ,_, respectively_RR ._. 
+An_AT1 adaptive_JJ technique_NN1 is_VBZ used_VVN to_TO estimate_VVI the_AT 
+unknown_JJ coefficients_NN2 in_II the_AT above_JJ bound_VVN structures_NN2 ._. 
+In_RR21 addition_RR22 ,_, an_AT1 adaptive_JJ adjustment_NN1 scheme_NN1 for_IF 
+the_AT desired_JJ trajectory_NN1 is_VBZ developed_VVN to_TO achieve_VVI 
+region_NN1 tracking_NN1 control_NN1 with_IW thruster_NN1 amplitude_NN1 and_CC 
+rate_NN1 saturation_NN1 constraints_NN2 ._. 
+The_AT stability_NN1 of_IO the_AT closed-loop_JJ system_NN1 is_VBZ 
+analysed_VVN based_VVN on_II Barbalat_NP1 's_GE lemma_NN1 ._. 
+Finally_RR ,_, simulations_NN2 and_CC pool-experiments_NN2 are_VBR 
+presented_VVN to_TO illustrate_VVI the_AT effectiveness_NN1 of_IO the_AT 
+proposed_JJ method_NN1 ._. 

@@ -1,0 +1,11 @@
+More_DAR than_CSN 90%_NNU of_IO the_AT space_NN1 objects_NN2 orbiting_VVG 
+around_II the_AT earth_NN1 are_VBR space_NN1 debris_NN1 ._. 
+Since_CS the_AT orbits_NN2 of_IO these_DD2 debris_NN1 often_RR overlap_VV0 
+the_AT trajectories_NN2 of_IO spacecraft_NN ,_, they_PPHS2 create_VV0 a_AT1 
+potential_JJ collision_NN1 risk_NN1 ._. 
+The_AT problem_NN1 of_IO removing_VVG the_AT most_RGT dangerous_JJ space_NN1 
+debris_NN1 can_VM be_VBI modeled_VVN as_II a_AT1 biobjective_JJ time_NNT1 
+dependent_JJ traveling_JJ salesman_NN1 problem_NN1 (_( BiTDTSP_NP1 )_) ._. 
+In_II this_DD1 paper_NN1 ,_, we_PPIS2 study_VV0 an_AT1 approach_NN1 based_VVN 
+on_II a_AT1 branch_NN1 and_CC bound_JJ procedure_NN1 to_TO determine_VVI 
+the_AT Pareto_NP1 frontier_NN1 of_IO the_AT BiTDTSP_NN1 ._. 

@@ -1,0 +1,27 @@
+Advances_NN2 in_II technological_JJ innovation_NN1 have_VH0 been_VBN 
+deployed_VVN to_TO support_VVI autonomous_JJ or_CC semi-autonomous_JJ 
+vehicles_NN2 in_II many_DA2 industries_NN2 ._. 
+A_AT1 question_NN1 that_CST remains_VVZ unanswered_JJ is_VBZ why_RRQ very_RG 
+little_DA1 progress_NN1 has_VHZ been_VBN made_VVN in_II remote_JJ pilotage_NN1 
+over_II the_AT past_JJ 15_MC years_NNT2 ._. 
+This_DD1 paper_NN1 draws_VVZ together_RL theories_NN2 from_II innovation_NN1 
+management_NN1 and_CC the_AT high_JJ reliability_NN1 organisation_NN1 
+literatures_NN2 to_TO shed_VVI light_NN1 on_II this_DD1 question_NN1 ._. 
+Using_VVG a_AT1 case_NN1 study_NN1 of_IO two_MC Australian_JJ ports_NN2 ,_, 
+we_PPIS2 examine_VV0 a_AT1 business_NN1 case_NN1 for_IF remote_JJ pilotage_NN1 
+demonstrating_VVG that_CST despite_II positive_JJ cost_NN1 benefit_NN1 
+models_NN2 ,_, ambiguities_NN2 in_II benefits_NN2 exist_VV0 throughout_II 
+the_AT ecosystem_NN1 ._. 
+The_AT discussion_NN1 sheds_NN2 light_VV0 on_II unique_JJ challenges_NN2 
+that_CST port_NN1 executives_NN2 face_VV0 where_RRQ it_PPH1 is_VBZ 
+necessary_JJ to_TO simultaneously_RR develop_VVI a_AT1 strategy_NN1 to_II :_: 
+(_( 1_MC1 )_) manage_VV0 the_AT internal_JJ innovation_NN1 process_NN1 ,_, 
+and_CC (_( 2_MC )_) manage_VV0 the_AT external_JJ consequences_NN2 of_IO 
+the_AT innovation_NN1 by_II mobilising_VVG allies_NN2 ,_, managing_VVG 
+opponents_NN2 ,_, and_CC converting_VVG those_DD2 who_PNQS are_VBR 
+indifferent_JJ to_II the_AT innovation_NN1 ._. 
+The_AT main_JJ contribution_NN1 of_IO this_DD1 paper_NN1 is_VBZ to_TO show_VVI 
+that_CST any_DD assessment_NN1 of_IO the_AT innovation_NN1 challenge_NN1 
+facing_VVG remote_JJ pilotage_NN1 and_CC enhanced_JJ navigational_JJ 
+assistance_NN1 requires_VVZ the_AT maritime_JJ industry_NN1 to_TO ask_VVI 
+new_JJ questions_NN2 not_XX previously_RR considered_VVN ._. 

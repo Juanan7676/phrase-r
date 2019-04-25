@@ -1,0 +1,30 @@
+Unmanned_JJ combat_NN1 aerial_NN1 vehicles_NN2 are_VBR expected_VVN to_TO 
+assist_VVI human_JJ pilots_NN2 or_CC to_TO perform_VVI autonomous_JJ 
+aerial_NN1 combat_NN1 in_II the_AT future_NN1 ._. 
+Previous_JJ research_NN1 studies_NN2 on_II autonomous_JJ aerial_NN1 combat_NN1 
+often_RR have_VH0 limitations_NN2 due_II21 to_II22 overly_RR simplifying_JJ 
+assumptions_NN2 ,_, heavy_JJ computational_JJ loads_NN2 ,_, and_CC limited_JJ 
+scalability_NN1 ._. 
+In_II this_DD1 paper_NN1 ,_, we_PPIS2 propose_VV0 a_AT1 novel_JJ autonomous_JJ 
+aerial_NN1 combat_NN1 algorithm_NN1 with_IW high-performance_JJ and_CC 
+real-time_JJ calculations_NN2 based_VVN on_II basic_JJ fighter_NN1 
+maneuvers_VVZ for_IF gun-based_JJ engagement_NN1 within_II visual_JJ range_NN1 
+._. 
+From_II the_AT perspective_NN1 of_IO energy_NN1 maneuver_NN1 ,_, which_DDQ 
+is_VBZ the_AT core_NN1 concept_NN1 of_IO basic_JJ fighter_NN1 maneuvers_NN2 
+,_, we_PPIS2 analyzed_VVD the_AT flight_NN1 envelope_NN1 and_CC maximum_JJ 
+maneuvering_JJ point_NN1 of_IO a_AT1 fighter_NN1 jet_NN1 model_NN1 using_VVG 
+the_AT velocity-load_JJ factor_NN1 and_CC energy-maneuver_JJ diagrams_NN2 ._. 
+We_PPIS2 designed_VVD a_AT1 score_NN1 function_NN1 and_CC matrix_NN1 for_IF 
+situation_NN1 assessment_NN1 based_VVN on_II combat_NN1 geometries_NN2 ,_, 
+enabling_VVG cooperative_JJ maneuvers_NN2 and_CC role_NN1 assignment_NN1 ._. 
+By_II performing_VVG gun_NN1 modeling_NN1 and_CC target_NN1 prediction_NN1 
+based_VVN on_II the_AT maneuvering_JJ plane_NN1 ,_, the_AT impact_NN1 
+point_NN1 for_IF gun_NN1 shooting_NN1 was_VBDZ obtained_VVN ._. 
+The_AT performance_NN1 of_IO the_AT designed_JJ algorithm_NN1 was_VBDZ 
+validated_VVN through_II not_XX only_RR Monte-Carlo_NP1 simulations_NN2 
+with_IW various_JJ initial_JJ conditions_NN2 ,_, but_CCB also_RR 
+engagements_NN2 with_IW another_DD1 algorithm_NN1 for_IF comparison_NN1 ,_, 
+and_CC evaluation_NN1 sessions_NNT2 by_II an_AT1 Air_NN1 Force_NN1 combat_NN1 
+instructor_NN1 in_II a_AT1 real-time_JJ simulation_NN1 environment_NN1 
+using_VVG virtual_JJ reality_NN1 goggles_NN2 and_CC X-Plane_NP1 

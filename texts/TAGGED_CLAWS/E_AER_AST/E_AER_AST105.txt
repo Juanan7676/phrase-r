@@ -1,0 +1,36 @@
+The_AT criteria_NN2 for_IF designing_VVG the_AT serpentine_JJ nozzle_NN1 on_II 
+the_AT aspect_NN1 of_IO infrared_JJ suppression_NN1 is_VBZ undocumented_JJ 
+currently_RR ._. 
+The_AT aim_NN1 of_IO this_DD1 paper_NN1 is_VBZ to_TO investigate_VVI the_AT 
+influences_NN2 of_IO the_AT shield_NN1 ratio_NN1 on_II the_AT infrared_JJ 
+signature_NN1 of_IO the_AT serpentine_JJ nozzle_NN1 ._. 
+Firstly_RR ,_, a_AT1 validation_NN1 study_NN1 was_VBDZ conducted_VVN to_TO 
+get_VVI the_AT reliable_JJ computational_JJ method_NN1 of_IO the_AT 
+infrared_JJ signature_NN1 ._. 
+Then_RT ,_, the_AT infrared_JJ signatures_NN2 of_IO the_AT serpentine_JJ 
+nozzles_NN2 with_IW variable_JJ shield_NN1 ratios_NN2 were_VBDR 
+investigated_VVN numerically_RR ,_, and_CC the_AT comparison_NN1 between_II 
+the_AT serpentine_JJ nozzle_NN1 and_CC the_AT circular_JJ nozzle_NN1 was_VBDZ 
+also_RR conducted_VVN ._. 
+Results_NN2 show_VV0 that_CST 28.9%_FO of_IO the_AT infrared_JJ radiation_NN1 
+intensity_NN1 ,_, on_II average_NN1 ,_, can_VM be_VBI reduced_VVN by_II the_AT 
+single_JJ serpentine_JJ nozzle_NN1 ,_, as_RG compare_VV0 with_IW the_AT 
+circular_JJ nozzle_NN1 ._. 
+The_AT shield_NN1 ratio_NN1 has_VHZ little_DA1 effect_NN1 on_II the_AT 
+infrared_JJ signature_NN1 of_IO gas_NN1 outside_II21 of_II22 the_AT 
+serpentine_JJ nozzle_NN1 exit_NN1 ._. 
+And_CC the_AT completely_RR shielded_JJ serpentine_JJ nozzle_NN1 can_VM not_XX 
+bring_VVI the_AT greatest_JJT benefit_NN1 to_II the_AT infrared_JJ stealth_NN1 
+._. 
+The_AT single_JJ serpentine_JJ nozzle_NN1 with_IW shield_NN1 ratio_NN1 of_IO 
+0.75_MC and_CC the_AT double_JJ serpentine_JJ nozzle_NN1 with_IW shield_NN1 
+ratio_NN1 of_IO 0.5_MC have_VH0 better_RRR infrared_JJ stealth_NN1 
+performance_NN1 than_CSN the_AT others_NN2 ._. 
+The_AT visible_JJ area_NN1 ratio_NN1 can_VM be_VBI used_VVN as_II an_AT1 
+indicator_NN1 to_TO evaluate_VVI the_AT infrared_JJ signature_NN1 of_IO the_AT 
+serpentine_JJ nozzle_NN1 ._. 
+In_BCL21 order_BCL22 to_TO provide_VVI an_AT1 effective_JJ infrared_JJ 
+suppression_NN1 ,_, the_AT visible_JJ area_NN1 ratio_NN1 of_IO the_AT 
+single_JJ serpentine_JJ nozzle_NN1 and_CC the_AT double_JJ serpentine_JJ 
+nozzle_NN1 should_VM be_VBI restricted_VVN under_RG 0.15_MC and_CC 0.35_MC ,_, 
+respectively_RR ._. 

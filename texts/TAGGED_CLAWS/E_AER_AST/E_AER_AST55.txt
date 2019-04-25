@@ -1,0 +1,22 @@
+UAV_NP1 swarm_NN1 is_VBZ a_AT1 typical_JJ application_NN1 of_IO multi-agent_JJ 
+system_NN1 and_CC consists_VVZ of_IO a_AT1 certain_JJ number_NN1 of_IO 
+single-_NN1 or_CC multi-function_JJ UAVs_NN2 ._. 
+This_DD1 paper_NN1 mainly_RR focuses_VVZ on_II the_AT motion_NN1 consensus_NN1 
+and_CC formation_NN1 control_NN1 of_IO UAV_NP1 swarm_NN1 ._. 
+A_AT1 novel_JJ formation_NN1 control_NN1 algorithm_NN1 suitable_JJ for_IF 
+both_RR leaders_NN2 and_CC followers_NN2 is_VBZ designed_VVN ,_, in_II 
+which_DDQ leaders_NN2 are_VBR implicitly_RR integrated_VVN into_II the_AT 
+swarm_NN1 and_CC can_VM be_VBI influenced_VVN by_II navigational_JJ 
+feedback_NN1 from_II their_APPGE flockmates_NN2 ._. 
+Theoretical_JJ analysis_NN1 shows_VVZ that_CST the_AT system_NN1 is_VBZ 
+asymptotically_RR stable_JJ and_CC can_VM converge_VVI to_II the_AT desired_JJ 
+formation_NN1 without_IW collision_NN1 among_II vehicles_NN2 ._. 
+Numerical_JJ simulations_NN2 are_VBR performed_VVN to_TO illustrate_VVI the_AT 
+theoretical_JJ results_NN2 and_CC verify_VVI the_AT velocity_NN1 and_CC 
+trajectory_NN1 tracking_NN1 abilities_NN2 of_IO the_AT algorithm_NN1 ._. 
+Results_NN2 reveal_VV0 that_CST the_AT proposed_JJ algorithm_NN1 
+guarantees_VVZ a_AT1 swarm_NN1 of_IO UAVs_NP2 to_TO fly_VVI with_IW 
+predefined_JJ formation_NN1 and_CC track_VVI scheduled_JJ trajectory_NN1 ._. 
+Furthermore_RR ,_, the_AT novel_JJ algorithm_NN1 can_VM reduce_VVI the_AT 
+communication_NN1 consumption_NN1 and_CC enhance_VVI the_AT adaptability_NN1 
+and_CC scalability_NN1 of_IO the_AT system_NN1 ._. 

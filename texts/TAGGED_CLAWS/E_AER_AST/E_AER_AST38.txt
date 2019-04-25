@@ -1,0 +1,36 @@
+An_AT1 experimental_JJ study_NN1 on_II active_JJ flow_NN1 control_NN1 over_II 
+an_AT1 elliptic_JJ airfoil_NN1 is_VBZ performed_VVN using_VVG an_AT1 
+alternating-current_JJ dielectric-barrier-discharge_NN1 (_( AC-DBD_NP1 )_) 
+plasma_NN1 actuator_NN1 combined_VVN with_IW the_AT duty-cycled_JJ 
+technique_NN1 ._. 
+This_DD1 study_NN1 aims_VVZ to_TO eliminate_VVI or_CC decrease_VVI the_AT 
+nonlinearities_NN2 of_IO the_AT lift_NN1 curves_NN2 within_II a_AT1 range_NN1 
+of_IO small_JJ angles_NN2 of_IO attack_NN1 at_II low_JJ Reynolds_NP1 
+numbers_NN2 ._. 
+The_AT results_NN2 of_IO plasma_NN1 actuator_NN1 characterization_NN1 in_II 
+the_AT quiescent_JJ air_NN1 show_VV0 that_CST the_AT duty-cycled_JJ plasma_NN1 
+actuation_NN1 can_VM generate_VVI periodic_JJ sustained_JJ vortices_NN2 
+with_IW strengthened_JJ vorticity_NN1 and_CC streamwise_JJ momentum_NN1 in_II 
+comparison_NN1 of_IO steady-on_NN1 mode_NN1 ._. 
+The_AT wind_NN1 tunnel_NN1 test_NN1 results_NN2 show_VV0 that_CST the_AT 
+baseline_NN1 airfoil_NN1 exhibits_VVZ the_AT clearer_JJR nonlinear_JJ 
+behavior_NN1 at_II small_JJ AOA_NP1 for_IF lower_JJR Reynolds_NP1 numbers_NN2 
+._. 
+With_IW duty-cycled_JJ plasma_NN1 actuation_NN1 ,_, a_AT1 rigidly_RR linear_JJ 
+proportional_JJ control_NN1 of_IO the_AT lift_NN1 that_CST varies_VVZ with_IW 
+the_AT AOA_NP1 is_VBZ achieved_VVN with_IW the_AT reduced_JJ frequencyf+=1_FO 
+._. 
+The_AT surface_NN1 oil-flow_NN1 measurement_NN1 shows_VVZ the_AT plasma_NN1 
+actuator_NN1 can_VM delay_VVI the_AT separation_NN1 and_CC result_VVI in_II 
+an_AT1 enhanced_JJ lift_NN1 when_CS the_AT laminar_JJ boundary_NN1 layer_NN1 
+separation_NN1 occurs_VVZ without_IW reattachment_NN1 ._. 
+When_CS the_AT long_JJ laminar_JJ separation_NN1 bubble_NN1 appears_VVZ in_II 
+the_AT trailing_JJ edge_NN1 region_NN1 ,_, the_AT plasma_NN1 actuator_NN1 
+can_VM eliminate_VVI the_AT bubble_NN1 ._. 
+In_II this_DD1 case_NN1 ,_, the_AT extra_JJ lift_NN1 supplied_VVN by_II the_AT 
+bubble_NN1 is_VBZ eliminated_VVN ,_, leading_VVG to_II a_AT1 reduced_JJ 
+airfoil_NN1 lift_NN1 ._. 
+The_AT linear_JJ proportional_JJ control_NN1 of_IO the_AT lift_NN1 can_VM 
+be_VBI achieved_VVN by_II the_AT appropriate_JJ enhanced_JJ and_CC reduced_JJ 
+lift_NN1 changes_NN2 which_DDQ can_VM be_VBI supplied_VVN by_II the_AT 
+duty-cycled_JJ plasma_NN1 actuation_NN1 

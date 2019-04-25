@@ -1,0 +1,33 @@
+In_II this_DD1 paper_NN1 ,_, the_AT attitude_NN1 control_NN1 problem_NN1 of_IO 
+reusable_JJ launch_NN1 vehicles_NN2 (_( RLVs_NP1 )_) during_II reentry_NN1 
+phase_NN1 is_VBZ investigated_VVN by_II using_VVG compound_NN1 adaptive_JJ 
+fuzzy_JJ H-infinity_JJ control_NN1 (_( CAFHC_NP1 )_) strategy_NN1 in_II the_AT 
+presence_NN1 of_IO parameter_NN1 uncertainties_NN2 and_CC external_JJ 
+disturbances_NN2 ._. 
+Firstly_RR ,_, the_AT control-oriented_JJ attitude_NN1 model_NN1 is_VBZ 
+established_VVN by_II a_AT1 model_NN1 transformation_NN1 based_VVN on_II 
+the_AT six-degree-of-freedom_NN1 (_( 6-DoF_NP1 )_) dynamic_JJ model_NN1 of_IO 
+the_AT RLV_NP1 ._. 
+Secondly_RR ,_, a_AT1 novel_JJ attitude_NN1 control_NN1 scheme_NN1 is_VBZ 
+developed_VVN and_CC the_AT control_NN1 strategy_NN1 consists_VVZ of_IO two_MC 
+parts_NN2 to_TO achieve_VVI a_AT1 stable_JJ and_CC accurate_JJ attitude_NN1 
+tracking_NN1 during_II reentry_NN1 flight_NN1 process_NN1 ._. 
+An_AT1 attitude_NN1 tracking_NN1 controller_NN1 is_VBZ designed_VVN 
+utilizing_VVG adaptive_JJ fuzzy_JJ H-infinity_JJ control_NN1 approach_NN1 
+combined_VVN with_IW an_AT1 identification_NN1 model_NN1 to_TO improve_VVI 
+the_AT attitude_NN1 tracking_NN1 performance_NN1 in_II the_AT interior_NN1 
+of_IO fuzzy_JJ approximation_NN1 region_NN1 of_IO attitude_NN1 angle_NN1 ._. 
+Next_MD ,_, an_AT1 attitude_NN1 stabilization_NN1 controller_NN1 based_VVN 
+on_II boundary_NN1 adaptive_JJ technique_NN1 is_VBZ employed_VVN to_TO 
+assure_VVI the_AT robustness_NN1 of_IO the_AT closed-loop_JJ system_NN1 in_II 
+the_AT exterior_NN1 of_IO fuzzy_JJ approximation_NN1 region_NN1 of_IO 
+attitude_NN1 angle_NN1 ._. 
+Furthermore_RR ,_, the_AT stability_NN1 of_IO the_AT closed-loop_JJ system_NN1 
+is_VBZ guaranteed_VVN within_II the_AT framework_NN1 of_IO Lyapunov_NP1 
+theory_NN1 and_CC the_AT attitude_NN1 tracking_NN1 error_NN1 converges_VVZ 
+to_II a_AT1 small_JJ neighborhood_NN1 around_II origin_NN1 ._. 
+Finally_RR ,_, the_AT simulation_NN1 results_NN2 are_VBR presented_VVN to_TO 
+demonstrate_VVI that_CST the_AT effectiveness_NN1 of_IO the_AT proposed_JJ 
+control_NN1 scheme_NN1 for_IF reentry_NN1 RLV_NP1 ,_, and_CC its_APPGE 
+tracking_JJ performance_NN1 performs_VVZ better_JJR than_CSN the_AT other_JJ 
+control_NN1 method_NN1 ._. 

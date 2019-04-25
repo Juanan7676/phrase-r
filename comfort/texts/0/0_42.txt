@@ -1,0 +1,23 @@
+The_AT centrifugal_JJ compressor_NN1 converting_VVG the_AT kinetic_JJ 
+energy_NN1 into_II the_AT pressure_NN1 increase_NN1 has_VHZ been_VBN 
+extensively_RR used_VVN for_IF industry_NN1 applications_NN2 ._. 
+Due_II21 to_II22 its_APPGE high_JJ rotational_JJ speed_NN1 ,_, the_AT 
+volume_NN1 and_CC weight_NN1 could_VM be_VBI greatly_RR reduced_VVN which_DDQ 
+makes_VVZ it_PPH1 suitable_JJ for_IF in-flight_JJ gas_NN1 compression_NN1 
+systems_NN2 ._. 
+Combining_VVG the_AT high_JJ altitude_NN1 circumstances_NN2 such_II21 as_II22 
+the_AT air_NN1 density_NN1 ,_, pressure_NN1 ,_, temperature_NN1 ,_, etc._RA 
+,_, an_AT1 centrifugal_JJ compressor_NN1 model_NN1 is_VBZ first_MD 
+developed_VVN in_II this_DD1 paper_NN1 ._. 
+This_DD1 model_NN1 takes_VVZ the_AT changing_JJ properties_NN2 of_IO the_AT 
+atmosphere_NN1 ,_, air_NN1 pressure_NN1 and_CC air_NN1 density_NN1 into_II 
+account_NN1 ._. 
+The_AT working_JJ characteristics_NN2 of_IO the_AT centrifugal_JJ 
+compressor_NN1 at_II different_JJ altitudes_NN2 are_VBR studied_VVN ._. 
+Meanwhile_RR ,_, the_AT effects_NN2 of_IO the_AT parameter_NN1 variations_NN2 
+on_II the_AT compressor_NN1 performance_NN1 is_VBZ analyzed_VVN ._. 
+Moreover_RR ,_, dynamics_NN of_IO the_AT air_NN1 flow_NN1 and_CC pressure_NN1 
+are_VBR investigated_VVN with_IW varied_JJ altitude_NN1 ._. 
+A_AT1 closed_JJ loop_NN1 controller_NN1 based_VVN on_II super_JJ twisting_JJ 
+sliding_JJ mode_NN1 approach_NN1 is_VBZ proposed_VVN to_TO make_VVI the_AT 
+mass_JJ flow_NN1 track_NN1 the_AT reference_NN1 ._. 

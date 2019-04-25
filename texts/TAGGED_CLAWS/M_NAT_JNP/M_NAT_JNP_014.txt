@@ -1,0 +1,37 @@
+Port_NN1 service_NN1 level_NN1 is_VBZ a_AT1 metric_JJ of_IO 
+competitiveness_NN1 among_II ports_NN2 for_IF the_AT operating/managing_NN1 
+bodies_NN2 such_II21 as_II22 the_AT terminal_JJ operation_NN1 company_NN1 (_( 
+TOC_NP1 )_) ,_, Port_NP1 Authority_NP1 ,_, or_CC the_AT government_NN1 ,_, 
+and_CC is_VBZ used_VVN as_II an_AT1 important_JJ indicator_NN1 for_IF 
+shipping_VVG companies_NN2 and_CC freight_NN1 haulers_NN2 when_CS 
+selecting_VVG a_AT1 port_NN1 ._. 
+Considering_CS the_AT importance_NN1 of_IO metrics_NN2 ,_, we_PPIS2 
+developed_VVD software_NN1 to_TO objectively_RR define_VVI and_CC manage_VVI 
+six_MC important_JJ service_NN1 indicators_NN2 exclusive_JJ to_II 
+container_NN1 and_CC bulk_VV0 terminals_NN2 including_II :_: berth_NN1 
+occupancy_NN1 rate_NN1 ,_, ship_NN1 's_VBZ waiting_VVG ratio_NN1 ,_, berth_NN1 
+throughput_NN1 ,_, number_NN1 of_IO berths_NN2 ,_, average_JJ number_NN1 of_IO 
+vessels_NN2 waiting_VVG ,_, and_CC average_JJ waiting_JJ time_NNT1 ._. 
+We_PPIS2 computed_VVD the_AT six_MC service_NN1 indicators_NN2 utilizing_VVG 
+berth_NN1 1_MC1 through_II berth_NN1 5_MC in_II the_AT container_NN1 
+terminals_NN2 and_CC berth_NN1 1_MC1 through_II berth_NN1 4_MC in_II the_AT 
+bulk_NN1 terminals_NN2 ._. 
+The_AT software_NN1 model_NN1 allows_VVZ easy_JJ computation_NN1 of_IO 
+expected_JJ ship_NN1 's_VBZ waiting_VVG ratio_NN1 over_II berth_NN1 
+occupancy_NN1 rate_NN1 ,_, berth_NN1 throughput_NN1 ,_, counts_NN2 of_IO 
+berth_NN1 ,_, average_JJ number_NN1 of_IO vessels_NN2 waiting_VVG and_CC 
+average_JJ waiting_JJ time_NNT1 ._. 
+Further_RRR ,_, the_AT software_NN1 allows_VVZ prediction_NN1 of_IO yearly_JJ 
+throughput_NN1 by_II utilizing_VVG a_AT1 ships_NN2 waiting_VVG ratio_NN1 
+and_CC other_JJ productivity_NN1 indicators_NN2 and_CC making_VVG 
+calculations_NN2 based_VVN on_II arrival_NN1 patterns_NN2 of_IO ship_NN1 
+traffic_NN1 ._. 
+As_II a_AT1 result_NN1 ,_, a_AT1 TOC_NN1 is_VBZ able_JK to_TO make_VVI 
+strategic_JJ decisions_NN2 on_II the_AT trade-offs_NN2 in_II the_AT optimal_JJ 
+operating_NN1 level_NN1 of_IO the_AT facility_NN1 with_IW better_JJR 
+predictors_NN2 of_IO the_AT service_NN1 factors_NN2 (_( ships_NN2 waiting_VVG 
+ratio_NN1 )_) and_CC productivity_NN1 factors_NN2 (_( yearly_JJ throughput_NN1 
+)_) ._. 
+Successful_JJ implementation_NN1 of_IO the_AT software_NN1 would_VM 
+attract_VVI more_DAR shipping_NN1 companies_NN2 and_CC shippers_NN2 and_CC 
+maximize_VV0 TOC_NN1 profits_NN2 

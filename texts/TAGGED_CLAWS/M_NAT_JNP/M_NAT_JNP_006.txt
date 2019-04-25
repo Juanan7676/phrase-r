@@ -1,0 +1,33 @@
+The_AT Formal_JJ Safety_NN1 Assessment_NN1 (_( FSA_NP1 )_) is_VBZ a_AT1 
+structured_JJ and_CC systematic_JJ methodology_NN1 developed_VVN by_II the_AT 
+IMO_NN1 ,_, aimed_VVN at_II assessing_VVG the_AT risk_NN1 of_IO vessels_NN2 
+and_CC recommending_VVG the_AT method_NN1 to_TO control_VVI intolerable_JJ 
+risks_NN2 ,_, thereby_RR enhancing_VVG maritime_JJ safety_NN1 ,_, including_II 
+protection_NN1 of_IO life_NN1 ,_, health_NN1 ,_, the_AT marine_JJ 
+environment_NN1 and_CC property_NN1 ,_, by_II using_VVG risk_NN1 analysis_NN1 
+and_CC cost-benefit_JJ assessment_NN1 ._. 
+While_CS the_AT FSA_NP1 has_VHZ mostly_RR been_VBN applied_VVN to_II 
+merchant_NN1 vessels_NN2 ,_, it_PPH1 has_VHZ rarely_RR been_VBN applied_VVN 
+to_II a_AT1 DP_NP1 vessel_NN1 ,_, which_DDQ is_VBZ one_MC1 of_IO the_AT 
+special_JJ purpose_NN1 vessels_NN2 in_II the_AT offshore_JJ industry_NN1 ._. 
+Furthermore_RR ,_, most_DAT of_IO the_AT FSA_NP1 has_VHZ been_VBN 
+conducted_VVN so_RG far_RR by_II using_VVG the_AT Fault_NN1 Tree_NN1 
+Analysis_NN1 tool_NN1 ,_, even_CS21 though_CS22 there_EX are_VBR many_DA2 
+other_JJ risk_NN1 analysis_NN1 tools_NN2 ._. 
+This_DD1 study_NN1 carried_VVD out_RP the_AT FSA_NP1 for_IF safe_JJ 
+operation_NN1 of_IO DP_NP1 vessels_NN2 by_II using_VVG the_AT Bayesian_JJ 
+network_NN1 ,_, under_II which_DDQ conditional_JJ probability_NN1 was_VBDZ 
+examined_VVN ._. 
+This_DD1 study_NN1 determined_VVN the_AT frequency_NN1 and_CC severity_NN1 
+of_IO DP_NP1 LOP_NP1 incidents_NN2 reported_VVN to_II the_AT IMCA_NN1 from_II 
+2001_MC to_II 2010_MC ,_, and_CC obtained_VVD the_AT Risk_NN1 Index_NN1 by_II 
+applying_VVG the_AT Bayesian_JJ network_NN1 ._. 
+Then_RT ,_, the_AT Risk_NN1 Control_NN1 Options_NN2 (_( RCOs_NP2 )_) were_VBDR 
+identified_VVN through_II an_AT1 expert_NN1 brainstorming_NN1 and_CC DP_NP1 
+vessel_NN1 simulations_NN2 ._. 
+This_DD1 study_NN1 recommends_VVZ duplication_NN1 of_IO PRS_NP2 ,_, 
+regardless_RR of_IO the_AT DP_NP1 class_NN1 and_CC PRS_NP2 type_NN1 and_CC 
+DP_NP1 system_NN1 specific_JJ training_NN1 ._. 
+Finally_RR ,_, this_DD1 study_NN1 verified_VVD that_CST the_AT Bayesian_JJ 
+network_NN1 and_CC DP_NP1 simulator_NN1 can_VM also_RR serve_VVI as_II an_AT1 
+effective_JJ tool_NN1 for_IF FSA_NP1 implementation_NN1 ._. 

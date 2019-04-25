@@ -1,0 +1,23 @@
+The_AT finite-time_JJ leaderfollower_NN1 formation_NN1 control_NN1 problem_NN1 
+of_IO Multiple_JJ Flight_NN1 Vehicle_NN1 (_( MFV_NP1 )_) system_NN1 with_IW 
+accurate_JJ linearization_NN1 model_NN1 is_VBZ considered_VVN ._. 
+Herein_RR ,_, there_EX is_VBZ only_RR one_MC1 leader_NN1 ,_, the_AT 
+interaction_NN1 topology_NN1 among_II the_AT followers_NN2 is_VBZ 
+undirected_JJ ,_, and_CC the_AT followers_NN2 are_VBR reachable_JJ from_II 
+the_AT leader_NN1 ._. 
+Precise_JJ feedback_NN1 linearization_NN1 based_VVN on_II differential_JJ 
+geometry_NN1 theory_NN1 is_VBZ used_VVN to_TO linearize_VVI the_AT 
+nonlinear_JJ motion_NN1 model_NN1 of_IO the_AT flight_NN1 vehicle_NN1 and_CC 
+the_AT system_NN1 model_NN1 with_IW follower_NN1 track_NN1 errors_NN2 is_VBZ 
+formulated_VVN ._. 
+A_AT1 distributed_JJ formation_NN1 control_NN1 protocol_NN1 based_VVN on_II 
+finite-time_JJ control_NN1 theory_NN1 is_VBZ proposed_VVN ._. 
+With_IW the_AT designed_JJ control_NN1 law_NN1 ,_, the_AT MFV_NP1 systems_NN2 
+can_VM achieve_VVI the_AT desired_JJ formation_NN1 in_II finite_JJ time_NNT1 
+,_, where_RRQ the_AT formation_NN1 configurations_NN2 can_VM be_VBI 
+specified_VVN in_II advance_NN1 according_II21 to_II22 the_AT task_NN1 
+requirements_NN2 ._. 
+Meanwhile_RR ,_, the_AT convergence_NN1 analysis_NN1 is_VBZ proved_VVN and_CC 
+the_AT protocol_NN1 performance_NN1 is_VBZ discussed_VVN ._. 
+Finally_RR ,_, simulation_NN1 results_NN2 further_RRR demonstrate_VV0 the_AT 
+effectiveness_NN1 of_IO the_AT proposed_JJ method_NN1 ._. 

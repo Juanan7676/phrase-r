@@ -1,0 +1,30 @@
+The_AT classical_JJ unscented_JJ Kalman_NN1 filter_NN1 (_( UKF_NP1 )_) 
+requires_VVZ prior_JJ knowledge_NN1 on_II statistical_JJ characteristics_NN2 
+of_IO system_NN1 noises_NN2 for_IF state_NN1 estimation_NN1 of_IO a_AT1 
+nonlinear_JJ dynamic_JJ system_NN1 ._. 
+If_CS the_AT statistical_JJ characteristics_NN2 of_IO system_NN1 noises_NN2 
+are_VBR unknown_JJ or_CC inaccurate_JJ ,_, the_AT UKF_NN1 solution_NN1 will_VM 
+be_VBI deteriorated_VVN or_CC even_RR divergent_JJ ._. 
+This_DD1 paper_NN1 presents_VVZ a_AT1 novel_JJ adaptive_JJ UKF_NN1 by_II 
+combining_VVG the_AT maximum_JJ likelihood_NN1 principle_NN1 (_( MLP_NP1 )_) 
+and_CC moving_VVG horizon_NN1 estimation_NN1 (_( MHE_NP1 )_) to_TO 
+overcome_VVI this_DD1 limitation_NN1 ._. 
+This_DD1 method_NN1 constructs_NN2 an_AT1 optimization_NN1 based_VVN 
+estimation_NN1 of_IO system_NN1 noise_NN1 statistics_NN according_II21 to_II22 
+MLP_NP1 ._. 
+Subsequently_RR ,_, it_PPH1 further_RRR establishes_VVZ a_AT1 moving_JJ 
+horizon_NN1 strategy_NN1 to_TO improve_VVI the_AT computational_JJ 
+efficiency_NN1 of_IO the_AT MLP_NP1 based_VVD optimization_NN1 estimation_NN1 
+._. 
+Based_VVN on_II above_RL ,_, a_AT1 new_JJ expectation_NN1 maximization_NN1 
+technique_NN1 is_VBZ developed_VVN to_TO iteratively_RR compute_VVI the_AT 
+MLP_NP1 and_CC MHE_NP1 based_VVD noise_NN1 statistic_NN1 estimation_NN1 by_II 
+replacing_VVG complex_JJ smoothed_JJ estimates_NN2 with_IW filtering_VVG 
+estimates_NN2 for_IF further_JJR improvement_NN1 of_IO the_AT computational_JJ 
+efficiency_NN1 ._. 
+The_AT proposed_JJ method_NN1 can_VM achieve_VVI the_AT online_JJ 
+estimation_NN1 of_IO system_NN1 noise_NN1 statistic_NN1 and_CC enhance_VV0 
+the_AT robustness_NN1 of_IO the_AT classical_JJ UKF_NN1 ._. 
+The_AT efficacy_NN1 of_IO the_AT proposed_JJ adaptive_JJ UKF_NN1 is_VBZ 
+demonstrated_VVN through_II simulations_NN2 and_CC practical_JJ 
+experiments_NN2 in_II the_AT INS/GPS_FU integrated_JJ navigation_NN1 ._. 

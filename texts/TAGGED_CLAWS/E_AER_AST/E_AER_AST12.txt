@@ -1,0 +1,38 @@
+Non-probabilistic_JJ reliability_NN1 based_VVN multidisciplinary_JJ design_NN1 
+optimization_NN1 (_( NRBMDO_NP1 )_) offers_VVZ a_AT1 powerful_JJ tool_NN1 
+for_IF making_VVG reliable_JJ decisions_NN2 with_IW the_AT consideration_NN1 
+of_IO uncertain-but-bounded_JJ uncertainties_NN2 for_IF complex_JJ 
+engineering_NN1 systems_NN2 ._. 
+However_RR ,_, the_AT prohibitive_JJ computation_NN1 and_CC convergence_NN1 
+difficulties_NN2 caused_VVN by_II the_AT directly_RR coupling_NN1 of_IO 
+uncertainty_NN1 based_VVN multidisciplinary_JJ analysis_NN1 (_( UMDA_NP1 )_) 
+,_, non-probabilistic_JJ reliability_NN1 analysis_NN1 (_( NRA_NP1 )_) and_CC 
+MDO_NN1 would_VM seriously_RR hamper_VVI the_AT application_NN1 of_IO 
+NRBMDO_NN1 ._. 
+In_II this_DD1 paper_NN1 ,_, an_AT1 efficient_JJ single_JJ loop_NN1 
+strategy_NN1 for_IF NRBMDO_NP1 (_( SLSNRBMDO_NP1 )_) is_VBZ developed_VVN 
+to_TO decouple_VVI the_AT nested_JJ issue_NN1 and_CC thus_RR improve_VV0 
+the_AT computational_JJ efficiency_NN1 ._. 
+The_AT key_JJ idea_NN1 of_IO the_AT proposed_JJ strategy_NN1 is_VBZ 
+decoupling_VVG NRBMDO_NN1 with_IW several_DA2 cycles_NN2 of_IO sequential_JJ 
+MDO_NN1 ,_, UMDA_NP1 ,_, NRA_NP1 and_CC translating_VVG distance_NN1 
+calculation_NN1 (_( TDC_NP1 )_) ._. 
+For_IF UMDA_NP1 ,_, three_MC methods_NN2 ,_, i.e._REX ,_, the_AT first_MD 
+order_NN1 interval_NN1 Taylor_NP1 expansion_NN1 method_NN1 ,_, the_AT 
+interval_NN1 vertex_NN1 theorem_NN1 ,_, the_AT direct_JJ optimization_NN1 
+approach_NN1 are_VBR formulated_VVN ._. 
+Besides_RR ,_, NRA_NP1 is_VBZ conducted_VVN on_II the_AT basis_NN1 of_IO 
+the_AT expanded_JJ non-probabilistic_JJ stressstrength_NN1 interference_NN1 
+model_NN1 and_CC the_AT volume_NN1 ratio_NN1 thought_NN1 ,_, which_DDQ 
+provides_VVZ a_AT1 clear_JJ and_CC definite_JJ assessment_NN1 criterion_NN1 
+for_IF the_AT structural_JJ safety_NN1 with_IW uncertain-but-bounded_JJ 
+parameters_NN2 ._. 
+Furthermore_RR ,_, the_AT translating_NN1 strategy_NN1 based_VVN on_II the_AT 
+performance_NN1 measure_NN1 approach_NN1 is_VBZ proposed_VVN to_TO shift_VVI 
+and_CC update_VVI the_AT constraints_NN2 ,_, and_CC the_AT expression_NN1 
+of_IO the_AT translating_NN1 distance_NN1 is_VBZ mathematically_RR derived_VVN 
+to_TO accelerate_VVI the_AT design_NN1 procedure_NN1 ._. 
+Eventually_RR ,_, the_AT effectiveness_NN1 and_CC efficiency_NN1 of_IO the_AT 
+proposed_JJ method_NN1 are_VBR illustrated_VVN with_IW one_MC1 numerical_JJ 
+case_NN1 and_CC one_MC1 practical_JJ supersonic_JJ wing_NN1 optimization_NN1 
+design_NN1 problem_NN1 ._. 

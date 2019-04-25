@@ -1,0 +1,42 @@
+The_AT mesh_NN1 deformation_NN1 using_VVG radial_JJ basis_NN1 functions_NN2 
+(_( RBFs_NP1 )_) is_VBZ widely_RR used_VVN in_II aerodynamic_JJ 
+applications_NN2 in_II the_AT context_NN1 of_IO design_NN1 &; 
+optimization_NN1 and_CC aeroelasticity_NN1 ._. 
+One_MC1 reason_NN1 is_VBZ the_AT good_JJ performance_NN1 for_IF test_NN1 
+cases_NN2 requiring_VVG only_RR a_AT1 few_DA2 number_NN1 of_IO support_NN1 
+points_NN2 ._. 
+But_CCB in_II test_NN1 cases_NN2 with_IW complex_JJ deflection_NN1 fields_NN2 
+,_, requiring_VVG a_AT1 large_JJ number_NN1 of_IO support_NN1 points_NN2 ,_, 
+the_AT performance_NN1 of_IO the_AT method_NN1 degenerates_VVZ ._. 
+To_TO improve_VVI an_AT1 existing_JJ RBFs-based_JJ mesh-deformation_JJ 
+method_NN1 ,_, an_AT1 efficient_JJ multiple_JJ point_NN1 selection_NN1 
+method_NN1 has_VHZ been_VBN developed_VVN based_VVN on_II the_AT 
+conventional_JJ Greedy_JJ method_NN1 ._. 
+The_AT interpolation_NN1 error_NN1 function_NN1 of_IO the_AT RBFs-based_JJ 
+model_NN1 is_VBZ analyzed_VVN ,_, and_CC multiple_JJ points_NN2 with_IW 
+maximum_JJ local_JJ error_NN1 are_VBR selected_VVN simultaneously_RR into_II 
+the_AT support_NN1 set_NN1 ,_, with_IW which_DDQ an_AT1 interpolation_NN1 
+model_NN1 will_VM be_VBI finally_RR built_VVN to_TO compute_VVI the_AT 
+displacements_NN2 of_IO the_AT volume_NN1 mesh_NN1 nodes_NN2 ._. 
+To_TO avoid_VVI too_RG many_DA2 redundant_JJ points_NN2 for_IF building_VVG 
+the_AT interpolation_NN1 model_NN1 ,_, a_AT1 threshold_NN1 factor_NN1 is_VBZ 
+conceived_VVN to_TO limit_VVI the_AT number_NN1 of_IO points_NN2 selected_VVN 
+._. 
+The_AT computational_JJ cost_NN1 by_II the_AT Greedy_JJ method_NN1 ,_, the_AT 
+multi-level_JJ data_NN reduction_NN1 method_NN1 and_CC the_AT developed_JJ 
+method_NN1 ,_, are_VBR theoretically_RR compared_VVN ._. 
+Typical_JJ deformation_NN1 problems_NN2 are_VBR chosen_VVN as_CSA test_NN1 
+cases_NN2 for_IF demonstrating_VVG current_JJ implementations_NN2 ,_, like_II 
+a_AT1 ninety-degree_JJ rotation_NN1 of_IO a_AT1 NACA_NN1 0012_MC airfoil_NN1 
+,_, the_AT adjustment_NN1 of_IO the_AT position_NN1 of_IO the_AT slat_NN1 
+and_CC the_AT flap_NN1 of_IO a_AT1 high-lift_JJ airfoil_NN1 ,_, the_AT 
+bending_NN1 of_IO the_AT DLR_NP1 F6_FO configuration_NN1 ,_, and_CC the_AT 
+shape_NN1 modification_NN1 of_IO a_AT1 hypersonic_JJ Rocket-Based_JJ 
+Combined_JJ Cycle_NN1 space_NN1 vehicle_NN1 ._. 
+Further_RRR ,_, the_AT effect_NN1 of_IO the_AT threshold_NN1 factor_NN1 is_VBZ 
+studied_VVN ._. 
+The_AT results_NN2 show_VV0 that_CST the_AT developed_JJ mesh-deformation_JJ 
+method_NN1 has_VHZ a_AT1 better_JJR efficiency_NN1 than_CSN the_AT Greedy_JJ 
+method_NN1 and_CC the_AT multi-level_JJ data_NN reduction_NN1 method_NN1 ,_, 
+especially_RR for_IF test_NN1 cases_NN2 with_IW complex_JJ deflection_NN1 
+fields_NN2 ._. 

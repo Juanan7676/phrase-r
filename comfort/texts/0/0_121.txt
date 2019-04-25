@@ -1,0 +1,25 @@
+This_DD1 paper_NN1 presents_VVZ the_AT deployment_NN1 strategies_NN2 for_IF 
+planar_JJ multi-tethered_JJ satellite_NN1 formation_NN1 that_CST spins_VVZ 
+in_II orbit_NN1 plane_NN1 ._. 
+By_II using_VVG Lagrange_NN1 principles_NN2 ,_, the_AT deployment_NN1 
+dynamics_NN ,_, which_DDQ treat_VV0 the_AT parent_NN1 satellite_NN1 as_II 
+a_AT1 finite_JJ sized_JJ rigid_JJ body_NN1 ,_, are_VBR established_VVN 
+under_II gravity_NN1 gradient_NN1 perturbation_NN1 ._. 
+Comparing_VVG with_IW the_AT simplified_JJ dynamics_NN that_CST take_VV0 
+the_AT parent_NN1 satellite_NN1 as_CSA mass_JJ point_NN1 ,_, the_AT model_NN1 
+in_II this_DD1 work_NN1 enables_VVZ the_AT investigation_NN1 on_II 
+dynamical_JJ coupling_NN1 between_II parent_NN1 satellite_NN1 and_CC 
+tethers_VVZ ._. 
+To_TO achieve_VVI successful_JJ deployment_NN1 ,_, typical_JJ strategies_NN2 
+are_VBR developed_VVN firstly_RR with_IW active_JJ gravity_NN1 gradient_NN1 
+compensation_NN1 ,_, both_DB2 the_AT tether_VV0 deployment_NN1 rate_NN1 and_CC 
+parent_NN1 satellite_NN1 spinning_VVG profile_NN1 are_VBR derived_VVN under_II 
+specific_JJ motion_NN1 constraints_NN2 ,_, after_II that_DD1 ,_, the_AT 
+deployment_NN1 strategy_NN1 capable_JJ of_IO compensating_VVG the_AT 
+gravity_NN1 gradient_NN1 perturbation_NN1 is_VBZ also_RR developed_VVN ._. 
+For_IF the_AT fully_RR deployed_VVN system_NN1 ,_, the_AT minimum_NN1 
+spinning_VVG rate_NN1 that_CST ensures_VVZ the_AT configuration_NN1 
+stabilization_NN1 is_VBZ mathematically_RR analyzed_VVN by_II employing_VVG 
+Jacobi_JJ Integrator_NN1 ._. 
+Finally_RR ,_, series_NN numerical_JJ simulations_NN2 are_VBR performed_VVN 
+to_TO validate_VVI the_AT proposed_JJ deployment_NN1 strategies_NN2 ._. 

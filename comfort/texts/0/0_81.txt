@@ -1,0 +1,41 @@
+The_AT hypersonic_JJ gliding_NN1 vehicle_NN1 is_VBZ attracting_VVG an_AT1 
+increasing_JJ attention_NN1 because_II21 of_II22 its_APPGE high_JJ 
+lift-to-drag_VV0 ratio_NN1 and_CC cruising_VVG velocity_NN1 ._. 
+This_DD1 kind_NN1 of_IO vehicle_NN1 may_VM experience_VVI different_JJ 
+airspaces_NN2 as_II31 well_II32 as_II33 different_JJ speed_NN1 
+environments_NN2 ._. 
+Based_VVN on_II the_AT design_NN1 theory_NN1 of_IO the_AT cone-derived_JJ 
+waverider_NN1 ,_, a_AT1 novel_JJ design_NN1 approach_NN1 of_IO the_AT 
+hypersonic_JJ gliding_NN1 vehicle_NN1 was_VBDZ proposed_VVN in_II this_DD1 
+article_NN1 ,_, which_DDQ is_VBZ accommodated_VVN in_II a_AT1 wide_JJ 
+speed_NN1 range_NN1 ._. 
+The_AT parametric_JJ method_NN1 employed_VVN in_II the_AT ascender_NN1 
+line_NN1 design_NN1 makes_VVZ it_PPH1 possible_JJ to_TO control_VVI the_AT 
+overall_JJ configuration_NN1 of_IO the_AT vehicle_NN1 ,_, and_CC there_EX 
+are_VBR four_MC parameters_NN2 chosen_VVN to_TO describe_VVI the_AT 
+ascender_NN1 line_NN1 ._. 
+The_AT numerical_JJ approach_NN1 has_VHZ been_VBN employed_VVN to_TO 
+validate_VVI the_AT property_NN1 of_IO this_DD1 kind_NN1 of_IO HGV_NN1 ._. 
+By_II analyzing_VVG the_AT pressure_NN1 contour_NN1 of_IO the_AT vehicles_NN2 
+with_IW different_JJ Mach_NNU numbers_NN2 ,_, we_PPIS2 conclude_VV0 that_CST 
+this_DD1 kind_NN1 of_IO aircraft_NN own_VV0 good_JJ wave-ride_JJ 
+properties_NN2 in_II the_AT designed_JJ speed_NN1 range_NN1 ._. 
+Their_APPGE aerodynamic_JJ performance_NN1 makes_VVZ a_AT1 balance_NN1 by_II 
+comparing_VVG with_IW the_AT waveriders_NN2 designed_VVN with_IW the_AT two_MC 
+ultimate_JJ speeds_NN2 ._. 
+Different_JJ design_NN1 Mach_NNU number_NN1 arrangements_NN2 lead_VV0 to_II 
+different_JJ aerodynamic_JJ properties_NN2 ,_, and_CC all_DB of_IO them_PPHO2 
+seem_VV0 to_TO be_VBI suitable_JJ in_II the_AT designed_JJ speed_NN1 range_NN1 
+._. 
+Therefore_RR ,_, this_DD1 kind_NN1 of_IO vehicle_NN1 is_VBZ worth_II 
+referring_VVG in_II the_AT aircraft_NN design_NN1 ._. 
+The_AT simplified_JJ trajectory_NN1 performance_NN1 analysis_NN1 is_VBZ 
+employed_VVN ,_, and_CC the_AT vehicle_NN1 is_VBZ assumed_VVN to_II 
+reentry_NN1 with_IW a_AT1 given_JJ initial_JJ condition_NN1 ._. 
+With_IW the_AT angle_NN1 of_IO attack_NN1 as_II31 well_II32 as_II33 the_AT 
+angle_NN1 of_IO slide_NN1 is_VBZ set_VVN to_TO be_VBI zero_MC ._. 
+The_AT CFD_NP1 method_NN1 obtained_VVD the_AT aerodynamic_JJ coefficients_NN2 
+of_IO the_AT vehicle_NN1 at_II different_JJ speeds_NN2 ._. 
+The_AT result_NN1 shows_VVZ a_AT1 wavy_JJ trajectory_NN1 with_IW long_JJ 
+range_NN1 ,_, which_DDQ means_VVZ that_CST this_DD1 kind_NN1 of_IO vehicle_NN1 
+is_VBZ suitable_JJ for_IF long-distance_JJ transportation_NN1 ._. 

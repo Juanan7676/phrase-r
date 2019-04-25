@@ -1,0 +1,22 @@
+Recently_RR ,_, container_NN1 terminal_NN1 operators_NN2 have_VH0 made_VVN 
+efforts_NN2 to_TO develop_VVI an_AT1 efficient_JJ remarshalling_JJ plan_NN1 
+in_II31 response_II32 to_II33 the_AT increase_NN1 in_II automation_NN1 of_IO 
+equipment_NN1 handling_NN1 and_CC transport_NN1 of_IO containers_NN2 in_II 
+the_AT terminals_NN2 ._. 
+Usually_RR ,_, containers_NN2 are_VBR handled_VVN by_II multiple_JJ AYCs_NN2 
+(_( automated_JJ yard_NN1 cranes_NN2 )_) in-yard_NN1 in_II an_AT1 automated_JJ 
+container_NN1 terminal_NN1 ,_, and_CC terminal_JJ operators_NN2 establish_VV0 
+a_AT1 remarshalling_JJ plan_NN1 using_VVG slack_JJ time_NNT1 to_TO 
+increase_VVI the_AT efficiency_NN1 of_IO ship_NN1 operation_NN1 ._. 
+This_DD1 study_NN1 develops_VVZ the_AT optimal_JJ mathematical_JJ model_NN1 
+through_II mixed_JJ integer_NN1 programming_VVG as_II a_AT1 solution_NN1 to_II 
+the_AT problem_NN1 of_IO dispatching_VVG multiple_JJ AYCs_NN2 ._. 
+Considering_CS the_AT difficulty_NN1 of_IO direct_JJ application_NN1 to_II 
+the_AT field_NN1 due_II21 to_II22 computation_NN1 time_NNT1 ,_, we_PPIS2 
+analyze_VV0 the_AT five_MC prototypical_JJ dispatching_VVG rules_NN2 for_IF 
+real_JJ world_NN1 adaptation_NN1 ._. 
+A_AT1 numerical_JJ experiment_NN1 found_VVD that_CST the_AT maximum_JJ 
+weight_NN1 ratio_NN1 (_( MR_NNB )_) rule_NN1 and_CC the_AT maximum_JJ 
+weight_NN1 (_( MW_NNU )_) rule_NN1 are_VBR the_AT ideal_NN1 dispatching_VVG 
+solutions_NN2 to_II the_AT multiple_JJ AYCs_NN2 dispatching_VVG problem_NN1 
+._. 

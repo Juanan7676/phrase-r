@@ -1,0 +1,32 @@
+Ionization_NN1 phenomenon_NN1 is_VBZ happened_VVN on_II the_AT wave_NN1 
+front_NN1 due_II21 to_II22 the_AT presence_NN1 of_IO high_JJ temperature_NN1 
+and_CC pressure_NN1 in_II the_AT detonation_NN1 process_NN1 ._. 
+Plasma_NN1 produced_VVN in_II the_AT detonation_NN1 process_NN1 can_VM be_VBI 
+used_VVN as_CSA magnetohydrodynamic_JJ (_( MHD_NP1 )_) generator_NN1 or_CC 
+flow_NN1 controlled_VVN by_II the_AT external_JJ magnetic_JJ field_NN1 ._. 
+However_RR ,_, it_PPH1 is_VBZ necessary_JJ to_TO increase_VVI the_AT 
+ionization_NN1 efficiency_NN1 by_II adding_VVG metal_NN1 ions_NN2 with_IW 
+lower_JJR ionization_NN1 potential_NN1 owing_II21 to_II22 the_AT limited_JJ 
+amount_NN1 of_IO plasma_NN1 produced_VVN by_II detonation_NN1 ._. 
+In_II this_DD1 paper_NN1 ,_, a_AT1 model_NN1 of_IO pulse_NN1 detonation_NN1 
+engine_NN1 with_IW ionization_NN1 seeds_NN2 was_VBDZ established_VVN ._. 
+The_AT Conservation_JJ Element_NN1 and_CC Solution_NN1 Element_NN1 (_( 
+CE/SE_NP1 )_) method_NN1 was_VBDZ deduced_VVN to_TO simulate_VVI the_AT 
+interaction_NN1 between_II plasma_NN1 and_CC detonation_NN1 process_NN1 ._. 
+The_AT influence_NN1 of_IO ionization_NN1 seed_NN1 contents_NN2 on_II the_AT 
+electrical_JJ conductivity_NN1 and_CC detonation_NN1 characteristic_NN1 
+parameters_NN2 was_VBDZ analyzed_VVN ,_, and_CC the_AT MHD_NP1 control_NN1 
+of_IO detonation_NN1 process_NN1 was_VBDZ realized_VVN by_II adding_VVG the_AT 
+external_JJ electromagnetic_JJ field_NN1 device_NN1 ._. 
+The_AT results_NN2 showed_VVD that_CST it_PPH1 had_VHD a_AT1 little_JJ 
+influence_NN1 on_II the_AT detonation_NN1 process_NN1 but_CCB a_AT1 great_JJ 
+influence_NN1 on_II the_AT generation_NN1 of_IO detonation_NN1 plasma_NN1 
+by_II the_AT addition_NN1 of_IO a_AT1 certain_JJ amount_NN1 of_IO ionized_JJ 
+seed_NN1 ._. 
+The_AT ion_NN1 mass_NN1 fraction_NN1 and_CC electrical_JJ conductivity_NN1 
+in_II the_AT detonation_NN1 tube_NN1 were_VBDR first_MD increased_JJ and_CC 
+then_RT decreased_VVN with_IW the_AT increase_NN1 of_IO ionization_NN1 
+seed_NN1 content_NN1 ,_, which_DDQ reached_VVD the_AT maximum_NN1 at_II the_AT 
+ionization_NN1 seed_NN1 mass_NN1 fraction_NN1 of_IO 0.05_MC ._. 
+The_AT acceleration_NN1 and_CC deceleration_NN1 process_NN1 could_VM be_VBI 
+achieved_VVN by_II the_AT MHD_NP1 control_NN1 ._. 

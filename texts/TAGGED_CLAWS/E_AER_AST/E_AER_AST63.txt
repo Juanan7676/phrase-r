@@ -1,0 +1,26 @@
+For_IF a_AT1 better_JJR understanding_NN1 of_IO the_AT flow_NN1 
+instability_NN1 in_II TBCC_NP1 inlet_NN1 ,_, the_AT unstart/restart_NN1 
+characteristics_NN2 have_VH0 been_VBN investigated_VVN ._. 
+Firstly_RR ,_, the_AT flow_NN1 field_NN1 of_IO TBCC_NP1 inlet_NN1 at_II 
+different_JJ transition_NN1 stages_NN2 are_VBR analyzed_VVN ._. 
+As_II the_AT splitter_JJR rotates_NN2 from_II upside_NN1 to_II downside_NN1 
+(_( transition_NN1 from_II low-speed_JJ inlet_NN1 to_II high-speed_JJ 
+inlet_NN1 )_) with_IW a_AT1 fixed_JJ backpressure_NN1 ,_, the_AT shock_NN1 
+train_NN1 moves_VVZ downstream_RL ._. 
+The_AT maximum_JJ backpressure_NN1 that_CST the_AT inlet_NN1 can_VM 
+tolerate_VVI also_RR rises_VVZ ._. 
+Secondly_RR ,_, according_II21 to_II22 the_AT unstart_NN1 boundary_NN1 (_( 
+namely_REX maximum_JJ backpressure_NN1 )_) and_CC restart_VV0 boundary_NN1 ,_, 
+it_PPH1 can_VM be_VBI found_VVN that_CST if_CS the_AT inlet_NN1 is_VBZ 
+propelled_VVN to_TO transit_VVI from_II started_VVD state_NN1 to_II 
+unstarted_JJ state_NN1 ,_, inlet_NN1 restart_NN1 can_VM not_XX be_VBI 
+achieved_VVN along_II the_AT same_DA control_NN1 route_NN1 ._. 
+Unstart/restart_VV0 hysteresis_NN1 loops_NN2 in_II each_DD1 transition_NN1 
+phase_NN1 are_VBR discussed_VVN according_II21 to_II22 the_AT simulation_NN1 
+results_NN2 ._. 
+Besides_II the_AT hysteresis_NN1 behavior_NN1 under_II backpressure_NN1 ,_, 
+the_AT same_DA phenomenon_NN1 is_VBZ also_RR observed_VVN during_II the_AT 
+inlet_NN1 transition_NN1 process_NN1 ._. 
+Finally_RR ,_, the_AT distinctiveness_NN1 of_IO the_AT hysteresis_NN1 
+caused_VVN by_II inlet_NN1 mode_NN1 transition_NN1 is_VBZ also_RR 
+discussed_VVN ._. 

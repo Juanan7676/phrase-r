@@ -1,0 +1,29 @@
+This_DD1 paper_NN1 investigates_VVZ the_AT attitude_NN1 control_NN1 of_IO 
+a_AT1 modular_JJ picosatellite_NN1 named_VVD NPU-PhoneSat_NN1 based_VVN on_II 
+shape_NN1 actuation_NN1 ._. 
+The_AT PhoneSat_NN1 is_VBZ composed_VVN of_IO multiple_JJ blocks_NN2 
+connected_VVN by_II active_JJ joints_NN2 ._. 
+Much_RR like_II a_AT1 falling_JJ cat_NN1 can_VM reorient_NN1 itself_PPX1 in_II 
+mid-air_NN1 ,_, this_DD1 modular_JJ PhoneSat_NN1 could_VM reorient_NN1 
+itself_PPX1 without_IW changes_NN2 in_II net_JJ angular_JJ momentum_NN1 by_II 
+altering_VVG the_AT shape_NN1 and_CC instantaneous_JJ mass_JJ distribution_NN1 
+during_II attitude_NN1 maneuvers_NN2 ._. 
+Given_VVN size_NN1 and_CC cost_NN1 constraints_NN2 ,_, the_AT number_NN1 of_IO 
+actuators_NN2 should_VM be_VBI limited_VVN ._. 
+Thus_RR ,_, this_DD1 paper_NN1 focuses_VVZ on_II the_AT under-actuated_VVN 
+case_NN1 ._. 
+Optimal_JJ attitude_NN1 control_NN1 method_NN1 to_TO steer_VVI the_AT 
+PhoneSat_NN1 to_II the_AT desired_JJ posture_NN1 is_VBZ proposed_VVN in_II 
+this_DD1 paper_NN1 ._. 
+The_AT inequality_NN1 constraints_NN2 are_VBR established_VVN based_VVN on_II 
+the_AT capacity_NN1 of_IO the_AT actuator_NN1 ._. 
+Particle_NN1 Swarm_NN1 Optimization_NN1 algorithm_NN1 is_VBZ employed_VVN 
+to_TO search_VVI the_AT optimal_JJ control_NN1 input_NN1 to_TO achieve_VVI 
+the_AT reorientation_NN1 while_CS satisfying_VVG the_AT imposed_JJ 
+constraints_NN2 ._. 
+The_AT input_NN1 torque_NN1 is_VBZ parameterized_VVN by_II the_AT spline_NN1 
+to_TO guarantee_VVI that_DD1 initial_NN1 and_CC final_JJ values_NN2 of_IO 
+control_NN1 input_NN1 are_VBR zero_MC ._. 
+Simulation_NN1 results_NN2 of_IO zero-angular-momentum_JJ reorientation_NN1 
+of_IO the_AT PhoneSat_NN1 are_VBR presented_VVN which_DDQ confirm_VV0 the_AT 
+effectiveness_NN1 of_IO the_AT proposed_JJ method_NN1 ._. 

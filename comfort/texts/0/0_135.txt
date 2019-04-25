@@ -1,0 +1,42 @@
+In_II this_DD1 paper_NN1 ,_, an_AT1 efficient_JJ aerodynamic_JJ analysis_NN1 
+framework_NN1 is_VBZ developed_VVN for_IF the_AT conceptual_JJ design_NN1 
+of_IO lift-fan_JJ type_NN1 aircraft_NN ._. 
+The_AT lift-fan_JJ type_NN1 aircraft_NN includes_VVZ and_CC uses_VVZ a_AT1 
+rotor_NN1 in_II the_AT body_NN1 or_CC wing_NN1 for_IF vertical_JJ takeoff_NN1 
+and_CC landing_NN1 ,_, and_CC flies_VVZ differently_RR from_II a_AT1 
+rotorcraft_NN1 in_II cruise/forward_NN1 flight_NN1 ._. 
+Since_CS the_AT lift-fan_JJ type_NN1 aircraft_NN can_VM fly_VVI like_II a_AT1 
+fixed_JJ wing_NN1 vehicle_NN1 during_II cruise_NN1 past_II the_AT 
+transition_NN1 flight_NN1 phase_NN1 ,_, it_PPH1 is_VBZ possible_JJ to_TO 
+overcome_VVI the_AT range_NN1 and_CC velocity_NN1 limits_NN2 of_IO 
+conventional_JJ rotorcraft_NN1 ._. 
+To_TO investigate_VVI a_AT1 wide_JJ range_NN1 of_IO design_NN1 options_NN2 
+during_II the_AT conceptual_JJ design_NN1 ,_, rapid_JJ analyses_NN2 of_IO 
+various_JJ design_NN1 candidates_NN2 are_VBR significant_JJ as_CSA 
+high-fidelity_JJ analysis_NN1 may_VM be_VBI too_RG expensive_JJ ._. 
+A_AT1 cost-efficient_JJ ,_, lift-fan_JJ aircraft_NN aerodynamic_JJ 
+analysis_NN1 (_( LFAAA_NP1 )_) method_NN1 is_VBZ developed_VVN which_DDQ 
+consists_VVZ of_IO a_AT1 linear_JJ potential_JJ flow_NN1 solver_NN1 with_IW 
+viscous_JJ correction_NN1 ,_, the_AT Blade_NN1 Element_NN1 Momentum_NN1 
+Theory_NN1 (_( BEMT_NP1 )_) ,_, a_AT1 Power_NN1 Induced_VVD Effects_NN2 (_( 
+PIE_NN1 )_) module_NN1 and_CC momentum_NN1 drag_VV0 correction_NN1 ._. 
+The_AT greatest_JJT advantage_NN1 of_IO the_AT LFAAA_NN1 method_NN1 is_VBZ 
+low_JJ computational_JJ cost_NN1 with_IW considerable_JJ solution_NN1 
+accuracy_NN1 as_CS31 long_CS32 as_CS33 the_AT flow_NN1 conditions_NN2 are_VBR 
+in_II relatively_RR linear_JJ regions_NN2 ,_, by_II which_DDQ the_AT 
+individual_JJ component_NN1 analysis_NN1 method_NN1 is_VBZ derived_VVN ._. 
+Wind-tunnel_JJ data_NN of_IO various_JJ geometries_NN2 including_II an_AT1 
+isolated_JJ propeller_NN1 of_IO a_AT1 UAV_NN1 ,_, Lockheed_NP1 Martin_NP1 
+innovative_JJ control_NN1 effector_NN1 (_( ICE_NN1 )_) ,_, and_CC YAV-8B_FO 
+Harrier_NN1 II_MC aircraft_NN are_VBR used_VVN to_TO validate_VVI each_DD1 
+component_NN1 of_IO the_AT LFAAA_NN1 method_NN1 ,_, respectively_RR ._. 
+For_IF the_AT validation_NN1 of_IO the_AT LFAAA_NN1 method_NN1 for_IF 
+comprehensive_JJ analysis_NN1 ,_, a_AT1 complete_JJ geometry_NN1 of_IO 
+NASA_NP1 's_GE 1/8_MF scale_NN1 model_NN1 of_IO fan-in-wing_NN1 (_( FIW_NP1 
+)_) aircraft_NN is_VBZ solved_VVN and_CC the_AT computation_NN1 results_NN2 
+are_VBR validated_VVN with_IW the_AT existing_JJ wind-tunnel_JJ data_NN and_CC 
+unsteady_JJ RANS_NN2 computations_NN2 ._. 
+Results_NN2 predicted_VVN by_II the_AT LFAAA_NN1 method_NN1 show_VV0 good_JJ 
+agreements_NN2 with_IW high-fidelity_JJ URANS_NN2 and_CC wind-tunnel_JJ 
+data_NN over_II the_AT linear_JJ flow_NN1 regimes_NN2 where_RRQ no_AT flow_NN1 
+separation_NN1 is_VBZ observed_VVN ._. 

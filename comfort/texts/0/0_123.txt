@@ -1,0 +1,30 @@
+A_AT1 linear_JJ quadratic_JJ Gaussian_JJ (_( LQG_NP1 )_) based_VVN model_NN1 
+predictive_JJ control_NN1 (_( MPC_NP1 )_) method_NN1 is_VBZ proposed_VVN to_TO 
+alleviate_VVI the_AT dynamic_JJ gust_NN1 loads_NN2 of_IO flexible_JJ 
+aircrafts_NN2 flying_VVG through_II turbulence_NN1 ,_, utilizing_VVG 
+look-ahead_RL information_NN1 of_IO the_AT turbulence_NN1 via_II light_JJ 
+detection_NN1 and_CC ranging_VVG (_( LIDAR_NP1 )_) systems_NN2 or_CC on_RL21 
+board_RL22 alpha_NN1 probe_NN1 ._. 
+The_AT new_JJ method_NN1 features_NN2 both_RR infinite_JJ prediction_NN1 
+horizon_NN1 and_CC infinite_JJ control_NN1 horizon_NN1 ._. 
+The_AT forepart_NN1 of_IO the_AT infinite_JJ control_NN1 sequence_NN1 
+consists_VVZ of_IO a_AT1 few_DA2 online_JJ optimized_JJ variables_NN2 ,_, 
+and_CC the_AT rest_NN1 are_VBR outputs_NN2 of_IO an_AT1 LQG_NP1 controller_NN1 
+,_, designed_VVD offline_RR using_VVG an_AT1 improved_JJ LQG_NP1 method_NN1 
+._. 
+The_AT advantages_NN2 of_IO the_AT proposed_JJ method_NN1 are_VBR twofold_RR 
+._. 
+Firstly_RR ,_, the_AT stability_NN1 property_NN1 of_IO the_AT controlled_JJ 
+system_NN1 is_VBZ improved_VVN due_II21 to_II22 application_NN1 of_IO the_AT 
+infinite_JJ prediction_NN1 horizon_NN1 and_CC the_AT LQG_NP1 controller_NN1 
+._. 
+Secondly_RR ,_, adoption_NN1 of_IO an_AT1 infinite_JJ control_NN1 horizon_NN1 
+not_XX only_RR improves_VVZ the_AT control_NN1 performance_NN1 ,_, but_CCB 
+also_RR greatly_RR reduces_VVZ the_AT number_NN1 of_IO online_JJ optimized_JJ 
+control_NN1 variables_NN2 whilst_CS retaining_VVG control_NN1 performance_NN1 
+._. 
+Furthermore_RR ,_, a_AT1 technique_NN1 to_TO tackle_VVI the_AT effects_NN2 
+of_IO control_NN1 delay_NN1 is_VBZ also_RR designed_VVN ._. 
+The_AT effectiveness_NN1 and_CC advantages_NN2 of_IO the_AT proposed_JJ 
+approach_NN1 are_VBR demonstrated_VVN through_II numerical_JJ results_NN2 
+using_VVG a_AT1 general_JJ transport_NN1 aircraft_NN model_NN1 ._. 

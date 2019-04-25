@@ -1,0 +1,19 @@
+In_II this_DD1 paper_NN1 ,_, a_AT1 mathematical_JJ model_NN1 of_IO 
+cancelling_VVG signal_NN1 on_II the_AT basis_NN1 ofNth-order_NN1 SSC_NN1 (_( 
+Spectrum_NN1 Spread_NN1 and_CC Compression_NN1 )_) algorithm_NN1 is_VBZ 
+established_VVN for_IF the_AT Nonlinear_JJ Frequency_NN1 Modulated_VVN (_( 
+NLFM_NP1 )_) signal_NN1 ._. 
+The_AT explicit_JJ expressions_NN2 of_IO these_DD2 cancelling_VVG signals_NN2 
+are_VBR derived_VVN ._. 
+Simulation_NN1 results_NN2 show_VV0 that_CST the_AT cancelling_VVG signal_NN1 
+could_VM reduce_VVI the_AT target_NN1 gain_NN1 when_CS the_AT time_NNT1 
+delay_NN1 is_VBZ relatively_RR large_JJ ._. 
+The_AT proposed_JJ method_NN1 is_VBZ compared_VVN with_IW the_AT existing_JJ 
+methods_NN2 in_II the_AT literature_NN1 and_CC satisfactory_JJ results_NN2 
+obtained_VVN ._. 
+Comparison_NN1 between_II active_JJ cancellation_NN1 technology_NN1 and_CC 
+passive_JJ stealth_NN1 technology_NN1 is_VBZ implemented_VVN in_II detail_NN1 
+._. 
+The_AT discussions_NN2 demonstrate_VV0 that_CST active_JJ cancellation_NN1 
+technology_NN1 is_VBZ more_RGR applicable_JJ to_TO solve_VVI the_AT 
+low-frequency_JJ stealth_NN1 problem_NN1 ._. 

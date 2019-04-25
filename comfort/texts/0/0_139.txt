@@ -1,0 +1,33 @@
+The_AT time-to-go_JJ estimation_NN1 problem_NN1 is_VBZ an_AT1 important_JJ 
+issue_NN1 in_II various_JJ guidance_NN1 laws_NN2 '_GE designing_NN1 and_CC 
+implementing_VVG ._. 
+In_II this_DD1 paper_NN1 ,_, a_AT1 time-to-go_JJ estimation_NN1 method_NN1 
+is_VBZ proposed_VVN for_IF missiles_NN2 guided_VVN by_II terminal_JJ 
+sliding_JJ mode_NN1 control_NN1 (_( TSMC_NP1 )_) based_VVN impact_NN1 
+angle_NN1 constrained_VVD guidance_NN1 (_( IACG_NP1 )_) ._. 
+To_TO facilitate_VVI estimating_VVG the_AT time-to-go_JJ ,_, a_AT1 reaching_JJ 
+law_NN1 approach_NN1 in_II the_AT sliding_JJ mode_NN1 control_NN1 (_( SMC_NN1 
+)_) is_VBZ applied_VVN to_TO design_VVI the_AT TSMC_NP1 based_VVD IACG_NP1 ._. 
+In_II this_DD1 way_NN1 the_AT interception_NN1 process_NN1 can_VM be_VBI 
+clearly_RR divided_VVN into_II two_MC phases_NN2 :_: outside_II21 of_II22 
+the_AT sliding_JJ mode_NN1 surface_NN1 and_CC inside_NN1 of_IO the_AT 
+sliding_JJ mode_NN1 surface_NN1 ._. 
+The_AT character_NN1 of_IO the_AT reaching_JJ law_NN1 approach_NN1 is_VBZ 
+utilized_VVN to_TO estimate_VVI the_AT time-to-go_JJ in_II the_AT first_MD 
+phase_NN1 ._. 
+And_CC in_II the_AT second_MD phase_NN1 ,_, a_AT1 geometric_JJ method_NN1 
+is_VBZ designed_VVN to_TO estimate_VVI the_AT rest_NN1 of_IO time-to-go_JJ ._. 
+In_RR21 addition_RR22 ,_, another_DD1 geometric_JJ method_NN1 is_VBZ 
+applied_VVN to_TO approximately_RR calculate_VVI an_AT1 important_JJ 
+parameter_NN1 of_IO the_AT proposed_JJ time-to-go_JJ estimation_NN1 method_NN1 
+._. 
+This_DD1 parameter_NN1 measures_VVZ the_AT curve_NN1 flexibility_NN1 of_IO 
+the_AT flight_NN1 trajectory_NN1 ._. 
+Then_RT ,_, based_VVN on_II the_AT conception_NN1 of_IO 
+predicted-intercept-point_NN1 (_( PIP_NP1 )_) ,_, the_AT proposed_JJ 
+time-to-go_JJ estimation_NN1 method_NN1 can_VM be_VBI extended_VVN to_II 
+the_AT scene_NN1 of_IO intercepting_VVG the_AT constant_JJ velocity_NN1 
+targets_NN2 ._. 
+In_II the_AT end_NN1 ,_, numerical_JJ simulation_NN1 results_NN2 are_VBR 
+presented_VVN to_TO illustrate_VVI the_AT effectiveness_NN1 of_IO the_AT 
+proposed_JJ time-to-go_JJ estimation_NN1 method_NN1 ._. 

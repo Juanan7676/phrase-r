@@ -1,0 +1,33 @@
+In_BCL21 order_BCL22 to_TO explore_VVI the_AT drag_VV0 reduction_NN1 
+performance_NN1 ,_, an_AT1 experimental_JJ and_CC computational_JJ 
+research_NN1 effort_NN1 for_IF aero_NN1 engine_NN1 blade_NN1 with_IW 
+micro-texture_NN1 is_VBZ undertaken_VVN ._. 
+An_AT1 optimized_JJ drag_VV0 reduction_NN1 model_NN1 on_II blade_NN1 with_IW 
+micro-textures_NN2 is_VBZ established_VVN for_IF this_DD1 effort_NN1 in_II 
+this_DD1 paper_NN1 ._. 
+First_MD ,_, a_AT1 new_JJ method_NN1 is_VBZ proposed_VVN to_TO determine_VVI 
+the_AT placement_NN1 position_NN1 of_IO micro-texture_NN1 on_II blade_NN1 
+surface_NN1 through_II the_AT analysis_NN1 of_IO flow_NN1 domain_NN1 around_II 
+blade_NN1 surface_NN1 and_CC geometric_JJ model_NN1 of_IO micro-textures_NN2 
+on_II blade_NN1 surface_NN1 is_VBZ established_VVN based_VVN on_II the_AT 
+proposed_JJ method_NN1 ._. 
+Then_RT the_AT section_NN1 shape_NN1 of_IO micro_NN1 texture_NN1 with_IW 
+the_AT better_RRR drag_VVI reduction_NN1 performance_NN1 is_VBZ determined_VVN 
+by_II FEA_NP1 (_( Finite_JJ Element_NN1 Analysis_NN1 )_) simulation_NN1 for_IF 
+the_AT established_JJ geometric_JJ model_NN1 of_IO micro-textures_NN2 on_II 
+blade_NN1 surface_NN1 ._. 
+Finally_RR ,_, an_AT1 optimized_JJ method_NN1 for_IF drag_VV0 reduction_NN1 
+performance_NN1 of_IO micro-texturing_VVG size_NN1 is_VBZ proposed_VVN and_CC 
+an_AT1 optimized_JJ drag_VV0 reduction_NN1 model_NN1 of_IO textured_JJ 
+blade_NN1 is_VBZ established_VVN ._. 
+The_AT simulation_NN1 experiments_NN2 for_IF drag_VV0 reduction_NN1 
+performance_NN1 of_IO un-textured_JJ blade_NN1 and_CC textured_JJ blade_NN1 
+with_IW optimized_JJ micro-texture_NN1 is_VBZ conducted_VVN ._. 
+The_AT comparison_NN1 results_NN2 show_VV0 that_CST the_AT established_JJ 
+drag_VV0 reduction_NN1 model_NN1 of_IO textured_JJ blade_NN1 has_VHZ 
+better_RRR drag_VVI reduction_NN1 performance_NN1 than_CSN that_DD1 of_IO 
+un-textured_JJ blade_NN1 and_CC verify_VV0 that_CST the_AT proposed_JJ 
+methods_NN2 to_TO determine_VVI the_AT placement_NN1 position_NN1 of_IO 
+micro-texture_NN1 on_II blade_NN1 surface_NN1 and_CC to_TO optimize_VVI 
+drag_VV0 reduction_NN1 performance_NN1 of_IO textured_JJ blade_NN1 are_VBR 
+satisfied_JJ ._. 

@@ -1,0 +1,37 @@
+The_AT instability_NN1 problems_NN2 tend_VV0 to_TO be_VBI more_RGR severe_JJ 
+when_CS high_JJ speed_NN1 compressors_NN2 operate_VV0 at_II partial_JJ 
+speeds_NN2 ._. 
+This_DD1 paper_NN1 proposes_VVZ an_AT1 economic_JJ approach_NN1 for_IF 
+casing_NN1 treatment_NN1 design_NN1 that_CST suitable_JJ to_II this_DD1 
+situation_NN1 ._. 
+Aiming_VVG at_II reducing_VVG the_AT expensive_JJ and_CC time-consuming_JJ 
+high-speed_JJ casing_NN1 treatment_NN1 experiments_NN2 ,_, the_AT idea_NN1 
+of_IO low-speed_JJ similitude_NN1 of_IO high-speed_JJ compressors_NN2 ,_, 
+which_DDQ was_VBDZ originally_RR practiced_VVN in_II mid-1980_MC with_IW 
+the_AT purpose_NN1 of_IO loss_NN1 reduction_NN1 ,_, is_VBZ now_RT extended_VVN 
+to_TO simulate_VVI the_AT stability_NN1 enhancement_NN1 with_IW casing_NN1 
+treatment_NN1 in_II this_DD1 paper_NN1 ._. 
+The_AT core_NN1 idea_NN1 of_IO this_DD1 approach_NN1 is_VBZ to_TO replace_VVI 
+a_AT1 large_JJ portion_NN1 of_IO design_NN1 processes_NN2 for_IF the_AT 
+high-speed_JJ compressors_NN2 (_( the_AT Prototype_NN1 )_) with_IW their_APPGE 
+equivalent_JJ large_JJ scale_NN1 model_NN1 compressors_NN2 (_( the_AT 
+Model_NN1 )_) ._. 
+Two_MC different_JJ transonic_JJ rotors_NN2 with_IW skewed_JJ slots_NN2 and_CC 
+circumferential_JJ grooves_NN2 casing_VVG treatments_NN2 are_VBR conducted_VVN 
+as_CSA examples_NN2 to_TO demonstrate_VVI this_DD1 approach_NN1 ._. 
+Following_VVG the_AT selected_JJ similarity_NN1 rules_NN2 ,_, the_AT Model_NN1 
+is_VBZ firstly_RR acquired_VVN by_II modeling_VVG the_AT near_JJ stall_NN1 
+point_NN1 of_IO the_AT Prototype_NN1 ._. 
+A_AT1 variety_NN1 of_IO casing_NN1 treatments_NN2 are_VBR designed_VVN and_CC 
+assessed_VVN on_II the_AT Model_NN1 ._. 
+Then_RT a_AT1 few_DA2 more_DAR promising_JJ configurations_NN2 can_VM thus_RR 
+be_VBI selected_VVN via_II low_JJ speed_NN1 experiments_NN2 ._. 
+They_PPHS2 are_VBR believed_VVN to_TO have_VHI similar_JJ tendency_NN1 on_II 
+stall_NN1 margin_NN1 improvement_NN1 on_II the_AT Prototype_NN1 ._. 
+Finally_RR ,_, the_AT selected_JJ configurations_NN2 are_VBR converted_VVN 
+back_RP to_II the_AT Prototype_NN1 with_IW based_VVN on_II the_AT rule_NN1 
+of_IO similarity_NN1 and_CC validated_VVD by_II experimental_JJ data_NN ._. 
+In_II this_DD1 paper_NN1 ,_, principles_NN2 that_CST guarantee_VV0 the_AT 
+similitude_NN1 of_IO the_AT flow_NN1 field_NN1 at_II near_RL stall_VV0 
+condition_NN1 and_CC the_AT effectiveness_NN1 of_IO the_AT casing_NN1 
+treatment_NN1 are_VBR discussed_VVN ._. 

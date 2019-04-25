@@ -1,0 +1,33 @@
+Code_VV0 Differential_JJ Global_JJ Positioning_NN1 System_NN1 (_( DGPS_NP1 )_) 
+is_VBZ widely_RR used_VVN in_II satellite_NN1 navigation_NN1 and_CC 
+positioning_VVG because_II21 of_II22 its_APPGE simple_JJ algorithm_NN1 and_CC 
+preferable_JJ precision_NN1 ._. 
+Multi-Global_JJ Navigation_NN1 Satellite_NN1 System_NN1 (_( GNSS_NP1 )_) 
+is_VBZ expected_VVN to_TO enhance_VVI the_AT accuracy_NN1 ,_, reliability_NN1 
+and_CC availability_NN1 of_IO Differential_JJ GNSS_NP1 (_( DGNSS_NP1 )_) 
+positioning_NN1 ._. 
+Traditional_JJ DGNSS_NP1 models_NN2 should_VM set_VVI separate_JJ clock_NN1 
+parameters_NN2 due_II21 to_II22 the_AT clock_NN1 differences_NN2 between_II 
+the_AT different_JJ systems_NN2 ._. 
+Awareness_NN1 of_IO the_AT Inter-System_NP1 Bias_NN1 (_( ISB_NP1 )_) could_VM 
+help_VVI to_TO maximise_VVI the_AT redundancy_NN1 of_IO the_AT positioning_NN1 
+model_NN1 ,_, thus_RR improving_VVG the_AT performance_NN1 of_IO multi-GNSS_JJ 
+positioning_NN1 ._. 
+This_DD1 paper_NN1 aims_VVZ to_TO examine_VVI the_AT inter-system_JJ bias_NN1 
+of_IO GPS/GLONASS/BeiDou_FU (_( BDS_NP1 )_) /Galileo_NN1 and_CC their_APPGE 
+benefits_NN2 in_II DGNSS_NP1 positioning_NN1 ._. 
+Results_NN2 show_VV0 that_CST Differential_JJ ISB_NN1 (_( DISB_NP1 )_) 
+characteristics_NN2 vary_VV0 with_IW different_JJ receiver_NN1 types_NN2 
+and_CC systems_NN2 ._. 
+The_AT size_NN1 of_IO DISB_NN1 could_VM reach_VVI metre-level_JJ and_CC the_AT 
+precision_NN1 of_IO estimated_JJ DISBs_NN2 can_VM reach_VVI approximately_RR 
+several_DA2 centimetres_NNU2 within_II tens_MC2 of_IO epochs_NN2 ._. 
+Therefore_RR ,_, a_AT1 new_JJ real-time_NN1 DGNSS_NP1 model_NN1 that_CST 
+accounts_VVZ for_IF ISB_NN1 is_VBZ proposed_VVN ._. 
+After_CS differential_JJ ISBs_NN2 are_VBR initialised_VVN ,_, positioning_VVG 
+with_IW four_MC satellites_NN2 from_II arbitrarily_RR the_AT same_DA or_CC 
+different_JJ systems_NN2 can_VM be_VBI realised_VVN ._. 
+Moreover_RR ,_, compared_VVN with_IW the_AT traditional_JJ DGNSS_NP1 model_NN1 
+,_, the_AT precision_NN1 of_IO the_AT positioning_NN1 results_NN2 with_IW 
+the_AT new_JJ model_NN1 are_VBR obviously_RR improved_VVN ,_, especially_RR 
+in_II harsh_JJ environments_NN2 ._. 

@@ -1,0 +1,25 @@
+In_II this_DD1 paper_NN1 a_AT1 fast_JJ automatic_JJ design_NN1 environment_NN1 
+is_VBZ developed_VVN ,_, making_VVG use_NN1 of_IO a_AT1 well_NN1 
+established_VVN and_CC validated_JJ turbomachinery_NN1 design_NN1 software_NN1 
+system_NN1 for_IF geometry_NN1 generation_NN1 and_CC flow_NN1 analysis_NN1 ._. 
+The_AT design_NN1 is_VBZ updated_VVN via_II a_AT1 gradient_NN1 based_VVN 
+algorithm_NN1 ,_, where_CS gradients_NN2 are_VBR obtained_VVN using_VVG an_AT1 
+adjoint_JJ method_NN1 ._. 
+The_AT computational_JJ advantages_NN2 of_IO Graphics_NN Processing_VVG 
+Units_NN2 are_VBR used_VVN to_TO accelerate_VVI the_AT mesh_NN1 generation_NN1 
+and_CC flow_NN1 analysis_NN1 ._. 
+The_AT capabilities_NN2 of_IO the_AT system_NN1 are_VBR illustrated_VVN by_II 
+automatically_RR generating_VVG two_MC Low_JJ Pressure_NN1 Turbine_NN1 
+vanes_NN2 ,_, and_CC comparing_VVG them_PPHO2 to_II the_AT ones_NN2 
+arrived_VVN at_II by_II a_AT1 human_JJ designer_NN1 ,_, respecting_II the_AT 
+same_DA explicit_JJ design_NN1 criteria_NN2 ._. 
+The_AT quality_NN1 of_IO the_AT automatically_RR designed_VVN airfoils_NN2 
+is_VBZ assessed_VVN against_II the_AT human_JJ generated_JJ ones_NN2 ,_, 
+and_CC insight_NN1 on_II the_AT influence_NN1 of_IO implicit_JJ criteria_NN2 
+is_VBZ extracted_VVN ._. 
+It_PPH1 is_VBZ concluded_VVN that_CST acceptable_JJ quality_NN1 geometries_NN2 
+can_VM be_VBI designed_VVN automatically_RR in_II a_AT1 short_JJ time_NNT1 ._. 
+For_REX21 instance_REX22 ,_, the_AT automatic_JJ procedure_NN1 takes_VVZ of_IO 
+the_AT order_NN1 of_IO two_MC days_NNT2 for_IF an_AT1 equivalent_JJ human_JJ 
+driven_JJ case_NN1 ,_, where_CS the_AT designer_NN1 took_VVD of_IO the_AT 
+order_NN1 of_IO two_MC weeks_NNT2 ._. 

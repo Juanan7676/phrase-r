@@ -1,0 +1,26 @@
+This_DD1 paper_NN1 addresses_VVZ the_AT control_NN1 problem_NN1 of_IO 
+air-breathing_JJ hypersonic_JJ vehicles_NN2 subject_II21 to_II22 input_NN1 
+nonlinearities_NN2 ,_, aerodynamic_JJ uncertainties_NN2 and_CC flexible_JJ 
+modes_NN2 ._. 
+An_AT1 adaptive_JJ backstepping_JJ controller_NN1 and_CC a_AT1 dynamic_JJ 
+inverse_JJ controller_NN1 are_VBR developed_VVN for_IF the_AT altitude_NN1 
+subsystem_NN1 and_CC the_AT velocity_NN1 subsystem_NN1 ,_, respectively_RR ,_, 
+where_CS the_AT former_DA eliminates_VVZ the_AT problem_NN1 of_IO 
+Sexplosion_NN1 of_IO terms_NN2 inherent_JJ in_II backstepping_VVG control_NN1 
+._. 
+Moreover_RR ,_, a_AT1 modified_JJ smooth_JJ inverse_NN1 of_IO the_AT 
+dead-zone_NN1 is_VBZ proposed_VVN to_TO compensate_VVI for_IF the_AT 
+dead-zone_JJ effects_NN2 and_CC reduce_VVI the_AT computational_JJ burden_NN1 
+._. 
+Based_VVN on_II this_DD1 smooth_JJ inverse_NN1 ,_, an_AT1 input_NN1 
+nonlinear_JJ pre-compensator_NN1 is_VBZ designed_VVN to_TO handle_VVI 
+input_NN1 saturation_NN1 and_CC dead-zone_JJ nonlinearities_NN2 ,_, which_DDQ 
+leads_VVZ to_II a_AT1 simpler_JJR control_NN1 design_NN1 for_IF the_AT 
+altitude_NN1 subsystem_NN1 subject_II21 to_II22 these_DD2 two_MC input_NN1 
+nonlinearities_NN2 ._. 
+It_PPH1 is_VBZ proved_VVN that_CST the_AT proposed_JJ controllers_NN2 can_VM 
+guarantee_VVI that_CST all_DB closed-loop_JJ signals_NN2 are_VBR bounded_VVN 
+and_CC the_AT tracking_JJ errors_NN2 converge_VV0 to_II an_AT1 arbitrarily_RR 
+small_JJ residual_JJ set_NN1 ._. 
+Simulation_NN1 results_NN2 are_VBR carried_VVN out_RP to_TO demonstrate_VVI 
+the_AT effectiveness_NN1 of_IO the_AT proposed_JJ control_NN1 scheme_NN1 ._. 

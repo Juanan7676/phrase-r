@@ -1,0 +1,25 @@
+An_AT1 efficient_JJ NavierStokes_NP2 solver_NN1 for_IF the_AT 
+infinite-swept_JJ wing_NN1 problem_NN1 is_VBZ presented_VVN ._. 
+The_AT new_JJ flow_NN1 solution_NN1 ,_, that_DD1 reproduces_VVZ correctly_RR 
+the_AT physics_NN1 responsible_JJ for_IF cross-flow_JJ effects_NN2 ,_, is_VBZ 
+obtained_VVN around_II a_AT1 two-dimensional_JJ stencil_NN1 ._. 
+On_II the_AT contrary_NN1 ,_, existing_JJ state-of-the-art_JJ methods_NN2 
+rely_VV0 on_II a_AT1 three-dimensional_JJ stencil_NN1 ._. 
+Numerical_JJ details_NN2 are_VBR followed_VVN by_II an_AT1 extensive_JJ 
+validation_NN1 campaign_NN1 ,_, including_II steady_JJ and_CC unsteady_JJ 
+compressible_JJ flows_NN2 ._. 
+The_AT test_NN1 cases_NN2 are_VBR for_IF single_JJ and_CC multi-element_JJ 
+aerofoils_NN2 in_II both_DB2 laminar_JJ and_CC turbulent_JJ regimes_NN2 ._. 
+Under_II identical_JJ conditions_NN2 (_( numerical_JJ settings_NN2 ,_, 
+grids_NN2 ,_, etc._RA )_) ,_, the_AT computational_JJ cost_NN1 of_IO the_AT 
+proposed_JJ solver_NN1 was_VBDZ reduced_VVN by_II at_RR21 least_RR22 75%_NNU 
+compared_VVN to_II that_DD1 of_IO existing_JJ state-of-the-art_JJ methods_NN2 
+._. 
+This_DD1 was_VBDZ also_RR confirmed_VVN employing_JJ various_JJ turbulence_NN1 
+models_NN2 ._. 
+With_IW a_AT1 limited_JJ effort_NN1 required_VVN to_TO enhance_VVI an_AT1 
+existing_JJ computational_JJ fluid_NN1 dynamics_NN solver_NN1 (_( either_RR 
+two_MC or_CC three-dimensional_JJ )_) ,_, the_AT infinite-swept_JJ wing_NN1 
+method_NN1 was_VBDZ implemented_VVN in_II an_AT1 industrial-grade_JJ 
+package_NN1 used_VVN across_II Europe_NP1 for_IF rapid_JJ engineering_NN1 
+analysis_NN1 ._. 

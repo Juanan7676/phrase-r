@@ -1,0 +1,27 @@
+A_AT1 novel_JJ multiple_NN1 constrained_VVD adaptive_JJ gliding_NN1 
+guidance_NN1 method_NN1 which_DDQ is_VBZ independent_JJ of_IO 
+quasi-equilibrium_NN1 gliding_NN1 condition_NN1 (_( QEGC_NP1 )_) and_CC 
+standard_JJ trajectory_NN1 is_VBZ proposed_VVN in_II this_DD1 paper_NN1 ._. 
+The_AT gliding_NN1 guidance_NN1 task_NN1 is_VBZ decomposed_VVN into_II 
+longitudinal_JJ and_CC lateral_JJ directions_NN2 ._. 
+In_II longitudinal_JJ direction_NN1 ,_, an_AT1 altitude_NN1 control_NN1 
+model_NN1 is_VBZ established_VVN independent_JJ of_IO QEGC_NP1 ,_, a_AT1 
+hierarchical_JJ adaptive_JJ guidance_NN1 strategy_NN1 is_VBZ introduced_VVN 
+to_TO control_VVI the_AT vehicle_NN1 to_TO achieve_VVI equilibrium_NN1 
+flight_NN1 state_NN1 and_CC to_TO meet_VVI the_AT terminal_JJ altitude_NN1 
+and_CC flight-path_NN1 angle_NN1 constraints_NN2 ._. 
+In_II lateral_JJ direction_NN1 ,_, a_AT1 heading_NN1 error_NN1 control_NN1 
+model_NN1 is_VBZ constructed_VVN and_CC the_AT optimal_JJ control_NN1 is_VBZ 
+employed_VVN to_TO eliminate_VVI the_AT heading_NN1 error_NN1 in_II real_JJ 
+time_NNT1 with_IW minimum_JJ energy_NN1 consumption_NN1 ._. 
+In_RR21 addition_RR22 ,_, the_AT terminal_JJ velocity_NN1 magnitude_NN1 is_VBZ 
+predicted_VVN and_CC corrected_VVN analytically_RR based_VVN on_II 
+liftdrag_NN1 ratio_NN1 ,_, and_CC the_AT coordination_NN1 strategy_NN1 
+between_II guidance_NN1 and_CC velocity_NN1 control_NN1 is_VBZ proposed_VVN 
+to_TO realize_VVI multi-constraint_JJ gliding_NN1 guidance_NN1 ._. 
+This_DD1 algorithm_NN1 can_VM generate_VVI angle-of-attack_JJ and_CC bank_NN1 
+angle_NN1 commands_NN2 which_DDQ can_VM meet_VVI the_AT given_JJ terminal_JJ 
+constraints_NN2 with_IW high_JJ precision_NN1 based_VVN on_II the_AT 
+current_JJ flight_NN1 states_VVZ analytically_RR ,_, and_CC has_VHZ strong_JJ 
+robustness_NN1 to_II the_AT initial_JJ deviation_NN1 and_CC environmental_JJ 
+deviation_NN1 ._. 

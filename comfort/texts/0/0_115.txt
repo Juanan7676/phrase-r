@@ -1,0 +1,40 @@
+Existing_JJ sounding_NN1 rockets_NN2 are_VBR based_VVN on_II earlier_JJR 
+proven_JJ designs_NN2 and_CC often_RR utilize_VV0 surplus_JJ military_JJ 
+solid_JJ rocket_NN1 motors_NN2 ._. 
+Therefore_RR commonly_RR non-optimal_JJ ,_, in_II31 terms_II32 of_II33 
+performance_NN1 for_IF a_AT1 given_JJ payload_NN1 ,_, configurations_NN2 
+are_VBR utilized_VVN ._. 
+This_DD1 paper_NN1 presents_VVZ a_AT1 methodology_NN1 for_IF finding_VVG 
+close-to-optimal_JJ ,_, in_II31 terms_II32 of_II33 launch_NN1 mass_NN1 
+minimization_NN1 ,_, design_NN1 configurations_NN2 for_IF small_JJ unguided_JJ 
+sounding_NN1 rockets_NN2 ._. 
+A_AT1 numerical_JJ ,_, multidisciplinary_JJ approach_NN1 is_VBZ used_VVN ._. 
+During_II the_AT optimization_NN1 process_NN1 vehicle_NN1 sizing_VVG and_CC 
+corresponding_JJ aerodynamics_NN1 modelling_NN1 is_VBZ done_VDN ._. 
+The_AT implemented_JJ flight_NN1 simulation_NN1 module_NN1 is_VBZ 
+simplified_VVN due_II21 to_II22 unknown_JJ ,_, during_II the_AT conceptual_JJ 
+design_NN1 phase_NN1 ,_, rocket_NN1 mass_NN1 distributions_NN2 along_II 
+vehicle_NN1 major_JJ axes_NN2 ._. 
+Special_JJ attention_NN1 is_VBZ given_VVN to_II propulsion_NN1 system_NN1 
+sizing_VVG and_CC thrust_VV0 level_JJ selection_NN1 ._. 
+This_DD1 paper_NN1 presents_VVZ optimization_NN1 of_IO sounding_VVG 
+rockets_NN2 with_IW lift_NN1 capabilities_NN2 equivalent_JJ to_II sending_VVG 
+small_JJ payloads_NN2 above_II the_AT Von_NP1 Karman_NP1 line_NN1 ._. 
+The_AT ultimate_JJ aim_NN1 of_IO this_DD1 paper_NN1 is_VBZ to_TO present_VVI 
+methods_NN2 to_TO improve_VVI sounding_VVG rocket_NN1 performance_NN1 at_II 
+an_AT1 early_JJ stage_NN1 of_IO design_NN1 ,_, to_TO enable_VVI conducting_VVG 
+more_RGR efficient_JJ microgravity_NN1 research_NN1 ._. 
+Various_JJ concepts_NN2 ,_, such_II21 as_II22 using_VVG different_JJ 
+expansion_NN1 ratio_NN1 nozzles_NN2 for_IF different_JJ payload_NN1 
+envelopes_NN2 and_CC masses_NN2 ,_, are_VBR discussed_VVN ._. 
+Optimization_NN1 results_NN2 for_IF maximizing_VVG the_AT apogee_NN1 of_IO 
+a_AT1 small_JJ sounding_NN1 rocket_NN1 are_VBR presented_VVN ._. 
+Due_II21 to_II22 the_AT lack_NN1 of_IO published_JJ corresponding_JJ 
+research_NN1 ,_, guidelines_NN2 for_IF future_JJ sounding_NN1 rocket_NN1 
+developments_NN2 ,_, based_VVN on_II numerical_JJ investigations_NN2 ,_, 
+are_VBR given_VVN ._. 
+The_AT significance_NN1 of_IO the_AT study_NN1 is_VBZ due_II21 to_II22 the_AT 
+emergence_NN1 of_IO new_JJ sounding_NN1 rocket_NN1 designs_NN2 ,_, without_IW 
+use_NN1 of_IO surplus_JJ motors_NN2 ,_, and_CC the_AT possibility_NN1 to_TO 
+improve_VVI vehicle_NN1 efficiency_NN1 after_II a_AT1 few_DA2 decades_NNT2 
+of_IO little_JJ alteration_NN1 ._. 

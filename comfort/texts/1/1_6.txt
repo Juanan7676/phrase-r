@@ -1,0 +1,61 @@
+It_PPH1 is_VBZ envisaged_VVN that_CST the_AT next_MD generation_NN1 of_IO 
+civil_JJ large_JJ turbofan_JJ engines_NN2 will_VM be_VBI designed_VVN for_IF 
+greater_JJR bypass_NN1 ratios_NN2 when_CS compared_VVN to_II contemporary_JJ 
+architectures_NN2 ._. 
+The_AT underlying_JJ motivation_NN1 is_VBZ to_TO reduce_VVI specific_JJ 
+thrust_NN1 and_CC improve_VVI propulsive_JJ efficiency_NN1 ._. 
+Concurrently_RR ,_, the_AT aerodynamic_JJ performance_NN1 of_IO the_AT 
+exhaust_NN1 system_NN1 is_VBZ anticipated_VVN to_TO play_VVI a_AT1 key_JJ 
+role_NN1 in_II the_AT success_NN1 of_IO future_JJ engine_NN1 architectures_NN2 
+._. 
+The_AT transonic_JJ flow_NN1 topology_NN1 downstream_RL of_IO the_AT 
+bypass_NN1 nozzle_NN1 can_VM be_VBI significantly_RR influenced_VVN by_II 
+the_AT after-body_JJ geometry_NN1 ._. 
+This_DD1 behavior_NN1 is_VBZ further_RRR complicated_VVN by_II the_AT 
+existence_NN1 of_IO the_AT air-flow_JJ vent_NN1 on_II the_AT nozzle_NN1 
+after-body_NN1 which_DDQ can_VM have_VHI an_AT1 impact_NN1 on_II the_AT 
+performance_NN1 of_IO the_AT exhaust_NN1 system_NN1 ._. 
+This_DD1 paper_NN1 aims_VVZ to_TO investigate_VVI the_AT aerodynamics_NN2 
+associated_VVN with_IW the_AT geometry_NN1 of_IO the_AT bypass_NN1 nozzle_NN1 
+after-body_NN1 and_CC to_TO establish_VVI guidelines_NN2 for_IF the_AT 
+design_NN1 of_IO separate-jet_JJ exhausts_NN2 with_II31 respect_II32 to_II33 
+future_JJ large_JJ turbofan_JJ engines_NN2 ._. 
+A_AT1 parametric_JJ geometry_NN1 definition_NN1 has_VHZ been_VBN derived_VVN 
+based_VVN on_II Class-Shape_NP1 Transformation_NN1 (_( CST_NP1 )_) 
+functions_NN2 for_IF the_AT representation_NN1 of_IO post-nozzle-exit_JJ 
+components_NN2 such_II21 as_II22 after-bodies_NN2 ,_, plugs_NN2 ,_, and_CC 
+air-flow_JJ vents_NN2 ._. 
+The_AT developed_JJ method_NN1 has_VHZ been_VBN coupled_VVN with_IW an_AT1 
+automatic_JJ mesh_NN1 generation_NN1 and_CC a_AT1 Reynolds_NP1 Averaged_VVD 
+NavierStokes_NP2 (_( RANS_NP2 )_) flow_NN1 solution_NN1 method_NN1 ,_, thus_RR 
+devising_VVG an_AT1 integrated_JJ aerodynamic_JJ design_NN1 tool_NN1 ._. 
+A_AT1 cost-effective_JJ optimization_NN1 strategy_NN1 has_VHZ been_VBN 
+implemented_VVN consisting_VVG of_IO methods_NN2 for_IF Design_NN1 Space_NN1 
+Exploration_NN1 (_( DSE_NP1 )_) ,_, Response_NN1 Surface_NN1 Modeling_NN1 (_( 
+RSM_NP1 )_) ,_, and_CC Genetic_JJ Algorithms_NN2 (_( GAs_NN1 )_) ._. 
+The_AT combined_JJ approach_NN1 has_VHZ been_VBN deployed_VVN to_TO 
+explore_VVI the_AT aerodynamic_JJ design_NN1 space_NN1 associated_VVN with_IW 
+the_AT bypass_NN1 nozzle_NN1 after-body_NN1 geometry_NN1 for_IF a_AT1 Very_RG 
+High_JJ Bypass_NN1 Ratio_NN1 (_( VHBR_NP1 )_) turbofan_JJ engine_NN1 with_IW 
+separate-jet_JJ exhausts_NN2 ._. 
+A_AT1 detailed_JJ investigation_NN1 has_VHZ been_VBN carried_VVN out_RP to_TO 
+expose_VVI the_AT transonic_JJ flow_NN1 mechanisms_NN2 associated_VVN with_IW 
+the_AT effect_NN1 of_IO after-body_JJ curvature_NN1 combined_VVN with_IW 
+the_AT impact_NN1 of_IO the_AT air-flow_JJ vent_NN1 ._. 
+A_AT1 set_NN1 of_IO optimum_JJ curved_JJ after-body_JJ geometries_NN2 has_VHZ 
+been_VBN obtained_VVN ,_, with_IW each_DD1 subsequently_RR compared_VVN 
+against_II their_APPGE respective_JJ conical_JJ representation_NN1 ._. 
+The_AT obtained_VVN results_NN2 suggest_VV0 that_CST no_AT significant_JJ 
+performance_NN1 improvements_NN2 can_VM be_VBI obtained_VVN through_II 
+curving_VVG the_AT nozzle_NN1 after-body_NN1 relative_II21 to_II22 the_AT 
+case_NN1 of_IO a_AT1 conical_JJ design_NN1 ._. 
+However_RR ,_, it_PPH1 is_VBZ shown_VVN that_CST the_AT application_NN1 of_IO 
+surface_NN1 curvature_NN1 has_VHZ the_AT potential_JJ to_TO unlock_VVI new_JJ 
+parts_NN2 in_II the_AT design_NN1 space_NN1 that_CST allow_VV0 analysts_NN2 
+to_TO reduce_VVI the_AT required_JJ after-body_JJ length_NN1 without_IW any_DD 
+loss_NN1 in_II aerodynamic_JJ performance_NN1 ._. 
+The_AT developed_JJ approach_NN1 complements_VVZ the_AT existing_JJ 
+tool-set_NN1 of_IO enabling_VVG technologies_NN2 for_IF the_AT design_NN1 
+and_CC optimization_NN1 of_IO future_JJ large_JJ aero-engines_NN2 ,_, 
+consequently_RR leading_VVG to_II increased_JJ thrust_NN1 and_CC reduced_VVD 
+Specific_JJ Fuel_NN1 Consumption_NN1 (_( SFC_NP1 )_) ._. 

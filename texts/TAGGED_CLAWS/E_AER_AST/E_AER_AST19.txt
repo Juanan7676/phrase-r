@@ -1,0 +1,17 @@
+The_AT stability_NN1 characteristics_NN2 of_IO a_AT1 distributed_JJ 
+consensus-based_JJ Kalman_NN1 filter_NN1 estimation_NN1 and_CC control_NN1 
+scheme_NN1 are_VBR studied_VVN through_II analytic_JJ and_CC numerical_JJ 
+means_NN ._. 
+This_DD1 estimation_NN1 scheme_NN1 seeks_VVZ to_TO minimally_RR reduce_VVI 
+the_AT necessary_JJ bandwidth_NN1 for_IF communication_NN1 while_CS 
+maintaining_VVG overall_JJ stability_NN1 ._. 
+A_AT1 weaker_JJR form_NN1 of_IO the_AT separation_NN1 principle_NN1 is_VBZ 
+proven_VVN to_TO hold_VVI whereby_RRQ control_NN1 could_VM be_VBI designed_VVN 
+independently_RR but_CCB not_XX estimation_NN1 ._. 
+However_RR ,_, actuation_NN1 limitations_NN2 still_RR provide_VV0 the_AT 
+possibility_NN1 for_IF a_AT1 semi-independent_JJ design_NN1 of_IO 
+estimators_NN2 ._. 
+Numerical_JJ simulations_NN2 confirm_VV0 that_CST the_AT stability_NN1 
+depends_VVZ very_RG heavily_RR on_II consensus_NN1 on_II estimation_NN1 and_CC 
+ultimately_RR the_AT amount_NN1 of_IO information_NN1 available_JJ to_II 
+the_AT system_NN1 as_CSA it_PPH1 evolves_VVZ ._. 

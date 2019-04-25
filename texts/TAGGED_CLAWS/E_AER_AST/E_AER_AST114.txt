@@ -1,0 +1,25 @@
+Composite_JJ materials_NN2 could_VM be_VBI very_RG useful_JJ when_CS 
+applied_VVN to_II structural_JJ rocket_NN1 engine_NN1 components_NN2 since_CS 
+they_PPHS2 can_VM allow_VVI significant_JJ weight_NN1 savings_NN2 thanks_NN2 
+to_II their_APPGE high_JJ specific_JJ strength_NN1 and_CC high_JJ specific_JJ 
+stiffness_NN1 ._. 
+In_II the_AT present_JJ work_NN1 ,_, a_AT1 carbon_NN1 fiber_NN1 reinforced_VVD 
+composite_JJ has_VHZ been_VBN adopted_VVN to_TO replace_VVI the_AT typical_JJ 
+heavy_JJ metallic_JJ closeout_NN1 structure_NN1 of_IO a_AT1 regeneratively_RR 
+cooled_JJ thrust_NN1 chamber_NN1 of_IO a_AT1 liquid_JJ rocket_NN1 engine_NN1 
+._. 
+The_AT composite_JJ structure_NN1 has_VHZ been_VBN considered_VVN wrapped_VVN 
+over_II the_AT inner_JJ liner_NN1 of_IO the_AT thrust_NN1 chamber_NN1 ,_, 
+made_VVD of_IO copper_NN1 alloys_NN2 ,_, and_CC provides_VVZ hoop_NN1 
+strength_NN1 for_IF withstanding_VVG the_AT fuel/coolant_NN1 pressure_NN1 
+in_II the_AT cooling_JJ channels_NN2 ._. 
+The_AT main_JJ aim_NN1 of_IO the_AT paper_NN1 is_VBZ to_TO investigate_VVI 
+the_AT influence_NN1 of_IO the_AT geometry_NN1 and_CC the_AT 
+thermo-mechanical_JJ load_NN1 on_II the_AT structural_JJ response_NN1 of_IO 
+the_AT analyzed_JJ composite_JJ closeout_NN1 ._. 
+This_DD1 study_NN1 is_VBZ expected_VVN to_TO provide_VVI a_AT1 better_JJR 
+understanding_NN1 of_IO the_AT physical_JJ phenomena_NN2 occurring_VVG 
+during_II the_AT service_NN1 life_NN1 of_IO the_AT chamber_NN1 together_RL 
+with_IW an_AT1 effective_JJ identification_NN1 of_IO the_AT sizing_JJ 
+loads_NN2 that_CST should_VM be_VBI considered_VVN in_II the_AT design_NN1 
+phase_NN1 of_IO the_AT closeout_NN1 structure_NN1 ._. 

@@ -1,0 +1,37 @@
+A_AT1 finite_JJ volume-based_JJ solver_NN1 with_IW rigid_JJ moving_JJ mesh_NN1 
+and_CC delayed_VVD detached_JJ eddy_NN1 simulation_NN1 (_( DDES_NP2 )_) 
+techniques_NN2 is_VBZ implemented_VVN to_TO investigate_VVI the_AT unsteady_JJ 
+flows_NN2 around_II an_AT1 80/65_MF double-delta_JJ wing_NN1 (_( DDW_NP1 )_) 
+subjected_VVN to_II sinusoidal_JJ pitching_NN1 motions_NN2 ._. 
+The_AT focus_NN1 concentrates_VVZ on_II understanding_VVG the_AT behaviour_NN1 
+of_IO the_AT burst_JJ point_NN1 (_( BP_NP1 )_) ,_, helical_JJ mode_NN1 
+instability_NN1 ,_, pressure_NN1 fluctuations_NN2 ,_, and_CC dynamic_JJ 
+pitching_NN1 stability_NN1 ._. 
+The_AT role_NN1 of_IO the_AT reduced_JJ frequency_NN1 (_( RF_NP1 )_) in_II 
+the_AT response_NN1 of_IO the_AT above_JJ features_NN2 is_VBZ analyzed_VVN 
+in_II detail_NN1 ._. 
+It_PPH1 is_VBZ in_II consistence_NN1 with_IW the_AT previous_JJ 
+experiments_NN2 that_CST the_AT movement_NN1 of_IO the_AT BP_NP1 is_VBZ 
+nearly_RR a_AT1 simple_JJ harmonic_JJ motion_NN1 and_CC locked_VVN with_IW 
+the_AT frequency_NN1 of_IO the_AT pitching_NN1 motion_NN1 accompanied_VVN 
+with_IW a_AT1 phase_NN1 lag_VV0 that_DD1 is_VBZ strongly_RR affected_VVN by_II 
+the_AT RF_NP1 ._. 
+It_PPH1 is_VBZ found_VVN that_CST the_AT time-averaged_JJ flow_NN1 in_II 
+the_AT post-breakdown_JJ regions_NN2 is_VBZ approximately_RR a_AT1 conical_JJ 
+flow_NN1 ,_, whose_DDQGE cone_NN1 angle_NN1 also_RR depends_VVZ on_II the_AT 
+RF_NP1 ._. 
+The_AT natural_JJ frequency_NN1 of_IO BP_NP1 oscillation_NN1 at_II the_AT 
+stationary_JJ state_NN1 of_IO AOA_NP1 =_FO 36_MC is_VBZ the_AT critical_JJ 
+frequency_NN1 ,_, which_DDQ determines_VVZ the_AT sign_NN1 of_IO dynamic_JJ 
+pitching_NN1 derivative_NN1 ._. 
+A_AT1 pair_NN of_IO critical_JJ frequencies_NN2 is_VBZ found_VVN ,_, by_II 
+which_DDQ the_AT features_NN2 of_IO the_AT BP_NP1 ,_, cone_NN1 angle_NN1 of_IO 
+the_AT helical_JJ structures_NN2 ,_, and_CC dynamic_JJ pitching_NN1 
+stability_NN1 are_VBR divided_VVN into_II several_DA2 linear_JJ sections_NN2 
+._. 
+Two_MC simplified_JJ 1st_MD and_CC 2nd_MD order_NN1 differential_NN1 
+models_NN2 are_VBR proposed_VVN and_CC applied_VVN for_IF predicting_VVG 
+the_AT dynamic_JJ behaviour_NN1 of_IO the_AT BP_NP1 ,_, and_CC the_AT 2nd_MD 
+order_NN1 model_NN1 can_VM give_VVI coincident_JJ hysteresis_NN1 loops_NN2 
+with_IW the_AT present_JJ computational_JJ fluid_NN1 dynamics_NN (_( CFD_NP1 
+)_) results_NN2 in_II a_AT1 certain_JJ range_NN1 ._. 

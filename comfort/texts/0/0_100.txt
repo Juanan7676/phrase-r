@@ -1,0 +1,21 @@
+This_DD1 paper_NN1 considers_VVZ cooperative_JJ navigation_NN1 between_II 
+an_AT1 Unmanned_JJ Aerial_NN1 Vehicle_NN1 (_( UAV_NP1 )_) operating_VVG in_II 
+a_AT1 GNSS-challenged_JJ environment_NN1 with_IW an_AT1 Unmanned_JJ Ground_NN1 
+Vehicle_NN1 (_( UGV_NP1 )_) ,_, and_CC focuses_VVZ on_II the_AT design_NN1 
+of_IO the_AT optimal_JJ motion_NN1 of_IO the_AT UGV_NN1 to_II best_JJT 
+aide_NN1 the_AT UAV_NP1 's_GE navigation_NN1 solution_NN1 ._. 
+Our_APPGE approach_NN1 reduces_VVZ the_AT uncertainty_NN1 of_IO a_AT1 UAV_NN1 
+'s_GE navigation_NN1 solution_NN1 through_II the_AT use_NN1 of_IO 
+peer-to-peer_JJ radio_NN1 ranging_VVG from_II a_AT1 cooperative_JJ UGV_NN1 ,_, 
+whose_DDQGE location_NN1 is_VBZ designed_VVN to_TO improve_VVI positioning_NN1 
+geometry_NN1 for_IF the_AT UAV_NN1 ._. 
+Two_MC novel_JJ cooperative_JJ strategies_NN2 and_CC two_MC different_JJ 
+estimation_NN1 strategies_NN2 for_IF the_AT UGV_NN1 to_TO assist_VVI a_AT1 
+UAV_NN1 are_VBR developed_VVN and_CC compared_VVN ._. 
+Through_II the_AT use_NN1 of_IO a_AT1 realistic_JJ simulation_NN1 
+environment_NN1 ,_, it_PPH1 is_VBZ shown_VVN that_CST employing_JJ 
+UGV-to-UAV_NP1 cooperative_JJ navigation_NN1 can_VM reduce_VVI the_AT 
+positioning_NN1 error_NN1 of_IO a_AT1 UAV_NN1 that_CST is_VBZ operating_VVG 
+in_II a_AT1 GNSS-challenged_JJ environment_NN1 ,_, from_II approximately_RR 
+1-meter-level_JJ to_TO approximately_RR 10-cm-level_JJ 3D_NNU positioning_NN1 
+error_NN1 ._. 

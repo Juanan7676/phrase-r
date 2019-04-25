@@ -1,0 +1,48 @@
+In_II this_DD1 study_NN1 ,_, numerical_JJ simulations_NN2 using_VVG Euler_NN1 
+equations_NN2 with_IW detailed_JJ chemistry_NN1 are_VBR performed_VVN to_TO 
+investigate_VVI the_AT effect_NN1 of_IO fuelair_NN1 composition_NN1 
+inhomogeneity_NN1 on_II the_AT oblique_JJ detonation_NN1 wave_NN1 (_( ODW_NP1 
+)_) initiation_NN1 in_II hydrogenair_NN1 mixtures_NN2 ._. 
+This_DD1 study_NN1 aims_VVZ for_IF a_AT1 better_JJR understanding_NN1 of_IO 
+oblique_JJ detonation_NN1 wave_NN1 engine_NN1 performance_NN1 under_II 
+practical_JJ operating_NN1 conditions_NN2 ,_, among_II those_DD2 is_VBZ the_AT 
+inhomogeneous_JJ mixing_NN1 of_IO fuel_NN1 and_CC air_NN1 giving_VVG rise_NN1 
+to_II a_AT1 variation_NN1 of_IO the_AT equivalence_NN1 ratio_NN1 (_( ER_FU )_) 
+in_II the_AT incoming_JJ combustible_JJ flow_NN1 ._. 
+This_DD1 work_NN1 focuses_VVZ primarily_RR on_II how_RRQ a_AT1 variable_JJ 
+equivalence_NN1 ratio_NN1 in_II the_AT inflow_NN1 mixture_NN1 affects_VVZ 
+both_RR the_AT formation_NN1 and_CC characteristic_JJ parameters_NN2 of_IO 
+the_AT oblique_JJ detonation_NN1 wave_NN1 ._. 
+In_II this_DD1 regard_NN1 ,_, the_AT present_JJ simulation_NN1 imposes_VVZ 
+initially_RR a_AT1 lateral_JJ linear_JJ distribution_NN1 of_IO the_AT 
+mixture_NN1 equivalence_NN1 ratio_NN1 within_II the_AT initiation_NN1 
+region_NN1 ._. 
+The_AT variation_NN1 is_VBZ either_RR from_II fuel-lean_JJ or_CC fuel-rich_JJ 
+to_II the_AT uniform_JJ stoichiometric_JJ mixture_NN1 condition_NN1 above_II 
+the_AT oblique_JJ shock_NN1 wave_NN1 ._. 
+The_AT obtained_VVN numerical_JJ results_NN2 illustrate_VV0 that_CST the_AT 
+reaction_NN1 surface_NN1 is_VBZ distorted_VVN in_II the_AT cases_NN2 of_IO 
+low_JJ mixture_NN1 equivalence_NN1 ratio_NN1 ._. 
+The_AT so-called_JJ SV-shaped_JJ flame_NN1 is_VBZ observed_VVN but_CCB 
+differed_VVD from_II previous_JJ results_NN2 that_CST it_PPH1 is_VBZ not_XX 
+coupled_VVN with_IW any_DD compression_NN1 or_CC shock_NN1 wave_NN1 ._. 
+Analyzing_VVG the_AT temperature_NN1 and_CC species_NN density_NN1 
+evolution_NN1 also_RR shows_VVZ that_CST the_AT fuel-lean_JJ and_CC 
+fuel-rich_JJ inhomogeneity_NN1 have_VH0 different_JJ effects_NN2 on_II the_AT 
+combustion_NN1 features_NN2 in_II the_AT initiation_NN1 region_NN1 behind_II 
+the_AT oblique_JJ shock_NN1 wave_NN1 ._. 
+Two_MC characteristic_JJ quantities_NN2 ,_, namely_REX the_AT initiation_NN1 
+length_NN1 and_CC the_AT ODW_NN1 surface_NN1 position_NN1 ,_, are_VBR 
+defined_VVN to_TO describe_VVI quantitatively_RR the_AT effects_NN2 of_IO 
+mixture_NN1 equivalence_NN1 ratio_NN1 inhomogeneity_NN1 ._. 
+The_AT results_NN2 show_VV0 that_CST the_AT initiation_NN1 length_NN1 is_VBZ 
+mainly_RR determined_VVN by_II the_AT mixture_NN1 equivalence_NN1 ratio_NN1 
+in_II the_AT initiation_NN1 region_NN1 ._. 
+Additional_JJ computations_NN2 are_VBR performed_VVN by_II reversing_VVG 
+ER_NP1 distribution_NN1 ,_, i.e._REX ,_, with_IW the_AT linear_JJ 
+variation_NN1 above_II the_AT initiation_NN1 region_NN1 of_IO uniform_JJ 
+stoichiometric_JJ condition_NN1 and_CC results_NN2 also_RR demonstrate_VV0 
+that_CST the_AT ODW_NN1 position_NN1 is_VBZ effectively_RR determined_VVN 
+by_II the_AT ER_NP1 variation_NN1 before_II the_AT ODW_NN1 ,_, which_DDQ 
+has_VHZ in_II turn_NN1 only_RR negligible_JJ effect_NN1 on_II the_AT 
+initiation_NN1 length_NN1 ._. 

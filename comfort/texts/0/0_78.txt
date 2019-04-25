@@ -1,0 +1,25 @@
+The_AT unscented_JJ Kalman_NN1 filter_NN1 (_( UKF_NP1 )_) is_VBZ an_AT1 
+effective_JJ technique_NN1 of_IO state_NN1 estimation_NN1 for_IF nonlinear_JJ 
+dynamic_JJ systems_NN2 ._. 
+However_RR ,_, its_APPGE performance_NN1 depends_VVZ on_II prior_JJ 
+knowledge_NN1 on_II system_NN1 noise_NN1 ._. 
+If_CS the_AT characteristics_NN2 of_IO system_NN1 noise_NN1 are_VBR unknown_JJ 
+or_CC inaccurate_JJ ,_, the_AT filtering_NN1 solution_NN1 may_VM be_VBI 
+biased_JJ or_CC even_RR divergent_JJ ._. 
+This_DD1 paper_NN1 presents_VVZ a_AT1 new_JJ maximum_JJ posterior_NN1 and_CC 
+random_JJ weighting_NN1 based_VVN adaptive_JJ UKF_NN1 (_( MRAUKF_NP1 )_) by_II 
+combining_VVG the_AT concepts_NN2 of_IO maximum_JJ posterior_NN1 and_CC 
+random_JJ weighting_NN1 to_TO overcome_VVI this_DD1 limitation_NN1 ._. 
+The_AT proposed_JJ MRAUKF_NN1 computes_VVZ noise_NN1 statistics_NN based_VVN 
+on_II the_AT maximum_JJ posterior_JJ principle_NN1 ,_, and_CC subsequently_RR 
+adopts_VVZ the_AT random_JJ weighting_NN1 concept_NN1 to_TO optimize_VVI 
+the_AT obtained_VVN maximum_JJ posterior_JJ estimations_NN2 by_II online_RR 
+adjusting_VVG the_AT weights_NN2 on_II residuals_NN2 ._. 
+The_AT maximum_JJ posterior_NN1 and_CC random_JJ weighting_NN1 estimations_NN2 
+of_IO noise_NN1 statistics_NN are_VBR established_VVN to_II online_JJ 
+estimate_NN1 and_CC adjust_VV0 system_NN1 noise_NN1 statistics_NN ,_, 
+leading_VVG to_II the_AT improved_JJ filtering_NN1 robustness_NN1 ._. 
+Simulation_NN1 and_CC experimental_JJ results_NN2 demonstrate_VV0 that_CST 
+the_AT proposed_JJ MRAUKF_NN1 outperforms_VVZ the_AT classical_JJ UKF_NN1 
+and_CC adaptive_JJ robust_JJ UKF_NN1 in_II the_AT presence_NN1 of_IO 
+uncertain_JJ system_NN1 noise_NN1 statistics_NN ._. 

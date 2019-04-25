@@ -1,0 +1,1 @@
+<state>Alloy-type anodes, such as Sn-, Sb-, and P-based compounds, are the most promising high-capacity anode materials for sodium-ion batteries </state>. <state>The most recent research progress of these alloy-based anodes is summarized </state>. <aim>Specific efforts to enhance the anode performances are discussed, and the challenges and perspectives are also proposed </aim>.

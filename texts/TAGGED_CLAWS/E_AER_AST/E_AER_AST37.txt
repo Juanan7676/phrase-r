@@ -1,0 +1,33 @@
+A_AT1 scramjet_NN1 combustor_NN1 is_VBZ simulated_VVN using_VVG both_RR a_AT1 
+hybrid_JJ Reynolds_NP1 averaged_VVD NavierStokes_NP2 (_( RANS_NP2 )_) 
+/large_JJ eddy_NN1 simulation_NN1 (_( LES_FW )_) method_NN1 ,_, namely_REX 
+zonal_JJ detached_JJ eddy_NN1 simulation_NN1 (_( ZDES_NP2 )_) ,_, and_CC 
+unsteady_JJ RANS_NN2 (_( URANS_NP2 )_) method_NN1 to_TO conduct_VVI an_AT1 
+assessment_NN1 of_IO their_APPGE abilities_NN2 in_II depicting_VVG the_AT 
+unsteady_JJ motions_NN2 of_IO flow_NN1 structures_NN2 in_II the_AT 
+scramjet_NN1 combustor_NN1 ._. 
+Although_CS ZDES_NN2 and_CC URANS_NN2 present_VV0 a_AT1 similar_JJ ability_NN1 
+with_II31 regard_II32 to_II33 calculating_VVG the_AT mean_JJ variables_NN2 ,_, 
+they_PPHS2 present_VV0 distinct_JJ differences_NN2 concerning_II the_AT 
+ability_NN1 to_TO capture_VVI the_AT unsteady_JJ motions_NN2 of_IO the_AT 
+flow_NN1 structures_NN2 ._. 
+The_AT ZDES_NP2 case_NN1 successfully_RR captures_VVZ the_AT unsteady_JJ 
+motions_NN2 of_IO the_AT shock_NN1 structures_NN2 ._. 
+The_AT resolved_JJ flow_NN1 is_VBZ comprised_VVN of_IO a_AT1 series_NN of_IO 
+oscillating_VVG cycles_NN2 that_CST mixes_VVZ strong_JJ cycles_NN2 and_CC 
+weak_JJ cycles_NN2 ,_, and_CC one_MC1 or_CC more_DAR strong_JJ cycles_NN2 
+are_VBR followed_VVN by_II one_MC1 or_CC more_DAR weak_JJ cycles_NN2 ._. 
+In_II strong_JJ cycles_NN2 ,_, the_AT oscillating_JJ amplitude_NN1 of_IO 
+the_AT pressure_NN1 is_VBZ large_JJ and_CC the_AT duration_NN1 of_IO cycle_NN1 
+is_VBZ long_JJ ._. 
+The_AT range_NN1 of_IO the_AT motion_NN1 of_IO shock_NN1 structures_NN2 is_VBZ 
+large_JJ ,_, and_CC a_AT1 Mach_NNU disc_NN1 is_VBZ formed_VVN when_CS the_AT 
+shock_NN1 structures_NN2 move_VV0 upstream_RL ._. 
+In_II weak_JJ cycles_NN2 ,_, the_AT oscillating_JJ amplitude_NN1 of_IO the_AT 
+pressure_NN1 is_VBZ small_JJ and_CC the_AT duration_NN1 is_VBZ short_JJ ,_, 
+and_CC no_AT Mach_NNU disc_NN1 appears_VVZ throughout_II a_AT1 cycle_NN1 ._. 
+All_DB of_IO these_DD2 coincide_VV0 fairly_RR well_RR with_IW the_AT 
+experimental_JJ shadowgraph_NN1 images_NN2 ._. 
+In_II contrast_NN1 ,_, the_AT results_NN2 of_IO URANS_NP2 distinctly_RR 
+disagree_VV0 with_IW those_DD2 of_IO the_AT ZDES_NP2 case_NN1 and_CC the_AT 
+experiments_NN2 ._. 

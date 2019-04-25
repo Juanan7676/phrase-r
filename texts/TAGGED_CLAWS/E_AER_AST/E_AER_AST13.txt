@@ -1,0 +1,30 @@
+An_AT1 experimental_JJ study_NN1 was_VBDZ conducted_VVN to_TO evaluate_VVI 
+the_AT effects_NN2 of_IO surface_NN1 wettability_NN1 on_II the_AT dynamic_JJ 
+ice_NN1 accretion_NN1 process_NN1 over_II the_AT surface_NN1 of_IO a_AT1 
+rotating_JJ Unmanned-Aerial-System_NP1 (_( UAS_NP2 )_) propeller_NN1 model_NN1 
+and_CC the_AT resultant_JJ aerodynamic_JJ performance_NN1 degradation_NN1 
+due_II21 to_II22 the_AT ice_NN1 accretion_NN1 ._. 
+A_AT1 propeller_NN1 model_NN1 was_VBDZ installed_VVN in_II an_AT1 Icing_NN1 
+Research_NN1 Tunnel_NN1 at_II Iowa_NP1 State_NN1 University_NN1 (_( i.e._REX 
+,_, ISU-IRT_NP1 )_) with_IW its_APPGE surface_NN1 wettability_NN1 changed_VVD 
+significantly_RR (_( i.e._REX ,_, hydrophilic_JJ 
+surfaceversussuperhydrophobic_JJ surface_NN1 )_) ._. 
+In_II31 addition_II32 to_II33 acquiring_VVG Sphase-locked_JJ images_NN2 to_TO 
+reveal_VVI the_AT dynamic_JJ ice_NN1 accretion_NN1 process_NN1 over_II the_AT 
+rotating_JJ propeller_NN1 surface_NN1 ,_, the_AT thrust_NN1 generation_NN1 
+and_CC the_AT required_JJ power_NN1 input_NN1 to_TO drive_VVI the_AT 
+propeller_NN1 model_NN1 to_TO operate_VVI at_II a_AT1 constant_JJ rotation_NN1 
+speed_NN1 were_VBDR also_RR measured_VVN during_II the_AT ice_NN1 
+accretion_NN1 process_NN1 ._. 
+The_AT dynamic_JJ ice_NN1 accretion_NN1 process_NN1 over_II the_AT rotating_JJ 
+propeller_NN1 surface_NN1 was_VBDZ found_VVN to_TO vary_VVI remarkably_RR 
+with_IW changes_NN2 to_II the_AT propeller_NN1 surface_NN1 wettability_NN1 ._. 
+By_II making_VVG the_AT propeller_NN1 surface_NN1 superhydrophobic_JJ ,_, 
+the_AT detrimental_JJ effects_NN2 of_IO the_AT ice_NN1 accretion_NN1 on_II 
+the_AT aerodynamic_JJ performance_NN1 of_IO the_AT propeller_NN1 model_NN1 
+were_VBDR found_VVN to_TO be_VBI mitigated_VVN greatly_RR with_IW much_DA1 
+less_DAR ice_NN1 accretion_NN1 over_II the_AT propeller_NN1 surface_NN1 ,_, 
+significant_JJ reduction_NN1 of_IO the_AT thrust_NN1 loss_NN1 and_CC less_DAR 
+demand_NN1 for_IF extra_JJ power_NN1 consumption_NN1 due_II21 to_II22 the_AT 
+ice_NN1 accretion_NN1 ,_, in_II31 comparison_II32 with_II33 the_AT case_NN1 
+with_IW the_AT propeller_NN1 surface_NN1 being_VBG hydrophilic_JJ ._. 

@@ -1,0 +1,33 @@
+This_DD1 paper_NN1 proposed_VVD a_AT1 probe_NN1 motion_NN1 compound_NN1 
+control_NN1 scheme_NN1 for_IF the_AT receiver_NN1 docking_NN1 control_NN1 
+in_II the_AT autonomous_JJ aerial_NN1 refueling_VVG (_( AAR_NP1 )_) ._. 
+The_AT dynamic_JJ equation_NN1 of_IO the_AT probe_NN1 is_VBZ modeled_VVN 
+based_VVN on_II the_AT receiver_NN1 's_GE 6_MC DOF_VV0 nonlinear_JJ model_NN1 
+which_DDQ considers_VVZ the_AT influence_NN1 of_IO the_AT multiple_JJ flow_NN1 
+disturbance_NN1 ,_, and_CC these_DD2 dynamic_JJ equations_NN2 are_VBR 
+transformed_VVN into_II the_AT affine_JJ nonlinear_JJ form_NN1 for_IF 
+convenient_JJ control_NN1 design_NN1 ._. 
+The_AT AAR_NN1 docking_NN1 flight_NN1 controller_NN1 is_VBZ divided_VVN 
+into_II several_DA2 cascade_NN1 subsystems_NN2 via_II back-stepping_JJ 
+design_NN1 technique_NN1 ._. 
+The_AT terms_NN2 which_DDQ are_VBR independent_JJ of_IO the_AT virtual_JJ 
+control_NN1 variables_NN2 in_II each_DD1 affine_JJ nonlinear_JJ subsystem_NN1 
+are_VBR taken_VVN as_II the_AT Slumped_VVN disturbance_NN1 ,_, and_CC are_VBR 
+accurately_RR estimated_VVN for_IF the_AT disturbance_NN1 compensation_NN1 
+in_II the_AT designed_JJ flight_NN1 controller_NN1 ,_, by_II a_AT1 group_NN1 
+of_IO extended_JJ states_NN2 observers_NN2 (_( ESO_NP1 )_) ._. 
+Then_RT a_AT1 compound_NN1 control_NN1 scheme_NN1 ,_, which_DDQ is_VBZ 
+constituted_VVN by_II back-stepping_NN1 and_CC ESO_NP1 ,_, is_VBZ proposed_VVN 
+for_IF AAR_NN1 docking_NN1 based_VVN on_II these_DD2 established_JJ 
+receiver_NN1 dynamics_NN affine_JJ nonlinear_JJ form_NN1 and_CC the_AT 
+estimated_JJ lumped_JJ disturbances_NN2 by_II ESOs_NN2 ._. 
+In_II the_AT proposed_JJ probe_NN1 compound_NN1 scheme_NN1 ,_, the_AT 
+probe_NN1 motion_NN1 is_VBZ controlled_VVN not_XX only_RR via_II the_AT 
+translational_JJ motion_NN1 of_IO the_AT barycenter_JJR but_CCB also_RR via_II 
+the_AT rotational_JJ motion_NN1 of_IO the_AT receiver_NN1 ._. 
+The_AT stability_NN1 of_IO the_AT proposed_JJ probe_NN1 compound_NN1 
+control_NN1 closed-loop_NN1 system_NN1 is_VBZ formally_RR proved_VVN by_II 
+using_VVG Lyapunov_NP1 function_NN1 technique_NN1 ._. 
+Extensive_JJ simulations_NN2 are_VBR carried_VVN out_RP to_TO verify_VVI 
+the_AT effectiveness_NN1 and_CC improvement_NN1 with_IW the_AT proposed_JJ 
+controller_NN1 ._. 

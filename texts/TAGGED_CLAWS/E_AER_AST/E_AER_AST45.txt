@@ -1,0 +1,29 @@
+This_DD1 paper_NN1 investigates_VVZ a_AT1 new_JJ Agile_JJ Earth_NN1 
+Observation_NN1 Satellite_NN1 (_( AEOS_NP2 )_) mission_NN1 planning_NN1 
+algorithm_NN1 ._. 
+This_DD1 new_JJ developed_JJ algorithm_NN1 is_VBZ based_VVN on_II Modified_JJ 
+Mixed-Integer_NP1 Linear_JJ Programming_NN1 (_( MILP_NP1 )_) approach_NN1 ,_, 
+which_DDQ takes_VVZ the_AT minimum_JJ slew_NN1 angle_NN1 and_CC highest_JJT 
+priority_NN1 criterion_NN1 ._. 
+The_AT key_JJ point_NN1 of_IO the_AT paper_NN1 lies_VVZ in_CS21 that_CS22 
+the_AT planning_NN1 process_NN1 is_VBZ treated_VVN as_II a_AT1 Dynamical_JJ 
+Combinatorial_JJ Optimization_NN1 (_( DCO_NP1 )_) problem_NN1 due_II21 to_II22 
+the_AT time-varying_JJ constraint_NN1 and_CC the_AT requirement_NN1 of_IO 
+the_AT problem_NN1 ._. 
+The_AT design_NN1 of_IO the_AT new_JJ algorithm_NN1 is_VBZ also_RR to_TO 
+meet_VVI the_AT real-time_JJ requirement_NN1 of_IO onboard_NN1 mission_NN1 
+planning_NN1 ._. 
+The_AT mathematical_JJ formulation_NN1 of_IO the_AT problem_NN1 is_VBZ 
+modified_VVN to_TO satisfy_VVI the_AT demand_NN1 of_IO the_AT LP_NN1 
+solver_NN1 ,_, and_CC a_AT1 newly_RR developed_VVN dynamic_JJ database_NN1 
+is_VBZ used_VVN to_TO simulate_VVI the_AT constantly_RR changing_VVG 
+satellite-target_JJ relative_JJ position_NN1 with_IW limited_JJ 
+observation_NN1 windows_NN2 ._. 
+The_AT new_JJ mission_NN1 planning_NN1 model_NN1 is_VBZ solved_VVN by_II 
+the_AT LP_NN1 method_NN1 to_TO test_VVI its_APPGE reliability_NN1 ._. 
+Another_DD1 solution_NN1 with_IW Generic_JJ Algorithm_NN1 (_( GA_NP1 )_) 
+is_VBZ also_RR given_VVN to_TO check_VVI the_AT result_NN1 ._. 
+The_AT calculation_NN1 time_NNT1 of_IO these_DD2 two_MC methods_NN2 is_VBZ 
+compared_VVN to_II show_NN1 that_CST the_AT LP_NN1 approach_NN1 has_VHZ a_AT1 
+better_JJR compatibility_NN1 with_IW the_AT onboard_NN1 mission_NN1 
+planning_NN1 requirement_NN1 ._. 

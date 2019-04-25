@@ -1,0 +1,24 @@
+This_DD1 paper_NN1 presents_VVZ the_AT stall_NN1 margin_NN1 enhancement_NN1 
+of_IO a_AT1 novel_JJ casing_NN1 treatment_NN1 subjected_VVN to_II 
+circumferential_JJ pressure_NN1 inlet_NN1 distortion_NN1 ._. 
+Experimental_JJ results_NN2 are_VBR carried_VVN out_RP on_II a_AT1 
+low-speed_JJ compressor_NN1 ._. 
+Experimental_JJ results_NN2 show_VV0 that_CST the_AT stall_NN1 margin_NN1 
+of_IO the_AT test_NN1 compressor_NN1 is_VBZ gravely_RR narrowed_VVN by_II 
+circumferential_JJ pressure_NN1 inlet_NN1 distortion_NN1 ._. 
+The_AT stabilization_NN1 ability_NN1 of_IO this_DD1 novel_JJ casing_NN1 
+treatment_NN1 and_CC the_AT pre-stall_JJ behavior_NN1 of_IO the_AT 
+compression_NN1 system_NN1 under_II the_AT impacts_NN2 of_IO 
+circumferential_JJ pressure_NN1 distortion_NN1 are_VBR shown_VVN in_II the_AT 
+present_JJ work_NN1 ._. 
+Although_CS subjected_VVN to_II the_AT inlet_NN1 distortion_NN1 ,_, the_AT 
+stall_NN1 margin_NN1 can_VM also_RR be_VBI made_VVN up_RP by_II 6%8%_FO 
+due_II21 to_II22 the_AT application_NN1 of_IO this_DD1 novel_JJ casing_NN1 
+treatment_NN1 ._. 
+Furthermore_RR ,_, the_AT pre-stall_JJ dynamic_JJ results_NN2 can_VM 
+indicate_VVI that_CST the_AT mechanism_NN1 of_IO this_DD1 stabilization_NN1 
+method_NN1 is_VBZ associated_VVN with_IW two_MC main_JJ observations_NN2 ,_, 
+one_MC1 is_VBZ the_AT weakening_JJ of_IO the_AT unsteady_JJ flow_NN1 
+perturbations_NN2 in_II the_AT compressor_NN1 ,_, and_CC the_AT other_NN1 
+is_VBZ the_AT delay_NN1 in_RP of_IO the_AT nonlinear_JJ amplification_NN1 
+of_IO the_AT stall_NN1 precursor_NN1 waves_NN2 ._. 

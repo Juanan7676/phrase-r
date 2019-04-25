@@ -1,0 +1,19 @@
+An_AT1 analytical_JJ model_NN1 is_VBZ developed_VVN to_TO investigate_VVI 
+the_AT sound_NN1 transmission_NN1 loss_NN1 from_II orthogonally_RR 
+rib-stiffened_JJ plates_NN2 structure_NN1 under_II diffuse_JJ acoustic_JJ 
+field_NN1 excitation_NN1 ._. 
+The_AT validity_NN1 and_CC feasibility_NN1 of_IO the_AT model_NN1 are_VBR 
+verified_VVN by_II comparing_VVG the_AT present_JJ theoretical_JJ 
+predictions_NN2 with_IW numerical_JJ and_CC experimental_JJ results_NN2 
+published_VVD previously_RR ._. 
+The_AT influences_NN2 of_IO modal_JJ coupling_NN1 terms_NN2 ,_, boundary_NN1 
+condition_NN1 and_CC stiffener_NN1 spacing_VVG on_II sound_NN1 power_NN1 
+and_CC sound_NN1 transmission_NN1 loss_NN1 are_VBR subsequently_RR 
+presented_VVN ._. 
+Numerical_JJ discussion_NN1 of_IO the_AT model_NN1 demonstrates_VVZ the_AT 
+significant_JJ influence_NN1 of_IO both_DB2 boundary_NN1 conditions_NN2 and_CC 
+stiffener_NN1 spacing_VVG upon_II the_AT mode_NN1 shape_NN1 ,_, sound_NN1 
+power_NN1 and_CC sound_NN1 transmission_NN1 loss_NN1 for_IF stiffened_JJ 
+plate_NN1 ,_, wherein_RRQ sound_NN1 power_NN1 decreases_VVZ and_CC sound_NN1 
+transmission_NN1 loss_NN1 increases_VVZ as_II the_AT amount_NN1 of_IO 
+constraint_NN1 increases_NN2 ._. 

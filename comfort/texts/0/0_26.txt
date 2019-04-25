@@ -1,0 +1,31 @@
+We_PPIS2 propose_VV0 an_AT1 architecture_NN1 appropriate_JJ for_IF future_JJ 
+Light_JJ Detection_NN1 and_CC Ranging_VVG (_( LIDAR_NP1 )_) active_JJ 
+homing_JJ seeker_NN1 missiles_NN2 with_IW Automatic_JJ Target_NN1 
+Recognition_NN1 (_( ATR_NP1 )_) capabilities_NN2 ._. 
+Our_APPGE proposal_NN1 enhances_VVZ military_JJ targeting_VVG performance_NN1 
+by_II extending_VVG ATR_NN1 into_II the_AT 3rd_MD dimension_NN1 ._. 
+From_II a_AT1 military_JJ and_CC aerospace_NN1 industry_NN1 point_NN1 of_IO 
+view_NN1 ,_, this_DD1 is_VBZ appealing_JJ as_CSA weapon_NN1 effectiveness_NN1 
+against_II camouflage_NN1 ,_, concealment_NN1 and_CC deception_NN1 
+techniques_NN2 can_VM be_VBI substantially_RR improved_VVN ._. 
+Specifically_RR ,_, we_PPIS2 present_VV0 a_AT1 missile_NN1 seeker_NN1 3D_NNU 
+ATR_NN1 architecture_NN1 that_CST relies_VVZ on_II the_AT 3D_NNU local_JJ 
+feature_NN1 based_VVN SHOT_NN1 descriptor_NN1 and_CC a_AT1 dual-role_JJ 
+pipeline_NN1 with_IW a_AT1 number_NN1 of_IO pre_II and_CC post-processing_JJ 
+operations_NN2 ._. 
+We_PPIS2 evaluate_VV0 our_APPGE architecture_NN1 on_II a_AT1 number_NN1 of_IO 
+missile_NN1 engagement_NN1 scenarios_NN2 in_II various_JJ environmental_JJ 
+setups_NN2 with_IW the_AT missile_NN1 being_VBG under_RG various_JJ 
+altitudes_NN2 ,_, obliquities_NN2 ,_, distances_NN2 to_II the_AT target_NN1 
+and_CC scene_NN1 resolutions_NN2 ._. 
+Under_II these_DD2 demanding_VVG conditions_NN2 ,_, the_AT recognition_NN1 
+performance_NN1 gained_VVN is_VBZ highly_RR promising_JJ ._. 
+Even_RR in_II the_AT extreme_JJ case_NN1 of_IO reducing_VVG the_AT 
+database_NN1 entries_NN2 to_II a_AT1 single_JJ template_NN1 per_II target_NN1 
+,_, our_APPGE interchangeable_JJ ATR_NN1 architecture_NN1 still_RR 
+provides_VVZ a_AT1 highly_RR acceptable_JJ performance_NN1 ._. 
+Although_CS we_PPIS2 focus_VV0 on_II future_JJ intelligent_JJ missile_NN1 
+systems_NN2 ,_, our_APPGE approach_NN1 can_VM be_VBI implemented_VVN to_II 
+a_AT1 great_JJ range_NN1 of_IO time-critical_JJ complex_JJ systems_NN2 for_IF 
+space_NN1 ,_, air_NN1 and_CC ground_NN1 environments_NN2 for_IF military_JJ 
+,_, law-enforcement_NN1 ,_, commercial_JJ and_CC research_NN1 purposes_NN2 

@@ -1,0 +1,34 @@
+The_AT ability_NN1 to_TO accurately_RR measure_VVI the_AT level_NN1 of_IO 
+thrust_NN1 during_II in-orbit_JJ operations_NN2 is_VBZ fundamental_JJ to_II 
+the_AT characterisation_NN1 of_IO emerging_JJ propulsion_NN1 systems_NN2 
+for_IF nanosatellites_NN2 ._. 
+Many_DA2 new_JJ CubeSat_NN1 missions_NN2 use_VV0 propulsion_NN1 systems_NN2 
+with_IW thrust_NN1 levels_NN2 in_II the_AT order_NN1 of_IO few_DA2 
+micro-Newtons_NP2 ._. 
+Whilst_CS laboratory_NN1 sensing_NN1 resources_NN2 are_VBR able_JK to_TO 
+resolve_VVI such_DA low_JJ thrust_NN1 values_NN2 ,_, in_II complementary_JJ 
+in-orbit_JJ characterisation_NN1 are_VBR limited_VVN and_CC in_II the_AT 
+main_JJ not_XX compatible_JJ with_IW the_AT standard_JJ CubeSat_NN1 
+mission_NN1 ._. 
+Additionally_RR ,_, typical_JJ in-orbit_JJ assessment_NN1 of_IO 
+micro-thrust_NN1 is_VBZ generally_RR carried_VVN out_RP through_II body_NN1 
+angular_JJ speed_NN1 changes_NN2 ,_, the_AT effectiveness_NN1 of_IO which_DDQ 
+is_VBZ drastically_RR reduced_VVN when_CS external_JJ perturbations_NN2 and_CC 
+sensor_NN1 noise_NN1 approach_NN1 or_CC exceed_VV0 the_AT thruster_NN1 
+action_NN1 on_II the_AT CubeSat_NN1 ._. 
+This_DD1 investigation_NN1 sets_VVZ out_RP to_TO improve_VVI in-orbit_JJ 
+micro-thrust_NN1 characterisation_NN1 via_II changes_NN2 in_II body_NN1 
+angular_JJ velocity_NN1 periodicity_NN1 due_II21 to_II22 off-centred_JJ 
+thrust_NN1 action_NN1 in_II nearly_RR axisymmetric_JJ CubeSats_NN2 ._. 
+Unlike_JJ traditional_JJ methods_NN2 that_CST rely_VV0 on_II determining_VVG 
+angular_JJ acceleration_NN1 this_DD1 method_NN1 employs_VVZ a_AT1 
+frequency_NN1 analysis_NN1 of_IO the_AT transversal_NN1 component_NN1 of_IO 
+the_AT angular_JJ velocity_NN1 signal_NN1 with_IW the_AT aim_NN1 of_IO 
+reducing_VVG measurement_NN1 error_NN1 ._. 
+Numerical_JJ simulations_NN2 support_VV0 the_AT feasibility_NN1 and_CC 
+adequacy_NN1 of_IO the_AT proposed_JJ low-thrust_NN1 gauging_VVG method_NN1 
+,_, particularly_RR for_IF weak_JJ and_CC noisy_JJ sensor_NN1 signals_NN2 ._. 
+The_AT robustness_NN1 of_IO the_AT method_NN1 allows_VVZ for_IF 
+interchangeable_JJ analysed_JJ signal_NN1 and_CC enables_VVZ the_AT use_NN1 
+of_IO simple_JJ commercial-off-the-shelf_JJ rate_NN1 sensors_NN2 in_II fine_JJ 
+micro-thrust_NN1 characterisation_NN1 ._. 

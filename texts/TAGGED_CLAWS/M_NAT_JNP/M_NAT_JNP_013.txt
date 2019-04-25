@@ -1,0 +1,39 @@
+In_II the_AT shipping_NN1 industry_NN1 ,_, it_PPH1 is_VBZ well_RR known_VVN 
+that_CST around_RG 80_MC %_NNU or_CC more_DAR of_IO all_DB marine_JJ 
+accidents_NN2 are_VBR caused_VVN fully_RR or_CC at_RR21 least_RR22 in_RR21 
+part_RR22 by_II human_JJ error_NN1 ._. 
+In_II this_DD1 regard_NN1 ,_, the_AT International_JJ Maritime_JJ 
+Organization_NN1 (_( IMO_NP1 )_) stated_VVD that_CST the_AT study_NN1 of_IO 
+human_JJ factors_NN2 would_VM be_VBI important_JJ for_IF improving_VVG 
+maritime_JJ safety_NN1 ._. 
+Consequently_RR ,_, the_AT IMO_NP1 adopted_VVD the_AT Casualty_NN1 
+Investigation_NN1 Code_NN1 ,_, including_II guidelines_NN2 to_TO assist_VVI 
+investigators_NN2 in_II the_AT implementation_NN1 of_IO the_AT Code_NN1 ,_, 
+to_TO prevent_VVI similar_JJ accidents_NN2 occurring_VVG again_RT in_II the_AT 
+future_NN1 ._. 
+In_II this_DD1 paper_NN1 ,_, a_AT1 process_NN1 of_IO the_AT human_JJ 
+factors_NN2 investigation_NN1 is_VBZ proposed_VVN to_TO provide_VVI 
+investigators_NN2 with_IW a_AT1 guide_NN1 for_IF determining_VVG the_AT 
+occurrence_NN1 sequence_NN1 of_IO marine_JJ accidents_NN2 ,_, to_TO 
+identify_VVI and_CC classify_VVI human_JJ error-inducing_JJ underlying_JJ 
+factors_NN2 ,_, and_CC to_TO develop_VVI safety_NN1 actions_VVZ that_CST 
+can_VM manage_VVI the_AT risk_NN1 of_IO marine_JJ accidents_NN2 ._. 
+Also_RR ,_, an_AT1 application_NN1 of_IO these_DD2 investigation_NN1 
+procedures_NN2 to_II a_AT1 collision_NN1 accident_NN1 is_VBZ provided_VVN 
+as_II a_AT1 case_NN1 study_NN1 This_DD1 is_VBZ done_VDN to_TO verify_VVI 
+the_AT applicability_NN1 of_IO the_AT proposed_JJ human_JJ factors_NN2 
+investigation_NN1 procedures_NN2 ._. 
+The_AT proposed_JJ human_JJ factors_NN2 investigation_NN1 process_NN1 
+provides_VVZ a_AT1 systematic_JJ approach_NN1 and_CC consists_VVZ of_IO 3_MC 
+steps_NN2 :_: Step_NN1 1_MC1 :_: collect_VV0 data_NN &; determine_VV0 
+occurrence_NN1 sequence_NN1 using_VVG the_AT SHEL_NN1 model_NN1 and_CC the_AT 
+cognitive_JJ process_NN1 model_NN1 ;_; Step_NN1 2_MC :_: identify_VV0 and_CC 
+classify_VV0 underlying_JJ human_JJ factors_NN2 using_VVG the_AT 
+Maritime-Human_JJ Factor_NN1 Analysis_NN1 and_CC Classification_NN1 System_NN1 
+(_( M-HFACS_NN2 )_) model_NN1 ;_; and_CC Step_NN1 3_MC :_: develop_VV0 
+safety_NN1 actions_NN2 ,_, using_VVG the_AT causal_JJ chains_NN2 ._. 
+The_AT case_NN1 study_NN1 shows_VVZ that_CST the_AT proposed_JJ human_JJ 
+factors_NN2 investigation_NN1 process_NN1 is_VBZ capable_JJ of_IO 
+identifying_VVG the_AT underlying_JJ factors_NN2 and_CC indeveloping_VVG 
+safety_NN1 actions_NN2 to_TO prevent_VVI similar_JJ accidents_NN2 from_II 
+occurring_VVG ._. 

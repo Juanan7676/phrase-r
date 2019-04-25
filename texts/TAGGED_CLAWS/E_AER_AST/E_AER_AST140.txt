@@ -1,0 +1,40 @@
+Experiments_NN2 were_VBDR carried_VVN out_RP to_TO investigate_VVI the_AT 
+pressure_NN1 fluctuations_NN2 in_II the_AT base_NN1 region_NN1 of_IO a_AT1 
+typical_JJ missile_NN1 configuration_NN1 at_II a_AT1 freestream_NN1 Mach_NNU 
+number_NN1 of_IO 0.7_MC in_II the_AT presence_NN1 and_CC absence_NN1 of_IO 
+a_AT1 propulsive_JJ jet_NN1 ._. 
+The_AT objective_NN1 was_VBDZ to_TO characterize_VVI these_DD2 pressure_NN1 
+fluctuations_NN2 and_CC identify_VVI the_AT underlying_JJ mechanisms_NN2 
+responsible_JJ for_IF their_APPGE origin_NN1 ._. 
+Experiments_NN2 included_VVD unsteady_JJ pressure_NN1 measurements_NN2 at_II 
+six_MC azimuthal_JJ locations_NN2 and_CC schlieren_NN1 visualization_NN1 ._. 
+Substantial_JJ variation_NN1 in_II the_AT characteristics_NN2 of_IO 
+pressure_NN1 fluctuations_NN2 is_VBZ noticed_VVN along_II the_AT azimuthal_JJ 
+direction_NN1 due_II21 to_II22 the_AT asymmetry_NN1 of_IO the_AT model_NN1 ._. 
+The_AT probability_NN1 density_NN1 function_NN1 (_( PDF_NP1 )_) of_IO 
+pressure_NN1 fluctuations_NN2 indicates_VVZ a_AT1 significant_JJ drop_NN1 
+in_II the_AT peak_NN1 PDF_NP1 value_NN1 and_CC a_AT1 substantial_JJ 
+broadening_NN1 at_II the_AT highest_JJT nozzle_NN1 pressure_NN1 ratio_NN1 (_( 
+NPR_NP1 )_) ._. 
+With_IW an_AT1 increase_NN1 in_II NPR_NP1 ,_, the_AT skewness_NN1 
+decreases_VVZ and_CC approaches_VVZ a_AT1 Gaussian_JJ value_NN1 while_CS 
+the_AT kurtosis_NN1 decreases_VVZ and_CC is_VBZ seen_VVN to_TO go_VVI below_II 
+that_DD1 of_IO a_AT1 Gaussian_JJ ._. 
+Spectra_NN2 of_IO the_AT pressure_NN1 fluctuations_NN2 indicate_VV0 that_CST 
+the_AT narrowband_NN1 tones_NN2 can_VM be_VBI classified_VVN into_II three_MC 
+types_NN2 based_VVN on_II the_AT Strouhal_JJ number_NN1 ._. 
+Two_MC types_NN2 of_IO tones_NN2 among_II the_AT three_MC aforementioned_JJ 
+are_VBR seen_VVN to_TO be_VBI suppressed_VVN in_II the_AT presence_NN1 of_IO 
+the_AT jet_NN1 ._. 
+Cross-correlation_JJ plots_NN2 in_II the_AT absence_NN1 of_IO the_AT jet_NN1 
+exhibit_VV0 a_AT1 large_JJ amplitude_NN1 ,_, low_JJ frequency_NN1 
+oscillation_NN1 which_DDQ exists_VVZ even_RR after_II large_JJ separation_NN1 
+times_NNT2 ._. 
+On_II the_AT other_JJ hand_NN1 ,_, in_II the_AT presence_NN1 of_IO the_AT 
+jet_NN1 ,_, the_AT oscillations_NN2 dampen_VV0 rapidly_RR and_CC vanish_VV0 
+as_II the_AT separation_NN1 time_NNT1 increases_NN2 ._. 
+Finally_RR ,_, an_AT1 attempt_NN1 has_VHZ been_VBN made_VVN to_TO identify_VVI 
+the_AT possible_JJ primary_JJ mechanisms_NN2 that_CST are_VBR driving_VVG 
+the_AT base_NN1 pressure_NN1 fluctuations_NN2 based_VVN on_II the_AT 
+observed_JJ characteristics_NN2 of_IO the_AT acquired_JJ unsteady_JJ 
+pressure_NN1 signal_NN1 ._. 

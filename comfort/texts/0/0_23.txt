@@ -1,0 +1,20 @@
+The_AT aerodynamic_JJ characteristics_NN2 of_IO a_AT1 realistic_JJ aircraft_NN 
+undergoing_VVG high_JJ amplitude_NN1 pitching_VVG motions_NN2 ranging_VVG 
+from_II angle_NN1 of_IO attack_NN1 0_MC to_II 80_MC are_VBR studied_VVN 
+using_VVG a_AT1 combination_NN1 of_IO delayed_JJ detached_JJ eddy_NN1 
+simulation_NN1 (_( DDES_NP2 )_) method_NN1 and_CC experimental_JJ approach_NN1 
+with_IW reduced_JJ oscillation_NN1 rates_NN2 k=0.036_FO ,_, 0.054_MC and_CC 
+0.072_MC ._. 
+According_II21 to_II22 the_AT DDES-based_JJ results_NN2 and_CC experimental_JJ 
+data_NN ,_, it_PPH1 is_VBZ confirmed_VVN that_CST asymmetric_JJ vortex_NN1 
+structure_NN1 reformation_NN1 process_NN1 can_VM be_VBI induced_VVN by_II 
+pitch_NN1 down_II motion_NN1 when_RRQ sideslip_VV0 angleb=0_FO ,_, thereby_RR 
+leading_VVG to_II abrupt_JJ and_CC substantial_JJ increases_NN2 in_II both_DB2 
+dynamic_JJ normal_JJ and_CC side_NN1 forces_NN2 ._. 
+In_RR21 addition_RR22 ,_, the_AT effect_NN1 of_IO pitching_VVG frequency_NN1 
+on_II the_AT asymmetric_JJ vortex_NN1 redevelopment_NN1 is_VBZ also_RR 
+studied_VVN ,_, it_PPH1 will_VM be_VBI suppressed_VVN with_IW the_AT 
+increase_NN1 of_IO the_AT oscillation_NN1 rate_NN1 ,_, and_CC the_AT 
+bubble_NN1 and_CC spiral_JJ modes_NN2 are_VBR observed_VVN to_TO dominate_VVI 
+the_AT left_JJ and_CC right_JJ vortex_NN1 breakdown_NN1 process_NN1 
+respectively_RR on_II the_AT left_JJ and_CC right_RR upper_JJ surface_NN1 ._. 

@@ -1,0 +1,41 @@
+The_AT objective_NN1 of_IO the_AT paper_NN1 is_VBZ to_TO develop_VVI a_AT1 
+vibration-based_JJ automated_JJ procedure_NN1 dealing_VVG with_IW early_JJ 
+detection_NN1 of_IO mechanical_JJ degradation_NN1 of_IO helicopter_NN1 
+drive_NN1 train_NN1 components_NN2 using_VVG Health_NN1 and_CC Usage_NN1 
+Monitoring_NN1 Systems_NN2 (_( HUMS_VVZ )_) data_NN ._. 
+An_AT1 anomaly-detection_JJ method_NN1 devoted_VVD to_II the_AT 
+quantification_NN1 of_IO the_AT degree_NN1 of_IO deviation_NN1 of_IO the_AT 
+mechanical_JJ state_NN1 of_IO a_AT1 component_NN1 from_II its_APPGE nominal_JJ 
+condition_NN1 is_VBZ developed_VVN ._. 
+This_DD1 method_NN1 is_VBZ based_VVN on_II an_AT1 Anomaly_NN1 Score_NN1 (_( 
+AS_II )_) formed_VVD by_II a_AT1 combination_NN1 of_IO a_AT1 set_NN1 of_IO 
+statistical_JJ features_NN2 correlated_VVN with_IW specific_JJ damages_NN2 ,_, 
+also_RR known_VVN as_II Condition_NN1 Indicators_NN2 (_( CI_FO )_) ,_, thus_RR 
+the_AT operational_JJ variability_NN1 is_VBZ implicitly_RR included_VVN in_II 
+the_AT model_NN1 through_II the_AT CI_NN1 correlation_NN1 ._. 
+The_AT problem_NN1 of_IO fault_NN1 detection_NN1 is_VBZ then_RT recast_VVN 
+as_II a_AT1 one-class_JJ classification_NN1 problem_NN1 in_II the_AT space_NN1 
+spanned_VVD by_II a_AT1 set_NN1 of_IO CI_NP1 ,_, with_IW the_AT aim_NN1 of_IO 
+a_AT1 global_JJ differentiation_NN1 between_II normal_JJ and_CC anomalous_JJ 
+observations_NN2 ,_, respectively_RR related_VVN to_II healthy_JJ and_CC 
+supposedly_RR faulty_JJ components_NN2 ._. 
+In_II this_DD1 paper_NN1 ,_, a_AT1 procedure_NN1 based_VVN on_II an_AT1 
+efficient_JJ one-class_JJ classification_NN1 method_NN1 that_CST does_VDZ 
+not_XX require_VVI any_DD assumption_NN1 on_II the_AT data_NN distribution_NN1 
+,_, is_VBZ used_VVN ._. 
+The_AT core_NN1 of_IO such_DA an_AT1 approach_NN1 is_VBZ the_AT Support_NN1 
+Vector_NN1 Data_NN Description_NN1 (_( SVDD_NP1 )_) ,_, that_DD1 allows_VVZ 
+an_AT1 efficient_JJ data_NN description_NN1 without_IW the_AT need_NN1 of_IO 
+a_AT1 significant_JJ amount_NN1 of_IO statistical_JJ data_NN ._. 
+Several_DA2 analyses_NN2 have_VH0 been_VBN carried_VVN out_RP in_II order_NN1 
+to_TO validate_VVI the_AT proposed_JJ procedure_NN1 ,_, using_VVG flight_NN1 
+vibration_NN1 data_NN collected_VVN from_II a_AT1 H135_FO ,_, formerly_RR 
+known_VVN as_II EC135_FO ,_, servicing_VVG helicopter_NN1 ,_, for_IF which_DDQ 
+micro-pitting_NN1 damage_NN1 on_II a_AT1 gear_NN1 was_VBDZ detected_VVN by_II 
+HUMS_NN2 and_CC assessed_VVN through_II visual_JJ inspection_NN1 ._. 
+The_AT capability_NN1 of_IO the_AT proposed_JJ approach_NN1 of_IO 
+providing_VVG better_JJR trade-off_NN1 between_II false_JJ alarm_NN1 rates_NN2 
+and_CC missed_JJ detection_NN1 rates_NN2 with_II31 respect_II32 to_II33 
+individual_JJ CI_NN1 and_CC to_II the_AT AS_CSA obtained_VVN assuming_VVG 
+jointly-Gaussian-distributed_JJ CI_NN1 has_VHZ been_VBN also_RR analysed_VVN 
+._. 

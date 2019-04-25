@@ -1,0 +1,25 @@
+In_II this_DD1 paper_NN1 we_PPIS2 developed_VVD a_AT1 multi-disciplinary_JJ 
+,_, multi-objective_JJ optimization_NN1 procedure_NN1 for_IF the_AT shape_NN1 
+generation_NN1 of_IO re-entry_NN1 spacecrafts_NN2 performing_VVG 
+conventional_JJ landing_NN1 from_II a_AT1 Low_JJ Earth_NN1 Orbit_NN1 
+return_NN1 mission_NN1 ._. 
+A_AT1 special_JJ free-form_JJ parametric_JJ model_NN1 ,_, able_JK to_TO 
+define_VVI complex_JJ vehicle_NN1 shapes_NN2 with_IW no_AT explicit_JJ 
+support_NN1 surfaces_NN2 ,_, was_VBDZ defined_VVN and_CC used_VVN for_IF 
+this_DD1 purpose_NN1 ._. 
+Model_NN1 capabilities_NN2 have_VH0 been_VBN preliminary_JJ validated_VVD 
+by_II emulating_VVG the_AT HOPE-X_NN1 vehicle_NN1 prototype_NN1 and_CC 
+computing_VVG the_AT aerodynamic_JJ coefficients_NN2 at_II Mach_NNU number_NN1 
+2_MC and_CC 10_MC ._. 
+Multi-objective_JJ optimization_NN1 has_VHZ been_VBN performed_VVN by_II 
+considering_VVG a_AT1 multidisciplinary_JJ approach_NN1 comprising_VVG 
+aerodynamic_JJ analysis_NN1 ,_, trajectory_NN1 estimation_NN1 ,_, and_CC 
+heating_NN1 analysis_NN1 starting_VVG by_II fixed_JJ waypoints_NN2 along_II 
+the_AT descent_NN1 path_NN1 ._. 
+A_ZZ1 Pareto_NP1 front_NN1 based_VVN on_II mass_NN1 and_CC cross_VV0 range_NN1 
+objective_NN1 functions_NN2 was_VBDZ generated_VVN ,_, highlighting_VVG the_AT 
+existence_NN1 of_IO several_DA2 design_NN1 scenarios_NN2 :_: minimum_JJ 
+mass_NN1 ,_, maximum_JJ winglet_NN1 ,_, maximum_JJ cross_NN1 range_NN1 ._. 
+The_AT existing_JJ trade-offs_NN2 between_II the_AT objective_JJ functions_NN2 
+were_VBDR related_VVN mainly_RR to_TO bank_VVI angle_NN1 values_NN2 and_CC 
+vehicle_NN1 length_NN1 ,_, featuring_VVG main_JJ design_NN1 trends_NN2 ._. 

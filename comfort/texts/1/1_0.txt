@@ -1,0 +1,20 @@
+This_DD1 paper_NN1 investigates_VVZ the_AT problem_NN1 of_IO salvo_NN1 
+attack_NN1 guidance_NN1 law_NN1 design_NN1 for_IF multiple_JJ missiles_NN2 
+against_II a_AT1 stationary_JJ target_NN1 considering_II communication_NN1 
+delay_NN1 ._. 
+The_AT proposed_JJ guidance_NN1 law_NN1 requires_VVZ no_AT information_NN1 
+on_II time-to-go_JJ and_CC consists_VVZ of_IO two_MC guidance_NN1 stages_NN2 
+._. 
+More_RGR specifically_RR ,_, a_AT1 simple_JJ decentralized_JJ midcourse_NN1 
+guidance_NN1 law_NN1 is_VBZ proposed_VVN to_TO provide_VVI desired_JJ 
+initial_JJ conditions_NN2 for_IF the_AT latter_DA phase_NN1 ._. 
+As_II21 for_II22 the_AT second_MD guidance_NN1 phase_NN1 ,_, all_DB 
+missiles_NN2 are_VBR switched_VVN to_II classical_JJ pure_JJ proportional_JJ 
+navigation_NN1 guidance_NN1 law_NN1 ._. 
+Considering_CS the_AT fact_NN1 that_CST the_AT communication_NN1 delay_NN1 
+is_VBZ inevitable_JJ in_II real_JJ applications_NN2 ,_, the_AT 
+corresponding_JJ allowed_VVN maximum_JJ upper_JJ bound_NN1 of_IO the_AT 
+communication_NN1 delay_NN1 among_II all_DB interceptors_NN2 is_VBZ also_RR 
+derived_VVN analytically_RR ._. 
+Nonlinear_JJ numerical_JJ simulations_NN2 clearly_RR confirm_VV0 the_AT 
+effectiveness_NN1 of_IO the_AT proposed_JJ formulation_NN1 ._. 

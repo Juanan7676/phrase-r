@@ -1,0 +1,46 @@
+The_AT development_NN1 and_CC comparison_NN1 of_IO aerodynamic_JJ 
+simulation_NN1 models_NN2 for_IF the_AT inclusion_NN1 in_II an_AT1 
+open-loop_JJ stability_NN1 &; control_NN1 model_NN1 based_VVN on_II both_DB2 
+experimental_JJ and_CC numerical_JJ data_NN are_VBR presented_VVN ._. 
+Specifically_RR ,_, the_AT work_NN1 is_VBZ focused_VVN on_II the_AT 
+effectiveness_NN1 of_IO the_AT Kestrel_NN1 simulation_NN1 tools_NN2 in_II 
+replicating_VVG the_AT aerodynamic_JJ coefficient_NN1 data_NN from_II wind_NN1 
+tunnel_NN1 experiments_NN2 of_IO a_AT1 generic_JJ lambda_NN1 wing_NN1 
+configuration_NN1 with_IW four_MC trailing_JJ edge_NN1 control_NN1 
+surfaces_NN2 ._. 
+Simulation_NN1 conditions_NN2 correspond_VV0 to_II the_AT angles_NN2 of_IO 
+attack_NN1 in_II range_NN1 of-5to_NN1 10atat_FO assumed_VVN cruise_VV0 
+Mach_NNU number_NN1 of_IO 0.7_MC ._. 
+These_DD2 simulations_NN2 include_VV0 a_AT1 clean_JJ configuration_NN1 with_IW 
+no_AT control_NN1 surface_NN1 deflection_NN1 and_CC when_CS 
+inboard/outboard_JJ control_NN1 surfaces_NN2 are_VBR deflected_VVN ,_, -10_MC 
+,_, -5_MC ,_, and_CC 10_MC ._. 
+Single_JJ and_CC overset_JJ grids_NN2 are_VBR used_VVN to_TO simulate_VVI 
+the_AT control_NN1 surface_NN1 deflections_NN2 ._. 
+Predicted_VVN aerodynamic_JJ data_NN are_VBR collected_VVN in_II form_NN1 
+of_IO look-up_NN1 tables_NN2 and_CC are_VBR run_VVN in_II a_AT1 
+Matlab/Simulink_NN1 program_NN1 to_TO determine_VVI stability_NN1 and_CC 
+control_NN1 properties_NN2 of_IO the_AT vehicle_NN1 ._. 
+The_AT vehicle_NN1 stability_NN1 and_CC control_NN1 characteristics_NN2 
+are_VBR then_RT compared_VVN with_IW the_AT results_NN2 of_IO running_VVG 
+experimental_JJ coefficient_NN1 values_NN2 through_II the_AT same_DA 
+program_NN1 ._. 
+The_AT results_NN2 show_VV0 that_CST numerical_JJ predictions_NN2 of_IO the_AT 
+test_NN1 case_NN1 considered_VVN depend_VV0 heavily_RR on_II the_AT 
+geometry_NN1 details_NN2 and_CC numerical_JJ setup_NN1 ,_, e.g._REX 
+turbulence_NN1 modeling_NN1 ,_, grid_NN1 refinement_NN1 ,_, integration_NN1 
+scheme_NN1 ,_, time_NNT1 step_NN1 ,_, etc._RA and_CC therefore_RR do_VD0 
+not_XX match_VVI experimental_JJ data_NN at_RR21 all_RR22 tested_VVN 
+conditions_NN2 ._. 
+In_RR21 addition_RR22 ,_, the_AT stability_NN1 and_CC control_NN1 
+investigation_NN1 of_IO the_AT vehicle_NN1 using_VVG these_DD2 data_NN 
+confirms_VVZ that_CST the_AT differences_NN2 between_II simulations_NN2 and_CC 
+measurements_NN2 could_VM lead_VVI to_II significant_JJ changes_NN2 in_II 
+the_AT evaluation_NN1 of_IO vehicle_NN1 's_GE stability_NN1 and_CC control_NN1 
+characteristics_NN2 ._. 
+The_AT simulation_NN1 predictions_NN2 of_IO this_DD1 work_NN1 ,_, therefore_RR 
+,_, can_VM not_XX fully_RR replace_VVI the_AT need_NN1 for_IF experiments_NN2 
+to_TO determine_VVI the_AT vehicle_NN1 's_GE stability_NN1 and_CC control_NN1 
+,_, however_RRQV they_PPHS2 help_VV0 to_TO provide_VVI insight_NN1 into_II 
+flow_NN1 physics_NN1 and_CC to_TO direct/make_VVI best_RRT use_VV0 of_IO 
+wind_NN1 tunnel_NN1 experiments_NN2 ._. 

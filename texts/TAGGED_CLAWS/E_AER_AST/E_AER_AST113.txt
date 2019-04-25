@@ -1,0 +1,27 @@
+Aviation_NN1 hydraulic_JJ pump_NN1 is_VBZ one_MC1 of_IO the_AT key_JJ 
+components_NN2 in_II aircraft_NN hydraulic_JJ system_NN1 ,_, therefore_RR ,_, 
+high-precision_JJ fault_NN1 diagnosis_NN1 is_VBZ essential_JJ to_TO 
+improve_VVI the_AT reliability_NN1 and_CC performance_NN1 of_IO hydraulic_JJ 
+pump_NN1 ._. 
+A_AT1 novel_JJ multi-source_JJ information_NN1 fusion_NN1 fault_NN1 
+diagnosis_NN1 method_NN1 is_VBZ proposed_VVN based_VVN on_II the_AT 
+DempsterShafer_NP1 (_( DS_NP1 )_) evidence_NN1 theory_NN1 ,_, which_DDQ 
+utilizes_VVZ the_AT three-level_JJ signals_NN2 from_II pump_NN1 level_NN1 ,_, 
+hydraulic_JJ power_NN1 system_NN1 level_NN1 and_CC hydraulic_JJ actuation_NN1 
+system_NN1 level_NN1 ._. 
+The_AT feature_NN1 vectors_NN2 of_IO these_DD2 three_MC levels_NN2 are_VBR 
+extracted_VVN as_CSA three_MC bodies_NN2 of_IO evidences_NN2 (_( BOEs_NP2 )_) 
+and_CC the_AT fuzzy_JJ membership_NN1 function_NN1 is_VBZ employed_VVN to_TO 
+construct_VVI the_AT basic_JJ probability_NN1 assignments_NN2 (_( BPAs_NP2 )_) 
+of_IO three_MC BOEs_NP2 ._. 
+In_BCL21 order_BCL22 to_TO solve_VVI the_AT issue_NN1 of_IO combining_VVG 
+the_AT conflicting_JJ evidences_NN2 ,_, the_AT DS_NP1 evidence_NN1 theory_NN1 
+based_VVN on_II the_AT new_JJ evidence_NN1 similarity_NN1 distance_NN1 is_VBZ 
+developed_VVN to_TO combine_VVI the_AT obtained_VVN BPAs_NN2 ._. 
+Finally_RR ,_, the_AT making-decision_JJ rules_NN2 are_VBR given_VVN to_TO 
+diagnose_VVI the_AT faults_NN2 ._. 
+The_AT diagnosis_NN1 results_NN2 validate_VV0 that_CST the_AT proposed_JJ 
+method_NN1 not_XX only_RR can_VM increase_VVI significantly_RR the_AT 
+belief_NN1 level_NN1 of_IO supporting_VVG the_AT diagnosis_NN1 target_NN1 ,_, 
+but_CCB also_RR has_VHZ the_AT ability_NN1 to_TO diagnose_VVI fault_NN1 of_IO 
+pump_NN1 correctly_RR even_CS21 if_CS22 a_AT1 sensor_NN1 is_VBZ faulty_JJ ._. 

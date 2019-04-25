@@ -1,0 +1,25 @@
+In_II this_DD1 paper_NN1 ,_, control_NN1 moment_NN1 gyroscope_NN1 (_( CMG_NN1 
+)_) system_NN1 is_VBZ employed_VVN to_TO suppress_VVI vibration_NN1 of_IO 
+flexible_JJ spacecraft_NN during_II attitude_NN1 maneuver_NN1 ._. 
+Direct_JJ modal_JJ force_NN1 generated_VVN by_II CMGs_NN2 is_VBZ exerted_VVN 
+to_II elastic_JJ dynamics_NN due_II21 to_II22 interaction_NN1 between_II 
+CMGs_NN2 and_CC flexibilities_NN2 of_IO structure_NN1 ._. 
+A_AT1 novel_JJ control_NN1 strategy_NN1 based_VVN on_II a_AT1 modal_JJ 
+force_NN1 compensator_NN1 is_VBZ proposed_VVN ,_, which_DDQ is_VBZ simple_JJ 
+and_CC efficient_JJ to_TO reduce_VVI vibration_NN1 during_II attitude_NN1 
+maneuver_NN1 ._. 
+The_AT proposed_JJ modal_JJ force_NN1 compensator_NN1 avoids_VVZ exciting_JJ 
+vibration_NN1 by_II the_AT means_NN of_IO canceling_VVG out_RP disturbance_NN1 
+input_NN1 to_II elastic_JJ dynamics_NN using_VVG modal_JJ force_NN1 
+generated_VVN by_II CMGs_NN2 ._. 
+No_AT modal_JJ information_NN1 is_VBZ required_VVN in_II the_AT modal_JJ 
+force_NN1 compensator_NN1 ._. 
+A_AT1 concept_NN1 named_VVD as_RG modal_JJ force_NN1 singularity_NN1 is_VBZ 
+introduced_VVN and_CC analyzed_VVN in_II depth_NN1 ._. 
+A_AT1 restriction_NN1 on_II gimbal_JJ angles_NN2 is_VBZ developed_VVN to_TO 
+avoid_VVI modal_JJ force_NN1 singularity_NN1 ._. 
+Subsequently_RR ,_, a_AT1 steering_NN1 logic_NN1 based_VVN on_II 
+pseudo-inverse_NN1 is_VBZ proposed_VVN to_TO allocate_VVI modal_JJ force_NN1 
+commands_VVZ without_IW introducing_VVG force_NN1 errors_NN2 ._. 
+Numerical_JJ simulations_NN2 are_VBR presented_VVN to_TO show_VVI the_AT 
+effectiveness_NN1 of_IO the_AT proposed_JJ approaches_NN2 ._. 

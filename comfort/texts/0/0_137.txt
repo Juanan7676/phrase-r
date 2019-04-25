@@ -1,0 +1,28 @@
+System_NN1 studies_NN2 show_VV0 that_CST NASA_NP1 's_GE N3-X_JJ hybrid_JJ 
+wing-body_JJ aircraft_NN with_IW a_AT1 turboelectric_JJ distributed_JJ 
+propulsion_NN1 system_NN1 using_VVG a_AT1 mail-slot_JJ inlet/nozzle_NN1 
+nacelle_NN1 can_VM meet_VVI the_AT environmental_JJ and_CC performance_NN1 
+goals_NN2 ofN+3generation_FO transports_VVZ (_( three_MC generations_NN2 
+beyond_II the_AT current_JJ air_NN1 transport_NN1 technology_NN1 level_NN1 )_) 
+._. 
+In_II this_DD1 paper_NN1 ,_, we_PPIS2 present_VV0 flow_NN1 calculations_NN2 
+and_CC shape_NN1 optimization_NN1 of_IO the_AT integrated_JJ N3-X_JJ 
+configuration_NN1 ,_, including_II the_AT mail-slot_JJ propulsor_NN1 ,_, 
+based_VVN on_II an_AT1 unstructured-mesh_JJ NavierStokes_NP2 solver_NN1 ._. 
+To_TO simulate_VVI the_AT propulsor_NN1 fans_NN2 flow_VV0 ,_, a_AT1 novel_JJ 
+body_NN1 force_NN1 model_NN1 is_VBZ suggested_VVN for_IF a_AT1 realistic_JJ 
+and_CC efficient_JJ representation_NN1 of_IO flow_NN1 turning_NN1 ,_, 
+pressure_NN1 rise_NN1 and_CC losses_NN2 resulting_VVG from_II the_AT fan_NN1 
+blades_NN2 and_CC the_AT inlet-fan_JJ interactions_NN2 for_IF distorted_JJ 
+inflow_NN1 conditions_NN2 ._. 
+This_DD1 work_NN1 is_VBZ the_AT first_MD of_IO its_APPGE kind_NN1 analysis_NN1 
+and_CC design_NN1 study_NN1 on_II boundary_NN1 layer_NN1 ingestion_NN1 
+inlet_NN1 and_CC fan_VV0 interaction_NN1 problems_NN2 using_VVG the_AT 
+body_NN1 force_NN1 method_NN1 ._. 
+A_AT1 mail-slot_JJ geometry_NN1 was_VBDZ generated_VVN and_CC installed_VVN 
+on_II the_AT N3-X_JJ configuration_NN1 with_IW an_AT1 efficient_JJ CAD-free_JJ 
+method_NN1 ._. 
+An_AT1 optimal_JJ shape_NN1 design_NN1 of_IO the_AT mail-slot_JJ nacelle_NN1 
+surface_NN1 with_IW the_AT adjoint_JJ method_NN1 was_VBDZ successfully_RR 
+conducted_VVN to_TO reduce_VVI the_AT strength_NN1 of_IO shock_NN1 waves_NN2 
+and_CC flow_NN1 separations_NN2 on_II the_AT cowl_NN1 surface_NN1 ._. 

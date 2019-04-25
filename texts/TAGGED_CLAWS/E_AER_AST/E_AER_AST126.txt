@@ -1,0 +1,23 @@
+A_AT1 set_NN1 of_IO laboratory_NN1 experiments_NN2 are_VBR conducted_VVN to_TO 
+demonstrate_VVI the_AT autonomous_JJ capture_NN1 of_IO a_AT1 simulated_JJ 
+resident_JJ space_NN1 object_NN1 by_II a_AT1 simulated_JJ spacecraft_NN 
+equipped_VVN with_IW a_AT1 robotic_JJ manipulator_NN1 ._. 
+A_AT1 planar_JJ air-bearing_JJ test_NN1 bed_NN1 provides_VVZ a_AT1 
+quasi-weightless_JJ and_CC drag-free_JJ dynamic_JJ environment_NN1 on_II a_AT1 
+plane_NN1 ._. 
+To_TO control_VVI the_AT chaser_NN1 's_GE base_NN1 ,_, floating_VVG ,_, 
+flying_VVG ,_, and_CC rotation-flying_JJ control_NN1 approaches_NN2 are_VBR 
+implemented_VVN and_CC compared_VVN ._. 
+A_AT1 resolved-motion-rate_JJ controller_NN1 is_VBZ used_VVN to_TO control_VVI 
+the_AT manipulator_NN1 's_GE joints_NN2 ._. 
+Using_VVG these_DD2 control_VV0 methods_NN2 a_AT1 floating_JJ object_NN1 at_II 
+rest_NN1 is_VBZ successfully_RR captured_VVN ._. 
+Furthermore_RR ,_, the_AT capture_NN1 of_IO a_AT1 floating_JJ and_CC 
+rotating_VVG object_NN1 is_VBZ demonstrated_VVN using_VVG a_AT1 flying_JJ 
+base_NN1 control_NN1 approach_NN1 ._. 
+The_AT originality_NN1 of_IO these_DD2 experiments_NN2 comes_VVZ from_II 
+the_AT remarkably_RR high_JJ dynamic_JJ coupling_NN1 of_IO the_AT 
+spacecraftmanipulator_NN1 system_NN1 used_VVD ._. 
+Emphasis_NN1 is_VBZ given_VVN to_II the_AT guidance_NN1 and_CC control_NN1 
+problems_NN2 ,_, with_IW the_AT relative_JJ navigation_NN1 problem_NN1 
+being_VBG left_VVN outside_II the_AT scope_NN1 of_IO this_DD1 effort_NN1 ._. 

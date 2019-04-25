@@ -1,0 +1,32 @@
+Recently_RR ,_, a_AT1 new_JJ port_NN1 reserves_VVZ deep_JJ water_NN1 depth_NN1 
+for_IF safe_JJ navigation_NN1 and_CC mooring_VVG ,_, following_VVG the_AT 
+trend_NN1 of_IO larger_JJR ship_NN1 building_NN1 ._. 
+Larger_JJR port_NN1 facilities_NN2 include_VV0 long_JJ and_CC huge_JJ 
+breakwaters_NN2 ,_, and_CC mainly_RR adopt_VV0 vertical_JJ type_NN1 
+considering_II low_JJ construction_NN1 cost_NN1 ._. 
+A_AT1 vertical_JJ breakwater_NN1 creates_VVZ stem_NN1 waves_NN2 combining_VVG 
+inclined_JJ incident_NN1 waves_NN2 and_CC reflected_VVD waves_NN2 ,_, and_CC 
+this_DD1 causes_VVZ maneuvering_VVG difficulty_NN1 to_II the_AT passing_JJ 
+vessels_NN2 ,_, and_CC erosion_NN1 of_IO shoreline_NN1 with_IW additional_JJ 
+damages_NN2 to_II berthing_VVG facilities_NN2 ._. 
+Thus_RR ,_, in_II this_DD1 study_NN1 ,_, the_AT researchers_NN2 have_VH0 
+investigated_VVN the_AT response_NN1 of_IO stem_NN1 waves_NN2 at_II the_AT 
+vertical_JJ breakwater_NN1 near_II the_AT entrance_NN1 channel_NN1 and_CC 
+applied_JJ numerical_JJ models_NN2 ,_, which_DDQ are_VBR commonly_RR used_VVN 
+for_IF the_AT analysis_NN1 of_IO wave_NN1 response_NN1 at_II the_AT harbor_NN1 
+design_NN1 ._. 
+The_AT basic_JJ equation_NN1 composing_VVG models_NN2 here_RL adopted_VVD 
+both_RR the_AT linear_JJ parabolic_JJ approximation_NN1 adding_VVG the_AT 
+nonlinear_JJ dispersion_NN1 relationship_NN1 and_CC nonlinear_JJ parabolic_JJ 
+approximation_NN1 adding_VVG a_AT1 linear_JJ dispersion_NN1 relationship_NN1 
+._. 
+To_TO analyze_VVI the_AT applicability_NN1 of_IO both_DB2 models_NN2 ,_, 
+the_AT research_NN1 compared_VVD the_AT numerical_JJ results_NN2 with_IW 
+the_AT existing_JJ hydraulic_JJ model_NN1 results_NN2 ._. 
+The_AT gap_NN1 of_IO serial_JJ breakwaters_NN2 and_CC aligned_VVD angles_NN2 
+caused_VVN more_RGR complicated_JJ stem_NN1 wave_NN1 generation_NN1 and_CC 
+secondary_JJ stem_NN1 wave_NN1 was_VBDZ found_VVN through_II the_AT 
+breakwater_JJR gap_NN1 ._. 
+Those_DD2 analyzed_JJ results_NN2 should_VM be_VBI applied_VVN to_TO ship_VVI 
+handling_NN1 simulation_NN1 studies_NN2 at_II the_AT approaching_JJ 
+channels_NN2 ,_, along_II21 with_II22 the_AT mooring_JJ test_NN1 ._. 

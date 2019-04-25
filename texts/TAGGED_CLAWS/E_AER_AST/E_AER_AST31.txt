@@ -1,0 +1,26 @@
+During_II the_AT take-off_NN1 and_CC landing_NN1 of_IO aircrafts_NN2 
+from/on_II water-contaminated_JJ runways_NN2 ,_, the_AT tire-generated_JJ 
+water_NN1 spray_NN1 can_VM endanger_VVI flight_NN1 safety_NN1 ,_, such_II21 
+as_II22 engine_NN1 spray_NN1 ingestion_NN1 and_CC spray_VV0 impingement_NN1 
+drag_VV0 ._. 
+In_II this_DD1 paper_NN1 ,_, the_AT flow_NN1 physics_NN1 and_CC chine_VV0 
+control_NN1 of_IO the_AT spray_NN1 generated_VVN by_II an_AT1 aircraft_NN 
+rigid_JJ tire_VV0 are_VBR studied_VVN by_II the_AT Smoothed_JJ Particle_NN1 
+Hydrodynamics_NN2 (_( SPH_NP1 )_) method_NN1 ._. 
+The_AT SPH_NP1 method_NN1 is_VBZ validated_VVN by_II a_AT1 NASA_NP1 
+experiment_NN1 ._. 
+The_AT forming_VVG and_CC developing_NN1 progresses_VVZ of_IO the_AT front_NN1 
+and_CC side_NN1 sprays_NN2 are_VBR described_VVN in_II detail_NN1 ._. 
+It_PPH1 is_VBZ found_VVN that_CST the_AT parabolic_JJ stripe_NN1 of_IO 
+initial_NN1 ejected_VVD particles_NN2 at_II a_AT1 given_JJ time_NNT1 is_VBZ 
+the_AT boundary_NN1 between_II the_AT spray_NN1 source_NN1 region_NN1 and_CC 
+the_AT non-disturbed_JJ region_NN1 in_II water_NN1 film_NN1 ,_, and_CC the_AT 
+stripes_NN2 at_II any_DD time_NNT1 are_VBR similar_JJ ._. 
+The_AT effects_NN2 of_IO tire_VV0 speed_NN1 and_CC water_NN1 film_NN1 
+depth_NN1 on_II spray_NN1 angles_NN2 are_VBR evaluated_VVN ._. 
+The_AT chines_NN2 can_VM effectively_RR control_VVI the_AT spray_NN1 
+angles_NN2 by_II reducing_VVG the_AT vertical_JJ velocity_NN1 component_NN1 
+of_IO the_AT ejected_JJ particles_NN2 and_CC increasing_VVG the_AT lateral_JJ 
+component_NN1 ._. 
+The_AT arc_NN1 chines_NN2 are_VBR more_RGR effective_JJ in_II controlling_VVG 
+the_AT spray_NN1 than_CSN the_AT linear_JJ chines_NN2 ._. 

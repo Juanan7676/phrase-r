@@ -1,0 +1,36 @@
+A_AT1 three-dimensional_JJ predictorcorrector_NN1 entry_NN1 guidance_NN1 
+algorithm_NN1 is_VBZ proposed_VVN in_II this_DD1 paper_NN1 ._. 
+More_RGR accurate_JJ solutions_NN2 of_IO flight_NN1 path_NN1 angle_NN1 and_CC 
+velocity_NN1 are_VBR obtained_VVN with_IW the_AT guidance_NN1 algorithm_NN1 
+to_TO reduce_VVI the_AT order_NN1 of_IO motion_NN1 equations_NN2 ,_, which_DDQ 
+greatly_RR lower_JJR the_AT amount_NN1 of_IO calculation_NN1 for_IF 
+generating_VVG on-board_JJ three-dimensional_JJ trajectories_NN2 ._. 
+By_II planning_VVG two_MC bank_NN1 angle_NN1 reversals_NN2 ,_, the_AT 
+burden_NN1 on_II attitude_NN1 control_NN1 system_NN1 is_VBZ significantly_RR 
+reduced_VVN and_CC the_AT reliability_NN1 of_IO the_AT lateral_JJ guidance_NN1 
+is_VBZ well_RR guaranteed_VVN ._. 
+Using_VVG the_AT developed_JJ solutions_NN2 and_CC integrating_VVG the_AT 
+reduced-order_JJ motion_NN1 equations_NN2 numerically_RR ,_, the_AT 
+three-dimensional_JJ trajectory_NN1 planning_NN1 problem_NN1 is_VBZ 
+transformed_VVN into_II two_MC one-parameter_JJ searching_JJ problems_NN2 :_: 
+one_PN1 is_VBZ for_IF the_AT right_JJ guidance_NN1 parameter_NN1 and_CC the_AT 
+other_JJ one_PN1 is_VBZ for_IF the_AT bank_NN1 angle_NN1 reversal_NN1 
+points_NN2 ._. 
+Given_VVN the_AT guidance_NN1 parameter_NN1 and_CC bank_NN1 angle_NN1 
+reversal_NN1 points_NN2 ,_, a_AT1 feasible_JJ three-dimensional_JJ 
+trajectory_NN1 can_VM be_VBI generated_VVN quickly_RR and_CC the_AT guiding_JJ 
+commands_NN2 for_IF the_AT vehicle_NN1 heading_VVG towards_II the_AT 
+landing_NN1 site_NN1 can_VM be_VBI directly_RR obtained_VVN ._. 
+By_II comparing_VVG with_IW the_AT actual_JJ guided_JJ entry_NN1 
+trajectory_NN1 ,_, the_AT feasibility_NN1 of_IO the_AT planned_JJ 
+three-dimensional_JJ entry_NN1 trajectory_NN1 is_VBZ evaluated_VVN ._. 
+Though_CS there_EX are_VBR some_DD differences_NN2 between_II them_PPHO2 ,_, 
+the_AT actual_JJ trajectory_NN1 is_VBZ well_RR approximated_VVN with_IW the_AT 
+present_JJ method_NN1 ._. 
+Additionally_RR ,_, extensive_JJ numerical_JJ simulations_NN2 have_VH0 
+been_VBN carried_VVN out_RP to_II test_NN1 the_AT validity_NN1 and_CC 
+robustness_NN1 of_IO the_AT proposed_JJ entry_NN1 guidance_NN1 algorithm_NN1 
+._. 
+The_AT simulation_NN1 results_NN2 demonstrate_VV0 that_CST the_AT entry_NN1 
+guidance_NN1 works_VVZ well_RR and_CC has_VHZ a_AT1 good_JJ flexibility_NN1 
+._. 

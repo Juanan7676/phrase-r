@@ -1,0 +1,33 @@
+In_II this_DD1 work_NN1 ,_, jet_NN1 noise_NN1 reduction_NN1 using_VVG a_AT1 
+swirling_JJ flow_NN1 surrounding_VVG a_AT1 circular_JJ free_JJ jet_NN1 has_VHZ 
+been_VBN demonstrated_VVN ._. 
+The_AT passive_JJ control_NN1 scheme_NN1 induces_VVZ swirl_NN1 from_II six_MC 
+flat_JJ vanes_NN2 fixed_VVN in_II an_AT1 annular_JJ passage_NN1 with_IW 
+vane_NN1 angles_NN2 from_II 0_MC to_II 50_MC ,_, with_IW the_AT 
+corresponding_JJ swirl_NN1 numbers_NN2 ranging_VVG from_II 0_MC to_II 0.91_MC 
+._. 
+Noise_NN1 measurements_NN2 in_II31 terms_II32 of_II33 overall_JJ sound_NN1 
+pressure_NN1 levels_NN2 ,_, directivity_NN1 patterns_NN2 ,_, acoustic_JJ 
+spectra_NN2 ;_; and_CC flow_NN1 measurements_NN2 in_II31 terms_II32 of_II33 
+centerline_NN1 pitot_NN1 survey_NN1 and_CC flow_NN1 visualization_NN1 have_VH0 
+been_VBN carried_VVN out_RP to_TO evaluate_VVI the_AT efficacy_NN1 of_IO 
+the_AT passive_JJ control_NN1 scheme_NN1 ._. 
+The_AT co-axial_JJ swirl_NN1 jets_NN2 always_RR reduce_VV0 the_AT low_JJ 
+frequency_NN1 noise_NN1 ,_, irrespective_II21 of_II22 the_AT nozzle_NN1 
+pressure_NN1 ratio_NN1 ._. 
+The_AT screech_NN1 tone_NN1 is_VBZ entirely_RR eliminated_VVN and_CC 
+broadband_JJ shock_NN1 associated_JJ noise_NN1 mitigated_VVN by_II the_AT 
+co-axial_JJ swirl_NN1 jets_NN2 ._. 
+The_AT results_NN2 of_IO highly_RR under_RG expanded_JJ supersonic_JJ 
+cases_NN2 ,_, show_VV0 that_CST ,_, the_AT weak_JJ swirl_NN1 generates_VVZ 
+higher_JJR noise_NN1 and_CC high_JJ swirl_NN1 generates_VVZ lower_JJR 
+noise_NN1 for_IF the_AT same_DA nozzle_NN1 pressure_NN1 ratio_NN1 ._. 
+The_AT centerline_NN1 pitot_NN1 pressure_NN1 measurements_NN2 reveal_VV0 
+that_CST the_AT co-axial_JJ swirl_NN1 jets_NN2 decrease_VV0 the_AT core_NN1 
+lengths_NN2 and_CC the_AT number_NN1 of_IO shock_NN1 cells_NN2 compared_VVN 
+to_II the_AT free_JJ jet_NN1 ._. 
+The_AT flow_NN1 visualization_NN1 study_NN1 shows_VVZ that_CST Mach_NNU 
+disks_NN2 are_VBR generated_VVN at_II lower_JJR pressure_NN1 ratios_NN2 for_IF 
+the_AT co-axial_JJ swirl_NN1 jets_NN2 compared_VVN to_II free_JJ jet_NN1 ._. 
+The_AT present_JJ work_NN1 proposes_VVZ swirl_NN1 as_II an_AT1 excellent_JJ 
+passive_JJ tool_NN1 for_IF jet_NN1 noise_NN1 suppression_NN1 ._. 

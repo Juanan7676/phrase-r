@@ -1,0 +1,40 @@
+In_II this_DD1 paper_NN1 ,_, a_AT1 new_JJ method_NN1 for_IF predicting_VVG 
+hypersonic_JJ three-dimensional_JJ (_( 3D_NNU )_) boundary_NN1 layer_NN1 
+transition_NN1 is_VBZ developed_VVN ._. 
+It_PPH1 is_VBZ based_VVN on_II theREo/Mecriterion_NN1 for_IF streamwise_JJ 
+instability_NN1 and_CC on_II theRecf_NN1 ,_, newcriterion_NN1 for_IF 
+crossflow_NN1 instability_NN1 ._. 
+An_AT1 intermittency_NN1 function_NN1 is_VBZ also_RR formulated_VVN and_CC 
+applied_VVN to_TO combine_VVI laminar_JJ and_CC turbulent_JJ flows_NN2 ._. 
+Additionally_RR ,_, a_AT1 computational_JJ grid_NN1 pretreating_VVG method_NN1 
+,_, compatible_JJ with_IW modern_JJ computational_JJ fluid_NN1 dynamics_NN (_( 
+CFD_NP1 )_) techniques_NN2 based_VVN on_II parallel_JJ execution_NN1 is_VBZ 
+adopted_VVN in_BCL21 order_BCL22 to_TO obtain_VVI the_AT boundary_NN1 
+layer_NN1 parameters_NN2 ._. 
+Four_MC criteria_NN2 are_VBR compared_VVN to_II define_VV0 the_AT boundary_NN1 
+layer_NN1 edge_NN1 ._. 
+A_ZZ1 HIFiRE-5_MC elliptic_JJ cone_NN1 at_II different_JJ Reynolds_NP1 
+numbers_NN2 is_VBZ adopted_VVN to_TO validate_VVI the_AT performance_NN1 of_IO 
+the_AT criteria-based_JJ transition_NN1 model_NN1 and_CC the_AT 
+effectiveness_NN1 of_IO the_AT four_MC criteria_NN2 for_IF boundary_NN1 
+layer_NN1 edge_NN1 definition_NN1 ._. 
+The_AT results_NN2 show_VV0 that_CST the_AT boundary_NN1 layer_NN1 edge_NN1 
+of_IO complex_JJ hypersonic_JJ 3D_NNU flows_NN2 could_VM be_VBI obtained_VVN 
+properly_RR with_IW the_AT computational_JJ grid_NN1 pretreating_VVG 
+method_NN1 and_CC the_AT combination_NN1 ofh0/h0_NN1 ,_, 
+infty=0.995andcriteria_FO ._. 
+Moreover_RR ,_, the_AT computedanddistributions_NN2 in_II the_AT region_NN1 
+between_II the_AT leading_JJ edge_NN1 and_CC the_AT centerline_NN1 are_VBR 
+similar_JJ to_II the_AT N-factor_NN1 for_IF streamwise_JJ and_CC crossflow_VV0 
+instabilities_NN2 from_II linear_JJ parabolized_JJ stability_NN1 equation_NN1 
+(_( PSE_NP1 )_) methods_NN2 ._. 
+The_AT shape_NN1 and_CC trend_NN1 of_IO the_AT transition_NN1 onsets_NN2 
+predicted_VVN by_II the_AT criteria-based_JJ transition_NN1 model_NN1 
+between_II the_AT centerline_NN1 and_CC leading_JJ edge_NN1 of_IO HIFiRE-5_MC 
+agree_VV0 well_RR with_IW the_AT experiment_NN1 ._. 
+However_RR ,_, as_II21 for_II22 the_AT transition_NN1 on_II the_AT 
+centerline_NN1 ,_, which_DDQ is_VBZ dominated_VVN by_II the_AT inflection_NN1 
+point_NN1 in_II streamwise_JJ velocity_NN1 profiles_NN2 ,_, using_VVG the_AT 
+criteria-based_JJ transition_NN1 model_NN1 related_VVN to_II boundary_NN1 
+layer_NN1 thickness_NN1 would_VM predict_VVI the_AT transition_NN1 onset_NN1 
+prematurely_RR ._. 

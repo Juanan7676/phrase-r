@@ -1,0 +1,39 @@
+This_DD1 paper_NN1 is_VBZ devoted_JJ to_II designing_VVG an_AT1 analytical_JJ 
+entry_NN1 guidance_NN1 for_IF steering_VVG a_AT1 hypersonic_JJ glide_NN1 
+vehicle_NN1 of_IO high_JJ Lift-to-Drag_NP1 ratio_NN1 (_( L/D_ZZ1 )_) in_II 
+the_AT presence_NN1 of_IO numerous_JJ No-Fly_JJ Zones_NN2 (_( NFZs_NP1 )_) ._. 
+The_AT NFZ_NP1 constraints_NN2 pose_VV0 serious_JJ challenges_NN2 to_II the_AT 
+guidance_NN1 design_NN1 :_: (_( 1_MC1 )_) because_CS there_EX is_VBZ no_AT 
+engine_NN1 to_TO provide_VVI thrust_NN1 ,_, the_AT vehicle_NN1 needs_VVZ to_TO 
+manage_VVI the_AT energy_NN1 of_IO motion_NN1 carefully_RR and_CC can_VM 
+not_XX perform_VVI avoidance_NN1 maneuvers_VVZ arbitrarily_RR ;_; (_( 2_MC )_) 
+due_II21 to_II22 disorder_NN1 distribution_NN1 of_IO NFZs_NP1 ,_, there_EX 
+are_VBR multitudinous_JJ complicated_JJ cases_NN2 to_TO consider_VVI ._. 
+As_II the_AT basis_NN1 of_IO the_AT guidance_NN1 ,_, the_AT adopted_JJ 3-D_JJ 
+analytical_JJ glide_NN1 formulae_NN2 are_VBR improved_VVN by_II posing_VVG 
+a_AT1 more_RGR accurate_JJ Earth-rotation_JJ compensation_NN1 model_NN1 ._. 
+Then_RT ,_, the_AT guidance_NN1 uses_VVZ the_AT new_JJ downrange_NN1 
+formula_NN1 to_TO plan_VVI longitudinal_JJ reference_NN1 profile_NN1 
+according_II21 to_II22 the_AT energy-management_JJ requirement_NN1 ,_, and_CC 
+mainly_RR employs_VVZ the_AT new_JJ crossrange_NN1 formula_NN1 to_TO 
+schedule_VVI proper_JJ bank_NN1 reversals_NN2 under_II the_AT NFZ_NP1 and_CC 
+terminal-position_JJ constraints_NN2 ._. 
+Here_RL ,_, a_AT1 complex_JJ but_CCB rigorous_JJ scheme_NN1 is_VBZ 
+proposed_VVN for_IF fast_RR planning_VVG bank-reversal_JJ sequence_NN1 
+based_VVN on_II six_MC analytical_JJ iteration_NN1 algorithms_NN2 ,_, 
+which_DDQ are_VBR designed_VVN to_TO search_VVI the_AT nearest_JJT 
+trajectory_NN1 point_NN1 to_II NFZ_NP1 ,_, to_TO adjust_VVI the_AT existing_JJ 
+bank_NN1 reversals_NN2 or_CC add_VV0 a_AT1 new_JJ one_PN1 for_IF NFZ_NP1 
+avoidance_NN1 ,_, and_CC to_TO regulate_VVI the_AT last_MD bank_NN1 
+reversals_NN2 for_IF eliminating_VVG terminal_JJ crossrange_NN1 error_NN1 ,_, 
+respectively_RR ._. 
+The_AT scheme_NN1 begins_VVZ with_IW two_MC bank_NN1 reversals_NN2 and_CC 
+then_RT gradually_RR adds_VVZ more_DAR bank_NN1 reversals_NN2 according_II21 
+to_II22 the_AT needs_NN2 of_IO avoiding_VVG the_AT NFZs_NP1 ._. 
+As_II the_AT scheme_NN1 prefers_VVZ to_TO adjust_VVI the_AT existing_JJ 
+bank_NN1 reversals_NN2 to_TO address_VVI the_AT NFZ_NP1 constraints_NN2 ,_, 
+it_PPH1 commonly_RR requires_VVZ only_RR a_AT1 few_DA2 bank_NN1 reversals_NN2 
+._. 
+The_AT superior_JJ performance_NN1 of_IO the_AT guidance_NN1 is_VBZ 
+verified_VVN by_II sufficient_JJ trajectory_NN1 simulations_NN2 in_II 
+disturbed_JJ environments_NN2 ._. 

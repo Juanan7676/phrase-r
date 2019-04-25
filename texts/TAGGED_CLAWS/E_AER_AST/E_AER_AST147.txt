@@ -1,0 +1,31 @@
+In_II this_DD1 paper_NN1 ,_, method_NN1 of_IO aerodynamic_JJ parameter_NN1 
+estimation_NN1 of_IO aircraft_NN ,_, in_II the_AT presence_NN1 of_IO 
+process_NN1 and_CC measurement_NN1 noise_NN1 ,_, have_VH0 been_VBN 
+introduced_VVN with_IW the_AT help_NN1 of_IO relevant_JJ experiments_NN2 
+carried_VVN out_RP on_II simulated_JJ as_II31 well_II32 as_II33 real_JJ 
+aircraft_NN data_NN ._. 
+A_AT1 merger_NN1 between_II two_MC recently_RR proposed_JJ artificial_JJ 
+intelligence_NN1 based_VVN techniques_NN2 one_MC1 of_IO which_DDQ 
+simulates_VVZ the_AT intelligent_JJ foraging_JJ behavior_NN1 of_IO honey_NN1 
+bee_NN1 swarm_NN1 viz._REX Artificial_JJ Bee_NN1 Colony_NN1 (_( ABC_NP1 )_) 
+optimization_NN1 along_II21 with_II22 well-known_JJ Adaptive_JJ Neuro-Fuzzy_JJ 
+System_NN1 (_( ANFIS_NP1 )_) that_CST simulates_VVZ the_AT working_NN1 of_IO 
+a_AT1 unit_NN1 of_IO brain_NN1 viz._REX neuron_NN1 combined_VVN with_IW the_AT 
+knowledge-based_JJ decision_NN1 making_VVG capability_NN1 of_IO fuzzy_JJ 
+system_NN1 have_VH0 been_VBN shown_VVN to_TO be_VBI a_AT1 promisingly_RR 
+new_JJ approach_NN1 to_II the_AT problem_NN1 of_IO aerodynamic_JJ modeling_NN1 
+and_CC parameter_NN1 estimation_NN1 for_IF both_DB2 aerodynamically_RR 
+stable_JJ aircraft_NN in_II the_AT presence_NN1 of_IO measurement_NN1 
+error_NN1 (_( sensor_NN1 noise_NN1 )_) ._. 
+Obtained_VVN results_NN2 have_VH0 been_VBN compared_VVN with_IW benchmark_NN1 
+estimation_NN1 methods_NN2 viz._REX Least_DAT Square_NN1 ,_, Filter_NN1 
+Error_NN1 Method_NN1 ._. 
+Corroborating_VVG results_NN2 and_CC comparisons_NN2 have_VH0 been_VBN 
+furnished_VVN highlighting_VVG the_AT efficacy_NN1 of_IO proposed_JJ 
+algorithm_NN1 ._. 
+Furthermore_RR ,_, it_PPH1 has_VHZ been_VBN shown_VVN that_CST the_AT 
+proposed_JJ hybrid_JJ estimation_NN1 algorithm_NN1 can_VM have_VHI 
+realizable_JJ application_NN1 in_II extracting_VVG stability_NN1 and_CC 
+control_NN1 variables_NN2 utilizing_VVG kinematics_NN2 of_IO stable_JJ 
+aircraft_NN even_RR in_II absence_NN1 of_IO adequate_JJ information_NN1 
+content_NN1 in_II the_AT data_NN history_NN1 ._. 

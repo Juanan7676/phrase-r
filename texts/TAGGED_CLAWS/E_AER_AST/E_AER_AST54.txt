@@ -1,0 +1,25 @@
+A_AT1 novel_JJ approach_NN1 to_II onboard_NN1 in-flight_NN1 weight_NN1 and_CC 
+balance_NN1 estimation_NN1 systems_NN2 is_VBZ presented_VVN ._. 
+Data_NN from_II an_AT1 Airbus_NN1 A320_FO fleet_NN1 from_II an_AT1 airline_NN1 
+were_VBDR used_VVN to_TO assess_VVI the_AT feasibility_NN1 of_IO the_AT 
+approach_NN1 ._. 
+Simple_JJ flight_NN1 mechanics_NN2 in_II combination_NN1 with_IW statistics_NN 
+allowed_VVN for_IF the_AT identification_NN1 of_IO weight_NN1 and_CC 
+center_NN1 of_IO gravity_NN1 position_NN1 using_VVG cruise_NN1 angle_NN1 of_IO 
+attack_NN1 ,_, Mach_NNU number_NN1 and_CC elevator_NN1 deflection_NN1 
+values_NN2 ._. 
+The_AT good_JJ agreement_NN1 between_II the_AT theoretical_JJ model_NN1 and_CC 
+the_AT obtained_VVN values_NN2 for_IF the_AT lift_NN1 curve_NN1 slope_NN1 
+as_II a_AT1 function_NN1 of_IO Mach_NNU as_II31 well_II32 as_II33 the_AT 
+standard_JJ error_NN1 of_IO the_AT estimate_NN1 for_IF center_NN1 of_IO 
+gravity_NN1 position_NN1 and_CC cruise_VV0 flying_JJ weight_NN1 indicate_VV0 
+that_CST the_AT method_NN1 is_VBZ sound_NN1 ._. 
+The_AT major_JJ implication_NN1 of_IO this_DD1 work_NN1 is_VBZ that_CST the_AT 
+development_NN1 of_IO onboard_NN1 and_CC in-flight_JJ weight_NN1 and_CC 
+balance_NN1 systems_NN2 can_VM be_VBI significantly_RR simpler_JJR than_CSN 
+previous_JJ literature_NN1 suggested_VVD ._. 
+The_AT impact_NN1 of_IO this_DD1 paper_NN1 could_VM be_VBI immediate_JJ for_IF 
+airlines_NN2 since_CS all_DB the_AT tools_NN2 required_VVN to_TO implement_VVI 
+the_AT system_NN1 as_CSA described_VVN are_VBR readily_RR available_JJ ._. 
+This_DD1 could_VM have_VHI an_AT1 effect_NN1 in_II operating_VVG costs_NN2 ,_, 
+safety_NN1 and_CC environment_NN1 ._. 

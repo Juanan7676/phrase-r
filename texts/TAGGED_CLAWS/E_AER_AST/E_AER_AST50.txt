@@ -1,0 +1,26 @@
+We_PPIS2 present_VV0 an_AT1 optimization_NN1 platform_NN1 for_IF 
+turbomachinery_NN1 with_IW complex_JJ mesh_NN1 configuration_NN1 in_II a_AT1 
+parallel_JJ computation_NN1 environment_NN1 ._. 
+A_AT1 continuous_JJ adjoint_JJ solver_NN1 for_IF 3-D_JJ viscous_JJ internal_JJ 
+flow_NN1 is_VBZ coded_VVN under_II the_AT same_DA parallel_JJ framework_NN1 
+as_CSA the_AT flow_NN1 solver_NN1 ._. 
+To_TO meet_VVI the_AT various_JJ permitted_JJ extents_NN2 of_IO reshaping_VVG 
+on_II blade_NN1 surface_NN1 and_CC to_TO cut_VVI down_RP the_AT 
+computational_JJ cost_NN1 in_II grid_NN1 perturbation_NN1 ,_, a_AT1 
+localized_JJ two-level_JJ mesh_NN1 deformation_NN1 method_NN1 is_VBZ 
+developed_VVN based_VVN on_II Gaussian_JJ radial_JJ basis_NN1 function_NN1 (_( 
+RBF_NP1 )_) ._. 
+This_DD1 method_NN1 works_VVZ efficiently_RR for_IF both_DB2 the_AT O_NP1 
+mesh_NN1 surrounding_VVG the_AT blade_NN1 and_CC the_AT OH_UH mesh_NN1 
+inside_II tip_NN1 gap_NN1 ._. 
+In_II the_AT optimization_NN1 of_IO the_AT transonic_JJ NASA_NP1 Rotor_NP1 
+67_MC for_IF high_JJ adiabatic_JJ efficiency_NN1 with_IW a_AT1 mass_JJ 
+flow_NN1 rate_NN1 constraint_NN1 ,_, an_AT1 adjoint_JJ sensitivity_NN1 
+analysis_NN1 is_VBZ conducted_VVN ._. 
+The_AT relations_NN2 between_II the_AT design_NN1 sensitive_JJ regions_NN2 
+and_CC physical_JJ phenomena_NN2 in_II internal_JJ flow_NN1 are_VBR 
+discussed_VVN ._. 
+Flow_NN1 fields_NN2 before_II and_CC after_CS the_AT adjoint_JJ 
+optimization_NN1 are_VBR investigated_VVN ,_, including_II shock_NN1 
+system_NN1 ,_, tip_VV0 leakage_NN1 flow_NN1 ,_, and_CC flow_NN1 separation_NN1 
+._. 

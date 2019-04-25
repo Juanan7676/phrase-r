@@ -1,0 +1,43 @@
+This_DD1 paper_NN1 presents_VVZ an_AT1 approach_NN1 with_IW which_DDQ 
+perceived_VVD audible_JJ differences_NN2 in_II aircraft_NN sounds_NN2 can_VM 
+be_VBI quantified_VVN and_CC presented_VVN in_II an_AT1 objective_JJ 
+manner_NN1 ._. 
+The_AT objective_JJ quantification_NN1 of_IO the_AT subjectively_RR heard_VVN 
+audible_JJ differences_NN2 is_VBZ intended_VVN to_TO serve_VVI two_MC 
+primary_JJ goals_NN2 ._. 
+It_PPH1 can_VM firstly_RR enable_VVI developers_NN2 of_IO auralization_NN1 
+technology_NN1 to_TO make_VVI the_AT auralized_JJ sounds_NN2 more_RGR 
+realistic_JJ by_II identifying_VVG in_II which_DDQ aspects_NN2 the_AT 
+synthesized_JJ sounds_NN2 differ_VV0 from_II their_APPGE real-life_JJ 
+counterparts_NN2 and_CC to_II what_DDQ extent_NN1 ._. 
+The_AT quantification_NN1 can_VM secondly_RR provide_VVI an_AT1 improved_JJ 
+and_CC more_RGR detailed_JJ means_NN of_IO distinguishing_VVG between_II 
+aircraft_NN sounds_VVZ in_RR21 general_RR22 ,_, beyond_II the_AT 
+conventional_JJ metrics_NN1 of_IO A-weighted_JJ Sound_NN1 Pressure_NN1 
+level_NN1 (_( dBA_NN1 )_) or_CC Effective_JJ Perceived_JJ Noise_NN1 Level_NN1 
+(_( EPNL_NP1 )_) used_VVN currently_RR to_TO assess_VVI aircraft_NN noise_NN1 
+._. 
+In_II this_DD1 study_NN1 sound_NN1 quality_NN1 metrics_NN2 are_VBR used_VVN 
+to_TO quantify_VVI the_AT differences_NN2 in_II aircraft_NN sounds_NN2 ._. 
+These_DD2 metrics_NN2 are_VBR widely_RR used_VVN in_II other_JJ industries_NN2 
+such_II21 as_II22 the_AT automotive_JJ sector_NN1 ._. 
+Audio_JJ files_NN2 of_IO a_AT1 reference_NN1 aircraft_NN ,_, made_VVD over_RP 
+identical_JJ flight_NN1 paths_NN2 at_II a_AT1 noise_NN1 monitoring_NN1 
+station_NN1 in_II the_AT vicinity_NN1 of_IO Schiphol_NP1 airport_NN1 ,_, 
+are_VBR compared_VVN in_II31 terms_II32 of_II33 both_DB2 conventional_JJ 
+and_CC sound_NN1 quality_NN1 metrics_NN2 for_IF four_MC measured_VVD and_CC 
+four_MC auralized_VVD audio_JJ files_NN2 ._. 
+It_PPH1 is_VBZ observed_VVN from_II the_AT comparison_NN1 that_CST 
+differences_NN2 that_CST may_VM appear_VVI small_JJ in_II the_AT 
+conventional_JJ metrics_NN2 can_VM be_VBI significant_JJ in_II31 terms_II32 
+of_II33 the_AT sound_NN1 quality_NN1 metrics_NN2 ._. 
+Significant_JJ differences_NN2 in_II measured_JJ and_CC synthesized_VVD 
+sounds_NN2 are_VBR observed_VVN for_IF the_AT aircraft_NN considered_VVN in_II 
+this_DD1 study_NN1 with_IW regards_VVZ to_II the_AT tonal_JJ content_NN1 
+and_CC fluctuations_NN2 in_II amplitude_NN1 that_CST occur_VV0 over_II 
+time_NNT1 ._. 
+The_AT conventional_JJ metrics_NN2 are_VBR seen_VVN to_TO capture_VVI the_AT 
+overall_JJ loudness_NN1 aspect_NN1 of_IO aircraft_NN sounds_NN2 ,_, but_CCB 
+give_VV0 no_AT clear_JJ information_NN1 regarding_II which_DDQ spectral_JJ 
+or_CC temporal_JJ characteristics_NN2 cause_VV0 the_AT sounds_NN2 to_TO be_VBI 
+perceived_VVN as_CSA audibly_RR different_JJ ._. 

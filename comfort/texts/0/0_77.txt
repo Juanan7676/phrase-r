@@ -1,0 +1,45 @@
+This_DD1 paper_NN1 presents_VVZ a_AT1 novel_JJ algorithm_NN1 identifying_VVG 
+optimal_JJ flight_NN1 trajectories_NN2 for_IF Unmanned_JJ Aerial_NN1 
+Vehicles_NN2 compliant_JJ with_IW environmental_JJ constraints_NN2 ._. 
+Such_DA constraints_NN2 are_VBR defined_VVN in_II31 terms_II32 of_II33 
+obstacles_NN2 ,_, fixed_JJ way-points_NN2 and_CC selected_JJ destination_NN1 
+points_NN2 ._. 
+Optimality_NN1 is_VBZ evaluated_VVN taking_VVG the_AT minimum_JJ path_NN1 
+length_NN1 as_II the_AT specific_JJ objective_JJ function_NN1 ._. 
+The_AT proposed_JJ path_NN1 planning_NN1 strategy_NN1 is_VBZ based_VVN on_II 
+an_AT1 original_JJ trajectory_NN1 modelling_NN1 coupled_VVN with_IW a_AT1 
+Particle_NN1 Swarm_NN1 optimizer_NN1 (_( PSO_NN1 )_) ._. 
+Flight_NN1 paths_NN2 starting_VVG from_II a_AT1 specified_JJ point_NN1 and_CC 
+ending_VVG at_II a_AT1 selected_JJ destination_NN1 point_NN1 are_VBR 
+divided_VVN into_II a_AT1 finite_JJ number_NN1 of_IO segments_NN2 made_VVD 
+up_RP of_IO circular_JJ arcs_NN2 and_CC straight_JJ lines_NN2 ._. 
+In_II the_AT proposed_JJ approach_NN1 such_DA a_AT1 geometrical_JJ 
+sequence_NN1 is_VBZ replaced_VVN with_IW a_AT1 finite_JJ sequence_NN1 of_IO 
+binary-coded_JJ basic_JJ manoeuvres_NN2 ._. 
+This_DD1 novel_JJ formulation_NN1 allows_VVZ to_TO easily_RR handle_VVI the_AT 
+manoeuvres_NN2 sequence_NN1 with_IW a_AT1 fixed_JJ number_NN1 of_IO 
+integer_NN1 variables_NN2 taking_VVG advantage_NN1 of_IO PSO_NN1 
+capability_NN1 in_II handling_VVG discrete_JJ variables_NN2 ;_; moreover_RR 
+the_AT use_NN1 of_IO mixed-type_JJ variables_NN2 provides_VVZ the_AT 
+optimization_NN1 procedure_NN1 a_AT1 useful_JJ flexibility_NN1 in_II the_AT 
+Sdecision_NN1 making_VVG modelling_NN1 and_CC operational_JJ scenarios_NN2 
+definition_NN1 as_RR21 well_RR22 ._. 
+Specific_JJ geometric-based_JJ linear_JJ obstacle_NN1 avoidance_NN1 models_NN2 
+have_VH0 been_VBN implemented_VVN in_II31 addition_II32 to_II33 suitable_JJ 
+penalty_NN1 functions_NN2 ._. 
+The_AT use_NN1 of_IO these_DD2 models_NN2 forces_VVZ each_DD1 path_NN1 to_TO 
+be_VBI consistent_JJ with_IW the_AT environmental_JJ constraints_NN2 
+favouring_VVG the_AT identification_NN1 of_IO feasible_JJ trajectories_NN2 
+with_IW a_AT1 reduced_JJ number_NN1 of_IO iterations_NN2 and_CC particles_NN2 
+._. 
+The_AT path_NN1 planning_NN1 model_NN1 has_VHZ been_VBN developed_VVN with_IW 
+particular_JJ care_NN1 devoted_VVD to_TO reduce_VVI computational_JJ 
+effort_NN1 as_RG well_RR as_CSA to_TO improve_VVI algorithm_NN1 capability_NN1 
+in_II handling_VVG general-shaped_JJ obstacles_NN2 both_RR in_II 2-D_JJ and_CC 
+3-D_JJ environments_NN2 ._. 
+Various_JJ applications_NN2 have_VH0 been_VBN performed_VVN in_BCL21 
+order_BCL22 to_TO test_VVI the_AT effectiveness_NN1 of_IO the_AT proposed_JJ 
+flight_NN1 path_NN1 generator_NN1 ._. 
+Applicability_NN1 of_IO the_AT proposed_JJ optimization_NN1 model_NN1 also_RR 
+to_II vehicles_NN2 with_IW VTOL_NP1 and_CC hovering_VVG capabilities_NN2 
+has_VHZ been_VBN preliminarily_RR assessed_VVN ._. 

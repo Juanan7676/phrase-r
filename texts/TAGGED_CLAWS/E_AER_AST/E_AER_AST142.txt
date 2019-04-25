@@ -1,0 +1,23 @@
+An_AT1 experimental_JJ investigation_NN1 was_VBDZ conducted_VVN in_II a_AT1 
+cold_JJ flow_NN1 test_NN1 facility_NN1 to_TO identify_VVI the_AT origin_NN1 
+of_IO various_JJ flow_NN1 conditions_NN2 that_CST lead_VV0 to_II side-load_JJ 
+generation_NN1 in_II a_AT1 truncated_JJ ideal_JJ contour_NN1 nozzle_NN1 (_( 
+of_IO area-ratio_NN1 20.66_MC )_) especially_RR at_II moderate_JJ nozzle_NN1 
+pressure_NN1 ratio_NN1 range_NN1 of_IO 20_MC to_II 42_MC during_II the_AT 
+start-up_NN1 and_CC shutdown_NN1 sequences_NN2 ._. 
+The_AT major_JJ contributors_NN2 seem_VV0 to_TO be_VBI the_AT transition_NN1 
+in_II flow_NN1 conditions_NN2 namely_REX ,_, the_AT change_NN1 in_II the_AT 
+circumferential_JJ shape_NN1 of_IO re-circulation_NN1 region_NN1 inside_II 
+the_AT nozzle_NN1 from_II a_AT1 cylindrically_RR dominated_VVN regime_NN1 
+to_II a_AT1 conical_JJ one_PN1 and_CC the_AT end-effect_JJ regime_NN1 that_CST 
+initiate_VV0 highly_RR unsteady_JJ flow_NN1 conditions_NN2 in_II the_AT 
+separation_NN1 region_NN1 preceding_VVG these_DD2 transitions_NN2 ._. 
+Other_JJ flow_NN1 transitions_NN2 such_II21 as_II22 those_DD2 initiated_VVN 
+by_II the_AT onset_NN1 of_IO test_NN1 gas_NN1 condensation_NN1 
+andvice-versaresult_NN1 in_II a_AT1 downstream_JJ or_CC an_AT1 upstream_JJ 
+jump_NN1 in_II separation_NN1 ,_, respectively_RR ,_, that_DD1 causes_VVZ 
+the_AT overall_JJ side-load_JJ signal_NN1 to_TO increase_VVI ._. 
+During_II this_DD1 flow_NN1 regime_NN1 ,_, an_AT1 increase_NN1 in_II the_AT 
+length_NN1 of_IO the_AT upstream_JJ influence_NN1 region_NN1 accompanied_VVN 
+by_II a_AT1 rise_NN1 in_II the_AT peak_NN1 standard_NN1 deviation_NN1 
+value_NN1 is_VBZ also_RR observed_VVN 

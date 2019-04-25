@@ -1,0 +1,28 @@
+Adaptive_JJ Information_NN1 Systems_NN2 (_( AdIS_NP1 )_) are_VBR systems_NN2 
+responsive_JJ to_II environmental_JJ changes_NN2 or_CC changes_NN2 in_II a_AT1 
+ship_NN1 's_GE systems_NN2 ._. 
+In_II this_DD1 paper_NN1 the_AT potential_NN1 of_IO shipboard_NN1 AdIS_NP1 
+to_TO decrease_VVI an_AT1 officer_NN1 's_GE excessive_JJ workload_NN1 are_VBR 
+examined_VVN ._. 
+The_AT workload_NN1 of_IO the_AT Officer_NN1 Of_IO the_AT Watch_NN1 (_( 
+OOW_NP1 )_) consists_VVZ of_IO tasks_NN2 being_VBG initiated_VVN by_II the_AT 
+OOW_NN1 and_CC by_II external_JJ inputs_NN2 ._. 
+Sometimes_RT the_AT external_JJ inputs_NN2 ,_, particularly_RR those_DD2 
+requiring_VVG low_JJ priority_NN1 actions_NN2 ,_, actually_RR distract_VV0 
+the_AT OOW_NN1 and_CC increase_VV0 the_AT workload_NN1 ._. 
+Consequently_RR an_AT1 overload_NN1 may_VM be_VBI reduced_VVN by_II 
+delaying_VVG low_JJ priority_NN1 information_NN1 ,_, thus_RR delaying_VVG 
+the_AT actions_NN2 they_PPHS2 could_VM initiate_VVI ._. 
+To_TO estimate_VVI the_AT applicability_NN1 of_IO AdIS_NP1 ,_, a_AT1 model_NN1 
+has_VHZ been_VBN developed_VVN using_VVG a_AT1 discrete_JJ event_NN1 
+simulation_NN1 software_NN1 ,_, consisting_VVG of_IO three_MC main_JJ 
+modules_NN2 :_: environment_NN1 ,_, AdIS_NP1 and_CC the_AT OOW_NN1 ._. 
+The_AT simulation_NN1 has_VHZ been_VBN run_VVN with_IW a_AT1 traffic_NN1 
+environment_NN1 comparable_JJ to_II those_DD2 existing_JJ in_II the_AT 
+Dover_NP1 Strait_NN1 ._. 
+A_AT1 comparison_NN1 between_II the_AT OOW_NN1 workload_NN1 with_IW and_CC 
+without_IW AdIS_NP1 has_VHZ been_VBN estimated_VVN ,_, indicating_VVG that_CST 
+during_II demanding_VVG navigation_NN1 AdIS_NP1 can_VM significantly_RR 
+reduce_VVI the_AT overload_NN1 time_NNT1 ._. 
+In_II areas_NN2 similar_JJ to_II the_AT Dover_NP1 Strait_NN1 the_AT 
+overload_NN1 time_NNT1 can_VM be_VBI reduced_VVN by_II a_AT1 third_MD ._. 

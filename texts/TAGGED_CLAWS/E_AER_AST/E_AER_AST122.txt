@@ -1,0 +1,23 @@
+This_DD1 paper_NN1 investigates_VVZ a_AT1 new_JJ prescribed_JJ performance_NN1 
+control_NN1 (_( PPC_NP1 )_) methodology_NN1 for_IF the_AT longitudinal_JJ 
+dynamic_JJ model_NN1 of_IO an_AT1 air-breathing_JJ hypersonic_JJ vehicle_NN1 
+via_II neural_JJ approximation_NN1 ._. 
+To_TO release_VVI the_AT restriction_NN1 on_II traditional_JJ PPC_NP1 that_CST 
+the_AT initial_JJ tracking_JJ errors_NN2 have_VH0 to_TO be_VBI known_VVN in_II 
+advance_NN1 for_IF control_NN1 design_NN1 ,_, a_AT1 novel_JJ performance_NN1 
+function_NN1 is_VBZ exploited_VVN ._. 
+Moreover_RR ,_, the_AT devised_JJ controller_NN1 is_VBZ capable_JJ of_IO 
+guaranteeing_VVG prescribed_JJ performance_NN1 on_II the_AT velocity_NN1 
+and_CC altitude_NN1 tracking_NN1 errors_NN2 ._. 
+Neural_JJ networks_NN2 (_( NNs_NP1 )_) are_VBR employed_VVN to_TO 
+approximate_VVI the_AT unknown_JJ vehicle_NN1 dynamics_NN and_CC a_AT1 
+minimal-learning_JJ parameter_NN1 scheme_NN1 is_VBZ utilized_VVN to_TO 
+update_VVI the_AT norm_NN1 of_IO NN_NP1 's_GE weight_NN1 vector_NN1 ._. 
+Hence_RR ,_, a_AT1 low_JJ computational_JJ burden_NN1 design_NN1 is_VBZ 
+achieved_VVN without_IW using_VVG back-stepping_NN1 ._. 
+The_AT semi-globally_RR uniform_JJ boundedness_NN1 of_IO all_DB the_AT 
+closed-loop_JJ signals_NN2 is_VBZ insured_VVN by_II Lyapunov_NP1 synthesis_NN1 
+._. 
+Finally_RR ,_, simulation_NN1 results_NN2 are_VBR presented_VVN to_TO 
+validate_VVI the_AT efficacy_NN1 of_IO the_AT proposed_JJ control_NN1 
+approach_NN1 ._. 

@@ -1,0 +1,38 @@
+This_DD1 paper_NN1 presents_VVZ the_AT development_NN1 and_CC an_AT1 
+application_NN1 of_IO a_AT1 multidisciplinary_JJ methodology_NN1 for_IF the_AT 
+preliminary_JJ design_NN1 assessment_NN1 of_IO compound_NN1 coaxial_JJ 
+rotorcraft_NN1 with_IW a_AT1 counter-rotating_JJ rotor_NN1 system_NN1 and_CC 
+a_AT1 rear-mounted_JJ propeller_NN1 ._. 
+A_AT1 comprehensive_JJ optimisation_NN1 strategy_NN1 is_VBZ deployed_VVN to_TO 
+evaluate_VVI the_AT environmental_JJ and_CC operational_JJ benefits_NN2 of_IO 
+the_AT aforementioned_JJ rotorcraft_NN1 architecture_NN1 ._. 
+The_AT code_NN1 is_VBZ validated_VVN against_II experimental_JJ data_NN 
+prior_II21 to_II22 the_AT application_NN1 of_IO the_AT methodology_NN1 to_II 
+the_AT evaluation_NN1 of_IO a_AT1 conceptual_JJ vehicle_NN1 for_IF 
+intercity_NN1 taxi_NN1 applications_NN2 ._. 
+Response_NN1 Surface_NN1 Models_NN2 (_( RSMs_NP1 )_) are_VBR generated_VVN 
+to_TO mimic_VVI the_AT rotorcraft_NN1 performance_NN1 in_BCL21 order_BCL22 
+to_TO accelerate_VVI the_AT optimisation_NN1 process_NN1 ._. 
+The_AT effects_NN2 of_IO the_AT defined_JJ mission_NN1 input_NN1 
+parameters_NN2 such_II21 as_II22 cruise_NN1 speed_NN1 ,_, altitude_NN1 ,_, 
+climb_VV0 rate_NN1 or_CC mission_NN1 length_NN1 are_VBR evaluated_VVN ._. 
+Pareto_NP1 fronts_NN2 for_IF fuel_NN1 burn_NN1 ,_, NOxemissions_NN2 and_CC 
+mission_NN1 duration_NN1 are_VBR obtained_VVN ._. 
+The_AT method_NN1 was_VBDZ applied_VVN to_II a_AT1 hypothetical_JJ 
+scenario_NN1 of_IO mission_NN1 length_NN1 ranging_VVG from_II 50_MC to_II 
+300_MC km_NNU ._. 
+Best_JJT estimate_NN1 mission_NN1 scenario_NN1 are_VBR selected_VVN from_II 
+the_AT Pareto_NP1 fronts_NN2 ,_, providing_VVG on_II average_JJ 23%_NNU ,_, 
+20%_NNU ,_, and_CC 13%_NNU simultaneous_JJ reductions_NN2 in_II mission_NN1 
+duration_NN1 ,_, fuel_NN1 burn_NN1 ,_, andNOxemissions_NN2 when_CS 
+compared_VVN to_II a_AT1 conventional_JJ flight_NN1 procedure_NN1 ._. 
+The_AT picked_JJ scenarios_NN2 coincide_VV0 with_IW the_AT fuel_NN1 
+optimised_JJ mission_NN1 scenarios_NN2 for_IF each_DD1 mission_NN1 length_NN1 
+,_, thus_RR the_AT multi-disciplinary_JJ environment_NN1 was_VBDZ not_XX 
+required_VVN ._. 
+Besides_RR ,_, an_AT1 Simproved_JJ mission_NN1 procedure_NN1 is_VBZ 
+outlined_VVN ,_, defining_VVG the_AT mission_NN1 characteristics_NN2 
+independently_RR of_IO the_AT mission_NN1 's_GE length_NN1 ._. 
+This_DD1 procedure_NN1 yields_VVZ on_II average_JJ 22%_NNU ,_, 14%_NNU ,_, 
+and_CC 8%_NNU reductions_NN2 in_II mission_NN1 duration_NN1 ,_, fuel_NN1 
+burn_NN1 ,_, andNOxemissions_NN2 ,_, respectively_RR ._. 

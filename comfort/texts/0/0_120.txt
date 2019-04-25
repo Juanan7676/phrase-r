@@ -1,0 +1,26 @@
+Most_DAT of_IO the_AT technologies_NN2 are_VBR in_II high-speed_JJ 
+evolution_NN1 nowadays_RT ._. 
+But_CCB the_AT spacecraft_NN ,_, however_RR ,_, is_VBZ still_RR high-priced_JJ 
+and_CC takes_VVZ years_NNT2 to_TO construct_VVI ._. 
+Besides_II that_DD1 ,_, it_PPH1 is_VBZ hardly_RR to_TO service_VVI since_CS 
+the_AT conventional_JJ spacecraft_NN are_VBR not_XX serviceable_JJ 
+designed_VVN ._. 
+Facing_VVG those_DD2 challenges_NN2 ,_, the_AT concept_NN1 of_IO cellular_JJ 
+space_NN1 robot_NN1 is_VBZ presented_VVN in_II this_DD1 paper_NN1 for_IF 
+both_RR spacecraft_NN system_NN1 construction_NN1 and_CC on-orbit_JJ 
+service_NN1 ._. 
+As_II a_AT1 typical_JJ on-orbit_JJ service_NN1 task_NN1 ,_, the_AT 
+non-cooperative_JJ target_NN1 takeover_NN1 control_NN1 is_VBZ considered_VVN 
+in_II this_DD1 paper_NN1 ._. 
+Specifically_RR ,_, the_AT inertia_NN1 parameters_NN2 identification_NN1 
+for_IF takeover_NN1 control_NN1 is_VBZ studied_VVN in_II this_DD1 paper_NN1 
+._. 
+Because_CS the_AT cells_NN2 in_II the_AT cellular_JJ space_NN1 robot_NN1 
+are_VBR interconnected_VVN and_CC networked_JJ ,_, an_AT1 interactive_JJ 
+parameter_NN1 identification_NN1 algorithm_NN1 is_VBZ presented_VVN to_TO 
+solve_VVI the_AT parameter_NN1 identification_NN1 problem_NN1 by_II cells_NN2 
+interaction_NN1 ._. 
+The_AT algorithm_NN1 is_VBZ distributed_VVN and_CC both_RR synchronous_JJ 
+and_CC asynchronous_JJ interactions_NN2 are_VBR supported_VVN ._. 
+The_AT algorithm_NN1 is_VBZ validated_VVN and_CC analyzed_VVN by_II 
+numerical_JJ simulations_NN2 ._. 

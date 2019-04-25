@@ -1,0 +1,25 @@
+Since_CS the_AT original_JJ extreme_JJ learning_NN1 machine_NN1 (_( ELM_NN1 
+)_) generates_VVZ the_AT hidden_JJ nodes_NN2 randomly_RR ,_, it_PPH1 
+usually_RR needs_VVZ more_RGR hidden_JJ nodes_NN2 to_TO reach_VVI the_AT 
+good_JJ classification_NN1 performance_NN1 ._. 
+However_RR ,_, more_RGR hidden_JJ nodes_NN2 will_VM jeopardize_VVI the_AT 
+real_JJ time_NNT1 ,_, which_DDQ limits_VVZ its_APPGE applications_NN2 to_II 
+the_AT testing_NN1 time_NNT1 sensitive_JJ scenarios_NN2 ._. 
+To_II this_DD1 end_NN1 ,_, the_AT commonly-used_JJ methods_NN2 tend_VV0 to_TO 
+compact_VVI its_APPGE structure_NN1 via_II optimizing_VVG the_AT number_NN1 
+of_IO hidden_JJ nodes_NN2 ._. 
+Different_JJ from_II this_DD1 viewpoint_NN1 of_IO network_NN1 structure_NN1 
+,_, in_II this_DD1 paper_NN1 two_MC algorithms_NN2 are_VBR proposed_VVN to_TO 
+improve_VVI the_AT real_JJ time_NNT1 performance_NN1 of_IO ELM_NN1 from_II 
+a_AT1 viewpoint_NN1 of_IO data_NN structure_NN1 ._. 
+Specially_RR ,_, they_PPHS2 improve_VV0 the_AT ELM_NN1 classification_NN1 
+performance_NN1 by_II retargeting_VVG its_APPGE label_NN1 vectors_NN2 ._. 
+As_CSA thus_RR ,_, they_PPHS2 need_VV0 fewer_DAR hidden_JJ nodes_NN2 to_TO 
+reach_VVI the_AT same_DA classification_NN1 performance_NN1 ,_, which_DDQ 
+means_VVZ the_AT better_JJR real_JJ time_NNT1 ._. 
+Finally_RR ,_, experimental_JJ results_NN2 on_II the_AT benchmark_NN1 data_NN 
+sets_NN2 validate_VV0 the_AT effectiveness_NN1 and_CC feasibility_NN1 of_IO 
+the_AT presented_JJ two_MC algorithms_NN2 ._. 
+To_TO be_VBI more_RGR important_JJ ,_, they_PPHS2 are_VBR applied_VVN to_II 
+the_AT fault_NN1 diagnosis_NN1 of_IO aircraft_NN engine_NN1 and_CC can_VM 
+be_VBI developed_VVN as_CSA its_APPGE candidate_NN1 techniques_NN2 ._. 

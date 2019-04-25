@@ -1,0 +1,18 @@
+An_AT1 energetic_JJ representation_NN1 of_IO helicopter_NN1 flight_NN1 
+controls_NN2 ,_, viewed_VVN as_II an_AT1 Operator_NN1 Assisting_VVG System_NN1 
+,_, is_VBZ proposed_VVN within_II the_AT Port-Hamiltonian_JJ framework_NN1 ._. 
+The_AT assisting_JJ controller_NN1 modifies_VVZ the_AT dynamical_JJ 
+behavior_NN1 between_II the_AT pilot_NN1 stick_NN1 and_CC the_AT 
+swashplate_NN1 ,_, linked_VVN through_II a_AT1 Continuous_JJ Variable_JJ 
+Transmission_NN1 ,_, by_II enforcing_VVG force_NN1 scaling_NN1 and_CC 
+providing_VVG appropriate_JJ force_NN1 feedback_NN1 to_II the_AT operator_NN1 
+._. 
+Generic_JJ sufficient_JJ conditions_NN2 are_VBR given_VVN on_II the_AT 
+assistance_NN1 location_NN1 and_CC structure_NN1 which_DDQ allow_VV0 the_AT 
+assisted_JJ system_NN1 to_TO be_VBI dissipative_JJ ,_, hence_RR providing_VVG 
+nice_JJ stability_NN1 and_CC power_NN1 scaling_NN1 properties_NN2 ._. 
+Results_NN2 are_VBR applied_VVN to_II the_AT design_NN1 of_IO an_AT1 
+assistance_NN1 for_IF a_AT1 simplified_JJ flight_NN1 control_NN1 system_NN1 
+._. 
+Simulations_NN2 show_VV0 the_AT relevance_NN1 of_IO the_AT method_NN1 and_CC 
+are_VBR compared_VVN to_II real-life_JJ results_NN2 ._. 

@@ -1,0 +1,27 @@
+A_AT1 robust_JJ state_NN1 estimation_NN1 technique_NN1 based_VVN on_II the_AT 
+Huber-based_JJ Cubature_NN1 Kalman_NN1 Filter_NN1 (_( HCKF_NP1 )_) is_VBZ 
+proposed_VVN for_IF Global_JJ Positioning_NN1 System_NN1 (_( GPS_NN2 )_) 
+navigation_NN1 processing_NN1 ._. 
+The_AT Cubature_NP1 Kalman_NP1 Filter_NN1 (_( CKF_NP1 )_) employs_VVZ a_AT1 
+third-degree_JJ spherical-radial_JJ cubature_NN1 rule_NN1 to_TO compute_VVI 
+the_AT Gaussian_JJ weighted_JJ integration_NN1 ,_, such_CS21 that_CS22 the_AT 
+numerical_JJ instability_NN1 induced_VVN by_II round-off_JJ errors_NN2 can_VM 
+be_VBI avoided_VVN ._. 
+In_II GPS_NN2 navigation_NN1 ,_, the_AT filter-based_JJ estimation_NN1 of_IO 
+the_AT position_NN1 and_CC velocity_NN1 states_NN2 can_VM be_VBI severely_RR 
+degraded_VVN due_II21 to_II22 contaminated_JJ measurements_NN2 caused_VVN 
+by_II outliers_NN2 or_CC deviation_NN1 from_II a_AT1 Gaussian_JJ 
+distribution_NN1 assumption_NN1 ._. 
+For_IF the_AT signals_NN2 contaminated_VVN with_IW non-Gaussian_JJ noise_NN1 
+or_CC outliers_NN2 ,_, a_AT1 robust_JJ scheme_NN1 combining_VVG the_AT 
+Huber_NN1 M-estimation_NN1 methodology_NN1 and_CC the_AT CKF_NP1 framework_NN1 
+is_VBZ beneficial_JJ where_CS the_AT Huber_NN1 M-estimation_NN1 
+methodology_NN1 is_VBZ used_VVN to_TO reformulate_VVI the_AT measurement_NN1 
+information_NN1 of_IO the_AT CKF_NP1 ._. 
+GPS_NN2 navigation_NN1 processing_NN1 using_VVG the_AT HCKF_NP1 algorithm_NN1 
+has_VHZ been_VBN carried_VVN out_RP and_CC the_AT performance_NN1 has_VHZ 
+been_VBN compared_VVN to_II those_DD2 based_VVN on_II the_AT Extended_JJ 
+Kalman_NN1 Filter_NN1 (_( EKF_NP1 )_) ,_, Unscented_JJ Kalman_NN1 Filter_NN1 
+(_( UKF_NP1 )_) and_CC CKF_NP1 approaches_VVZ ._. 
+Simulation_NN1 and_CC experimental_JJ results_NN2 presented_VVN in_II this_DD1 
+paper_NN1 confirm_VV0 the_AT effectiveness_NN1 of_IO the_AT method_NN1 ._. 

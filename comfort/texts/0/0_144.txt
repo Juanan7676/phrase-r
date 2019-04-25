@@ -1,0 +1,16 @@
+In_BCL21 order_BCL22 to_TO improve_VVI the_AT sparsity_NN1 of_IO 
+kernel-based_JJ extreme_JJ learning_NN1 machine_NN1 (_( KELM_NP1 )_) ,_, 
+this_DD1 paper_NN1 proposed_VVD a_AT1 novel_JJ method_NN1 named_VVD dual_JJ 
+reduced_JJ kernel_NN1 extreme_JJ learning_NN1 machine_NN1 (_( DR-KELM_NP1 )_) 
+._. 
+The_AT proposed_JJ algorithm_NN1 incorporates_VVZ traditional_JJ greedy_JJ 
+forward_JJ learning_NN1 algorithm_NN1 into_II backward_JJ learning_NN1 
+algorithm_NN1 to_TO gain_VVI more_DAR sparsity_NN1 and_CC enhance_VVI 
+testing_VVG time_NNT1 further_RRR ._. 
+Compared_VVN to_II original_JJ KELM_NN1 ,_, the_AT proposed_JJ method_NN1 
+produces_VVZ satisfactory_JJ performance_NN1 of_IO pattern_NN1 recognition_NN1 
+with_IW fewer_DAR nodes_NN2 ,_, and_CC reduces_VVZ diagnostic_JJ consuming_JJ 
+time_NNT1 from_II the_AT tests_NN2 on_II benchmark_NN1 dataset_NN1 ._. 
+The_AT DR-KELM_JJ application_NN1 to_II aero-engine_NN1 fault_NN1 
+diagnosis_NN1 also_RR demonstrates_VVZ its_APPGE superior_JJ performance_NN1 
+with_IW more_RGR sparse_JJ structure_NN1 ._. 

@@ -1,0 +1,23 @@
+This_DD1 paper_NN1 addresses_VVZ the_AT attitude_NN1 synchronization_NN1 
+and_CC tracking_JJ control_NN1 (_( ASTC_NP1 )_) for_IF multi-spacecraft_JJ 
+formation_NN1 system_NN1 (_( MFS_NP1 )_) under_II undirected_JJ and_CC 
+directed_JJ graph_NN1 ._. 
+First_MD ,_, a_AT1 new_JJ adaptive_JJ nonsingular_JJ fast_JJ terminal_JJ 
+sliding_JJ mode_NN1 surface_NN1 (_( ANFTSMS_NP2 )_) is_VBZ developed_VVN ._. 
+It_PPH1 has_VHZ both_RR the_AT merits_NN2 of_IO the_AT NFTSM_NP1 avoiding_VVG 
+singularity_NN1 and_CC the_AT adaptive_JJ method_NN1 regulating_VVG the_AT 
+relative_JJ weighting_NN1 of_IO parameters_NN2 ._. 
+This_DD1 provides_VVZ designers_NN2 a_AT1 new_JJ way_NN1 to_TO improve_VVI 
+the_AT control_NN1 performance_NN1 ._. 
+Second_MD ,_, by_II applying_VVG ANFTSMS_NN2 ,_, the_AT proposed_JJ 
+ANFTSM-controllers_NN2 (_( ANFTSMCs_NP2 )_) provide_VV0 high_JJ precision_NN1 
+finite-time_JJ convergence_NN1 ,_, robust_JJ to_II time-varying_JJ 
+disturbances_NN2 ,_, uncertainties_NN2 and_CC accommodate_VV0 to_II 
+actuator_NN1 faults_NN2 ,_, limited_JJ inputs_NN2 ._. 
+Moreover_RR ,_, the_AT ANFTSMCs_NP2 also_RR achieve_VV0 simple_JJ 
+structure_NN1 ,_, inexpensive_JJ computations_NN2 and_CC chattering-free_JJ 
+for_IF continuous_JJ design_NN1 ._. 
+Few_DA2 studies_NN2 have_VH0 addressed_VVN these_DD2 problems_NN2 
+simultaneously_RR ._. 
+Finally_RR ,_, effectiveness_NN1 of_IO the_AT algorithms_NN2 are_VBR 
+verified_VVN via_II simulations_NN2 ._. 

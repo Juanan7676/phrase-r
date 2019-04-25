@@ -1,0 +1,27 @@
+This_DD1 paper_NN1 gives_VVZ an_AT1 overview_NN1 of_IO the_AT development_NN1 
+of_IO the_AT ILR-33_MC Amber_JJ sounding_NN1 rocket_NN1 designated_VVN for_IF 
+microgravity_NN1 experiments_NN2 ,_, that_DD1 is_VBZ under_II development_NN1 
+at_II Institute_NN1 of_IO Aviation_NN1 in_II Warsaw_NP1 ,_, Poland_NP1 ._. 
+The_AT lack_NN1 of_IO an_AT1 easily_RR accessible_JJ and_CC affordable_JJ 
+platform_NN1 for_IF this_DD1 kind_NN1 of_IO research_NN1 was_VBDZ one_MC1 
+of_IO the_AT key_JJ reasons_NN2 for_IF this_DD1 work_NN1 ._. 
+The_AT proposed_JJ design_NN1 enables_VVZ performing_VVG experiments_NN2 in_II 
+microgravity_NN1 for_IF almost_RR 150_MC seconds_NNT2 with_IW an_AT1 
+apogee_NN1 over_RG 100_MC km_NNU ._. 
+Combining_VVG these_DD2 results_NN2 with_IW a_AT1 relatively_RR low_JJ 
+price_NN1 per_II launch_NN1 and_CC short_JJ deployment_NN1 time_NNT1 gives_VVZ 
+a_AT1 possibility_NN1 to_TO establish_VVI a_AT1 firm_JJ position_NN1 on_II 
+the_AT dynamic_JJ market_NN1 ._. 
+This_DD1 article_NN1 describes_VVZ also_RR the_AT rocket_NN1 structure_NN1 
+and_CC the_AT vehicle_NN1 's_GE capabilities_NN2 ._. 
+The_AT proposed_JJ design_NN1 utilizes_VVZ a_AT1 hybrid_JJ rocket_NN1 
+motor_NN1 with_IW High_JJ Test_NN1 Peroxide_NN1 as_II an_AT1 oxidizer_NN1 
+along_II21 with_II22 two_MC reusable_JJ solid_JJ rocket_NN1 boosters_NN2 ._. 
+The_AT early_JJ phase_NN1 analysis_NN1 of_IO the_AT rocket_NN1 
+configuration_NN1 and_CC propellant_NN1 considerations_NN2 are_VBR also_RR 
+presented_VVN in_II the_AT paper_NN1 ._. 
+Furthermore_RR ,_, there_EX have_VH0 been_VBN already_RR several_DA2 
+on-ground_JJ test_NN1 performed_VVN such_II21 as_II22 :_: wind_NN1 tunnel_NN1 
+research_NN1 and_CC motor_NN1 firings_NN2 ._. 
+The_AT proposed_JJ design_NN1 is_VBZ considered_VVN as_II an_AT1 
+introduction_NN1 to_II small_JJ launch_NN1 vehicle_NN1 technology_NN1 ._. 

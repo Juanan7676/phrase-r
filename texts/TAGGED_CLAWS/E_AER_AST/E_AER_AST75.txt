@@ -1,0 +1,24 @@
+The_AT problem_NN1 of_IO selecting_VVG optimal_JJ take-off_NN1 run_NN1 
+power_NN1 of_IO a_AT1 single_JJ propeller_NN1 airplane_NN1 on_II the_AT 
+basis_NN1 of_IO the_AT lateral_JJ maneuver_NN1 limitations_NN2 is_VBZ 
+analyzed_VVN in_II this_DD1 paper_NN1 ._. 
+The_AT single_JJ propeller_NN1 reactive_JJ torque_NN1 as_II the_AT 
+function_NN1 of_IO engine_NN1 power_NN1 and_CC speed_NN1 generates_VVZ 
+non-aerodynamic_JJ asymmetric_JJ load_NN1 disturbance_NN1 ._. 
+The_AT capability_NN1 of_IO lateral_JJ flight_NN1 control_NN1 surfaces_NN2 
+to_TO compensate_VVI for_IF this_DD1 asymmetric_JJ load_NN1 and_CC perform_VVI 
+the_AT required_JJ maneuver_NN1 defines_VVZ the_AT safe_JJ flight_NN1 
+envelope_NN1 boundaries_NN2 in_II the_AT form_NN1 of_IO engine_NN1 power_NN1 
+setting_NN1 airspeed_NN1 relation_NN1 ._. 
+The_AT take-off_NN1 run_NN1 length_NN1 consisting_VVG of_IO acceleration_NN1 
+,_, decision_NN1 making_VVG ,_, brake_VV0 activation_NN1 and_CC airplane_NN1 
+stopping_VVG length_NN1 distances_NN2 is_VBZ calculated_VVN for_IF engine_NN1 
+power_NN1 settings_NN2 along_II the_AT safe_JJ flight_NN1 boundaries_NN2 
+defined_VVN by_II the_AT lateral_JJ flight_NN1 control_NN1 capabilities_NN2 
+._. 
+The_AT minimum_NN1 of_IO take-off_NN1 run_VVN along_RP thus_RR defined_VVN 
+safe_JJ flight_NN1 boundary_NN1 determines_VVZ the_AT engine_NN1 optimal_JJ 
+power_NN1 setting_NN1 ._. 
+The_AT results_NN2 are_VBR presented_VVN for_IF the_AT example_NN1 of_IO 
+the_AT single_JJ propeller_NN1 airplane_NN1 on_II concrete_JJ runway_NN1 
+surface_NN1 ._. 

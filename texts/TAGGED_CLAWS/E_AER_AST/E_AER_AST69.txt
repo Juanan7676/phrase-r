@@ -1,0 +1,16 @@
+In_II this_DD1 paper_NN1 ,_, we_PPIS2 investigate_VV0 the_AT problem_NN1 of_IO 
+attitude_NN1 control_NN1 design_NN1 for_IF flexible_JJ spacecraft_NN with_IW 
+external_JJ disturbance_NN1 ,_, input_NN1 magnitude_NN1 and_CC rate_NN1 
+constraints_NN2 ._. 
+First_MD ,_, a_AT1 disturbance_NN1 observer_NN1 is_VBZ designed_VVN to_TO 
+estimate_VVI and_CC compensate_VVI for_IF the_AT disturbances_NN2 including_II 
+the_AT external_JJ disturbance_NN1 and_CC vibration_NN1 from_II the_AT 
+flexible_JJ appendages_NN2 ._. 
+Then_RT ,_, based_VVN on_II the_AT disturbance_NN1 observer_NN1 ,_, a_AT1 
+sample_NN1 state_NN1 feedback_NN1 control_NN1 scheme_NN1 is_VBZ proposed_VVN 
+for_IF flexible_JJ spacecraft_NN subject_II21 to_II22 input_NN1 magnitude_NN1 
+and_CC rate_NN1 constrains_VVZ ,_, using_VVG the_AT linear_JJ matrix_NN1 
+inequality_NN1 (_( LMI_NP1 )_) and_CC Lyapunov_NP1 direct_JJ method_NN1 ._. 
+Finally_RR ,_, the_AT results_NN2 are_VBR illustrated_VVN using_VVG 
+numerical_JJ simulations_NN2 for_IF control_NN1 performance_NN1 
+verification_NN1 ._. 

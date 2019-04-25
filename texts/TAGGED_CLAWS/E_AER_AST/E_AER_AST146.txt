@@ -1,0 +1,28 @@
+This_DD1 paper_NN1 presents_VVZ an_AT1 improved_JJ general_JJ mesh_NN1 
+deformation_NN1 method_NN1 and_CC its_APPGE application_NN1 in_II 
+multi-body_JJ separation_NN1 simulation_NN1 ._. 
+Intelligent_JJ Laplacian_JJ smoothing_JJ algorithm_NN1 is_VBZ combined_VVN 
+with_IW previously_RR developed_VVN radial_JJ basis_NN1 function_NN1 (_( 
+RBF_NP1 )_) mesh_NN1 deform_NN1 technology_NN1 to_TO avoid_VVI mesh_NN1 
+quality_NN1 decreasing_VVG and_CC topology_NN1 damaging_VVG in_II 
+successive_JJ large_JJ mesh_NN1 deformation_NN1 ._. 
+In_II the_AT intelligent_JJ Laplacian_JJ smoothing_JJ algorithm_NN1 ,_, 
+mesh_NN1 qualities_NN2 of_IO tetrahedron_NN1 ,_, triangular_JJ prism_NN1 ,_, 
+hexahedron_NN1 and_CC pyramid_NN1 are_VBR evaluated_VVN by_II a_AT1 unified_JJ 
+standard_NN1 which_DDQ is_VBZ used_JJ to_II setup_NN1 the_AT criterion_NN1 
+of_IO the_AT smoothing_JJ onset_NN1 ._. 
+This_DD1 improved_JJ mesh_NN1 deformation_NN1 methodology_NN1 is_VBZ 
+integrated_VVN into_II a_AT1 solver_NN1 of_IO NavierStokes_NP2 equations_NN2 
+coupled_VVN with_IW six_MC degrees_NN2 of_IO freedom_NN1 (_( 6-DOF_NP1 )_) 
+moving_VVG equations_NN2 ._. 
+The_AT store_NN1 separation_NN1 trajectory_NN1 of_IO a_AT1 generic_JJ wing_NN1 
+,_, pylon_NN1 ,_, and_CC store_NN1 configuration_NN1 is_VBZ successfully_RR 
+simulated_VVN to_TO validate_VVI the_AT ability_NN1 of_IO improved_JJ mesh_NN1 
+deformation_NN1 methodology_NN1 in_II dealing_VVG with_IW large_JJ 
+magnitude_NN1 of_IO relative_JJ motion_NN1 among_II multiple_NN1 moving_VVG 
+boundaries_NN2 ._. 
+Numerical_JJ simulation_NN1 results_NN2 agree_VV0 well_RR with_IW 
+experimental_JJ data_NN ,_, which_DDQ states_VVZ that_CST the_AT accuracy_NN1 
+and_CC robustness_NN1 of_IO the_AT above_JJ numerical_JJ methods_NN2 can_VM 
+reach_VVI the_AT requirement_NN1 of_IO describing_VVG the_AT traces_NN2 of_IO 
+multi-body_JJ separation_NN1 ._. 

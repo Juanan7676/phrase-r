@@ -1,0 +1,34 @@
+In_BCL21 order_BCL22 to_TO alleviate_VVI the_AT dynamic_JJ stall_NN1 
+characteristics_NN2 of_IO rotor_NN1 airfoil_NN1 ,_, a_AT1 high-efficient_JJ 
+optimization_NN1 method_NN1 is_VBZ established_VVN by_II coupling_VVG the_AT 
+SQP_NP1 method_NN1 with_IW CFD_NP1 method_NN1 ._. 
+Aiming_VVG at_II improving_VVG the_AT optimized_JJ efficiency_NN1 ,_, a_AT1 
+new_JJ strategy_NN1 of_IO linear_JJ search_NN1 is_VBZ established_VVN to_TO 
+avoid_VVI the_AT disturbance_NN1 of_IO the_AT penalty_NN1 factors_NN2 ,_, 
+and_CC the_AT optimal_JJ efficiency_NN1 improves_VVZ more_DAR than_CSN 30%_NNU 
+compared_VVN with_IW traditional_JJ line_NN1 search_NN1 method_NN1 ._. 
+In_BCL21 order_BCL22 to_TO reduce_VVI the_AT design_NN1 variables_NN2 ,_, 
+the_AT CST_NP1 method_NN1 is_VBZ employed_VVN to_TO parameterize_VVI the_AT 
+airfoil_NN1 section_NN1 ._. 
+All_DB the_AT flow_NN1 solutions_NN2 were_VBDR computed_VVN by_II solving_VVG 
+the_AT URANS_NP2 equations_NN2 ,_, coupled_VVN with_IW the_AT 
+SpalartAllmaras_NP2 turbulence_NN1 model_NN1 ._. 
+To_TO reduce_VVI pitching_VVG moment_NN1 and_CC drag_VVI coefficient_NN1 
+under_II dynamic_JJ stall_NN1 condition_NN1 ,_, a_AT1 new_JJ airfoil_NN1 
+has_VHZ been_VBN optimized_VVN based_VVN on_II the_AT OA209_FO airfoil_VV0 
+by_II employing_VVG the_AT present_JJ optimal_JJ method_NN1 ._. 
+Due_II21 to_II22 the_AT inhibition_NN1 of_IO leading_JJ edge_NN1 vortex_NN1 
+,_, the_AT peaks_NN2 of_IO pitching_VVG moment_NN1 and_CC drag_VV0 
+coefficient_NN1 of_IO the_AT optimized_JJ airfoil_NN1 are_VBR decreased_VVN 
+about_II 75.8%_FO and_CC 44.2%_FO at_II point_NN1 1_MC1 ,_, 44.0%_FO and_CC 
+41.4%_FO at_II point_NN1 2_MC compared_VVN with_IW the_AT OA209_FO airfoil_NN1 
+._. 
+Moreover_RR ,_, the_AT optimized_JJ airfoil_NN1 has_VHZ better_JJR lift_NN1 
+stall_NN1 characteristics_NN2 compared_VVN with_IW the_AT OA209_FO airfoil_NN1 
+._. 
+In_RR21 addition_RR22 ,_, by_II comparing_VVG the_AT 3-D_JJ dynamic_JJ 
+stall_NN1 characteristics_NN2 of_IO rotor_NN1 blade_NN1 ,_, it_PPH1 is_VBZ 
+demonstrated_VVN that_CST the_AT peaks_NN2 of_IO pitching_VVG moment_NN1 
+coefficients_NN2 and_CC drag_VV0 coefficients_NN2 of_IO optimized_JJ 
+airfoil_NN1 are_VBR smaller_JJR than_CSN those_DD2 of_IO OA209_FO airfoil_VV0 
+at_II different_JJ blade_NN1 radial_JJ stations_NN2 ._. 

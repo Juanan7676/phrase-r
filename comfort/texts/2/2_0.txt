@@ -1,0 +1,40 @@
+With_IW growing_JJ interest_NN1 in_II low-cost_JJ ,_, high_JJ performance_NN1 
+and_CC short_JJ time-to-flight_JJ satellites_NN2 ,_, the_AT idea_NN1 of_IO 
+using_VVG multi-purpose_JJ satellite_NN1 platforms_NN2 has_VHZ drawn_VVN 
+many_DA2 attentions_NN2 ._. 
+However_RR ,_, under_II certain_JJ conditions_NN2 in_II which_DDQ the_AT 
+required_JJ capability_NN1 of_IO a_AT1 mission_NN1 is_VBZ slightly_RR more_DAR 
+than_CSN the_AT capabilities_NN2 of_IO a_AT1 specified_JJ variant_NN1 of_IO 
+a_AT1 multi-purpose_JJ platform_NN1 ,_, it_PPH1 must_VM jump_VVI to_II the_AT 
+next_MD higher_JJR capability_NN1 variant_NN1 ._. 
+Correspondingly_RR ,_, lots_PN of_IO unnecessary_JJ performance_NN1 or_CC 
+capability_NN1 might_VM be_VBI imposed_VVN ._. 
+In_II this_DD1 paper_NN1 ,_, the_AT main_JJ goal_NN1 is_VBZ to_TO minimize_VVI 
+the_AT wasted_JJ performance_NN1 in_II the_AT design_NN1 of_IO an_AT1 
+Earth_NN1 Observation_NN1 (_( EO_NP1 )_) satellite_NN1 based_VVN on_II a_AT1 
+multi-purpose_JJ platform_NN1 ._. 
+To_II this_DD1 end_NN1 ,_, a_AT1 dynamic_JJ simulation-based_JJ model_NN1 
+has_VHZ been_VBN developed_VVN with_IW the_AT capability_NN1 of_IO 
+simulating_VVG the_AT satellite_NN1 performance_NN1 characteristics_NN2 ,_, 
+EO_NP1 mission_NN1 requirements_NN2 and_CC supportable_JJ performance_NN1 
+by_II the_AT platform_NN1 under_II various_JJ circumstances_NN2 and_CC 
+throughout_II the_AT satellite_NN1 lifetime_NNT1 ._. 
+To_TO minimize_VVI the_AT wasted_JJ performance_NN1 we_PPIS2 face_VV0 with_IW 
+an_AT1 optimization_NN1 problem_NN1 containing_VVG a_AT1 complicated_JJ 
+non-linear_JJ ,_, non-convex_JJ and_CC multi-modal_JJ design_NN1 space_NN1 
+which_DDQ is_VBZ enveloped_VVN by_II constraints_NN2 of_IO the_AT mission_NN1 
+requirements_NN2 and_CC supportable_JJ performance_NN1 of_IO the_AT 
+platform_NN1 ._. 
+A_AT1 novel_JJ criterion_NN1 as_II an_AT1 objective_JJ function_NN1 has_VHZ 
+been_VBN introduced_VVN aiming_VVG at_II the_AT incompatibility_NN1 
+reduction_NN1 between_II the_AT capabilities_NN2 of_IO a_AT1 certain_JJ 
+multi-purpose_JJ platform_NN1 variant_NN1 and_CC the_AT EO_NN1 mission_NN1 
+requirements_NN2 ._. 
+This_DD1 objective_JJ function_NN1 considers_VVZ all_DB the_AT performance_NN1 
+variations_NN2 during_II the_AT entire_JJ mission_NN1 lifetime_NNT1 
+rather_II21 than_II22 solely_RR the_AT worst_JJT case_NN1 ._. 
+Through_II this_DD1 ,_, the_AT mission_NN1 and_CC orbital_JJ 
+characteristics_NN2 have_VH0 been_VBN determined_VVN by_II which_DDQ there_EX 
+would_VM be_VBI no_AT need_NN1 to_TO jump_VVI to_II the_AT higher_JJR 
+performance_NN1 variant_NN1 in_BCL21 order_BCL22 to_TO satisfy_VVI the_AT 
+EO_NN1 mission_NN1 requirements_NN2 ._. 

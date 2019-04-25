@@ -1,0 +1,24 @@
+Gradual_JJ fault_NN1 detection_NN1 is_VBZ always_RR an_AT1 important_JJ 
+issue_NN1 in_II integrated_JJ navigation_NN1 systems_NN2 ,_, and_CC the_AT 
+gradual_JJ fault_NN1 is_VBZ the_AT most_RGT difficult_JJ fault_NN1 to_TO 
+detect_VVI ._. 
+To_TO detect_VVI gradual_JJ faults_NN2 in_II a_AT1 timely_JJ and_CC precise_JJ 
+manner_NN1 in_II integrated_JJ navigation_NN1 systems_NN2 ,_, the_AT 
+statistical_JJ concepts_NN2 of_IO the_AT normalised_JJ residual_JJ mean_JJ 
+and_CC the_AT sum_NN1 of_IO absolute_JJ residuals_NN2 are_VBR introduced_VVN 
+according_II21 to_II22 the_AT characteristics_NN2 of_IO gradual_JJ system_NN1 
+failure_NN1 in_II this_DD1 paper_NN1 ._. 
+The_AT applicability_NN1 of_IO the_AT improved_JJ residual_JJ ?_? 
+2detection_FO method_NN1 is_VBZ discussed_VVN ._. 
+Then_RT ,_, the_AT gradual_JJ fault_NN1 detection_NN1 program_NN1 based_VVN 
+on_II the_AT improved_JJ residual_JJ ?_? 2detection_FO method_NN1 is_VBZ 
+designed_VVN with_IW the_AT criterion_NN1 of_IO normalised_JJ residual_JJ 
+mean_JJ and_CC the_AT sum_NN1 of_IO absolute_JJ residual_JJ ._. 
+The_AT simulation_NN1 results_NN2 and_CC vehicle_NN1 tests_NN2 show_VV0 
+that_CST :_: 1_MC1 )_) The_AT residual_JJ of_IO the_AT failed_JJ 
+sub-system_NN1 can_VM be_VBI calculated_VVN accurately_RR with_IW the_AT 
+improved_JJ residual_JJ ?_? 2detection_FO method_NN1 ,_, which_DDQ has_VHZ 
+strong_JJ applicability_NN1 in_II gradual_JJ fault_NN1 detection_NN1 ;_; 2_MC 
+)_) The_AT gradual_JJ fault_NN1 can_VM be_VBI detected_VVN in_II a_AT1 
+short_JJ time_NNT1 by_II using_VVG the_AT normalised_JJ residual_JJ mean_JJ 
+and_CC the_AT sum_NN1 of_IO absolute_JJ residual_JJ ._. 

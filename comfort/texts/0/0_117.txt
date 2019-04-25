@@ -1,0 +1,32 @@
+Stability_NN1 is_VBZ a_AT1 challenging_JJ problem_NN1 for_IF control_NN1 
+system_NN1 of_IO the_AT hypersonic_JJ vehicle_NN1 when_CS partial_JJ loss_NN1 
+of_IO effectiveness_NN1 fault_NN1 and_CC stuck_JJ fault_NN1 happen_VV0 on_II 
+elevators_NN2 and_CC engine_NN1 ._. 
+In_II this_DD1 paper_NN1 ,_, a_AT1 fuzzy_JJ adaptive_JJ nonlinear_JJ 
+fault-tolerant_JJ control_NN1 (_( FTC_NP1 )_) method_NN1 based_VVN on_II 
+Nussbaum_NP1 gain_NN1 technique_NN1 is_VBZ proposed_VVN for_IF hypersonic_JJ 
+vehicles_NN2 with_IW diverse_JJ faults_NN2 ._. 
+The_AT cases_NN2 that_CST one_MC1 of_IO elevators_NN2 is_VBZ lock-in-place_JJ 
+and_CC another_DD1 elevator_NN1 or_CC the_AT engine_NN1 is_VBZ partial_JJ 
+loss_NN1 of_IO effectiveness_NN1 are_VBR addressed_VVN ._. 
+The_AT longitudinal_JJ model_NN1 is_VBZ transformed_VVN into_II the_AT 
+strict_JJ feedback_NN1 formation_NN1 ._. 
+The_AT baseline_NN1 controllers_NN2 for_IF altitude_NN1 and_CC velocity_NN1 
+commands_VVZ tracking_NN1 are_VBR designed_VVN using_VVG dynamic_JJ 
+surface_NN1 control_NN1 (_( DSC_NN1 )_) and_CC dynamic_JJ inversion_NN1 ._. 
+The_AT partial_JJ loss_NN1 of_IO effectiveness_NN1 faults_NN2 of_IO 
+elevators_NN2 and_CC engine_NN1 are_VBR combined_VVN in_II the_AT control_NN1 
+gain_NN1 functions_NN2 ,_, and_CC Nussbaum_NP1 approach_NN1 is_VBZ 
+introduced_VVN to_TO avoid_VVI singularity_NN1 of_IO controllers_NN2 ._. 
+The_AT unknown_JJ nonlinear_JJ functions_NN2 involving_VVG the_AT stuck_JJ 
+fault_NN1 and_CC original_JJ uncertain_JJ nonlinear_JJ items_NN2 are_VBR 
+approximated_VVN by_II fuzzy_JJ logic_NN1 systems_NN2 ._. 
+The_AT norm_NN1 estimation_NN1 technique_NN1 is_VBZ utilized_VVN to_TO 
+reduce_VVI the_AT number_NN1 of_IO fuzzy_JJ adaptive_JJ parameters_NN2 ._. 
+This_DD1 greatly_RR alleviates_VVZ the_AT calculation_NN1 burden_NN1 ._. 
+It_PPH1 is_VBZ guaranteed_VVN that_CST all_DB signals_NN2 of_IO the_AT 
+closed-loop_JJ FTC_NP1 system_NN1 are_VBR semi-global_JJ uniformly_RR 
+ultimately_RR bounded_VVN ._. 
+Finally_RR ,_, the_AT numerical_JJ simulations_NN2 involving_VVG diverse_JJ 
+faults_NN2 demonstrate_VV0 the_AT effectiveness_NN1 of_IO the_AT proposed_JJ 
+FTC_NP1 approach_NN1 ._. 

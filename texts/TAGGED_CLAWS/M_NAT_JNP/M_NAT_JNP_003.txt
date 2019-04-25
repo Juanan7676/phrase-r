@@ -1,0 +1,33 @@
+Ballast_NN1 water_NN1 filled_VVN into_II and_CC discharged_VVN from_II the_AT 
+ballast_NN1 tank_NN1 of_IO a_AT1 ship_NN1 has_VHZ a_AT1 negative_JJ impact_NN1 
+on_II local_JJ marine_JJ environment_NN1 due_II21 to_II22 various_JJ 
+aquatic_JJ organisms_NN2 contained_VVD therein_RR ._. 
+The_AT IMO_NN1 developed_VVN and_CC adopted_VVN "_" The_AT International_JJ 
+Convention_NN1 for_IF the_AT Control_NN1 and_CC Management_NN1 of_IO Ships_NN2 
+Ballast_NN1 Water_NN1 and_CC Sediments_NN2 ,_, 2004_MC "_" with_IW the_AT 
+purpose_NN1 of_IO protecting_VVG the_AT marine_JJ environment_NN1 from_II 
+transfer_NN1 of_IO harmful_JJ aquatic_JJ organisms_NN2 in_II ballast_NN1 
+water_NN1 carried_VVN by_II ships_NN2 ._. 
+The_AT IMO_NP1 BWM_NP1 Convention_NN1 was_VBDZ approved_VVN in_II 
+September_NPM1 2016_MC and_CC ships_NN2 must_VM be_VBI equipped_VVN with_IW 
+ballast_NN1 water_NN1 management_NN1 system_NN1 after_II September_NPM1 
+2017_MC ._. 
+Ships_NN2 ballast_NN1 water_NN1 treatment_NN1 methods_NN2 are_VBR divided_VVN 
+into_II using_VVG active_JJ substances_NN2 as_CSA electrolytic_JJ type_NN1 ,_, 
+ozone_NN1 type_NN1 ,_, chemical_JJ dosing_NN1 type_NN1 and_CC using_VVG 
+physical_JJ treatment_NN1 type_NN1 as_CSA filter_NN1 type_NN1 ,_, 
+ultraviolet_JJ type_NN1 ._. 
+It_PPH1 is_VBZ also_RR used_VVN with_IW a_AT1 combination_NN1 of_IO two_MC 
+methods_NN2 ._. 
+Electrolysis_NN1 is_VBZ superior_JJ in_II31 terms_II32 of_II33 cost_NN1 and_CC 
+efficiency_NN1 ._. 
+In_II this_DD1 study_NN1 ,_, basic_JJ principles_NN2 ,_, components_NN2 ,_, 
+and_CC land_NN1 base_NN1 test_NN1 contents_NN2 of_IO electrolysis_NN1 
+ballast_NN1 water_NN1 treatment_NN1 system_NN1 ,_, a_AT1 direct_JJ 
+electrolyzed_JJ ballast_NN1 water_NN1 treatment_NN1 system_NN1 ,_, were_VBDR 
+examined_VVN ._. 
+Land_NN1 base_NN1 test_NN1 was_VBDZ conducted_VVN with_IW 300m3/h_FU 
+capacity_NN1 device_NN1 at_II the_AT KIOST_NP1 Geoje_NP1 plant_NN1 where_CS 
+the_AT government_NN1 test_NN1 facility_NN1 was_VBDZ installed_VVN ._. 
+This_DD1 test_NN1 validated_VVD that_CST the_AT system_NN1 meets_VVZ IMO_NN1 
+standards_NN2 ._. 

@@ -1,0 +1,40 @@
+Strain-life_JJ methodologies_NN2 are_VBR commonly_RR employed_VVN for_IF 
+fatigue_NN1 estimation_NN1 in_II military_JJ aircraft_NN structures_NN2 ._. 
+These_DD2 methodologies_NN2 rely_VV0 on_II models_NN2 describing_VVG the_AT 
+elastoplastic_JJ response_NN1 of_IO the_AT material_NN1 under_II cycling_NN1 
+._. 
+Despite_II the_AT numerous_JJ advanced_JJ plasticity_NN1 models_NN2 
+proposed_VVN and_CC utilised_VVN in_II various_JJ engineering_NN1 problems_NN2 
+over_II the_AT past_JJ decades_NNT2 ,_, the_AT Masing_JJ model_NN1 remains_VVZ 
+a_AT1 popular_JJ choice_NN1 in_II fatigue_NN1 analysis_NN1 software_NN1 ,_, 
+mainly_RR due_II21 to_II22 its_APPGE simplicity_NN1 ._. 
+However_RR ,_, in_II the_AT case_NN1 of_IO military_JJ aircraft_NN load_VV0 
+spectra_NN2 including_II scattered_JJ overloads_NN2 the_AT Masing_JJ model_NN1 
+fails_VVZ to_TO represent_VVI adequately_RR transient_JJ cyclic_JJ 
+phenomena_NN2 ,_, such_II21 as_II22 mean_JJ stress_NN1 relaxation_NN1 and_CC 
+strain_VV0 ratcheting_VVG ._. 
+In_II this_DD1 study_NN1 ,_, four_MC well-known_JJ constitutive_JJ 
+plasticity_NN1 models_NN2 have_VH0 been_VBN selected_VVN as_CSA potential_JJ 
+substitutes_NN2 for_IF the_AT Masing_JJ model_NN1 within_II a_AT1 defence_NN1 
+organisation_NN1 in-house_JJ developed_JJ fatigue_NN1 analysis_NN1 
+software_NN1 ._. 
+These_DD2 models_NN2 assessed_VVN were_VBDR the_AT well-known_JJ 
+Multicomponent_NP1 ArmstrongFrederick_NP1 Model_NN1 (_( MAF_NP1 )_) and_CC 
+three_MC of_IO its_APPGE derivatives_NN2 :_: MAF_VV0 with_IW threshold_NN1 (_( 
+MAFT_NP1 )_) ,_, OhnoWang_NP1 (_( OW_NP1 )_) and_CC MAF_VV0 with_IW 
+Multiplier_NN1 (_( MAFM_NP1 )_) ._. 
+The_AT models_NN2 were_VBDR calibrated_VVN with_IW the_AT use_NN1 of_IO 
+existing_JJ experimental_JJ data_NN ,_, obtained_VVN from_II aircraft_NN 
+aluminium_NN1 alloy_NN1 tests_NN2 ._. 
+Optimisation_NN1 of_IO the_AT parameters_NN2 was_VBDZ performed_VVN through_II 
+a_AT1 genetic_JJ algorithm-based_JJ commercial_JJ software_NN1 ._. 
+The_AT models_NN2 were_VBDR incorporated_VVN in_II the_AT fatigue_NN1 
+analysis_NN1 software_NN1 and_CC their_APPGE performance_NN1 was_VBDZ 
+evaluated_VVN statistically_RR and_CC compared_VVN against_II each_PPX221 
+other_PPX222 and_CC with_IW the_AT Masing_JJ model_NN1 for_IF a_AT1 series_NN 
+of_IO different_JJ flight_NN1 load_NN1 spectra_NN2 for_IF a_AT1 military_JJ 
+aircraft_NN ._. 
+The_AT results_NN2 show_VV0 that_CST all_DB four_MC models_NN2 have_VH0 
+achieved_VVN a_AT1 drastic_JJ improvement_NN1 in_II fatigue_NN1 analysis_NN1 
+,_, with_IW the_AT MAFT_NN1 model_NN1 giving_VVG a_AT1 slightly_RR better_JJR 
+performance_NN1 ._. 

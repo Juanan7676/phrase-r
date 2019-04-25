@@ -1,0 +1,32 @@
+Formal_JJ Safety_NN1 Assessment_NN1 (_( FSA_NP1 )_) has_VHZ been_VBN mostly_RR 
+implemented_VVN on_II the_AT hardware_NN1 aspects_NN2 of_IO vessels_NN2 ._. 
+Although_CS there_EX are_VBR guidelines_NN2 regarding_II human_JJ error_NN1 
+FSAs_NP2 ,_, there_EX have_VH0 not_XX been_VBN many_DA2 assessments_NN2 in_II 
+such_DA areas_NN2 ._. 
+To_II this_DD1 end_NN1 ,_, this_DD1 study_NN1 seeks_VVZ to_TO use_VVI 
+precedent_NN1 studies_NN2 for_IF the_AT safe_JJ operation_NN1 of_IO DP_NP1 
+vessels_NN2 ,_, conducting_VVG an_AT1 FSA_NP1 regarding_II human_JJ error_NN1 
+of_IO DP_NP1 LOP_NP1 (_( Loss_NN1 of_IO Position_NN1 )_) incidents_NN2 ._. 
+For_IF this_DD1 ,_, the_AT study_NN1 referred_VVN to_II precedent_NN1 
+studies_NN2 for_IF the_AT frequency_NN1 of_IO DP_NP1 LOP_NP1 incidents_NN2 
+caused_VVN by_II human_JJ errors_NN2 ,_, adding_VVG the_AT severity_NN1 of_IO 
+LOP_NN1 incidents_NN2 ,_, and_CC then_RT applying_VVG them_PPHO2 to_II the_AT 
+Bayesian_JJ network_NN1 ._. 
+As_II a_AT1 result_NN1 ,_, the_AT study_NN1 was_VBDZ able_JK to_TO confirm_VVI 
+that_CST among_II DP_NP1 LOP_NP1 incidents_NN2 caused_VVN by_II human_JJ 
+errors_NN2 ,_, the_AT drive-off_JJ from_II skill-based_JJ errors_NN2 was_VBDZ 
+74.3%_FO and_CC the_AT drive-off_JJ from_II unsafe_JJ supervision_NN1 was_VBDZ 
+50.5%_FO ._. 
+Based_VVN on_II such_DA results_NN2 ,_, RCOs_NN2 (_( Risk_VV0 Control_NN1 
+Options_NN2 )_) were_VBDR devised_VVN through_II a_AT1 brainstorming_JJ 
+session_NNT1 with_IW experts_NN2 coming_VVG up_RP with_IW proposals_NN2 
+including_II providing_VVG mandatory_JJ DPO_NN1 training_NN1 ,_, 
+installing_VVG DP_NP1 simulator_NN1 on_II the_AT vessels_NN2 ,_, drawing_VVG 
+up_RP measures_NN2 to_II understanding_VVG the_AT procedures_NN2 for_IF 
+safe_JJ operation_NN1 of_IO DP_NP1 vessels_NN2 ._. 
+Moreover_RR ,_, it_PPH1 was_VBDZ found_VVN that_CST mandatory_JJ DPO_NN1 
+training_NN1 is_VBZ reasonable_JJ in_II31 terms_II32 of_II33 cost_NN1 
+benefits_NN2 and_CC that_CST while_CS installing_VVG a_AT1 DP_NP1 
+simulator_NN1 is_VBZ not_XX suitable_JJ in_II31 terms_II32 of_II33 cost_NN1 
+benefits_NN2 ,_, it_PPH1 can_VM significantly_RR reduce_VVI risks_NN2 when_CS 
+operating_VVG DP_NP1 vessels_NN2 ._. 

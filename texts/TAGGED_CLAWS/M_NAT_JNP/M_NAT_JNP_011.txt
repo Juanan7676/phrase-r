@@ -1,0 +1,27 @@
+In_II the_AT existing_JJ ship_NN1 sales_NN market_VV0 ,_, prices_NN2 
+determined_VVN based_VVN on_II the_AT prices_NN2 of_IO similar_JJ ship_NN1 
+types_NN2 that_CST recently_RR traded_VVN ._. 
+ince_VV0 the_AT 2008_MC financial_JJ crisis_NN1 ,_, ship_NN1 prices_NN2 
+have_VH0 fluctuated_VVN ,_, and_CC ship_NN1 price_NN1 criteria_NN2 have_VH0 
+become_VVN ever_RR more_RGR necessary_JJ to_II the_AT imminent_JJ value_NN1 
+of_IO the_AT ship_NN1 ._. 
+Therefore_RR ,_, this_DD1 research_NN1 used_VVD the_AT hedonic_JJ price_NN1 
+model_NN1 to_TO estimate_VVI imminent_JJ values_NN2 of_IO ships_NN2 ._. 
+In_II this_DD1 study_NN1 ,_, the_AT influence_NN1 on_II ship_NN1 prices_NN2 
+was_VBDZ analyzed_VVN by_II the_AT value_NN1 of_IO each_DD1 characteristic_NN1 
+and_CC an_AT1 estimated_JJ functional_JJ formula_NN1 was_VBDZ ._. 
+Out_II21 of_II22 the_AT four_MC models_NN2 suggested_VVN by_II the_AT 
+hedonic_JJ price_NN1 model_NN1 ,_, an_AT1 optimal_JJ model_NN1 was_VBDZ 
+selected_VVN with_IW variance_NN1 inflation_NN1 factors_NN2 and_CC a_AT1 
+stepwise_JJ selection_NN1 ._. 
+For_IF this_DD1 ,_, the_AT influence_NN1 of_IO determinants_NN2 of_IO ship_NN1 
+prices_NN2 was_VBDZ analyzed_VVN based_VVN on_II actually_RR traded_VVN 
+ships_NN2 and_CC characteristic_JJ data_NN ._. 
+The_AT selected_JJ model_NN1 s_ZZ1 the_AT Log-Line_NP1 model_NN1 ;_; as_II 
+a_AT1 result_NN1 of_IO regression_NN1 analysis_NN1 ,_, eight_MC variables_NN2 
+,_, including_II DWT_NP1 ,_, Age_NN1 ,_, Market_NN1 Value_NN1 ,_, 
+Short-Term_JJ Charter_NN1 ,_, Long-Term_JJ Charter_NN1 ,_, Enbloc_NP1 ,_, 
+Special_JJ Survey_NN1 Due_JJ and_CC Builder_NN1 were_VBDR to_TO affect_VVI 
+the_AT ship_NN1 price_NN1 model_NN1 ._. 
+This_DD1 model_NN1 is_VBZ expected_VVN to_TO be_VBI useful_JJ for_IF 
+objective_NN1 and_CC balanced_JJ ship_NN1 price_NN1 evaluatio_NN1 

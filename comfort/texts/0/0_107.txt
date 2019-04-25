@@ -1,0 +1,47 @@
+The_AT Blended_JJ Wing_NN1 Body_NN1 (_( BWB_NP1 )_) is_VBZ a_AT1 type_NN1 
+of_IO innovative_JJ aircraft_NN ,_, based_VVN on_II the_AT flying_JJ wing_NN1 
+concept_NN1 ._. 
+For_IF this_DD1 aircraft_NN ,_, the_AT literature_NN1 has_VHZ reported_VVN 
+performance_NN1 improvements_NN2 compared_VVN to_II conventional_JJ 
+aircraft_NN :_: economy_NN1 of_IO fuel_NN1 ,_, reduction_NN1 of_IO the_AT 
+weight_NN1 of_IO the_AT structure_NN1 ,_, increased_JJ payload_NN1 
+capacity_NN1 and_CC less_DAR impact_NN1 on_II the_AT environment_NN1 ._. 
+However_RR ,_, most_DAT BWB_NP1 studies_NN2 have_VH0 focused_VVN on_II 
+large_JJ aircraft_NN and_CC it_PPH1 is_VBZ not_XX sure_JJ whether_CSW the_AT 
+gains_NN2 are_VBR the_AT same_DA for_IF smaller_JJR aircraft_NN ._. 
+The_AT main_JJ objective_NN1 of_IO this_DD1 study_NN1 is_VBZ to_TO perform_VVI 
+the_AT conceptual_JJ design_NN1 of_IO a_AT1 200_MC passengers_NN2 BWB_NP1 
+and_CC compare_VV0 its_APPGE performance_NN1 against_II an_AT1 equivalent_JJ 
+conventional_JJ A320_FO aircraft_NN in_II31 terms_II32 of_II33 payload_NN1 
+and_CC range_NN1 ._. 
+Moreover_RR ,_, an_AT1 emphasis_NN1 will_VM be_VBI placed_VVN on_II 
+obtaining_VVG a_AT1 stable_JJ aircraft_NN ,_, with_IW the_AT analysis_NN1 
+of_IO static_JJ and_CC dynamic_JJ stability_NN1 over_II its_APPGE flight_NN1 
+envelope_NN1 ._. 
+This_DD1 kind_NN1 of_IO aircraft_NN has_VHZ a_AT1 lack_NN1 of_IO stability_NN1 
+due_II21 to_II22 the_AT absence_NN1 of_IO vertical_JJ tail_NN1 ._. 
+Most_DAT studies_NN2 of_IO stability_NN1 were_VBDR already_RR realized_VVN 
+on_II reduced_JJ size_NN1 models_NN2 of_IO BWB_NP1 ,_, but_CCB there_EX is_VBZ 
+no_AT study_NN1 on_II a_AT1 200_MC passengers_NN2 BWB_NP1 ._. 
+The_AT design_NN1 of_IO the_AT BWB_NP1 was_VBDZ realized_VVN with_IW the_AT 
+platform_NN1 called_VVN Computerized_JJ Environment_NN1 for_IF Aircraft_NN 
+Synthesis_NN1 and_CC Integrated_JJ Optimization_NN1 Methods_NN2 (_( 
+CEASIOM_NP1 )_) ._. 
+The_AT airplane_NN1 ,_, the_AT engines_NN2 and_CC the_AT control_NN1 
+surfaces_NN2 were_VBDR obtained_VVN in_II the_AT geometrical_JJ module_NN1 
+AcBuilder_NN1 ._. 
+This_DD1 design_NN1 platform_NN1 ,_, suitable_JJ for_IF conventional_JJ 
+aircraft_NN design_NN1 ,_, has_VHZ been_VBN modified_VVN and_CC additional_JJ 
+tools_NN2 have_VH0 been_VBN integrated_VVN in_BCL21 order_BCL22 to_TO 
+achieve_VVI the_AT aerodynamic_JJ ,_, performance_NN1 and_CC stability_NN1 
+analysis_NN1 of_IO the_AT BWB_NP1 aircraft_NN ._. 
+The_AT aerodynamic_JJ coefficients_NN2 are_VBR calculated_VVN from_II 
+Tornado_NP1 program_NN1 ._. 
+The_AT BWB_NP1 flight_NN1 envelope_NN1 was_VBDZ created_VVN based_VVN on_II 
+aeronautical_JJ data_NN of_IO A320_FO aircraft_NN ._. 
+From_II this_DD1 flight_NN1 envelope_NN1 ,_, we_PPIS2 have_VH0 got_VVN back_RP 
+several_DA2 thousand_NNO possible_JJ points_NN2 of_IO flight_NN1 ._. 
+The_AT static_JJ and_CC dynamic_JJ stability_NN1 was_VBDZ studied_VVN 
+using_VVG the_AT longitudinal_JJ and_CC lateral_JJ matrices_NN2 of_IO 
+stability_NN1 and_CC the_AT Flying_JJ Qualities_NN2 Requirements_NN2 for_IF 
+every_AT1 flight_NN1 point_NN1 

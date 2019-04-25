@@ -1,0 +1,25 @@
+A_AT1 Fixed_JJ Wing_NN1 (_( FW_NP1 )_) aircraft_NN with_IW Vertical_JJ 
+Takeoff_NN1 and_CC Landing_NN1 (_( VTOL_NP1 )_) is_VBZ a_AT1 new_JJ type_NN1 
+of_IO aircraft_NN that_CST inherits_VVZ the_AT hovering_JJ ,_, VTOL_NP1 ,_, 
+and_CC maneuvering_VVG properties_NN2 of_IO multicopters_NN2 and_CC the_AT 
+power-efficient_JJ cruising_NN1 of_IO an_AT1 FW_NP1 aircraft_NN ._. 
+This_DD1 paper_NN1 presents_VVZ a_AT1 comprehensive_JJ method_NN1 for_IF 
+FW-VTOL_JJ electric_JJ UAV_NN1 sizing_VVG and_CC resizing_VVG ._. 
+The_AT method_NN1 uses_VVZ newly_RR developed_VVN integrated_JJ analysis_NN1 
+that_CST combines_VVZ the_AT VTOL_NN1 propulsion_NN1 sizing_VVG method_NN1 
+with_IW modified_JJ FW_NP1 aircraft_NN sizing_VVG theories_NN2 ._. 
+Performance_NN1 requirements_NN2 are_VBR specified_VVN as_II a_AT1 set_NN1 
+of_IO functional_JJ relations_NN2 ._. 
+Several_DA2 new_JJ empirical_JJ equations_NN2 are_VBR derived_VVN using_VVG 
+available_JJ data_NN ._. 
+The_AT required_JJ battery_NN1 capacity_NN1 and_CC total_JJ mass_NN1 are_VBR 
+determined_VVN from_II mission_NN1 analysis_NN1 that_CST includes_VVZ both_RR 
+VTOL_VV0 and_CC FW_NP1 mission_NN1 segments_NN2 ._. 
+The_AT design_NN1 is_VBZ iteratively_RR resized_VVN when_RRQ the_AT actual_JJ 
+components_NN2 of_IO the_AT propulsion_NN1 system_NN1 are_VBR selected_VVN ._. 
+A_AT1 case_NN1 study_NN1 of_IO a_AT1 3.5-kg_JJ FW-VTOL_JJ electric_JJ UAV_NN1 
+is_VBZ presented_VVN in_II this_DD1 research_NN1 ._. 
+The_AT results_NN2 of_IO sizing_VVG and_CC resizing_VVG are_VBR compared_VVN 
+to_II parameters_NN2 of_IO the_AT actual_JJ aircraft_NN manufactured_VVN ._. 
+Prediction_NN1 of_IO most_DAT parameters_NN2 stays_VVZ within_II a_AT1 10%_NNU 
+error_NN1 threshold_NN1 ._. 

@@ -1,0 +1,32 @@
+The_AT problem_NN1 of_IO a_AT1 tether-assisted_JJ payload_NN1 return_NN1 
+from_II an_AT1 elliptical_JJ orbit_NN1 is_VBZ considered_VVN in_II this_DD1 
+study_NN1 ._. 
+In_II contrast_NN1 to_II the_AT existing_JJ works_NN devoted_JJ to_II this_DD1 
+issue_NN1 ,_, the_AT article_NN1 deals_VVZ with_IW a_AT1 tether_VV0 length_NN1 
+control_NN1 that_CST provides_VVZ a_AT1 transfer_NN1 of_IO the_AT payload_NN1 
+into_II a_AT1 descent_NN1 trajectory_NN1 from_II the_AT tether_VV0 
+rotation_NN1 mode_NN1 ._. 
+Application_NN1 of_IO the_AT swing_NN1 principle_NN1 for_IF the_AT tether_VV0 
+control_NN1 is_VBZ investigated_VVN ._. 
+The_AT simplified_JJ mathematical_JJ model_NN1 of_IO the_AT space_NN1 
+tethered_JJ system_NN1 is_VBZ developed_VVN ._. 
+It_PPH1 is_VBZ shown_VVN that_CST the_AT stable_JJ limit_NN1 cycle_NN1 
+could_VM exist_VVI under_II the_AT considered_JJ control_NN1 ._. 
+The_AT approximate_JJ analytical_JJ solution_NN1 for_IF this_DD1 cycle_NN1 
+is_VBZ obtained_VVN ._. 
+The_AT stability_NN1 of_IO this_DD1 solution_NN1 is_VBZ studied_VVN by_II 
+the_AT Lyapunov_NP1 's_GE theorems_NN2 ._. 
+The_AT optimal_JJ control_NN1 ,_, which_DDQ provides_VVZ transfer_NN1 of_IO 
+the_AT payload_NN1 into_II the_AT descent_NN1 trajectory_NN1 with_IW 
+minimum_JJ perigee_NN1 radius_NN1 ,_, is_VBZ found_VVN as_II a_AT1 result_NN1 
+of_IO the_AT simulation_NN1 series_NN ._. 
+It_PPH1 is_VBZ shown_VVN that_CST the_AT tether_VV0 should_VM occur_VVI 
+several_DA2 turns_NN2 before_II the_AT payload_NN1 separation_NN1 ._. 
+For_REX21 example_REX22 ,_, in_II the_AT YES-2_MC experiment_NN1 ,_, it_PPH1 
+is_VBZ demonstrated_VVN that_CST proposed_JJ control_NN1 makes_VVZ it_PPH1 
+possible_JJ to_TO perform_VVI a_AT1 payload_NN1 return_NN1 using_VVG a_AT1 
+tether_VV0 of_IO considerably_RR shorter_JJR length_NN1 ._. 
+The_AT main_JJ conclusion_NN1 of_IO the_AT paper_NN1 is_VBZ that_CST the_AT 
+proposed_JJ scheme_NN1 of_IO the_AT payload_NN1 deorbit_NN1 is_VBZ more_RGR 
+effective_JJ than_CSN the_AT classical_JJ static_JJ or_CC dynamic_JJ 
+tether_VV0 deployment_NN1 schemes_NN2 ._. 

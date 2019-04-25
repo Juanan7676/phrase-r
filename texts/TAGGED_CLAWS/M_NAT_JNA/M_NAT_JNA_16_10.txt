@@ -1,0 +1,27 @@
+Course_NN1 keeping_VVG for_IF ships_NN2 is_VBZ the_AT core_NN1 of_IO 
+automatic_JJ navigation_NN1 in_II sea_NN1 transportation_NN1 ._. 
+Much_DA1 work_NN1 has_VHZ concentrated_VVN on_II developing_VVG novel_JJ 
+control_NN1 strategies_NN2 for_IF closed_JJ loop_NN1 systems_NN2 ._. 
+We_PPIS2 have_VH0 turned_VVN our_APPGE attention_NN1 the_AT other_JJ way_NN1 
+to_TO improve_VVI the_AT control_NN1 performance_NN1 of_IO marine_JJ 
+autopilots_NN2 in_II this_DD1 work_NN1 by_II modulating_VVG the_AT control_NN1 
+error_NN1 using_VVG a_AT1 sine_NN1 function_NN1 while_CS the_AT 
+construction_NN1 of_IO the_AT controller_NN1 is_VBZ not_XX changed_VVN ._. 
+The_AT nonlinear_JJ feedback_NN1 signal_NN1 thus_RR obtained_VVN is_VBZ 
+sent_VVN to_II the_AT controller_NN1 to_TO replace_VVI the_AT control_NN1 
+error_NN1 itself_PPX1 ,_, which_DDQ used_VMK to_TO be_VBI the_AT deviation_NN1 
+between_II the_AT output_NN1 response_NN1 and_CC the_AT reference_NN1 
+input_NN1 of_IO the_AT system_NN1 ._. 
+Such_DA a_AT1 control_NN1 scheme_NN1 is_VBZ called_VVN nonlinear_JJ 
+feedback_NN1 control_NN1 hereafter_RT ._. 
+Theoretical_JJ analysis_NN1 by_II using_VVG a_AT1 describing_VVG function_NN1 
+and_CC robust_JJ control_NN1 theory_NN1 shows_VVZ that_CST the_AT same_DA 
+control_NN1 quality_NN1 is_VBZ guaranteed_VVN with_IW minor_JJ control_NN1 
+actions_NN2 for_IF the_AT nonlinear_JJ feedback_NN1 scheme_NN1 ._. 
+Simulation_NN1 experiments_NN2 were_VBDR carried_VVN out_RP for_IF the_AT 
+shipYulongof_NN1 Dalian_JJ Maritime_JJ University_NN1 ._. 
+It_PPH1 is_VBZ shown_VVN that_CST the_AT method_NN1 postulated_VVN in_II 
+this_DD1 paper_NN1 has_VHZ advantages_NN2 of_IO safety_NN1 and_CC energy_NN1 
+saving_VVG in_II navigation_NN1 ;_; the_AT maximum_JJ initial_JJ rudder_NN1 
+angle_NN1 is_VBZ reduced_VVN by_II 312%_NNU with_IW satisfactory_JJ 
+control_NN1 effect_NN1 ._. 

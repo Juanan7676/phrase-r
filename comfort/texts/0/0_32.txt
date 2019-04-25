@@ -1,0 +1,33 @@
+We_PPIS2 perform_VV0 a_AT1 linear_JJ BiGlobal_JJ modal_JJ stability_NN1 
+analysis_NN1 on_II the_AT separated_JJ flow_NN1 around_II a_AT1 NACA_NN1 
+4415_MC airfoil_VV0 at_II low_JJ Reynolds_NP1 numbers_NN2 (_( Re=3001000_FO 
+)_) and_CC a_AT1 high_JJ angle_NN1 of_IO attack_NN1 (_( a=20_FO )_) ,_, 
+with_IW a_AT1 focus_NN1 on_II the_AT effect_NN1 of_IO the_AT airfoil_NN1 's_GE 
+proximity_NN1 to_II two_MC different_JJ types_NN2 of_IO ground_NN1 :_: a_AT1 
+stationary_JJ ground_NN1 and_CC a_AT1 moving_JJ ground_NN1 ._. 
+The_AT results_NN2 show_VV0 that_CST the_AT most_RGT dominant_JJ 
+perturbation_NN1 is_VBZ a_AT1 KelvinHelmholtz_NN1 mode_NN1 ,_, which_DDQ 
+gives_VVZ rise_NN1 to_II a_AT1 supercritical_JJ Hopf_NP1 bifurcation_NN1 to_II 
+a_AT1 global_JJ mode_NN1 ,_, leading_VVG to_II large-scale_JJ vortex_NN1 
+shedding_VVG at_II a_AT1 periodic_JJ limit_NN1 cycle_NN1 ._. 
+As_II the_AT airfoil_NN1 approaches_VVZ the_AT ground_NN1 ,_, this_DD1 
+mode_NN1 can_VM become_VVI more_RGR unstable_JJ or_CC less_RGR unstable_JJ ,_, 
+depending_II21 on_II22 the_AT specific_JJ type_NN1 of_IO ground_NN1 :_: 
+introducing_VVG a_AT1 stationary_JJ ground_NN1 to_II an_AT1 otherwise_RR 
+groundless_JJ system_NN1 is_VBZ destabilizing_VVG but_CCB introducing_VVG 
+a_AT1 moving_JJ ground_NN1 is_VBZ stabilizing_VVG ,_, although_CS both_DB2 
+effects_NN2 weaken_VV0 with_IW increasingRe_NN1 ._. 
+By_II performing_VVG a_AT1 Floquet_NN1 analysis_NN1 ,_, we_PPIS2 find_VV0 
+that_CST short-wavelength_JJ secondary_JJ instabilities_NN2 are_VBR damped_VVN 
+by_II a_AT1 moving_JJ ground_NN1 but_CCB are_VBR amplified_VVN by_II a_AT1 
+stationary_JJ ground_NN1 ._. 
+By_II contrast_NN1 ,_, long-wavelength_JJ secondary_JJ instabilities_NN2 
+are_VBR relatively_RR insensitive_JJ to_II ground_NN1 type_NN1 ._. 
+This_DD1 numericaltheoretical_JJ study_NN1 shows_VVZ that_CST the_AT 
+ground_NN1 can_VM have_VHI an_AT1 elaborate_JJ influence_NN1 on_II the_AT 
+primary_NN1 and_CC secondary_JJ instabilities_NN2 of_IO the_AT separated_JJ 
+flow_NN1 around_II an_AT1 airfoil_NN1 at_II lowRe_NN1 ._. 
+These_DD2 findings_NN2 could_VM be_VBI useful_JJ for_IF the_AT design_NN1 
+of_IO micro_NN1 aerial_NN1 vehicles_NN2 and_CC for_IF improving_VVG our_APPGE 
+understanding_NN1 of_IO natural_JJ flyers_NN2 such_II21 as_II22 insects_NN2 
+and_CC birds_NN2 ._. 

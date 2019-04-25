@@ -1,0 +1,30 @@
+Distributed_JJ array_NN1 antenna_NN1 synthetic_JJ aperture_NN1 radar_NN1 (_( 
+SAR_NP1 )_) ,_, flexible_JJ baseline_NN1 interferometric_JJ SAR_NP1 (_( 
+InSAR_NP1 )_) or_CC integrated_JJ multi-task_JJ imaging_NN1 sensors_NN2 
+are_VBR the_AT most_RGT attractive_JJ development_NN1 directions_NN2 of_IO 
+aerial_NN1 survey_NN1 and_CC remote_JJ sensing_NN1 system_NN1 ,_, and_CC 
+urgently_RR demand_VV0 a_AT1 distributed_JJ Position_NN1 and_CC 
+Orientation_NN1 System_NN1 (_( DPOS_NP2 )_) to_TO accurately_RR measure_VVI 
+multi-nodes_NN2 time-spatial_JJ reference_NN1 information_NN1 ._. 
+However_RR ,_, the_AT traditional_JJ transfer_NN1 alignment_NN1 (_( TA_UH )_) 
+method_NN1 ca_VM n't_XX meet_VVI the_AT requirements_NN2 of_IO some_DD high_JJ 
+precision_NN1 interferometric_JJ imaging_NN1 task_NN1 ._. 
+To_TO solve_VVI the_AT problem_NN1 ,_, a_AT1 dual-filter_NN1 TA_UH method_NN1 
+based_VVN on_II position-velocity-attitude_JJ matching_NN1 (_( PVAM_NP1 )_) 
+was_VBDZ proposed_VVN ._. 
+Firstly_RR ,_, the_AT TA_UH method_NN1 based_VVN on_II attitude_NN1 
+matching_NN1 (_( AM_RA )_) is_VBZ conducted_VVN in_II filter-1_MC1 to_TO 
+estimate_VVI the_AT flexible_JJ angles_NN2 and_CC the_AT derivatives_NN2 ._. 
+Then_RT the_AT TA_UH method_NN1 based_VVN on_II position-velocity_JJ 
+matching_NN1 (_( PVM_NP1 )_) is_VBZ conducted_VVN in_II filter-2_MC ,_, and_CC 
+the_AT position_NN1 and_CC velocity_NN1 measurements_NN2 are_VBR 
+compensated_VVN by_II the_AT flexible_JJ angles_NN2 and_CC the_AT 
+derivatives_NN2 estimated_VVN by_II filter-1_MC1 ._. 
+Finally_RR ,_, the_AT strapdown_NN1 solutions_NN2 of_IO slave_NN1 IMU_NN1 
+are_VBR corrected_VVN by_II the_AT corrections_NN2 from_II both_RR 
+filter-1_MC1 and_CC filter-2_MC ._. 
+A_AT1 semi-physical_JJ simulation_NN1 based_VVN on_II airborne_JJ DPOS_NN2 
+flight_NN1 experiment_NN1 has_VHZ been_VBN conducted_VVN ,_, verifying_VVG 
+that_CST the_AT baseline_NN1 error_NN1 has_VHZ been_VBN reduced_VVN from_II 
+0.0240_MC m_NNO to_II 0.0083_MC m_NNO and_CC the_AT computation_NN1 time_NNT1 
+has_VHZ been_VBN decrease_NN1 by_II 3.41%_FO ._. 

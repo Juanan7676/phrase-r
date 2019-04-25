@@ -1,0 +1,41 @@
+Computational_JJ fluid_NN1 dynamics_NN based_VVN unsteady_JJ aerodynamic_JJ 
+reduced-order_JJ models_NN2 can_VM significantly_RR improve_VVI the_AT 
+efficiency_NN1 of_IO transonic_JJ aeroelastic_JJ analysis_NN1 ._. 
+In_II this_DD1 paper_NN1 ,_, the_AT concept_NN1 of_IO the_AT conventional_JJ 
+model_NN1 reduction_NN1 method_NN1 based_VVN on_II the_AT system_NN1 
+identification_NN1 theory_NN1 is_VBZ extended_VVN to_II aerodynamic_JJ 
+subsystems_NN2 with_IW the_AT consideration_NN1 of_IO computational_JJ 
+fluid_NN1 dynamics-induced_NN1 interval_NN1 uncertainties_NN2 in_II 
+simulation_NN1 to_TO get_VVI the_AT aerodynamic_JJ reduced-order_JJ model_NN1 
+as_RG uncertain_JJ as_CSA the_AT original_JJ aerodynamic_JJ subsystem_NN1 ._. 
+The_AT interval_NN1 estimation_NN1 of_IO identified_JJ coefficients_NN2 
+involved_JJ in_II the_AT uncertain_JJ reduced-order_JJ model_NN1 is_VBZ 
+obtained_VVN by_II utilizing_VVG the_AT first-order_JJ interval_NN1 
+perturbation_NN1 method_NN1 ._. 
+The_AT stability_NN1 problem_NN1 of_IO the_AT interval_NN1 aeroelastic_JJ 
+state-space_JJ model_NN1 formulated_VVN based_VVN on_II the_AT constructed_JJ 
+uncertain_JJ aerodynamic_JJ reduced-order_JJ model_NN1 is_VBZ equivalently_RR 
+transformed_VVN into_II a_AT1 standard_JJ interval_NN1 eigenvalue_NN1 
+problem_NN1 associated_VVN with_IW a_AT1 real_JJ non-symmetric_JJ interval_NN1 
+matrix_NN1 in_II which_DDQ the_AT interval_NN1 bounds_NN2 of_IO 
+eigenvalues_NN2 are_VBR evaluated_VVN by_II virtue_NN1 of_IO the_AT 
+first-order_JJ interval_NN1 matrix_NN1 perturbation_NN1 algorithm_NN1 ._. 
+A_AT1 new_JJ stability_NN1 criterion_NN1 for_IF the_AT interval_NN1 
+aeroelastic_JJ state_NN1 matrix_NN1 is_VBZ defined_VVN to_TO predict_VVI 
+the_AT robust_JJ flutter_NN1 boundary_NN1 of_IO the_AT concerned_JJ 
+uncertain_JJ aeroelastic_JJ system_NN1 ._. 
+Two_MC numerical_JJ examples_NN2 with_II31 respect_II32 to_II33 the_AT 
+uncertain_JJ aerodynamic_JJ ROM_NN1 constructions_NN2 and_CC robust_JJ 
+flutter_NN1 boundary_NN1 predictions_NN2 of_IO the_AT two-dimensional_JJ 
+Isogai_JJ wing_NN1 and_CC the_AT three-dimensional_JJ AGARD_NN1 445.6_MC 
+wing_NN1 in_II transonic_JJ regime_NN1 are_VBR implemented_VVN to_TO 
+assess_VVI the_AT validity_NN1 and_CC accuracy_NN1 of_IO the_AT presented_JJ 
+approach_NN1 ._. 
+The_AT obtained_VVN results_NN2 are_VBR also_RR compared_VVN with_IW Monte_NP1 
+Carlo_NP1 simulation_NN1 solutions_NN2 as_II31 well_II32 as_II33 numerical_JJ 
+and_CC experimental_JJ results_NN2 in_II the_AT literatures_NN2 indicating_VVG 
+that_CST the_AT proposed_JJ method_NN1 can_VM provide_VVI a_AT1 more_RGR 
+robust_JJ and_CC conservative_JJ prediction_NN1 on_II the_AT flutter_NN1 
+boundary_NN1 of_IO an_AT1 aeroelastic_JJ system_NN1 compared_VVN with_IW 
+conventional_JJ deterministic_JJ aeroelastic_JJ analysis_NN1 approaches_NN2 
+._. 

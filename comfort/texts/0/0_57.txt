@@ -1,0 +1,46 @@
+Non-rigid_JJ airships_NN2 (_( blimps_NN2 )_) use_VV0 buoyant_JJ gas_NN1 to_TO 
+counter_VVI their_APPGE weight_NN1 ,_, and_CC modern_JJ designs_NN2 also_RR 
+incorporate_VV0 solar_JJ panels_NN2 and_CC rechargeable_JJ batteries_NN2 
+for_IF propulsion_NN1 ._. 
+Combining_VVG these_DD2 concepts_NN2 offers_VVZ the_AT potential_NN1 for_IF 
+indefinite_JJ flight_NN1 duration_NN1 ,_, thus_RR rendering_VVG blimps_NN2 
+suitable_JJ for_IF surveillance_NN1 missions_NN2 where_RRQ station_NN1 and_CC 
+altitude_NN1 are_VBR maintained_VVN ._. 
+However_RR ,_, a_AT1 consistent_JJ analysis_NN1 of_IO the_AT impact_NN1 of_IO 
+solar_JJ cell_NN1 characteristics_NN2 ,_, wind_NN1 speeds_NN2 and_CC 
+irradiance_NN1 on_II the_AT airship_NN1 size_NN1 is_VBZ not_XX available_JJ 
+._. 
+Therefore_RR ,_, this_DD1 work_NN1 aims_VVZ to_TO study_VVI the_AT effect_NN1 
+of_IO varying_JJ solar_JJ cell_NN1 efficiency_NN1 and_CC weight_NN1 ,_, 
+energy_NN1 storage_NN1 system_NN1 specific_JJ energy_NN1 ,_, wind_NN1 
+speed_NN1 and_CC solar_JJ irradiance_NN1 on_II a_AT1 solar_JJ powered_JJ 
+airship_NN1 's_GE length_NN1 ,_, mass_JJ and_CC solar_JJ coverage_NN1 area_NN1 
+._. 
+It_PPH1 is_VBZ demonstrated_VVN that_DD1 single-junction_NN1 and_CC 
+triple-junction_JJ cells_NN2 consistently_RR lead_VV0 to_II similar_JJ 
+airship_NN1 sizes_NN2 and_CC masses_NN2 despite_II large_JJ differences_NN2 
+in_II efficiency_NN1 and_CC weight_NN1 ._. 
+The_AT use_NN1 of_IO thin-film_JJ cells_NN2 ,_, while_CS competitive_JJ at_II 
+wind_NN1 speeds_VVZ below_RG 14_MC m/s_ZZ1 ,_, on_II the_AT other_JJ hand_NN1 
+,_, leads_VVZ to_II a_AT1 significantly_RR greater_JJR mass_NN1 and_CC 
+size_NN1 at_II higher_JJR wind_NN1 speeds_NN2 ._. 
+The_AT specific_JJ energy_NN1 of_IO the_AT storage_NN1 system_NN1 has_VHZ 
+a_AT1 strong_JJ impact_NN1 on_II length_NN1 and_CC mass_NN1 ,_, while_CS 
+cell_NN1 coverage_NN1 is_VBZ unaffected_JJ ._. 
+However_RR ,_, for_IF energy_NN1 densities_NN2 above_II 1000_MC Wh/kg_FU 
+gains_NN2 become_VV0 small_JJ ._. 
+Airship_NN1 size_NN1 is_VBZ larger_JJR at_II higher_JJR altitudes_NN2 ,_, 
+and_CC solar_JJ irradiance_NN1 is_VBZ greater_JJR ,_, which_DDQ yields_VVZ 
+an_AT1 airship_NN1 with_IW a_AT1 significantly_RR smaller_JJR solar_JJ 
+cell_NN1 area_NN1 and_CC thus_RR lower_JJR mass_NN1 ._. 
+Sufficient_JJ propulsive_JJ power_NN1 to_TO overcome_VVI drag_VV0 is_VBZ 
+unavailable_JJ where_CS solar_JJ irradiance_NN1 is_VBZ low_JJ and_CC wind_NN1 
+speeds_NN2 are_VBR high_JJ ,_, although_CS solar_JJ cell_NN1 efficiency_NN1 
+is_VBZ also_RR a_AT1 contributing_JJ factor_NN1 ,_, and_CC blimps_NN2 
+employing_VVG higher_JJR efficiency_NN1 cells_NN2 can_VM operate_VVI over_RP 
+a_AT1 wider_JJR range_NN1 in_II speed_NN1 and_CC irradiance_NN1 ._. 
+High_JJ speeds_NN2 and_CC low_JJ irradiance_NN1 necessitate_VV0 a_AT1 large_JJ 
+blimp_NN1 size_NN1 ,_, weight_NN1 and_CC solar_JJ coverage_NN1 ,_, with_IW 
+speed_NN1 affecting_VVG length_NN1 and_CC mass_NN1 more_RGR acutely_RR 
+than_CSN irradiance_NN1 ,_, while_CS both_RR speed_VV0 and_CC irradiance_NN1 
+affect_VV0 solar_JJ cell_NN1 proportion_NN1 nearly_RR equally_RR ._. 

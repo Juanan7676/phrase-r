@@ -1,0 +1,31 @@
+This_DD1 article_NN1 presents_VVZ the_AT results_NN2 of_IO a_AT1 continuing_JJ 
+computational_JJ effort_NN1 to_TO understand_VVI the_AT flow_NN1 field_NN1 
+characteristics_NN2 of_IO a_AT1 C-130_FO Hercules_NP1 aircraft_NN 
+configured_VVN for_IF personnel_NN2 airdrop_VV0 operations_NN2 ._. 
+Flight_NN1 operations_NN2 with_IW either_RR the_AT troop_NN1 door_NN1 or_CC 
+cargo_NN1 open_JJ lead_NN1 to_II vortical_JJ structures_NN2 and_CC unsteady_JJ 
+flows_NN2 which_DDQ can_VM adversely_RR affect_VVI airdrop_NN1 operations_NN2 
+._. 
+Simulation_NN1 results_NN2 using_VVG the_AT CFD_NP1 solverKestrel_NN1 ,_, 
+developed_VVN within_II the_AT High_JJ Performance_NN1 Computing_NN1 
+Modernization_NN1 Program_NN1 CREATETM-AV_NN1 program_NN1 ,_, show_VV0 
+vorticity_NN1 generated_VVN behind_II the_AT open_JJ cargo_NN1 door_NN1 and_CC 
+with_IW the_AT flaps_NN2 extended_VVD ,_, a_AT1 relatively_RR strong_JJ 
+vortex_NN1 forms_VVZ along_II the_AT fuselage_NN1 which_DDQ traverses_VVZ 
+above_II the_AT troop_NN1 door_NN1 into_II the_AT upsweep_NN1 section_NN1 
+of_IO the_AT aircraft_NN tail_NN1 ._. 
+Open_JJ troop_NN1 door_NN1 simulations_NN2 capture_VV0 large_JJ velocity_NN1 
+gradients_NN2 and_CC unsteadiness_NN1 for_IF configurations_NN2 with_IW and_CC 
+without_IW actuator_NN1 disk_NN1 propeller_NN1 models_NN2 and_CC with_IW 
+and_CC without_IW sideslip_NN1 ._. 
+Simulations_NN2 are_VBR computed_VVN on_II both_DB2 converged_VVD hybrid_JJ 
+meshes_NN2 on_II the_AT order_NN1 of_IO 100_MC 106cells_FO and_CC 
+near-body/Cartesian_JJ off-body_JJ grids_NN2 ,_, and_CC these_DD2 results_NN2 
+reconfirm_VV0 that_CST vortex_VV0 modeling_NN1 is_VBZ dependent_JJ on_II 
+mesh_NN1 resolution_NN1 around_II troop_NN1 door_NN1 or_CC cargo_NN1 ramp_NN1 
+._. 
+The_AT addition_NN1 of_IO a_AT1 refined_JJ mesh_NN1 near_II the_AT troop_NN1 
+door_NN1 ,_, in_II31 conjunction_II32 with_II33 using_VVG a_AT1 delayed_JJ 
+detached-eddy_JJ turbulence_NN1 model_NN1 ,_, provided_CS highly_RR 
+resolved_VVN flow_NN1 physics_NN1 in_II this_DD1 region_NN1 of_IO interest_NN1 
+._. 

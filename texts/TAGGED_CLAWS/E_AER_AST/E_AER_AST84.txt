@@ -1,0 +1,29 @@
+The_AT astro-inertial_JJ integrated_JJ navigation_NN1 system_NN1 has_VHZ 
+the_AT characteristic_NN1 of_IO anti-electromagnetic_JJ interference_NN1 
+but_CCB suffers_VVZ from_II aero-optical_JJ starlight_NN1 perturbation_NN1 
+when_CS applied_VVN to_II hypersonic_JJ cruise_NN1 vehicles_NN2 (_( HCVs_NP1 
+)_) ._. 
+Because_CS there_EX is_VBZ no_AT strategy_NN1 in_II the_AT traditional_JJ 
+loosely_RR coupled_VVN astro-inertial_JJ integration_NN1 framework_NN1 for_IF 
+recognising_VVG and_CC evaluating_VVG skew_NN1 in_II star_NN1 observation_NN1 
+,_, this_DD1 system_NN1 can_VM not_XX adapt_VVI to_II perturbations_NN2 ,_, 
+and_CC the_AT navigation_NN1 accuracy_NN1 tends_VVZ to_TO degrade_VVI ._. 
+In_II this_DD1 study_NN1 ,_, a_AT1 strongly_RR coupled_VVN framework_NN1 
+for_IF an_AT1 astro-inertial_JJ integrated_JJ system_NN1 is_VBZ designed_VVN 
+,_, and_CC a_AT1 robust_JJ astro-inertial_JJ fusion_NN1 algorithm_NN1 
+based_VVN on_II star-coordinate_JJ matching_NN1 is_VBZ proposed_VVN ;_; the_AT 
+skew_NN1 degree_NN1 of_IO each_DD1 observed_JJ star_NN1 is_VBZ quantified_VVN 
+by_II matching_VVG with_IW the_AT virtual_JJ star_NN1 image_NN1 
+re-established_VVN from_II INS_NNU2 measurements_NN2 ._. 
+Based_VVN on_II star-coordinate_JJ matching_NN1 ,_, a_AT1 robust_JJ 
+weight-tuning_JJ rule_NN1 is_VBZ designed_VVN according_II21 to_II22 the_AT 
+maximum-likelihood_JJ estimation_NN1 theory_NN1 ,_, including_II a_AT1 
+method_NN1 to_TO determine_VVI the_AT star-coordinate_JJ confidence_NN1 
+scope_NN1 by_II statistically_RR analysing_VVG the_AT 
+astronomical-observation_JJ perturbation_NN1 rate_NN1 ._. 
+Compared_VVN with_IW the_AT traditional_JJ loosely_RR coupled_VVN 
+astro-inertial_JJ integration_NN1 framework_NN1 ,_, the_AT proposed_JJ 
+strongly_RR coupled_VVN framework_NN1 and_CC robust_JJ astro-inertial_JJ 
+integrated_JJ navigation_NN1 algorithm_NN1 based_VVN on_II star-coordinate_JJ 
+matching_NN1 can_VM significantly_RR improve_VVI robustness_NN1 against_II 
+perturbations_NN2 ._. 

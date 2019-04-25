@@ -1,0 +1,26 @@
+The_AT terminal_JJ proportional_JJ guidance_NN1 loop_NN1 has_VHZ been_VBN 
+employed_VVN by_II spinning_VVG missiles_NN2 to_TO improve_VVI the_AT 
+attacking_JJ accuracy_NN1 ._. 
+However_RR ,_, it_PPH1 has_VHZ been_VBN observed_VVN that_CST the_AT miss_NN1 
+distance_NN1 increases_VVZ dramatically_RR during_II the_AT design_NN1 of_IO 
+the_AT spinning_JJ missile_NN1 with_IW only_RR a_AT1 guidance_NN1 loop_NN1 ._. 
+Meanwhile_RR ,_, the_AT conventional_JJ stability_NN1 criteria_NN2 of_IO 
+the_AT guidance_NN1 loop_NN1 applicable_JJ to_II the_AT non-spinning_JJ 
+missile_NN1 are_VBR no_RR21 longer_RR22 valid_JJ in_II the_AT event_NN1 of_IO 
+the_AT spinning_NN1 ._. 
+To_TO address_VVI this_DD1 problem_NN1 ,_, in_II this_DD1 paper_NN1 ,_, the_AT 
+stability_NN1 of_IO the_AT spinning_JJ missiles_NN2 with_IW only_RR a_AT1 
+3D_NNU proportional_JJ guidance_NN1 loop_NN1 is_VBZ analytically_RR 
+derived_VVN from_II system_NN1 equations_NN2 in_II a_AT1 form_NN1 of_IO 
+complex_JJ summation_NN1 and_CC the_AT suitable_JJ design_NN1 criteria_NN2 
+for_IF the_AT whole_JJ proportional_JJ guidance_NN1 loop_NN1 are_VBR also_RR 
+established_VVN ._. 
+Numerical_JJ simulations_NN2 show_VV0 that_CST during_II the_AT terminal_JJ 
+guidance_NN1 phase_NN1 the_AT stable_JJ region_NN1 for_IF the_AT 
+proportional_JJ navigation_NN1 coefficient_NN1 is_VBZ reduced_VVN with_IW 
+the_AT increase_NN1 of_IO flight_NN1 time_NNT1 ,_, which_DDQ is_VBZ also_RR 
+shrunk_VVN dramatically_RR due_II21 to_II22 spinning_VVG ,_, and_CC the_AT 
+decrease_NN1 of_IO the_AT critical_JJ stable_JJ time_NNT1 of_IO spinning_VVG 
+missiles_NN2 results_NN2 in_II the_AT increase_NN1 of_IO miss_NN1 distance_NN1 
+,_, which_DDQ exhibit_VV0 great_JJ agreements_NN2 to_II those_DD2 derived_VVN 
+from_II the_AT analytical_JJ stability_NN1 criteria_NN2 

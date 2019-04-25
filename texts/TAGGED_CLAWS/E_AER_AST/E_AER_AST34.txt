@@ -1,0 +1,19 @@
+A_AT1 novel_JJ technique_NN1 has_VHZ been_VBN designed_VVN that_CST 
+creates_VVZ rapid_JJ nutation_NN1 damping_NN1 and_CC accurate_JJ spin_NN1 
+rate_NN1 control_NN1 for_IF a_AT1 spacecraft_NN with_IW arbitrary_JJ 
+inertia_NN1 ratio_NN1 ._. 
+In_II this_DD1 approach_NN1 the_AT satellite_NN1 incorporates_VVZ two_MC 
+symmetrically_RR inclined_JJ reaction_NN1 wheels_VVZ in_II a_AT1 V_ZZ1 
+configuration_NN1 and_CC stabilization_NN1 is_VBZ achieved_VVN by_II 
+simultaneously_RR controlling_VVG the_AT angular_JJ velocity_NN1 of_IO the_AT 
+satellite_NN1 and_CC the_AT wheels_NN2 ._. 
+The_AT method_NN1 furnishes_VVZ gyroscopic_JJ stiffness_NN1 and_CC steers_VVZ 
+interchange_NN1 of_IO momentum_NN1 between_II the_AT wheels_NN2 and_CC the_AT 
+satellite_NN1 main_JJ body_NN1 ._. 
+A_ZZ1 Monte_NP1 Carlo_NP1 type_NN1 approach_NN1 is_VBZ used_VVN to_TO 
+verify_VVI stability_NN1 and_CC it_PPH1 is_VBZ shown_VVN that_CST the_AT 
+controller_NN1 provides_VVZ automatically_RR logical_JJ recovery_NN1 of_IO 
+the_AT desired_JJ spin_NN1 for_IF any_DD initial_JJ state_NN1 and_CC 
+inertia_NN1 ratio_NN1 ._. 
+Moreover_RR ,_, results_NN2 of_IO single_JJ wheel_NN1 simulations_NN2 
+demonstrate_VV0 the_AT efficacy_NN1 of_IO the_AT proposed_JJ concept_NN1 ._. 

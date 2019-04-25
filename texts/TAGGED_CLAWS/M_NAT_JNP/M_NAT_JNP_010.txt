@@ -1,0 +1,32 @@
+In_RR21 situ_RR22 capping_VVG technology_NN1 for_IF marine_JJ sediment_NN1 
+pollution_NN1 control_NN1 has_VHZ never_RR been_VBN applied_VVN in_II 
+South_ND1 Korea_NP1 ._. 
+In_II this_DD1 study_NN1 a_AT1 pilot_NN1 project_NN1 for_IF the_AT capping_NN1 
+was_VBDZ carried_VVN out_RP in_II Busan_NP1 N_ZZ1 Harbor_NN1 ._. 
+Pipeline_NN1 and_CC clamshell_VV0 capping_VVG technologies_NN2 were_VBDR 
+implemented_VVN for_IF the_AT pollution_NN1 control_NN1 ._. 
+Changes_NN2 of_IO capping_VVG shapes_NN2 ,_, sediment_NN1 contamination_NN1 
+,_, and_CC the_AT time_NNT1 and_CC costs_NN2 required_VVN for_IF the_AT two_MC 
+constructions_NN2 were_VBDR compared_VVN ._. 
+Both_DB2 the_AT pipeline_NN1 and_CC clamshell_VV0 technologies_NN2 were_VBDR 
+found_VVN to_TO satisfy_VVI the_AT target_NN1 thickness_NN1 of_IO 50_MC cm_NNU 
+on_II average_NN1 ._. 
+However_RR ,_, the_AT pipeline_NN1 method_NN1 did_VDD not_XX operate_VVI 
+sensitively_RR in_II31 terms_II32 of_II33 change_NN1 of_IO the_AT sea_NN1 
+floor_NN1 topography_NN1 ,_, resulting_VVG in_II an_AT1 uneven_JJ shape_NN1 
+and_CC a_AT1 thickness_NN1 ._. 
+Organic_JJ carbon_NN1 and_CC ignition_NN1 loss_NN1 quite_RR decreased_VVN 
+after_II the_AT pipeline_NN1 or_CC the_AT clamshell_NN1 capping_NN1 while_CS 
+pH_NN1 showed_VVD no_AT significant_JJ change_NN1 ._. 
+Organic_JJ and_CC residual_JJ fraction_NN1 of_IO Cd_NN1 ,_, Ni_NP1 ,_, and_CC 
+Zn_NP1 in_II the_AT sediments_NN2 appeared_VVD to_TO decrease_VVI after_II 
+all_DB cappings_NN2 ._. 
+The_AT pipeline_NN1 method_NN1 took_VVD a_AT1 construction_NN1 time_NNT1 
+four_MC times_NNT2 as_RG much_DA1 as_CSA the_AT clamshell_NN1 method_NN1 ._. 
+The_AT clamshell_NN1 method_NN1 was_VBDZ demonstrated_VVN to_TO reduce_VVI 
+the_AT construction_NN1 cost_NN1 by_II about_RG 40%_NNU compared_VVN with_IW 
+the_AT pipeline_NN1 method_NN1 ._. 
+However_RR ,_, a_AT1 monitoring_NN1 for_IF all_DB the_AT parameters_NN2 
+needs_VVZ to_TO be_VBI conducted_VVN at_RR21 least_RR22 two_MC years_NNT2 
+in_II order_NN1 to_TO better_RRR evaluate_VVI an_AT1 efficiency_NN1 of_IO 
+the_AT pollution_NN1 control_NN1 by_II these_DD2 capping_VVG constructions_NN2 

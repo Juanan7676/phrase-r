@@ -1,0 +1,35 @@
+After_CS Global_JJ Navigation_NN1 Satellite_NN1 Systems_NN2 (_( GNSS_NP1 )_) 
+were_VBDR first_MD used_VVN in_II the_AT field_NN1 of_IO hydrography_NN1 in_II 
+1980_MC ,_, developments_NN2 in_II hydrographic_JJ surveying_NN1 
+accelerated_VVD ._. 
+Survey_NN1 precision_NN1 in_II hydrography_NN1 has_VHZ been_VBN improved_VVN 
+for_IF both_DB2 horizontal_JJ and_CC vertical_JJ positioning_NN1 and_CC 
+seafloor_NN1 acoustic_NN1 measurement_NN1 by_II31 means_II32 of_II33 these_DD2 
+new_JJ developments_NN2 ._. 
+Differential_JJ Global_JJ Positioning_NN1 System_NN1 (_( DGPS_NP1 )_) ,_, 
+Real_JJ Time_NNT1 Kinematic_NP1 (_( RTK_NP1 )_) and_CC Network_NN1 RTK_NP1 (_( 
+NRTK_NP1 )_) techniques_NN2 are_VBR the_AT satellite-based_JJ positioning_NN1 
+techniques_NN2 that_CST are_VBR commonly_RR used_VVN in_II shallow_JJ 
+water_NN1 surveys_NN2 and_CC shoreline_VV0 measurements_NN2 ._. 
+In_II31 line_II32 with_II33 these_DD2 developments_NN2 ,_, the_AT newer_JJR 
+Precise_JJ Point_NN1 Positioning_NN1 (_( PPP_NP1 )_) has_VHZ been_VBN 
+introduced_VVN ._. 
+Combining_VVG precise_JJ satellite_NN1 positions_NN2 and_CC clocks_NN2 with_IW 
+dual-frequency_JJ GNSS_NP1 data_NN ,_, PPP_NP1 can_VM provide_VVI position_NN1 
+solutions_NN2 from_II the_AT centimetre_NNU1 to_II decimetre_NNU1 level_NN1 
+._. 
+In_II this_DD1 study_NN1 ,_, the_AT coordinates_NN2 of_IO control_NN1 
+points_NN2 were_VBDR determined_VVN by_II using_VVG the_AT Post-Process_NP1 
+PPP_NP1 (_( PP-PPP_NP1 )_) technique_NN1 ._. 
+Seven_MC test_NN1 points_NN2 ,_, which_DDQ are_VBR the_AT points_NN2 of_IO 
+the_AT Continuously_RR Operating_VVG Reference_NN1 Station_NN1 -_- Turkey_NP1 
+(_( CORS-TR_JJ )_) network_NN1 ,_, are_VBR selected_VVN near_II the_AT 
+shorelines_NN2 within_II Turkey_NP1 ._. 
+The_AT 24-hour_JJ data_NN was_VBDZ split_VVN from_II one_MC1 to_II six_MC 
+hours_NNT2 by_II one_MC1 hour_NNT1 periods_NN2 ._. 
+Automatic_JJ Point_NN1 Positioning_NN1 Service_NN1 (_( APPS_NP1 )_) was_VBDZ 
+selected_VVN to_TO process_VVI the_AT data_NN ._. 
+The_AT poisoning_NN1 error_NN1 of_IO the_AT test_NN1 points_NN2 were_VBDR 
+given_VVN and_CC compared_VVN with_IW International_JJ Hydrographic_JJ 
+Organization_NN1 (_( IHO_NP1 )_) S44_FO hydrographic_JJ survey_NN1 
+standards_NN2 ._. 

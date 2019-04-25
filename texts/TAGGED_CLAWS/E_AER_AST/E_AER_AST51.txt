@@ -1,0 +1,10 @@
+This_DD1 paper_NN1 presents_VVZ results_NN2 obtained_VVN from_II the_AT 
+wind_NN1 tunnel_NN1 testing_NN1 of_IO a_AT1 highly_RR detailed_JJ 
+full-scale_JJ nose_NN1 landing_NN1 gear_NN1 model_NN1 of_IO a_AT1 regional_JJ 
+aircraft_NN ._. 
+The_AT full_JJ wheel_NN1 bay_NN1 ,_, doors_NN2 and_CC a_AT1 significant_JJ 
+part_NN1 of_IO the_AT fuselage_NN1 are_VBR included_VVN in_II the_AT model_NN1 
+._. 
+The_AT emphasis_NN1 of_IO this_DD1 paper_NN1 is_VBZ on_II wheel_NN1 bay_NN1 
+cavity_NN1 noise_NN1 and_CC its_APPGE potential_JJ contribution_NN1 to_II 
+the_AT far_JJ field_NN1 at_II approach_NN1 conditions_NN2 

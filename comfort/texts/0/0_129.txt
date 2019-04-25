@@ -1,0 +1,22 @@
+This_DD1 paper_NN1 investigates_VVZ the_AT task-space_JJ prescribed_JJ 
+performance_NN1 tracking_NN1 control_NN1 problem_NN1 of_IO free-floating_JJ 
+space_NN1 manipulators_NN2 with_IW kinematic_JJ and_CC dynamic_JJ 
+uncertainty_NN1 ._. 
+In_BCL21 order_BCL22 to_TO formulate_VVI and_CC solve_VVI this_DD1 
+prescribed_JJ performance_NN1 tracking_NN1 problem_NN1 onSE(3)_FO ,_, we_PPIS2 
+first_MD select_VV0 a_AT1 suitable_JJ tracking_JJ error_NN1 vector_NN1 and_CC 
+prescribed_JJ performance_NN1 bound_VVD which_DDQ characterizes_VVZ the_AT 
+minimum_JJ convergence_NN1 rate_NN1 and_CC maximum_JJ overshoot_NN1 of_IO 
+the_AT tracking_JJ error_NN1 vector_NN1 ._. 
+Then_RT ,_, two_MC robust_JJ tracking_JJ controllers_NN2 based_VVN on_II 
+the_AT prescribed_JJ performance_NN1 bound_VVN are_VBR designed_VVN to_TO 
+solve_VVI the_AT tracking_JJ control_NN1 problem_NN1 ._. 
+Compared_VVN with_IW the_AT existing_JJ work_NN1 on_II the_AT guaranteeing_VVG 
+prescribed_JJ performance_NN1 control_NN1 ,_, a_AT1 linear_JJ switching_JJ 
+surface_NN1 is_VBZ incorporated_VVN into_II the_AT controller_NN1 design_NN1 
+procedure_NN1 ,_, which_DDQ makes_VVZ it_PPH1 easy_JJ to_TO cope_VVI with_IW 
+kinematic_JJ and_CC dynamic_JJ uncertainty_NN1 ._. 
+A_AT1 rigorous_JJ mathematical_JJ stability_NN1 proof_NN1 is_VBZ given_VVN ._. 
+Finally_RR ,_, numerical_JJ simulations_NN2 are_VBR presented_VVN to_TO 
+demonstrate_VVI the_AT effectiveness_NN1 and_CC robustness_NN1 of_IO the_AT 
+proposed_JJ controller_NN1 ._. 

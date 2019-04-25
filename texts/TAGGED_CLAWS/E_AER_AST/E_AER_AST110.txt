@@ -1,0 +1,26 @@
+This_DD1 paper_NN1 presents_VVZ a_AT1 new_JJ approach_NN1 using_VVG 
+analytical_JJ solution_NN1 to_TO investigate_VVI nonlinear_JJ dynamic_JJ 
+response_NN1 and_CC vibration_NN1 of_IO imperfect_JJ functionally_RR graded_JJ 
+carbon_NN1 nanotube_NN1 reinforced_VVD composite_JJ (_( FG-CNTRC_NP1 )_) 
+double_JJ curved_JJ shallow_JJ shells_NN2 ._. 
+The_AT double_JJ curved_JJ shallow_JJ shells_NN2 are_VBR reinforced_VVN by_II 
+single-walled_JJ carbon_NN1 nanotubes_NN2 (_( SWCNTs_NP1 )_) which_DDQ 
+vary_VV0 according_II21 to_II22 the_AT linear_JJ functions_NN2 of_IO the_AT 
+shell_NN1 thickness_NN1 ._. 
+The_AT shells_NN2 are_VBR resting_VVG on_II elastic_JJ foundations_NN2 and_CC 
+subjected_VVN to_TO blast_VVI load_NN1 and_CC temperature_NN1 ._. 
+The_AT shell_NN1 's_GE effective_JJ material_NN1 properties_NN2 are_VBR 
+assumed_VVN to_TO depend_VVI on_II temperature_NN1 and_CC estimated_VVN 
+through_II the_AT rule_NN1 of_IO mixture_NN1 ._. 
+By_II applying_VVG higher_JJR order_NN1 shear_VV0 theory_NN1 ,_, Galerkin_NP1 
+method_NN1 and_CC fourth-order_JJ RungeKutta_NN1 method_NN1 and_CC the_AT 
+Airy_JJ stress_NN1 function_NN1 ,_, nonlinear_JJ dynamic_JJ response_NN1 
+and_CC natural_JJ frequency_NN1 for_IF thick_JJ imperfect_JJ FG-CNTRC_JJ 
+double_JJ curved_JJ shallow_JJ shells_NN2 are_VBR determined_VVN ._. 
+In_II numerical_JJ results_NN2 ,_, the_AT influences_NN2 of_IO geometrical_JJ 
+parameters_NN2 ,_, elastic_JJ foundations_NN2 ,_, initial_JJ imperfection_NN1 
+,_, temperature_NN1 increment_NN1 and_CC nanotube_VV0 volume_NN1 fraction_NN1 
+on_II the_AT nonlinear_JJ vibration_NN1 of_IO the_AT FG-CNTRC_JJ double_JJ 
+curved_JJ shallow_JJ shells_NN2 are_VBR investigated_VVN ._. 
+The_AT proposed_JJ results_NN2 are_VBR validated_VVN by_II comparing_VVG 
+with_IW those_DD2 of_IO other_JJ authors_NN2 ._. 

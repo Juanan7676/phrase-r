@@ -1,0 +1,23 @@
+This_DD1 paper_NN1 investigates_VVZ the_AT micro-_NN1 and_CC 
+nano-mechanical_JJ behavior_NN1 of_IO orthotropic_JJ doubly-curved_JJ 
+shells_NN2 by_II considering_VVG the_AT New_JJ Modified_JJ Couple_NN1 
+Stress_NN1 Theory_NN1 (_( NMCST_NP1 )_) ._. 
+The_AT higher_JJR order_NN1 continuum_NN1 assumed_VVN by_II the_AT NMCST_NP1 
+includes_VVZ three_MC material_JJ length_NN1 scale_NN1 parameters_NN2 in_BCL21 
+order_BCL22 to_TO capture_VVI the_AT size-effect_NN1 of_IO anisotropic_JJ 
+and_CC orthotropic_JJ materials_NN2 ._. 
+The_AT governing_JJ equations_NN2 of_IO the_AT problem_NN1 are_VBR based_VVN 
+on_II the_AT First-order_JJ Shear_VV0 Deformation_NN1 Theory_NN1 (_( FSDT_NP1 
+)_) ._. 
+According_II21 to_II22 the_AT proposed_JJ NMCST_NP1 ,_, the_AT expressions_NN2 
+of_IO the_AT physical_JJ components_NN2 for_IF the_AT strain_NN1 and_CC 
+curvature_NN1 tensors_NN2 are_VBR obtained_VVN in_II an_AT1 orthogonal_JJ 
+curvilinear_JJ coordinate_NN1 system_NN1 ._. 
+Then_RT ,_, the_AT governing_JJ differential_JJ equations_NN2 and_CC 
+boundary_NN1 conditions_NN2 are_VBR derived_VVN by_II applying_VVG the_AT 
+energy_NN1 method_NN1 and_CC Hamilton_NP1 's_GE principle_NN1 ._. 
+A_AT1 comparative_JJ investigation_NN1 between_II our_APPGE numerical_JJ 
+results_NN2 and_CC the_AT ones_NN2 available_JJ in_II the_AT literature_NN1 
+proves_VVZ the_AT capability_NN1 of_IO the_AT proposed_JJ formulation_NN1 
+in_II predicting_VVG the_AT micro-_NN1 and_CC nano-mechanical_JJ behavior_NN1 
+of_IO orthotropic_JJ doubly-curved_JJ shells_NN2 ._. 

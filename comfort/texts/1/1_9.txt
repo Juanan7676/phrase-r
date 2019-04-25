@@ -1,0 +1,31 @@
+The_AT measured_JJ HART_NP1 (_( Higher_JJR harmonic_JJ control_NN1 
+Aeroacoustic_NN1 Rotor_NN1 Test_NN1 )_) I_MC1 data_NN in_II a_AT1 
+descending_JJ flight_NN1 condition_NN1 is_VBZ validated_VVN using_VVG 
+various_JJ numerical_JJ approaches_NN2 including_II CFD_NP1 (_( 
+Computational_JJ Fluid_NN1 Dynamics_NN )_) CSD_NP1 (_( Computational_JJ 
+Structural_JJ Dynamics_NN )_) coupled_VVD analyses_NN2 with_IW isolated_JJ 
+rotor_NN1 model_NN1 and_CC rotor-fuselage_JJ model_NN1 ._. 
+A_AT1 CSD-alone_JJ approach_NN1 is_VBZ also_RR conducted_VVN for_IF 
+reference_NN1 purpose_NN1 ._. 
+A_AT1 three-dimensional_JJ (_( 3D_NNU )_) compressible_JJ RANS_NN2 (_( 
+Reynolds_NP1 Averaged_VVD Navier_NP1 Stokes_NP1 )_) flow_NN1 solver_NN1 is_VBZ 
+employed_VVN for_IF the_AT CFD_NP1 code_NN1 ._. 
+Good_JJ convergence_NN1 behavior_NN1 is_VBZ found_VVN for_IF both_DB2 
+coupling_VVG analyses_NN2 ._. 
+It_PPH1 is_VBZ observed_VVN that_CST the_AT rotor-fuselage_JJ model_NN1 
+improves_VVZ the_AT correlation_NN1 significantly_RR as_CSA compared_VVN 
+with_IW the_AT measured_JJ data_NN ._. 
+Specifically_RR ,_, the_AT highly_RR oscillating_VVG section_NN1 normal_JJ 
+forces_NN2 signals_NN2 marked_VVN in_II the_AT advancing_JJ and_CC 
+retreating_JJ sides_NN2 of_IO the_AT rotor_NN1 are_VBR captured_VVN 
+accurately_RR ._. 
+Detailed_JJ harmonic_JJ analysis_NN1 and_CC the_AT gradient_NN1 of_IO the_AT 
+airloads_NN2 signals_NN2 are_VBR observed_VVN to_TO prove_VVI the_AT 
+validity_NN1 of_IO the_AT prediction_NN1 model_NN1 ._. 
+The_AT upwash_NN1 induced_VVN due_II21 to_II22 a_AT1 fuselage_NN1 as_II31 
+well_II32 as_II33 the_AT increased_JJ vorticity_NN1 over_II the_AT rotor_NN1 
+flow_NN1 fields_NN2 are_VBR attributed_VVN to_II the_AT enhanced_JJ 
+correlation_NN1 ._. 
+The_AT predicted_JJ blade_NN1 elastic_NN1 motions_NN2 and_CC structural_JJ 
+moments_NN2 also_RR indicate_VV0 improvements_NN2 with_IW the_AT present_JJ 
+rotor-fuselage_JJ model_NN1 ._. 

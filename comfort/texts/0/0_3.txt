@@ -1,0 +1,23 @@
+The_AT current_JJ work_NN1 is_VBZ an_AT1 aerodynamic_JJ design_NN1 study_NN1 
+of_IO a_AT1 Blended_JJ Wing_NN1 Body_NN1 (_( BWB_NP1 )_) 
+Medium-Altitude-Long-Endurance_FU (_( MALE_NN1 )_) Unmanned-Aerial-Vehicle_NP1 
+(_( UAV_NP1 )_) ._. 
+Using_VVG a_AT1 combined_JJ approach_NN1 of_IO presizing_VVG tools_NN2 and_CC 
+computational_JJ simulations_NN2 ,_, a_AT1 step-by-step_JJ layout_NN1 
+design_NN1 study_NN1 was_VBDZ conducted_VVN to_TO define_VVI the_AT key_JJ 
+layout_NN1 characteristics_NN2 and_CC select_VVI the_AT optimal_JJ 
+airframe-engine_JJ combination_NN1 ._. 
+Trade_NN1 studies_NN2 were_VBDR also_RR carried_VVN out_RP to_TO optimize_VVI 
+the_AT aerodynamic_JJ performance_NN1 and_CC stability_NN1 ._. 
+The_AT traditional_JJ sizing_NN1 and_CC aerodynamic_JJ estimation_NN1 
+methods_NN2 were_VBDR adopted_VVN to_TO incorporate_VVI the_AT 
+characteristics_NN2 of_IO the_AT BWB_NP1 platform_NN1 ,_, whereas_CS CFD_NP1 
+computations_NN2 were_VBDR employed_VVN in_BCL21 order_BCL22 to_TO 
+calculate_VVI the_AT aerodynamic_JJ and_CC stability_NN1 coefficients_NN2 ,_, 
+during_II the_AT layout_NN1 comparison_NN1 and_CC trade_NN1 studies_NN2 ._. 
+Drawings_NN2 and_CC tables_NN2 are_VBR provided_VVN to_TO show_VVI the_AT 
+progression_NN1 of_IO the_AT design_NN1 study_NN1 at_II each_DD1 stage_NN1 ._. 
+The_AT performance_NN1 specifications_NN2 are_VBR also_RR compared_VVN with_IW 
+a_AT1 conventional_JJ UAV_NN1 platform_NN1 to_TO point_VVI out_RP the_AT 
+main_JJ advantages_NN2 and_CC disadvantages_NN2 of_IO the_AT BWB_NP1 for_IF 
+MALE_JJ UAV_NN1 applications_NN2 ._. 

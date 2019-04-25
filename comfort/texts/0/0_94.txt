@@ -1,0 +1,34 @@
+Slot_NN1 is_VBZ one_MC1 of_IO the_AT measures_NN2 to_TO control_VVI the_AT 
+Shock_NN1 WaveBoundary_NN1 Layer_NN1 Interaction_NN1 (_( SBLI_NP1 )_) used_VVN 
+to_TO avoid_VVI strong_JJ interference_NN1 of_IO shock_NN1 waves_NN2 with_IW 
+the_AT boundary_NN1 layer_NN1 in_II supersonic_JJ flows_NN2 ._. 
+In_II this_DD1 control_NN1 measure_NN1 ,_, the_AT Height_NN1 of_IO Triple_JJ 
+Point_NN1 (_( HTP_NP1 )_) ofshock_VV0 significantly_RR increases_VVZ ,_, 
+compared_VVN to_II the_AT one_PN1 without_IW controller_NN1 ,_, and_CC 
+cause_VV0 a_AT1 decline_NN1 in_II shock_NN1 power_NN1 and_CC pressure_NN1 
+drops_VVZ rate_NN1 ._. 
+In_II this_DD1 paper_NN1 ,_, the_AT main_JJ focus_NN1 is_VBZ on_II 
+optimization_NN1 of_IO slot_NN1 geometry_NN1 as_II an_AT1 influential_JJ 
+parameter_NN1 on_II the_AT structure_NN1 of_IO the_AT shock_NN1 and_CC 
+flow_NN1 characteristics_NN2 by_II using_VVG Genetic_JJ Algorithm_NN1 (_( 
+GA_NP1 )_) ._. 
+The_AT averaged_JJ implicit_JJ NavierStokes_NP2 equations_NN2 and_CC two_MC 
+equation_NN1 standardk0turbulence_FO models_NN2 for_IF the_AT numerical_JJ 
+simulation_NN1 of_IO the_AT flow_NN1 field_NN1 have_VH0 been_VBN used_VVN ._. 
+The_AT optimization_NN1 problem_NN1 is_VBZ formulated_VVN in_II term_NN1 of_IO 
+one_MC1 objective_JJ function_NN1 ,_, namely_REX ,_, height_NN1 of_IO 
+triple_JJ point_NN1 maximization_NN1 ._. 
+Artificial_JJ neural_JJ network_NN1 with_IW two_MC hidden_JJ layers_NN2 
+has_VHZ been_VBN used_VVN to_TO achieve_VVI objective_JJ function_NN1 
+based_VVN on_II the_AT numerical_JJ simulation_NN1 of_IO the_AT flow_NN1 
+field_NN1 data_NN base_NN1 ._. 
+Root_NP1 Mean_NP1 Square_NNL1 Error_NN1 (_( RMSE_NP1 )_) was_VBDZ 
+calculated_VVN for_IF comparison_NN1 and_CC selecting_VVG the_AT best_JJT 
+algorithm_NN1 in_II sequential_JJ steps_NN2 ._. 
+In_BCL21 order_BCL22 to_TO simulate_VVI and_CC compare_VVI the_AT results_NN2 
+with_IW data_NN obtained_VVN from_II experimental_JJ tests_NN2 ,_, the_AT 
+Cambridge_NP1 University_NN1 's_GE wind_NN1 tunnel_NN1 tests_NN2 and_CC 
+geometry_NN1 have_VH0 been_VBN used_VVN as_II the_AT base_NN1 design_NN1 ._. 
+The_AT study_NN1 demonstrates_VVZ that_CST ,_, the_AT HTP_NP1 for_IF 
+optimized_JJ slot_NN1 geometry_NN1 is_VBZ about_RG 7.6_MC percentages_NN2 
+more_RRR than_CSN base_NN1 design_NN1 ._. 

@@ -1,0 +1,28 @@
+Of_IO all_DB the_AT possible_JJ outcomes_NN2 of_IO the_AT shock_NN1 
+interaction_NN1 problem_NN1 ,_, Edney_NP1 Type-III_MC and_CC Type-IV_JJ 
+are_VBR considered_VVN to_TO be_VBI of_IO great_JJ importance_NN1 as_CSA 
+they_PPHS2 lead_VV0 to_II high_JJ heat_NN1 transfer_NN1 rates_NN2 on_II the_AT 
+surface_NN1 in_II the_AT vicinity_NN1 of_IO the_AT interaction_NN1 ._. 
+The_AT enhancement_NN1 in_II heat_NN1 transfer_NN1 occurs_VVZ because_II21 
+of_II22 shear_VV0 layer_NN1 attachment_NN1 in_II Type-III_MC interaction_NN1 
+and_CC impingement_NN1 of_IO supersonic_JJ jet_NN1 in_II Type-IV_JJ 
+interaction_NN1 ._. 
+In_II this_DD1 study_NN1 ,_, unsteady_JJ nature_NN1 of_IO these_DD2 
+interactions_NN2 is_VBZ studied_VVN in_II conventional_JJ shock_NN1 tunnel_NN1 
+at_II moderate_JJ enthalpy_NN1 condition_NN1 of_IO 1.07_MC Mj/kg_FU at_II 
+flow_NN1 Mach_NNU number_NN1 of_IO 5.62_MC ._. 
+A_AT1 hemispherical_JJ model_NN1 ,_, 50_MC mm_NNU in_II diameter_NN1 ,_, 
+mounted_VVN with_IW thin_JJ film_NN1 Platinum_NN1 gauges_NN2 is_VBZ used_VVN 
+along_II21 with_II22 a_AT1 25_MC wedge_VV0 to_TO serve_VVI as_II a_AT1 
+shock_NN1 generator_NN1 ._. 
+The_AT schlieren_NN1 images_NN2 are_VBR captured_VVN along_II21 with_II22 
+the_AT surface_NN1 convective_JJ heat_NN1 transfer_NN1 rate_NN1 
+measurements_NN2 for_IF the_AT analysis_NN1 of_IO flowfield_NN1 over_II the_AT 
+model_NN1 during_II the_AT test_NN1 time_NNT1 ._. 
+The_AT pixel_NN1 intensity_NN1 scan_NN1 is_VBZ performed_VVN along_II 
+several_DA2 lines_NN2 running_VVG horizontally_RR to_TO estimate_VVI the_AT 
+steadiness_NN1 of_IO the_AT flowfield_NN1 ._. 
+These_DD2 are_VBR correlated_VVN with_IW the_AT heat_NN1 transfer_NN1 rate_NN1 
+measurements_NN2 to_TO understand_VVI the_AT non-steady_JJ nature_NN1 of_IO 
+the_AT interaction_NN1 during_II the_AT small_JJ test_NN1 times_NNT2 
+offered_VVN by_II the_AT shock_NN1 tunnel_NN1 ._. 

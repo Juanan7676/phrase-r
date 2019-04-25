@@ -1,0 +1,19 @@
+Strong_JJ disturbance_NN1 and_CC long_JJ life_NN1 requirement_NN1 of_IO the_AT 
+space_NN1 station_NN1 make_VV0 momentum_NN1 management_NN1 (_( MM_NNU )_) 
+an_AT1 important_JJ consideration_NN1 in_II its_APPGE design_NN1 ._. 
+To_TO deal_VVI with_IW the_AT MM_NNU problem_NN1 ,_, this_DD1 paper_NN1 
+proposes_VVZ a_AT1 disturbance_NN1 rejection_NN1 control_NN1 architecture_NN1 
+based_VVN on_II the_AT linear_JJ extended_JJ state_NN1 observer_NN1 (_( 
+LESO_NP1 )_) and_CC the_AT linear_JJ quadratic_JJ regulator_NN1 (_( LQR_NP1 
+)_) method_NN1 ._. 
+LESO_NP1 is_VBZ designed_VVN to_TO estimate_VVI the_AT variant_NN1 
+disturbance_NN1 of_IO the_AT space_NN1 station_NN1 ._. 
+A_AT1 special_JJ compensation_NN1 strategy_NN1 on_II each_DD1 axis_NN1 is_VBZ 
+proposed_VVN based_VVN on_II the_AT working_JJ mechanism_NN1 of_IO the_AT 
+disturbance_NN1 ._. 
+The_AT designed_JJ LESO_NN1 and_CC the_AT closed-loop_JJ system_NN1 are_VBR 
+proved_VVN to_TO be_VBI stable_JJ ._. 
+Simulation_NN1 results_NN2 show_VV0 that_CST ,_, by_II rejecting_VVG the_AT 
+strong_JJ and_CC abrupt_JJ disturbance_NN1 with_IW higher-order_JJ cyclic_JJ 
+terms_NN2 ,_, the_AT proposed_JJ control_NN1 scheme_NN1 can_VM achieve_VVI 
+desirable_JJ control_NN1 accuracy_NN1 ._. 

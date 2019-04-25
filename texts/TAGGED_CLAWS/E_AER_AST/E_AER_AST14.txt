@@ -1,0 +1,23 @@
+Distributed_VVN collision-free_JJ trajectories_NN2 are_VBR generally_RR 
+obtained_VVN through_II a_AT1 continuous_JJ sharing_NN1 of_IO information_NN1 
+between_II vehicles_NN2 ._. 
+With_IW the_AT intent_NN1 of_IO investigating_VVG possible_JJ sources_NN2 
+of_IO vulnerability_NN1 in_II autonomous_JJ frameworks_NN2 ,_, we_PPIS2 
+formalize_VV0 a_AT1 procedure_NN1 malicious_JJ players_NN2 can_VM follow_VVI 
+to_TO influence_VVI other_JJ ._. 
+In_II this_DD1 paper_NN1 we_PPIS2 propose_VV0 a_AT1 strategy_NN1 for_IF 
+steering_VVG a_AT1 UAV_NN1 towards_II predetermined_JJ targets_NN2 ._. 
+The_AT strategy_NN1 described_VVN here_RL relies_VVZ on_II the_AT 
+existence_NN1 of_IO a_AT1 flight_NN1 information_NN1 sharing_VVG protocol_NN1 
+(_( i.e._REX ADS-B_NP1 )_) and_CC predictable_JJ collision_NN1 avoidance_NN1 
+algorithms_NN2 ._. 
+A_AT1 model_NN1 predictive_JJ controller_NN1 is_VBZ applied_VVN to_II the_AT 
+switching_JJ system_NN1 representing_VVG a_AT1 pair_NN of_IO UAVs_NP2 
+coupled_VVD by_II the_AT presence_NN1 of_IO an_AT1 imminent_JJ collision_NN1 
+._. 
+As_CSA showed_VVN by_II31 means_II32 of_II33 numerical_JJ simulations_NN2 
+and_CC robot_NN1 experiments_NN2 ,_, the_AT result_NN1 is_VBZ a_AT1 loss_NN1 
+of_IO autonomy_NN1 on_II the_AT UAV_NN1 ._. 
+Our_APPGE results_NN2 suggest_VV0 the_AT need_NN1 to_TO include_VVI the_AT 
+subject_NN1 of_IO our_APPGE study_NN1 in_II the_AT discussion_NN1 on_II 
+safe_JJ automated_JJ airspace_NN1 ._. 

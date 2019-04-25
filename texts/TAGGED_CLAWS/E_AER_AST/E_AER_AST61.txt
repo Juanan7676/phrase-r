@@ -1,0 +1,23 @@
+Time_NNT1 Limited_JJ Dispatch_NN1 (_( TLD_NP1 )_) allows_VVZ a_AT1 degraded_JJ 
+redundant_JJ system_NN1 to_TO operate_VVI for_IF a_AT1 limited_JJ length_NN1 
+of_IO time_NNT1 before_CS repairs_NN2 are_VBR required_VVN ._. 
+Existing_JJ TLD_NP1 analysis_NN1 methods_NN2 do_VD0 not_XX consider_VVI the_AT 
+requirement_NN1 of_IO dispatch_NN1 reliability_NN1 as_II a_AT1 constraint_NN1 
+,_, thus_RR unacceptable_JJ flight_NN1 delays_NN2 or_CC cancellations_NN2 
+may_VM occur_VVI when_RRQ aircraft_NN are_VBR dispatched_VVN following_II 
+the_AT intervals_NN2 determined_VVN by_II existing_JJ methods_NN2 ._. 
+In_II this_DD1 paper_NN1 ,_, an_AT1 improved_JJ TLD_NP1 analysis_NN1 
+method_NN1 with_IW constraints_NN2 of_IO both_DB2 dispatch_VV0 reliability_NN1 
+and_CC average_JJ safety_NN1 levels_NN2 is_VBZ proposed_VVN for_IF 
+Electronic_JJ Engine_NN1 Control_NN1 System_NN1 (_( EECS_NP2 )_) based_VVN 
+on_II Monte_NP1 Carlo_NP1 simulation_NN1 ._. 
+Dispatch_VV0 strategies_NN2 for_IF multiple_JJ fault_NN1 TLD_NP1 models_NN2 
+are_VBR presented_VVN ,_, maintenance_NN1 strategies_NN2 for_IF multiple_JJ 
+fault_NN1 TLD_NP1 models_NN2 are_VBR discussed_VVN ,_, and_CC a_AT1 step_NN1 
+by_II step_NN1 procedure_NN1 of_IO Monte_NP1 Carlo_NP1 simulation_NN1 
+based_VVD TLD_NP1 analysis_NN1 is_VBZ proposed_VVN ._. 
+Finally_RR ,_, a_AT1 case_NN1 study_NN1 illustrates_VVZ the_AT 
+effectiveness_NN1 of_IO the_AT proposed_JJ method_NN1 ,_, and_CC a_AT1 TLD_NP1 
+analysis_NN1 of_IO an_AT1 EECS_NP2 is_VBZ given_VVN to_TO show_VVI the_AT 
+application_NN1 of_IO our_APPGE method_NN1 to_II a_AT1 practical_JJ system_NN1 
+._. 

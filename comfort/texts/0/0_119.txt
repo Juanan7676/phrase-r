@@ -1,0 +1,47 @@
+Due_II the_AT fact_NN1 that_CST aircraft_NN structures_NN2 work_VV0 in_II 
+an_AT1 environment_NN1 with_IW lots_PN of_IO dynamic_JJ forces_NN2 ,_, it_PPH1 
+is_VBZ of_IO vital_JJ importance_NN1 to_TO perform_VVI a_AT1 dynamic_JJ 
+analysis_NN1 to_TO understand_VVI dynamic_JJ characteristics_NN2 of_IO 
+aircraft_NN in_II that_DD1 specific_JJ environment_NN1 ._. 
+These_DD2 characteristics_NN2 are_VBR usually_RR obtained_VVN using_VVG 
+numerical_JJ methods_NN2 (_( finite_JJ element_NN1 analysis_NN1 )_) or_CC 
+experimental_JJ methods_NN2 (_( classical_JJ modal_JJ analysis_NN1 )_) ._. 
+In_II classical_JJ modal_JJ analysis_NN1 ,_, quality_NN1 of_IO test_NN1 
+equipment_NN1 plays_VVZ a_AT1 critical_JJ role_NN1 in_II final_JJ results_NN2 
+'_GE accuracy_NN1 and_CC completeness_NN1 ._. 
+There_EX is_VBZ another_DD1 important_JJ factor_NN1 which_DDQ is_VBZ 
+expertise_NN1 of_IO a_AT1 test_NN1 engineer_NN1 ._. 
+Test_VV0 engineer_NN1 uses_VVZ his/her_APPGE experience_NN1 to_TO find_VVI 
+sufficient/optimum_JJ numbers_NN2 ,_, types_NN2 and_CC locations_NN2 of_IO 
+transducers_NN2 ._. 
+This_DD1 process_NN1 sometimes_RT would_VM be_VBI time_NNT1 consuming_VVG 
+and_CC exhausting_VVG which_DDQ results_VVZ in_II degradation_NN1 of_IO 
+test_NN1 results_NN2 quality_NN1 ._. 
+In_II this_DD1 paper_NN1 an_AT1 algorithm_NN1 is_VBZ developed_VVN and_CC 
+implemented_VVN to_TO find_VVI numbers_NN2 ,_, types_NN2 and_CC locations_NN2 
+of_IO transducers_NN2 in_II a_AT1 modal_JJ test_NN1 which_DDQ will_VM make_VVI 
+results_NN2 of_IO test_NN1 more_RGR reliable_JJ ._. 
+In_II this_DD1 study_NN1 ,_, an_AT1 unmanned_JJ aerial_NN1 vehicle_NN1 
+used_VVD as_RG dummy_JJ structure_NN1 to_TO test_VVI functionality_NN1 of_IO 
+developed_JJ algorithm_NN1 ._. 
+This_DD1 algorithm_NN1 utilized_VVD two_MC toolboxes_NN2 from_II MATLAB_NP1 
+(_( multi-objective_JJ genetic_JJ algorithm_NN1 toolbox_NN1 and_CC parallel_JJ 
+computing_NN1 toolbox_NN1 )_) and_CC MSC_NP1 NASTRAN_NP1 finite_JJ element_NN1 
+solver_NN1 ._. 
+A_AT1 genetic_JJ algorithm_NN1 based_VVN optimization_NN1 is_VBZ performed_VVN 
+in_II which_DDQ MSC_NP1 NASTRAN_NP1 was_VBDZ used_VVN to_TO calculate_VVI 
+dynamic_JJ characteristics_NN2 of_IO UAV_NP1 wing_NN1 ._. 
+Since_CS this_DD1 was_VBDZ a_AT1 time_NNT1 and_CC resource_VV0 consuming_VVG 
+process_VV0 a_AT1 parallel_JJ computing_NN1 cluster_NN1 is_VBZ also_RR 
+utilized_VVN which_DDQ decreased_VVD run_NN1 times_NNT2 at_RR21 least_RR22 
+fourfold_JJ ._. 
+In_II algorithm_NN1 it_PPH1 was_VBDZ tried_VVN to_TO find_VVI optimum_JJ 
+numbers_NN2 ,_, types_NN2 and_CC locations_NN2 of_IO transducers_NN2 which_DDQ 
+will_VM result_VVI in_II minimum_JJ cost_NN1 and_CC error_NN1 in_II test_NN1 
+results_NN2 ._. 
+Error_NN1 was_VBDZ defined_VVN as_II a_AT1 summation_NN1 of_IO mode_NN1 
+shape_NN1 observability_NN1 error_NN1 ,_, mass_JJ loading_NN1 error_NN1 and_CC 
+optimum_JJ driving_JJ point_NN1 error_NN1 ._. 
+At_II the_AT end_NN1 of_IO study_NN1 optimization_NN1 results_NN2 are_VBR 
+presented_VVN and_CC validated_VVN by_II classical_JJ modal_JJ analysis_NN1 
+._. 

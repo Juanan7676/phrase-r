@@ -1,0 +1,26 @@
+Experiments_NN2 of_IO equivalence_NN1 ratio_NN1 linear_JJ increasing_JJ 
+are_VBR utilized_VVN to_TO employ_VVI to_TO investigate_VVI the_AT 
+characteristics_NN2 of_IO combustion_NN1 mode_NN1 transition_NN1 ._. 
+For_IF the_AT experiments_NN2 with_IW kerosene_NN1 of_IO different_JJ 
+increasing_JJ slope_NN1 ,_, it_PPH1 is_VBZ found_VVN that_CST the_AT fuel_NN1 
+equivalence_NN1 ratio_NN1 has_VHZ a_AT1 significant_JJ impact_NN1 on_II 
+pressure_NN1 rising_VVG slope_NN1 variation_NN1 during_II combustion_NN1 
+mode_NN1 transition_NN1 ._. 
+In_II the_AT experiments_NN2 ,_, the_AT big_JJ equivalence_NN1 ratio_NN1 
+slope_NN1 would_VM not_XX lead_VVI to_TO slope_VVI variation_NN1 of_IO 
+pressure_NN1 rising_VVG ._. 
+Similarly_RR ,_, this_DD1 phenomenon_NN1 also_RR could_VM not_XX occur_VVI 
+under_II some_DD high_JJ Mach_NNU number_NN1 of_IO incoming_JJ flow_NN1 
+experiments_NN2 ._. 
+Different_JJ equivalence_NN1 ratio_NN1 slope_NN1 would_VM lead_VVI to_II 
+different_JJ border_NN1 shape_NN1 of_IO the_AT boundary_NN1 layer_NN1 ._. 
+And_CC the_AT border_NN1 shape_NN1 of_IO the_AT boundary_NN1 layer_NN1 and_CC 
+normal_JJ shock_NN1 wave_NN1 at_II thermal_JJ throat_NN1 restrains_VVZ the_AT 
+main_JJ flow_NN1 is_VBZ an_AT1 important_JJ factor_NN1 to_TO alter_VVI the_AT 
+pressure_NN1 ._. 
+Gas_NN1 dynamics_NN analysis_NN1 is_VBZ employed_VVN to_TO explain_VVI the_AT 
+effect_NN1 of_IO the_AT boundary_NN1 layer_NN1 on_II the_AT pressure_NN1 
+rising_VVG slope_NN1 variation_NN1 ._. 
+Further_RRR ,_, the_AT analysis_NN1 also_RR reasonably_RR explains_VVZ 
+that_CST incoming_JJ flow_NN1 Mach_NNU number_NN1 impacts_NN2 on_II 
+pressure_NN1 rising_VVG slope_NN1 variation_NN1 ._. 

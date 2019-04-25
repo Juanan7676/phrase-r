@@ -1,0 +1,34 @@
+Numerical_JJ simulation_NN1 was_VBDZ performed_VVN to_TO study_VVI the_AT 
+flow_NN1 characteristics_NN2 of_IO advanced_JJ vortex_NN1 combustor_NN1 (_( 
+AVC_NP1 )_) with_IW guide_NN1 vanes_NN2 and_CC slots_NN2 for_IF aircraft_NN 
+engine_NN1 ._. 
+The_AT results_NN2 show_VV0 that_CST structural_JJ parameters_NN2 of_IO 
+guide_NN1 vane_NN1 have_VH0 significant_JJ effects_NN2 on_II AVC_NP1 ,_, 
+when_RRQ ,_, a/B=0.4_FU ,_, b/H=0.4_FU ,_, c/L=0.1_FU it_PPH1 can_VM 
+obtain_VVI desirable_JJ dual-vortex_JJ structure_NN1 ,_, acceptable_JJ 
+pressure_NN1 loss_NN1 and_CC better_JJR combustion_NN1 efficiency_NN1 ._. 
+AVC_NP1 with_IW guide_NN1 vane_NN1 has_VHZ better_JJR performance_NN1 than_CSN 
+AVC_NN1 without_IW guide_NN1 vane_NN1 ._. 
+Five_MC slots_VVZ air_NN1 film_NN1 cooling_VVG are_VBR brought_VVN in_RP ,_, 
+the_AT effect_NN1 of_IO flow_NN1 injection_NN1 angle_NN1 (_( O=30_FO ,_, 60_MC 
+and_CC 90_MC )_) and_CC injection_NN1 ratio_NN1 (_( R=1.2_FO ,_, 1.5_MC ,_, 
+2.0_MC )_) on_II cooling_VVG performance_NN1 of_IO AVC_NP1 are_VBR 
+analyzed_VVN ._. 
+The_AT results_NN2 show_VV0 that_CST there_EX are_VBR 5_MC change_NN1 
+regions_NN2 for_IF each_DD1 cooling_JJ efficiency_NN1 under_II different_JJ 
+injection_NN1 conditions_NN2 ._. 
+The_AT variation_NN1 law_NN1 of_IO the_AT first_MD region_NN1 is_VBZ 
+different_JJ from_II the_AT four_MC region_NN1 behind_RL ._. 
+The_AT first_MD slot_NN1 air_NN1 mainly_RR mixes_VVZ with_IW the_AT main_JJ 
+flow_NN1 and_CC gets_VVZ involved_JJ in_II the_AT combustion_NN1 while_CS 
+the_AT four_MC region_NN1 behind_RL can_VM play_VVI a_AT1 good_JJ role_NN1 
+in_II cooling_VVG efficiency_NN1 ._. 
+Meanwhile_RR ,_, the_AT effects_NN2 ofandRon_NN1 flow_NN1 field_NN1 ,_, 
+temperature_NN1 field_NN1 ,_, total_JJ pressure_NN1 loss_NN1 ,_, 
+combustion_NN1 efficiency_NN1 ,_, outlet_NN1 temperature_NN1 distribution_NN1 
+factor_NN1 (_( OTDF_NP1 )_) and_CC the_AT average_NN1 cooling_VVG 
+efficiency_NN1 are_VBR presented_VVN ._. 
+Finally_RR ,_, the_AT film_NN1 cooling_VVG conclusions_NN2 are_VBR 
+explained_VVN by_II field_NN1 synergy_NN1 theory_NN1 ,_, and_CC results_NN2 
+show_VV0 that_CST it_PPH1 can_VM optimize_VVI the_AT wall_NN1 cooling_VVG 
+effectiveness_NN1 by_II field_NN1 synergy_NN1 theory_NN1 ._. 

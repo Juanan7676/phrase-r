@@ -1,0 +1,38 @@
+A_AT1 turboprop_NN1 transport_NN1 Flight_NN1 Data_NN Recorder_NN1 data_NN 
+indicates_VVZ that_CST attempt_VV0 to_TO recover_VVI from_II the_AT stalled_JJ 
+conditions_NN2 has_VHZ failed_VVN ,_, even_CS21 though_CS22 the_AT pitch_NN1 
+angle_NN1 is_VBZ continuously_RR pushed_VVN nose-down_NN1 in_II31 
+accordance_II32 with_II33 the_AT published_JJ stall-recovery_JJ technique_NN1 
+._. 
+The_AT present_JJ study_NN1 is_VBZ to_TO examine_VVI the_AT reasons_NN2 for_IF 
+the_AT angle_NN1 of_IO attack_NN1 being_VBG increased_VVN in_II the_AT 
+first_MD place_NN1 and_CC not_XX being_VBG reduced_VVN after_II stall_NN1 ,_, 
+even_CS21 though_CS22 the_AT longitudinal_JJ control_NN1 is_VBZ set_VVN to_II 
+nose-down_NN1 ._. 
+Fuzzy_JJ Logic_NN1 models_NN2 are_VBR used_VVN to_TO preserve_VVI nonlinear_JJ 
+and_CC unsteady_JJ aerodynamic_JJ effects_NN2 ._. 
+It_PPH1 is_VBZ found_VVN that_CST the_AT increasing_JJ angle_NN1 of_IO 
+attack_NN1 is_VBZ initially_RR caused_VVN by_II the_AT nose-up_NN1 
+pitching_VVG moment_NN1 due_II21 to_II22 inertial_JJ coupling_NN1 ._. 
+In_II the_AT subsequent_JJ nose-down_JJ control_NN1 attempt_NN1 for_IF 
+stall_NN1 recovery_NN1 ,_, the_AT stall_NN1 angles_NN2 of_IO attack_NN1 
+are_VBR still_RR increasingly_RR higher_JJR because_CS the_AT pitch_NN1 
+rate_NN1 relative_II21 to_II22 the_AT rotating_JJ axes_NN2 stays_VVZ mostly_RR 
+positive_JJ ._. 
+The_AT present_JJ simulation_NN1 study_NN1 is_VBZ based_VVN on_II a_AT1 new_JJ 
+method_NN1 to_TO be_VBI called_VVN SFuzzy-Logic_NP1 Dynamic_JJ Inversion_NN1 
+,_, where_CS desired_JJ dynamics_NN with_IW reduced_JJ Euler_NN1 angles_NN2 
+and_CC angular_JJ rates_NN2 are_VBR specified_VVN ;_; while_CS the_AT 
+required_JJ control_NN1 inputs_NN2 in_II elevator_NN1 ,_, aileron_NN1 and_CC 
+rudder_NN1 are_VBR determined_VVN ,_, all_DB through_II Fuzzy_JJ Logic_NN1 
+models_NN2 ._. 
+Results_NN2 in_II elevator_NN1 ,_, aileron_NN1 and_CC rudder_VV0 controls_NN2 
+are_VBR illustrated_VVN to_TO demonstrate_VVI the_AT possibility_NN1 of_IO 
+stall_NN1 recovery_NN1 and_CC accident_NN1 prevention_NN1 ._. 
+It_PPH1 is_VBZ shown_VVN that_CST if_CS at_II the_AT first_MD sign_NN1 of_IO 
+stall_NN1 in_II icing_NN1 and_CC crosswind_VV0 flight_NN1 conditions_NN2 ,_, 
+and_CC the_AT landing_NN1 is_VBZ aborted_VVN ,_, stall_VV0 recovery_NN1 is_VBZ 
+possible_JJ by_II applying_VVG proper_JJ control_NN1 inputs_NN2 
+simultaneously_RR about_RG three_MC control_NN1 axes_NN2 to_TO reduce_VVI 
+the_AT moments_NN2 of_IO inertial_JJ coupling_NN1 and_CC the_AT roll_NN1 
+and_CC pitch_NN1 angles_NN2 ._. 

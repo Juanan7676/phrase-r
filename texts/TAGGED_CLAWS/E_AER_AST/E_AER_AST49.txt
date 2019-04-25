@@ -1,0 +1,17 @@
+In_II this_DD1 paper_NN1 ,_, the_AT current_JJ state_NN1 of_IO the_AT art_NN1 
+of_IO aircraft_NN wing_VV0 mass_JJ estimation_NN1 methods_NN2 is_VBZ 
+reviewed_VVN ._. 
+The_AT phases_NN2 of_IO aircraft_NN design_NN1 and_CC the_AT development_NN1 
+process_NN1 are_VBR discussed_VVN ._. 
+The_AT open_JJ literature_NN1 on_II the_AT subject_NN1 of_IO wing_NN1 mass_NN1 
+estimation_NN1 methods_NN2 and_CC their_APPGE applications_NN2 in_II the_AT 
+aerospace_NN1 industry_NN1 is_VBZ discussed_VVN ,_, and_CC relevant_JJ data_NN 
+are_VBR presented_VVN to_TO provide_VVI the_AT reader_NN1 with_IW 
+background_NN1 information_NN1 on_II the_AT field_NN1 ._. 
+Special_JJ attention_NN1 is_VBZ given_VVN to_II classifications_NN2 of_IO 
+wing_NN1 mass_NN1 estimation_NN1 methods_NN2 ._. 
+Current_JJ challenges_NN2 and_CC technological_JJ difficulties_NN2 in_II 
+wing_NN1 mass_NN1 estimation_NN1 methods_NN2 are_VBR identified_VVN ,_, and_CC 
+perspectives_NN2 are_VBR drawn_VVN and_CC used_VVN to_TO propose_VVI 
+several_DA2 key_JJ ideas_NN2 for_IF future_JJ research_NN1 in_II the_AT 
+field_NN1 ._. 

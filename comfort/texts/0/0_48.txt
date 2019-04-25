@@ -1,0 +1,12 @@
+This_DD1 paper_NN1 presents_VVZ a_AT1 unified_JJ framework_NN1 for_IF 
+addressing_VVG the_AT stability_NN1 analysis_NN1 of_IO the_AT hovering_JJ 
+condition_NN1 for_IF a_AT1 multirotor_NN1 vehicle_NN1 ._. 
+By_II linearization_NN1 about_II a_AT1 trim_JJ condition_NN1 ,_, a_AT1 
+decoupled_JJ model_NN1 made_VVN of_IO four_MC dynamic_JJ modes_NN2 is_VBZ 
+derived_VVN ._. 
+A_AT1 set_NN1 of_IO stability_NN1 derivatives_NN2 is_VBZ obtained_VVN and_CC 
+the_AT effect_NN1 on_II natural_JJ dynamic_JJ stability_NN1 of_IO design_NN1 
+parameters_NN2 such_II21 as_II22 arm_NN1 dihedral_NN1 and_CC rotor_NN1 
+tilt_NN1 angles_NN2 is_VBZ analyzed_VVN ._. 
+A_AT1 numerical_JJ test_NN1 case_NN1 is_VBZ finally_RR discussed_VVN in_II31 
+support_II32 of_II33 the_AT proposed_JJ approach_NN1 ._. 

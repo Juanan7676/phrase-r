@@ -1,0 +1,27 @@
+The_AT algorithm_NN1 used_VVN for_IF terrain-aided_JJ navigation_NN1 (_( 
+TAN_NN1 )_) is_VBZ crucial_JJ for_IF high_JJ performance_NN1 of_IO such_DA 
+a_AT1 totally_RR autonomous_JJ and_CC long-duration_JJ underwater_JJ 
+vehicle_NN1 navigation_NN1 technique_NN1 ._. 
+This_DD1 paper_NN1 presents_VVZ results_NN2 of_IO an_AT1 investigation_NN1 
+into_II the_AT matching_JJ errors_NN2 of_IO the_AT revised_JJ iterative_JJ 
+closest_JJT contour_NN1 point_NN1 (_( ICCP_NP1 )_) algorithm_NN1 for_IF 
+underwater_JJ TAN_NN1 ._. 
+In_RR21 particular_RR22 the_AT quantitative_JJ relationship_NN1 of_IO the_AT 
+matching_JJ errors_NN2 with_IW terrain_NN1 features_NN2 is_VBZ studied_VVN 
+in_II this_DD1 paper_NN1 ._. 
+Among_II 10_MC terrain_NN1 factors_NN2 ,_, 6_MC of_IO them_PPHO2 have_VH0 
+been_VBN shown_VVN to_TO have_VHI the_AT most_RRT influence_VV0 on_II the_AT 
+accuracy_NN1 of_IO the_AT revised_JJ ICCP_NN1 algorithm_NN1 ._. 
+Three_MC statistical_JJ methods_NN2 ,_, including_II multiple_JJ 
+regression_NN1 ,_, logistic_JJ regression_NN1 ,_, and_CC discriminant_JJ 
+analysis_NN1 ,_, are_VBR applied_VVN to_TO mathematically_RR derive_VVI the_AT 
+different_JJ relationships_NN2 between_II the_AT terrain_NN1 factors_NN2 
+and_CC the_AT matching_JJ errors_NN2 ._. 
+Each_DD1 formula_NN1 uses_VVZ no_AT more_DAR than_CSN three_MC terrain_NN1 
+factors_NN2 to_TO fit_VVI the_AT matching_JJ errors_NN2 ._. 
+This_DD1 paper_NN1 also_RR studies_VVZ the_AT effect_NN1 of_IO other_JJ 
+factors_NN2 ,_, including_II the_AT initial_JJ error_NN1 of_IO the_AT 
+inertial_JJ navigation_NN1 system_NN1 (_( INS_NNU2 )_) ,_, the_AT INS_NNU2 
+accuracy_NN1 ,_, the_AT map_NN1 resolution_NN1 ,_, the_AT vehicle_NN1 
+speed_NN1 ,_, the_AT matching_JJ path_NN1 length_NN1 ,_, and_CC the_AT 
+sonar_NN1 accuracy_NN1 ,_, on_II the_AT matching_JJ errors_NN2 ._. 

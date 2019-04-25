@@ -1,0 +1,27 @@
+The_AT problem_NN1 of_IO finding_VVG an_AT1 optimal_JJ solar-sail_JJ 
+trajectory_NN1 must_VM be_VBI solved_VVN by_II31 means_II32 of_II33 
+numerical_JJ methods_NN2 ,_, since_CS no_AT analytical_JJ ,_, closed-form_JJ 
+solutions_NN2 exist_VV0 ._. 
+A_AT1 new_JJ tool_NN1 named_VVD ATOSS_NP1 (_( Automated_JJ Trajectory_NN1 
+Optimizer_NN1 for_IF Solar_JJ Sailing_NN1 )_) has_VHZ been_VBN developed_VVN 
+for_IF optimizing_VVG multi-phase_JJ solar-sail_JJ trajectories_NN2 ._. 
+A_AT1 shape-based_JJ method_NN1 for_IF solar_JJ sailing_NN1 and_CC a_AT1 
+two-stage_JJ approach_NN1 for_IF the_AT optimization_NN1 are_VBR the_AT 
+keys_NN2 to_II the_AT success_NN1 of_IO ATOSS_NP1 ,_, which_DDQ operates_VVZ 
+with_IW minimum_JJ inputs_NN2 required_VVN to_II the_AT user_NN1 ._. 
+Once_CS the_AT initial_JJ guess_NN1 is_VBZ generated_VVN by_II31 means_II32 
+of_II33 the_AT shape-based_JJ method_NN1 ,_, the_AT above_JJ mentioned_VVD 
+two-stage_JJ approach_NN1 works_VVZ as_CSA follows_VVZ ._. 
+First_MD ,_, a_AT1 solution_NN1 to_II the_AT optimal_JJ control_NN1 
+problem_NN1 at_II hand_NN1 is_VBZ sought_VVN ;_; subsequently_RR ,_, the_AT 
+boundaries_NN2 on_II the_AT times_NNT2 are_VBR modified_VVN so_CS21 that_CS22 
+a_AT1 better_JJR solution_NN1 ,_, in_II31 terms_II32 of_II33 total_JJ 
+mission_NN1 duration_NN1 ,_, is_VBZ searched_VVN ._. 
+Several_DA2 numerical_JJ test_NN1 cases_NN2 are_VBR presented_VVN to_TO 
+demonstrate_VVI ATOSS_NP1 '_GE ability_NN1 to_TO automatically_RR find_VVI 
+optimal_JJ solar-sail_JJ trajectories_NN2 for_IF single-_NN1 and_CC 
+multi-phase_JJ optimization_NN1 problems_NN2 ._. 
+Moreover_RR ,_, the_AT shape-based_JJ method_NN1 for_IF solar_JJ sailing_NN1 
+has_VHZ been_VBN validated_VVN as_II a_AT1 viable_JJ method_NN1 to_TO 
+produce_VVI initial_JJ guess_NN1 solutions_NN2 for_IF a_AT1 direct_JJ 
+optimization_NN1 algorithm_NN1 ._. 

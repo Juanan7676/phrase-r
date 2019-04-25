@@ -1,0 +1,26 @@
+The_AT present_JJ study_NN1 focused_VVN on_II experimental_JJ studies_NN2 
+on_II the_AT hydrogen_NN1 peroxide_NN1 film-cooling_NN1 method_NN1 for_IF 
+a_AT1 500_MC N_NNU scale_NN1 nontoxic_JJ hypergolic_JJ thruster_NN1 ._. 
+The_AT nontoxic_JJ hypergolic_JJ fuel_NN1 used_VVD was_VBDZ Stock_NP1 3_MC 
+and_CC the_AT main_JJ oxidizer_NN1 was_VBDZ 95%_NNU high-test_JJ peroxide_NN1 
+(_( HTP_NP1 )_) ._. 
+Two_MC different_JJ liquid_JJ film_NN1 coolants_NN2 ,_, water_NN1 and_CC 
+95%_NNU HTP_NP1 ,_, were_VBDR tested_VVN to_TO qualitatively_RR analyze_VVI 
+the_AT effects_NN2 of_IO the_AT thermal_JJ decomposition_NN1 of_IO 
+hydrogen_NN1 peroxide_NN1 on_II film-cooling_JJ performance_NN1 ._. 
+The_AT results_NN2 of_IO the_AT film-cooling_JJ performance_NN1 tests_NN2 
+were_VBDR examined_VVN from_II three_MC different_JJ perspectives_NN2 :_: 
+propulsive_JJ performance_NN1 analysis_NN1 ,_, film-cooling_JJ performance_NN1 
+analysis_NN1 ,_, and_CC gaseous_JJ film-cooling_JJ analysis_NN1 ._. 
+The_AT thermal_JJ decomposition_NN1 process_NN1 of_IO the_AT hydrogen_NN1 
+peroxide_NN1 film_NN1 coolant_NN1 contributed_VVN to_II alleviating_VVG the_AT 
+loss_NN1 in_II propulsive_JJ performance_NN1 ,_, but_CCB degraded_VVD the_AT 
+film-cooling_JJ performance_NN1 ._. 
+Two_MC simple_JJ analytical_JJ approaches_NN2 ,_, the_AT inverse_JJ 
+problem_NN1 method_NN1 and_CC gaseous_JJ film-cooling_JJ method_NN1 ,_, 
+were_VBDR utilized_VVN to_TO predict_VVI the_AT interior_JJ surface_NN1 
+temperatures_NN2 of_IO the_AT chamber_NN1 ._. 
+The_AT Stineman_NN1 interpolation_NN1 method_NN1 was_VBDZ also_RR useful_JJ 
+in_II estimating_VVG the_AT temperature_NN1 profiles_NN2 of_IO the_AT 
+chamber_NN1 even_RR without_IW temperature_NN1 data_NN from_II the_AT area_NN1 
+downstream_RL of_IO the_AT nozzle_NN1 throat_NN1 ._. 

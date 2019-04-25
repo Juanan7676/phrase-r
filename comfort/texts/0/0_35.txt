@@ -1,0 +1,32 @@
+Modeling_VVG error_NN1 ,_, stochastic_JJ error_NN1 of_IO inertial_JJ 
+sensor_NN1 ,_, measurement_NN1 noise_NN1 and_CC environmental_JJ 
+disturbance_NN1 affect_VV0 the_AT accuracy_NN1 of_IO an_AT1 inertial_JJ 
+navigation_NN1 system_NN1 (_( INS_NNU2 )_) ._. 
+In_RR21 addition_RR22 ,_, some_DD unpredictable_JJ factors_NN2 ,_, such_II21 
+as_II22 system_NN1 fault_NN1 ,_, directly_RR affect_VV0 the_AT reliability_NN1 
+of_IO INSs_NN1 ._. 
+This_DD1 paper_NN1 proposes_VVZ a_AT1 new_JJ anti-disturbance_JJ fault_NN1 
+tolerant_JJ alignment_NN1 approach_NN1 for_IF a_AT1 class_NN1 of_IO INSs_NN1 
+subjected_VVN to_II multiple_JJ disturbances_NN2 and_CC system_NN1 faults_NN2 
+._. 
+Based_VVN on_II modeling_NN1 and_CC error_NN1 analysis_NN1 ,_, stochastic_JJ 
+error_NN1 of_IO inertial_JJ sensor_NN1 ,_, measurement_NN1 noise_NN1 ,_, 
+modeling_VVG error_NN1 and_CC environmental_JJ disturbance_NN1 are_VBR 
+formulated_VVN into_II different_JJ types_NN2 of_IO disturbances_NN2 
+described_VVN by_II a_AT1 Markov_NP1 stochastic_JJ process_NN1 ,_, Gaussian_JJ 
+noise_NN1 and_CC a_AT1 norm-bounded_JJ variable_NN1 ,_, respectively_RR ._. 
+In_BCL21 order_BCL22 to_TO improve_VVI the_AT accuracy_NN1 and_CC 
+reliability_NN1 of_IO an_AT1 INS_NNU2 ,_, an_AT1 anti-disturbance_JJ fault_NN1 
+tolerant_JJ filter_NN1 is_VBZ designed_VVN ._. 
+Then_RT ,_, a_AT1 mixed_JJ dissipative/guarantee_FU cost_NN1 performance_NN1 
+is_VBZ applied_VVN to_TO attenuate_VVI the_AT norm-bounded_JJ disturbance_NN1 
+and_CC to_TO optimize_VVI the_AT estimation_NN1 error_NN1 ._. 
+Slack_JJ variables_NN2 and_CC dissipativeness_NN1 are_VBR introduced_VVN to_TO 
+reduce_VVI the_AT conservatism_NN1 of_IO the_AT proposed_JJ approach_NN1 ._. 
+Finally_RR ,_, compared_VVN with_IW the_AT unscented_JJ Kalman_NN1 filter_NN1 
+(_( UKF_NP1 )_) ,_, simulation_NN1 results_NN2 for_IF self-alignment_NN1 of_IO 
+an_AT1 INS_NNU2 are_VBR provided_VVN based_VVN on_II experimental_JJ data_NN 
+._. 
+It_PPH1 can_VM be_VBI shown_VVN that_CST the_AT proposed_JJ method_NN1 has_VHZ 
+an_AT1 enhanced_JJ disturbance_NN1 rejection_NN1 and_CC attenuation_NN1 
+performance_NN1 with_IW high_JJ reliability_NN1 ._. 

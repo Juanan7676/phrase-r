@@ -1,0 +1,32 @@
+In_II this_DD1 article_NN1 ,_, a_AT1 combination_NN1 of_IO backstepping_VVG 
+control_NN1 and_CC fast_RR terminal_JJ sliding_JJ mode_NN1 control_NN1 is_VBZ 
+considered_VVN for_IF controlling_VVG a_AT1 ducted_JJ fan_NN1 engine_NN1 of_IO 
+thrust-vectored_JJ aircraft_NN subject_II21 to_II22 parameter_NN1 
+uncertainties_NN2 and_CC external_JJ disturbances_NN2 ._. 
+To_TO increase_VVI the_AT speed_NN1 of_IO convergence_NN1 of_IO the_AT 
+system_NN1 states_VVZ to_II the_AT equilibrium_NN1 points_NN2 or_CC to_TO 
+decay_VVI state_NN1 errors_NN2 to_TO zero_VVI ,_, the_AT fast_JJ terminal_JJ 
+sliding_JJ mode_NN1 controller_NN1 is_VBZ used_VVN ._. 
+For_IF the_AT first_MD design_NN1 ,_, to_TO compensate_VVI for_IF 
+uncertainties_NN2 and_CC also_RR incoming_JJ disturbances_NN2 to_II the_AT 
+system_NN1 ,_, a_AT1 new_JJ backstepping_NN1 fast_RR terminal_JJ sliding_JJ 
+mode_NN1 control_NN1 (_( BFTSMC_NP1 )_) is_VBZ derived_VVN ._. 
+At_II the_AT second_MD design_NN1 ,_, to_TO estimate_VVI the_AT upper_JJ 
+bound_JJ value_NN1 of_IO the_AT lumped_JJ uncertainty_NN1 in_II the_AT 
+BFTSMC_NP1 ,_, an_AT1 adaptive_JJ rule_NN1 is_VBZ proposed_VVN ,_, and_CC 
+an_AT1 adaptive_JJ backstepping_NN1 fast_RR terminal_JJ sliding_JJ mode_NN1 
+controller_NN1 (_( ABFTSMC_NP1 )_) is_VBZ obtained_VVN ._. 
+The_AT asymptotic_JJ global_JJ stability_NN1 of_IO the_AT closed-loop_JJ 
+system_NN1 is_VBZ proved_VVN by_II Lyapunov_NP1 stability_NN1 theorem_NN1 ._. 
+Various_JJ scenarios_NN2 are_VBR considered_VVN ;_; then_RT ,_, the_AT 
+designed_JJ controllers_NN2 are_VBR compared_VVN with_IW traditional_JJ 
+sliding_JJ mode_NN1 controller_NN1 (_( SMC_NN1 )_) and_CC adaptive_JJ SMC_NN1 
+(_( ASMC_NP1 )_) in_II the_AT presence_NN1 of_IO external_JJ disturbances_NN2 
+._. 
+Simulation_NN1 results_NN2 show_VV0 that_CST the_AT proposed_JJ 
+controllers_NN2 can_VM have_VHI a_AT1 faster_JJR transient_JJ response_NN1 
+and_CC higher_JJR robustness_NN1 against_II different_JJ types_NN2 of_IO 
+disturbances_NN2 in_II31 comparison_II32 with_II33 SMC_NN1 and_CC ASMC_NP1 ._. 
+Some_DD advantages_NN2 of_IO the_AT proposed_JJ controllers_NN2 are_VBR 
+simplicity_NN1 in_II design_NN1 and_CC implementation_NN1 ,_, improving_VVG 
+closed-loop_JJ system_NN1 stability_NN1 and_CC better_JJR tracking_NN1 ._. 

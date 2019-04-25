@@ -1,0 +1,33 @@
+In_II structural_JJ reliability_NN1 analysis_NN1 ,_, sensitivity_NN1 
+analysis_NN1 can_VM be_VBI used_JJ to_II measure_NN1 how_RRQ the_AT input_NN1 
+variable_NN1 influences_VVZ the_AT failure_NN1 of_IO structure_NN1 ._. 
+In_II this_DD1 work_NN1 ,_, a_AT1 new_JJ reliability_NN1 sensitivity_NN1 
+analysis_NN1 method_NN1 is_VBZ proposed_VVN ._. 
+In_II the_AT proposed_JJ method_NN1 ,_, the_AT model_NN1 output_NN1 is_VBZ 
+separated_VVN into_II two_MC classes_NN2 (_( failure_NN1 domain_NN1 and_CC 
+safe_JJ domain_NN1 )_) ._. 
+The_AT basic_JJ idea_NN1 is_VBZ that_CST if_CS the_AT failure-conditional_JJ 
+probability_NN1 density_NN1 function_NN1 of_IO input_NN1 variable_NN1 is_VBZ 
+significantly_RR different_JJ from_II its_APPGE unconditional_JJ 
+probability_NN1 density_NN1 function_NN1 ,_, then_RT the_AT input_NN1 
+variable_NN1 is_VBZ sensitive_JJ to_II the_AT failure_NN1 of_IO structure_NN1 
+._. 
+The_AT proposed_JJ reliability_NN1 sensitivity_NN1 indices_NN2 contain_VV0 
+both_RR individual_JJ sensitivity_NN1 index_NN1 and_CC interaction_NN1 
+sensitivity_NN1 index_NN1 ._. 
+The_AT individual_JJ sensitivity_NN1 index_NN1 can_VM measure_VVI the_AT 
+individual_JJ effect_NN1 of_IO input_NN1 variable_NN1 on_II the_AT failure_NN1 
+of_IO structure_NN1 ._. 
+The_AT asymmetrical_JJ interaction_NN1 sensitivity_NN1 index_NN1 can_VM 
+measure_VVI how_RRQ one_MC1 input_NN1 variable_NN1 influences_VVZ the_AT 
+effect_NN1 of_IO another_DD1 input_NN1 variable_NN1 on_II the_AT failure_NN1 
+of_IO structure_NN1 ._. 
+Additionally_RR ,_, the_AT meanings_NN2 of_IO the_AT proposed_JJ 
+reliability_NN1 sensitivity_NN1 indices_NN2 are_VBR also_RR interpreted_VVN 
+explicitly_RR ,_, and_CC a_AT1 data-driven_JJ estimation_NN1 method_NN1 is_VBZ 
+also_RR proposed_VVN to_TO estimate_VVI the_AT proposed_JJ reliability_NN1 
+sensitivity_NN1 indices_NN2 ._. 
+Finally_RR ,_, a_AT1 numerical_JJ example_NN1 and_CC two_MC engineering_NN1 
+examples_NN2 are_VBR presented_VVN to_TO illustrate_VVI the_AT rationality_NN1 
+of_IO the_AT proposed_JJ sensitivity_NN1 indices_NN2 and_CC the_AT 
+feasibility_NN1 of_IO the_AT proposed_JJ estimation_NN1 method_NN1 ._. 

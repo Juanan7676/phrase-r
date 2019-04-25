@@ -1,0 +1,18 @@
+Automatic_JJ ship_NN1 reporting_NN1 systems_NN2 (_( AIS_NN2 Automatic_JJ 
+identification_NN1 System_NN1 ,_, LRIT_VV0 Long_JJ Range_NN1 
+Identification_NN1 and_CC Tracking_NN1 ,_, VMS_NP1 Vessel_NN1 Monitoring_NN1 
+System_NN1 )_) today_RT allow_VV0 global_JJ tracking_NN1 of_IO ships_NN2 ._. 
+One_MC1 way_NN1 to_TO display_VVI the_AT results_NN2 is_VBZ in_II a_AT1 
+map_NN1 of_IO current_JJ ship_NN1 positions_NN2 over_II an_AT1 area_NN1 of_IO 
+interest_NN1 ,_, the_AT Maritime_JJ Situational_JJ Picture_NN1 (_( MSP_NP1 )_) 
+._. 
+The_AT MSP_NP1 is_VBZ dynamic_JJ and_CC must_VM be_VBI created_VVN by_II 
+fusing_VVG the_AT reporting_NN1 systems_NN2 '_GE messages_NN2 ,_, 
+constructing_VVG ship_NN1 tracks_NN2 and_CC predicting_VVG ship_NN1 
+positions_NN2 to_TO correct_VVI for_IF latency_NN1 especially_RR in_II the_AT 
+case_NN1 of_IO AIS_NN2 received_VVN by_II satellite_NN1 which_DDQ forms_VVZ 
+the_AT bulk_NN1 of_IO the_AT data_NN ._. 
+This_DD1 paper_NN1 discusses_VVZ the_AT completeness_NN1 of_IO the_AT 
+resulting_JJ MSP_NP1 and_CC the_AT accuracy_NN1 of_IO its_APPGE positions_NN2 
+,_, quantifying_VVG the_AT additional_JJ value_NN1 of_IO the_AT individual_JJ 
+data_NN sources_NN2 ._. 

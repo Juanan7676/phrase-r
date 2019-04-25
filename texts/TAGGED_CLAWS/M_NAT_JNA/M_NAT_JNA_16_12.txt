@@ -1,0 +1,34 @@
+Developing_JJ adequate_JJ ship_NN1 domain_NN1 models_NN2 may_VM 
+significantly_RR benefit_VVI vessel_NN1 navigation_NN1 safety_NN1 ._. 
+In_II essence_NN1 ,_, navigation_NN1 safety_NN1 is_VBZ collectively_RR 
+affected_VVN by_II the_AT navigable_JJ waterway_NN1 condition_NN1 ,_, the_AT 
+size_NN1 and_CC shape_NN1 of_IO the_AT ship_NN1 ,_, and_CC operators_NN2 '_GE 
+skills_NN2 ._. 
+The_AT existing_JJ ship_NN1 domains_NN2 mainly_RR use_VV0 constant_JJ 
+values_NN2 for_IF the_AT model_NN1 input_NN1 parameters_NN2 ,_, making_VVG 
+them_PPHO2 incapable_JJ of_IO handling_VVG site-specific_JJ conditions_NN2 ._. 
+This_DD1 study_NN1 proposes_VVZ dynamic_JJ ship_NN1 domain_NN1 models_NN2 
+that_CST take_VV0 into_II consideration_NN1 navigable_JJ waterway_NN1 
+conditions_NN2 ,_, ship_NN1 behaviours_NN2 ,_, ship_NN1 types_NN2 and_CC 
+sizes_NN2 ,_, and_CC operators_NN2 '_GE skills_NN2 in_II a_AT1 holistic_JJ 
+manner_NN1 ._. 
+Specifically_RR ,_, the_AT conditions_NN2 of_IO restricted_JJ waterways_NN2 
+are_VBR classified_VVN into_II navigating_VVG along_II the_AT channel_NN1 ,_, 
+crossing_VVG the_AT channel_NN1 ,_, joining_VVG another_DD1 flow_NN1 and_CC 
+turning_NN1 ._. 
+The_AT ship_NN1 types_NN2 considered_VVN include_VV0 ships_NN2 that_CST 
+transport_VV0 non-hazardous_JJ goods_NN2 and_CC Liquid_JJ Natural_JJ Gas_NN1 
+(_( LNG_NP1 )_) ships_VVZ that_CST are_VBR in_II31 need_II32 of_II33 
+additional_JJ security_NN1 zones_NN2 ._. 
+A_AT1 computational_JJ experiment_NN1 is_VBZ conducted_VVN for_IF model_NN1 
+application_NN1 using_VVG data_NN on_II water_NN1 channel_NN1 design_NN1 
+and_CC ship_NN1 traffic_NN1 volumes_NN2 related_VVN to_II navigating_VVG 
+along_II the_AT channel_NN1 ,_, joining_VVG another_DD1 flow_NN1 and_CC 
+turning_NN1 ._. 
+Comparisons_NN2 of_IO results_NN2 obtained_VVN between_II the_AT proposed_JJ 
+dynamic_JJ models_NN2 with_IW real_JJ ship_NN1 traffic_NN1 counts_NN2 
+reveal_VV0 that_CST the_AT proposed_JJ models_NN2 could_VM achieve_VVI a_AT1 
+higher_JJR level_NN1 of_IO accuracy_NN1 in_II estimating_VVG the_AT 
+capacity_NN1 of_IO restricted_JJ water_NN1 channels_NN2 ._. 
+It_PPH1 therefore_RR could_VM potentially_RR deliver_VVI safety_NN1 
+enhancements_NN2 of_IO waterway_NN1 transportation_NN1 ._. 

@@ -1,0 +1,26 @@
+A_AT1 variable_JJ sweep_NN1 wing_NN1 UAV_NN1 is_VBZ developed_VVN 
+utilising_VVG off_II the_AT shelf_NN1 components_NN2 with_IW a_AT1 custom_NN1 
+mechanism_NN1 for_IF the_AT wing_NN1 box_NN1 ._. 
+The_AT movement_NN1 of_IO the_AT wing_NN1 sweep_NN1 in_II flight_NN1 
+enables_VVZ large_JJ pitching_NN1 moments_NN2 suitable_JJ for_IF 
+performing_VVG perching_JJ manoeuvres_NN2 ._. 
+Wind_NN1 tunnel_NN1 data_NN is_VBZ presented_VVN that_CST confirms_VVZ the_AT 
+favourable_JJ characteristics_NN2 expected_VVN from_II sweeping_VVG the_AT 
+wing_NN1 and_CC achieving_VVG high_JJ pitch_NN1 rates_NN2 ._. 
+Whilst_CS only_RR small_JJ sweep_NN1 changes_NN2 are_VBR required_VVN 
+during_II flight_NN1 ,_, the_AT design_NN1 allows_VVZ up_RP to30forward_FO 
+sweep_VV0 for_IF significant_JJ pitching_NN1 moments_NN2 during_II the_AT 
+flare_NN1 ._. 
+A_AT1 new_JJ collection_NN1 of_IO controllers_NN2 is_VBZ developed_VVN 
+based_VVN on_II observations_NN2 from_II similar_JJ landing_NN1 techniques_NN2 
+performed_VVN by_II birds_NN2 and_CC hang-gliders_NN2 onto_II flat_JJ 
+ground_NN1 ._. 
+The_AT three-stage_JJ landing_NN1 process_NN1 takes_VVZ the_AT aircraft_NN 
+along_II an_AT1 approach_NN1 path_NN1 ,_, through_II a_AT1 roundout_NN1 
+procedure_NN1 during_II which_DDQ airspeed_VV0 decays_NN2 and_CC concludes_VVZ 
+with_IW rapid_JJ pitch_NN1 up_RP ._. 
+Flight_NN1 test_NN1 results_NN2 are_VBR presented_VVN during_II which_DDQ 
+it_PPH1 is_VBZ found_VVN that_CST the_AT airspeed_NN1 can_VM be_VBI 
+reduced_VVN to_II ,_, on_II average_NN1 ,_, under3_FO m/sin_FU the_AT final_JJ 
+moments_NN2 before_II landing_VVG well_RR below_II the_AT stall_NN1 speed_NN1 
+of9_FO m/s_ZZ1 ._. 

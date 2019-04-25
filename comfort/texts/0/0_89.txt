@@ -1,0 +1,19 @@
+This_DD1 paper_NN1 copes_VVZ with_IW parameter-robust_JJ controller_NN1 
+design_NN1 for_IF transportation_NN1 system_NN1 by_II multiple_JJ unmanned_JJ 
+aerial_NN1 vehicles_NN2 ._. 
+The_AT transportation_NN1 is_VBZ designed_VVN in_II the_AT form_NN1 of_IO 
+string_NN1 connection_NN1 ._. 
+Minimal_JJ state-space_JJ realization_NN1 of_IO slung-load_JJ dynamics_NN 
+is_VBZ obtained_VVN by_II Newtonian_JJ approach_NN1 with_IW spherical_JJ 
+coordinates_NN2 ._. 
+Linear_JJ quadratic_JJ Gaussian_JJ /_FO loop_NN1 transfer_NN1 recovery_NN1 (_( 
+LQG/LTR_NP1 )_) is_VBZ implemented_VVN to_TO control_VVI the_AT position_NN1 
+and_CC attitude_NN1 of_IO all_DB the_AT vehicles_NN2 and_CC payloads_NN2 ._. 
+The_AT controller_NN1 's_GE robustness_NN1 against_II variation_NN1 of_IO 
+payload_NN1 mass_NN1 is_VBZ improved_VVN using_VVG parameter-robust_JJ 
+linear_JJ quadratic_JJ Gaussian_JJ (_( PRLQG_NP1 )_) method_NN1 ._. 
+Numerical_JJ simulations_NN2 are_VBR conducted_VVN with_IW several_DA2 
+transportation_NN1 cases_NN2 ._. 
+The_AT result_NN1 verifies_VVZ that_CST LQG/LTR_NP1 shows_VVZ fast_JJ 
+performance_NN1 while_CS PRLQG_NP1 has_VHZ its_APPGE strong_JJ point_NN1 in_II 
+robustness_NN1 against_II system_NN1 variation_NN1 ._. 

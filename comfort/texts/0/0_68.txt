@@ -1,0 +1,27 @@
+Dynamic_JJ stall_NN1 occurs_VVZ when_RRQ an_AT1 airfoil_NN1 is_VBZ in_II 
+unsteady_JJ motion_NN1 and_CC the_AT angle_NN1 of_IO attack_NN1 is_VBZ far_RR 
+beyond_II the_AT static-stall_JJ angle_NN1 ._. 
+In_II dynamic_JJ stall_NN1 ,_, lift_NN1 and_CC pitching_VVG moment_NN1 will_VM 
+fluctuate_VVI in_II a_AT1 wide_JJ range_NN1 ,_, and_CC the_AT performance_NN1 
+of_IO airfoil_NN1 will_VM get_VVI worse_JJR ._. 
+By_II using_VVG the_AT variable_JJ droop_NN1 leading-edge_NN1 (_( VDLE_NP1 )_) 
+,_, local_JJ angle_NN1 of_IO attack_NN1 near_II the_AT leading-edge_NN1 
+dynamically_RR decreases_VVZ when_RRQ the_AT overall_JJ angle_NN1 of_IO 
+attack_NN1 gets_VVZ too_RG large_JJ ,_, then_RT the_AT adverse_JJ pressure_NN1 
+gradient_NN1 can_VM be_VBI reduced_VVN ._. 
+As_II a_AT1 result_NN1 ,_, the_AT formation_NN1 of_IO leading-edge_JJ 
+vortex_NN1 will_VM be_VBI restricted_VVN ,_, as_II31 well_II32 as_II33 the_AT 
+flow_NN1 separation_NN1 and_CC dynamic_JJ stall_NN1 ._. 
+In_II this_DD1 paper_NN1 ,_, two_MC VDLE_NN1 modes_NN2 are_VBR proposed_VVN 
+and_CC a_AT1 series_NN of_IO investigations_NN2 are_VBR performed_VVN on_II 
+the_AT effect_NN1 of_IO different_JJ modes_NN2 and_CC parameters_NN2 on_II 
+dynamic_JJ stall_NN1 control_NN1 of_IO NACA_NP1 0012_MC airfoil_VV0 in_II 
+pitching_VVG oscillation_NN1 ._. 
+The_AT unsteady_JJ Reynolds-averaged_NN1 NavierStokes_VVZ equations_NN2 and_CC 
+Re0turbulence_FO model_NN1 are_VBR employed_VVN as_II the_AT governing_JJ 
+equations_NN2 ,_, and_CC the_AT shape_NN1 modification_NN1 is_VBZ realized_VVN 
+by_II the_AT DCP-RBF_JJ mesh_NN1 deformation_NN1 method_NN1 ._. 
+The_AT results_NN2 suggest_VV0 that_CST the_AT VDLE_NN1 modes_NN2 proposed_VVN 
+in_II this_DD1 paper_NN1 can_VM effectively_RR reduce_VVI the_AT dynamic_JJ 
+stall_NN1 and_CC significantly_RR improve_VV0 the_AT aerodynamic_JJ 
+characteristics_NN2 of_IO NACA_NP1 0012_MC airfoil_NN1 ._. 

@@ -1,0 +1,39 @@
+This_DD1 paper_NN1 reveals_VVZ that_DD1 air_NN1 injection_NN1 at_II tip_NN1 
+region_NN1 of_IO an_AT1 axial_JJ compressor_NN1 rotor_NN1 blade_NN1 row_NN1 
+is_VBZ an_AT1 effective_JJ technique_NN1 for_IF enhancing_VVG its_APPGE 
+aerodynamic_JJ performance_NN1 ._. 
+Method_NN1 of_IO investigation_NN1 is_VBZ based_VVN on_II solution_NN1 of_IO 
+the_AT NavierStokes_NP2 equations_NN2 exploiting_VVG shear_VV0 stress_NN1 
+transport_NN1 (_( SST_NP1 )_) k-wturbulence_JJ model_NN1 ._. 
+This_DD1 model_NN1 attempts_NN2 to_TO predict_VVI the_AT turbulence_NN1 by_II 
+two_MC partial_JJ differential_JJ equations_NN2 for_IF two_MC variables_NN2 
+of_IO turbulence_NN1 kinetic_JJ energy_NN1 (_( k_ZZ1 )_) and_CC specific_JJ 
+rate_NN1 of_IO dissipation_NN1 (_( 0_MC )_) ._. 
+Initially_RR ,_, computational_JJ performance_NN1 curves_NN2 of_IO the_AT 
+proposed_JJ rotor_NN1 blade_NN1 row_NN1 for_IF no-injection_JJ case_NN1 
+are_VBR compared_VVN with_IW available_JJ experimental_JJ data_NN ,_, 
+which_DDQ show_VV0 reasonable_JJ agreement_NN1 ._. 
+Then_RT ,_, effects_NN2 of_IO air_NN1 tip_NN1 injection_NN1 on_II flow_NN1 
+field_NN1 and_CC general_JJ aerodynamic_JJ performance_NN1 of_IO the_AT 
+rotor_NN1 blade_NN1 row_NN1 are_VBR studied_VVN in_II detail_NN1 ._. 
+Results_NN2 are_VBR presented_VVN in_II31 terms_II32 of_II33 the_AT blade_NN1 
+row_VV0 span-wise_JJ distributions_NN2 of_IO total_JJ pressure_NN1 rise_NN1 
+coefficient_NN1 and_CC diffusion_NN1 factor_NN1 for_IF no-injection_NN1 and_CC 
+injection_NN1 cases_NN2 ._. 
+Flow_NN1 patterns_NN2 at_II the_AT blade_NN1 row_NN1 tip_NN1 region_NN1 
+are_VBR also_RR carefully_RR demonstrated_VVN ._. 
+Six_MC pseudo_JJ static_JJ pressure_NN1 taps_NN2 were_VBDR mounted_VVN 
+along_II the_AT blade_NN1 chord_NN1 line_NN1 within_II the_AT blade_NN1 
+tip_NN1 gap_NN1 region_NN1 for_IF detection_NN1 of_IO the_AT flow_NN1 
+fluctuations_NN2 ._. 
+So_RR ,_, it_PPH1 was_VBDZ possible_JJ to_TO extract_VVI frequency_NN1 
+spectrum_NN1 of_IO the_AT fluctuating_JJ flow_NN1 in_II this_DD1 region_NN1 
+._. 
+Numerical_JJ simulations_NN2 confirmed_VVD that_DD1 injection_NN1 of_IO 
+air_NN1 flow_NN1 at_II the_AT blade_NN1 row_NN1 tip_NN1 region_NN1 boosts_VVZ 
+the_AT flow_NN1 momentum_NN1 and_CC reduces_VVZ blockages_NN2 due_II21 to_II22 
+the_AT flow_NN1 separation_NN1 from_II the_AT blades_NN2 surfaces_NN2 ._. 
+Results_NN2 showed_VVD that_DD1 air_NN1 injection_NN1 as_RG small_JJ as_CSA 
+of_IO only_JJ 0.5%_FO of_IO the_AT whole_JJ annulus_NN1 mass_NN1 flow_NN1 
+rate_NN1 causes_VVZ the_AT stall_NN1 margin_NN1 of_IO the_AT rotor_NN1 
+blade_NN1 row_NN1 to_TO increase_VVI by_II 15.5%_FO ._. 

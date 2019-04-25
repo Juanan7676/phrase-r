@@ -1,0 +1,19 @@
+Container_NN1 terminal_NN1 yards_NN2 operate_VV0 under_II a_AT1 high_JJ 
+degree_NN1 of_IO uncertainty_NN1 as_II the_AT contact_NN1 point_NN1 between_II 
+inbound_NN1 and_CC outbound_VV0 operations_NN2 of_IO vessels_NN2 and_CC 
+external_JJ trucks_NN2 ._. 
+The_AT layout_NN1 ,_, equipment_NN1 operations_NN2 ._. 
+and_CC job_NN1 orders_NN2 at_II the_AT yards_NN2 determine_VV0 the_AT 
+efficacy_NN1 and_CC delays_NN2 of_IO the_AT work_NN1 ,_, so_RG many_DA2 
+studies_NN2 have_VH0 investigated_VVN improvements_NN2 in_II efficiency_NN1 
+._. 
+H_ZZ1 company_NN1 ,_, a_AT1 container_NN1 terminal_NN1 operator_NN1 
+developed_VVD an_AT1 index_NN1 called_VVN WDI_NP1 to_TO distribute_VVI 
+work_NN1 among_II RTGCs_NP1 ._. 
+The_AT WDI_NP1 is_VBZ an_AT1 indicator_NN1 to_TO prevent_VVI congestion_NN1 
+in_II one_MC1 place_NN1 by_II equally_RR distributing_VVG the_AT work_NN1 
+to_II each_DD1 RTGC_NP1 ._. 
+This_DD1 paper_NN1 analyzes_VVZ the_AT effect_NN1 of_IO the_AT WDI_NP1 
+introduction_NN1 and_CC discusses_VVZ the_AT causes_NN2 and_CC results_NN2 
+of_IO the_AT WDI_NP1 introduction_NN1 effect_NN1 from_II quantitative_JJ 
+and_CC qualitative_JJ perspectives_NN2 ._. 

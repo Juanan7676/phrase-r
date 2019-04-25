@@ -1,0 +1,25 @@
+Strain_VV0 sensors_NN2 (_( e.g._REX ,_, fiber_NN1 optic_NN1 strain_NN1 
+sensors_NN2 )_) can_VM be_VBI used_JJ to_II measure_NN1 the_AT deformation_NN1 
+of_IO flexible_JJ rockets_NN2 during_II launches_NN2 ,_, in_BCL21 order_BCL22 
+to_TO monitor_VVI and_CC control_NN1 rocket_NN1 flight_NN1 attitude_NN1 ._. 
+In_II this_DD1 paper_NN1 ,_, strain_VV0 sensors_NN2 are_VBR instrumented_VVN 
+on_II multi-axial_JJ reference_NN1 strain_NN1 structures_NN2 for_IF a_AT1 
+convenient_JJ monitor_NN1 of_IO rocket_NN1 bending_VVG vibrations_NN2 ._. 
+Reference_NN1 strain_NN1 structures_NN2 are_VBR attached_VVN longitudinally_RR 
+along_II the_AT outer_JJ surface_NN1 of_IO thin-walled_JJ flexible_JJ 
+rockets_NN2 ._. 
+As_II the_AT medium_NN1 between_II the_AT sensors_NN2 and_CC rocket_NN1 ,_, 
+the_AT structural_JJ design_NN1 of_IO reference_NN1 strain_NN1 structures_NN2 
+,_, as_II31 well_II32 as_II33 the_AT sensor_NN1 spacing_VVG along_II 
+them_PPHO2 ,_, is_VBZ optimized_VVN using_VVG an_AT1 integrated_JJ 
+multi-objective_JJ optimization_NN1 approach_NN1 ,_, which_DDQ ensures_VVZ 
+that_CST the_AT reference_NN1 strain_NN1 structures_NN2 will_VM accurately_RR 
+track_VVI the_AT deformation_NN1 of_IO the_AT rocket_NN1 surface_NN1 ._. 
+In_RR21 addition_RR22 ,_, kinematic_JJ equations_NN2 are_VBR developed_VVN 
+to_TO allow_VVI for_IF an_AT1 accurate_JJ prediction_NN1 of_IO the_AT 
+bending_NN1 deflection_NN1 of_IO the_AT rocket_NN1 center_NN1 axis_NN1 by_II 
+using_VVG the_AT strain_NN1 data_NN measured_VVN on_II the_AT rocket_NN1 
+surface_NN1 ._. 
+Finally_RR ,_, the_AT performance_NN1 of_IO the_AT optimal_JJ reference_NN1 
+strain_NN1 structure_NN1 is_VBZ evaluated_VVN using_VVG different_JJ 
+numerical_JJ simulations_NN2 of_IO the_AT flexible_JJ rocket_NN1 ._. 

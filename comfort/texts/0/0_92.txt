@@ -1,0 +1,31 @@
+Considering_CS highly_RR maneuvering_VVG target_NN1 ,_, a_AT1 novel_JJ 
+cooperative_JJ guidance_NN1 strategy_NN1 ,_, which_DDQ aims_VVZ to_TO make_VVI 
+multiple_JJ missiles_NN2 '_GE joint_JJ reachable_JJ sets_NN2 cover_VV0 the_AT 
+target_NN1 evasion_NN1 region_NN1 ,_, is_VBZ proposed_VVN ._. 
+The_AT assumed_JJ engagement_NN1 scenario_NN1 is_VBZ that_DD1 multiple_JJ 
+missiles_NN2 separate_VV0 with_IW each_PPX221 other_PPX222 at_II the_AT 
+beginning_NN1 of_IO homing_VVG phase_NN1 and_CC then_RT cooperatively_RR 
+intercept_VV0 the_AT highly_RR maneuvering_VVG target_NN1 which_DDQ can_VM 
+not_XX be_VBI intercepted_VVN by_II single_JJ missile_NN1 due_II21 to_II22 
+insufficient_JJ maneuverability_NN1 ._. 
+Firstly_RR ,_, for_IF biasing_VVG the_AT reachable_JJ sets_NN2 of_IO 
+different_JJ missiles_NN2 to_TO cover_VVI different_JJ subintervals_NN2 of_IO 
+target_NN1 maneuvering_VVG range_NN1 as_CSA expected_VVN ,_, a_AT1 biased_JJ 
+proportional_JJ navigation_NN1 guidance_NN1 law_NN1 (_( BPN_NP1 )_) is_VBZ 
+designed_VVN by_II introducing_VVG the_AT virtual_JJ aiming_VVG point_NN1 ._. 
+Secondly_RR ,_, for_IF the_AT missile-team_NN1 without_IW communication_NN1 
+capability_NN1 ,_, the_AT minimum_JJ relative_JJ maneuverability_NN1 
+superiority_NN1 and_CC minimum_JJ team_NN1 size_NN1 for_IF covering_VVG the_AT 
+whole_JJ target_NN1 maneuvering_VVG range_NN1 are_VBR derived_VVN based_VVN 
+on_II the_AT BPN_NP1 respectively_RR ,_, and_CC one_MC1 open-loop_JJ 
+cooperative_JJ guidance_NN1 strategy_NN1 is_VBZ proposed_VVN with_IW an_AT1 
+acceptable_JJ assumption_NN1 about_II the_AT handover_NN1 errors_NN2 of_IO 
+midcourse_NN1 guidance_NN1 ._. 
+While_CS for_IF the_AT missile-team_NN1 with_IW communication_NN1 
+capability_NN1 ,_, a_AT1 novel_JJ coordinating_JJ variable_NN1 is_VBZ 
+designed_VVN and_CC the_AT corresponding_JJ closed-loop_JJ guidance_NN1 
+strategy_NN1 is_VBZ proposed_VVN ._. 
+Numerical_JJ simulations_NN2 with_IW different_JJ target_NN1 maneuver_NN1 
+modes_NN2 are_VBR presented_VVN to_TO verify_VVI the_AT guidance_NN1 
+performance_NN1 of_IO the_AT proposed_JJ cooperative_JJ guidance_NN1 
+strategy_NN1 ._. 
