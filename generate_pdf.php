@@ -15,10 +15,7 @@ $tex = fopen($dirname.$number.".tex","w");
 
 fwrite($tex,'\documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
-\usepackage{graphicx}
 \usepackage[margin={2.5cm,2cm}]{geometry}
-\usepackage{amsmath, amssymb}
-\usepackage{epstopdf}
 \title{'.$title.'}
 \author{'.$author.'}
 \begin{document}

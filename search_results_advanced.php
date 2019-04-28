@@ -32,14 +32,50 @@ function echoTable($title,$rows)
 	echo '</table>';
 }
 
+$doms = array("Engineering,Manufact and Const Technologies" => "ENG","Maritime Navigation" => "MRN","Applied Sciences" => "APS");
+$subdoms = array("Aerospace engineering" => array("E_AER_AST","E_AER_PAS"),"Wind Energy" => array("E_ENE_WIN"),"Marine Engineering"=>array("E_MAR_MEJ"),
+                 "Ocean Engineering"=>array("E_OCE_OCE"),"Robotics"=>array("E_ROB_ROJ"),"Naval engineering"=>array("E_NAV_ENG"),"Navigation"=>array("M_NAT_JNA"),
+                 "Shipping and Ports"=>array("M_NAT_JNP"),"Maritime Policy and Management"=>array("M_NAT_MPM"),"Ship Transportation Science"=>array("M_NAT_JNR"),
+                 "Applied Physics"=>array("A_PH_ADM"),"Marine and Fresh Water Biology"=>array("A_MFB_MPB"),"Meteorology and Atmospheric Sciences"=>array("A_MAS_WF"),
+                 "Oceanography"=>array("A_OCE_AM"),"Astronomy and Astrophysics"=>array("A_AST_P"));
+
 if (!isset($_POST["phrase"]) || $_POST["phrase"]=="")
 {
 	echo getErrMsg('Petition was malformed or incorrect! Try again.<br><a href="search_basic.php">Back to search</a>');
 	die();
 }
 else {
+    
+    $domf = (isset($_POST["domv"])) ? $doms[$_POST["domv"]] : null;
+    $subdomf = (isset($_POST["subdomv"])) ? $subdoms[$_POST["subdoms"]] : null;
+    
 	$conn = new SQLConnection();
-	$result = $conn->pquery("SELECT * FROM texts WHERE Route1_CLAWS IS NOT NULL")->get_result();
+    
+    $sql = "SELECT * FROM texts WHERE Route1_CLAWS IS NOT NULL";
+    
+    if ($domf != null)
+    {
+        $sql .= " AND (";
+        $first = true;
+        foreach($domf as $dom)
+        {
+            $sql .= ($first) ? "Domain='$dom'" : " OR Domain='$dom'";
+            $first = false;
+        }
+    }
+    
+    if ($subdoms != null)
+    {
+        $sql .= " AND (";
+        $first = true;
+        foreach($subdomf as $subdom)
+        {
+            $sql .= ($first) ? "Subdomain='$subdom'" : " OR Subdomain='$subdom'";
+            $first = false;
+        }
+    }
+    
+	$result = $conn->pquery($sql)->get_result();
 	if ($result->num_rows == 0)
 		echo getErrMsg('There are no texts in this corpus! Try again later.<br><a href="search_basic.php">Back to search</a>');
 	else
