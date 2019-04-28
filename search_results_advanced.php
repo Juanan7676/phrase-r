@@ -33,11 +33,11 @@ function echoTable($title,$rows)
 }
 
 $doms = array("Engineering,Manufact and Const Technologies" => "ENG","Maritime Navigation" => "MRN","Applied Sciences" => "APS");
-$subdoms = array("Aerospace engineering" => array("E_AER_AST","E_AER_PAS"),"Wind Energy" => array("E_ENE_WIN"),"Marine Engineering"=>array("E_MAR_MEJ"),
-                 "Ocean Engineering"=>array("E_OCE_OCE"),"Robotics"=>array("E_ROB_ROJ"),"Naval engineering"=>array("E_NAV_ENG"),"Navigation"=>array("M_NAT_JNA"),
-                 "Shipping and Ports"=>array("M_NAT_JNP"),"Maritime Policy and Management"=>array("M_NAT_MPM"),"Ship Transportation Science"=>array("M_NAT_JNR"),
-                 "Applied Physics"=>array("A_PH_ADM"),"Marine and Fresh Water Biology"=>array("A_MFB_MPB"),"Meteorology and Atmospheric Sciences"=>array("A_MAS_WF"),
-                 "Oceanography"=>array("A_OCE_AM"),"Astronomy and Astrophysics"=>array("A_AST_P"));
+$subdoms = array("Aerospace engineering" => array("AER_ENG","AER_PAS"),"Wind Energy" => array("ENE_WIN"),"Marine Engineering"=>array("MAR_MEJ"),
+                 "Ocean Engineering"=>array("OCE_OCE"),"Robotics"=>array("ROB_ROJ"),"Naval engineering"=>array("NAV_ENG"),"Navigation"=>array("NAT_JNA"),
+                 "Shipping and Ports"=>array("NAT_JNP"),"Maritime Policy and Management"=>array("NAT_MPM"),"Ship Transportation Science"=>array("NAT_JNR"),
+                 "Applied Physics"=>array("PH_ADM"),"Marine and Fresh Water Biology"=>array("MFB_MPB"),"Meteorology and Atmospheric Sciences"=>array("MAS_WF"),
+                 "Oceanography"=>array("OCE_AM"),"Astronomy and Astrophysics"=>array("AST_P"));
 
 if (!isset($_POST["phrase"]) || $_POST["phrase"]=="")
 {
@@ -47,16 +47,15 @@ if (!isset($_POST["phrase"]) || $_POST["phrase"]=="")
 else {
     
     $domf = (isset($_POST["domv"])) ? $doms[$_POST["domv"]] : null;
-    $subdomf = (isset($_POST["subdomv"])) ? $subdoms[$_POST["subdoms"]] : null;
+    $subdomf = (isset($_POST["subdomv"])) ? $subdoms[$_POST["subdomv"]] : null;
     
 	$conn = new SQLConnection();
     
     $sql = "SELECT * FROM texts WHERE Route1_CLAWS IS NOT NULL";
-    
     if ($domf != null)
         $sql .= " AND Domain='$domf'";
     
-    if ($subdoms != null)
+    if ($subdomf != null)
     {
         $sql .= " AND (";
         $first = true;
@@ -65,11 +64,12 @@ else {
             $sql .= ($first) ? "Subdomain='$subdom'" : " OR Subdomain='$subdom'";
             $first = false;
         }
+        $sql .= ")";
     }
     
 	$result = $conn->pquery($sql)->get_result();
 	if ($result->num_rows == 0)
-		echo getErrMsg('There are no texts in this corpus! Try again later.<br><a href="search_basic.php">Back to search</a>');
+		echo getErrMsg('No results! Try again later.<br><a href="search_advanced.php">Back to search</a>');
 	else
 	{
 		$textos = array();

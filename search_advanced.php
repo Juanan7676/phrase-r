@@ -117,7 +117,7 @@ function changeSection(name) {
 </tr>
 <tr height="20"></tr>
 <tr height="20">
-	<td width="30%" align="left" id="domain">Domain: </td><input id="domv" type="hidden"></input>
+	<td width="30%" align="left" id="domain">Domain: </td><input id="domv" type="hidden" name="domv"></input>
     <td width="70%" align="left">
     <div id="header" align="left">
     	<ul class="nav">
@@ -141,7 +141,7 @@ function changeSection(name) {
 </tr>
 <tr height="20"><td>&nbsp;</td></tr>
 <tr height="20">
-    <td width="30%" align="left" id="subdomain">Subdomain: </td><input type="hidden" id="subdomv"></input>
+    <td width="30%" align="left" id="subdomain">Subdomain: </td><input type="hidden" id="subdomv" name="subdomv"></input>
     <td width="70%" align="left">
         <div id="header" align="left">
             <ul class="nav">
@@ -154,7 +154,7 @@ function changeSection(name) {
 </tr>
 <tr height="20"><td>&nbsp;</td></tr>
 <tr height="20">
-    <td width="30%" align="left" id="abstract">Abstract section: </td><input type="hidden" id="abssecv"></input>
+    <td width="30%" align="left" id="abstract">Abstract section: </td><input type="hidden" id="abssecv" name="abssecv"></input>
     <td width="70%" align="left">
         <div id="header" align="left">
             <ul class="nav">
