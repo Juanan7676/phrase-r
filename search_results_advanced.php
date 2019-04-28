@@ -54,15 +54,7 @@ else {
     $sql = "SELECT * FROM texts WHERE Route1_CLAWS IS NOT NULL";
     
     if ($domf != null)
-    {
-        $sql .= " AND (";
-        $first = true;
-        foreach($domf as $dom)
-        {
-            $sql .= ($first) ? "Domain='$dom'" : " OR Domain='$dom'";
-            $first = false;
-        }
-    }
+        $sql .= " AND Domain='$domf'";
     
     if ($subdoms != null)
     {
