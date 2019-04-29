@@ -56,7 +56,7 @@ Email:</td><td><input type="text" name="email" size=30 /></td>
 <td colspan="2"><div align="center"><input type="submit" value="Login" />
 </form>
 <form action="register.php">
-<input type="submit" value="Sign up">
+<input type="submit" value="Sign up" disabled>
 </form></div></td>
 </tr>
 </table>

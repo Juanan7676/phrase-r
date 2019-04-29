@@ -32,29 +32,24 @@ function echoTable($title,$rows)
 	echo '</table>';
 }
 
-$doms = array("Engineering,Manufact and Const Technologies" => "ENG","Maritime Navigation" => "MRN","Applied Sciences" => "APS");
-$subdoms = array("Aerospace engineering" => array("AER_ENG","AER_PAS"),"Wind Energy" => array("ENE_WIN"),"Marine Engineering"=>array("MAR_MEJ"),
-                 "Ocean Engineering"=>array("OCE_OCE"),"Robotics"=>array("ROB_ROJ"),"Naval engineering"=>array("NAV_ENG"),"Navigation"=>array("NAT_JNA"),
-                 "Shipping and Ports"=>array("NAT_JNP"),"Maritime Policy and Management"=>array("NAT_MPM"),"Ship Transportation Science"=>array("NAT_JNR"),
-                 "Applied Physics"=>array("PH_ADM"),"Marine and Fresh Water Biology"=>array("MFB_MPB"),"Meteorology and Atmospheric Sciences"=>array("MAS_WF"),
-                 "Oceanography"=>array("OCE_AM"),"Astronomy and Astrophysics"=>array("AST_P"));
 
-if (!isset($_POST["phrase"]) || $_POST["phrase"]=="")
-{
-	echo getErrMsg('Petition was malformed or incorrect! Try again.<br><a href="search_basic.php">Back to search</a>');
-	die();
-}
-else {
-    
-    $domf = (isset($_POST["domv"])) ? $doms[$_POST["domv"]] : null;
-    $subdomf = (isset($_POST["subdomv"])) ? $subdoms[$_POST["subdomv"]] : null;
+$subdoms = array("AEN" => array("AEN","AER_PAS"),"WE" => array("ENE_WIN"),"ME"=>array("MAR_MEJ"),
+                 "OE"=>array("OCE_OCE"),"RBT"=>array("ROB_ROJ"),"NE"=>array("NAV_ENG"),"NVT"=>array("NAT_JNA"),
+                 "SHP"=>array("NAT_JNP"),"MPM"=>array("NAT_MPM"),"STS"=>array("NAT_JNR"),
+                 "APH"=>array("PH_ADM"),"MFB"=>array("MFB_MPB"),"MAS"=>array("MAS_WF"),
+                 "OCE"=>array("OCE_AM"),"AA"=>array("AST_P"));
+
+$tags = array("Introduction" => "intr","Background" => "state","Aim" => "aim","Aim+Ref" => "aim2","Aim+Methodology" => "aim3","Methodology"=>"meth","Methodology+Conclusion" => "meth2","Analysis" => "analysis", "Conclusion" => "concl");
+
+    $domf = (isset($_POST["domv"]) && $_POST["domv"]!="") ? $_POST["domv"] : null;
+    $subdomf = (isset($_POST["subdomv"]) && $_POST["subdomv"]!="ALL") ? $subdoms[$_POST["subdomv"]] : null;
+    $abs = (isset($_POST["abs"]) && $_POST["abs"]!="") ? $tags[$_POST["abs"]] : null;
     
 	$conn = new SQLConnection();
     
-    $sql = "SELECT * FROM texts WHERE Route1_CLAWS IS NOT NULL";
+    $sql = "SELECT * FROM texts WHERE Route1_ANN IS NOT NULL";
     if ($domf != null)
         $sql .= " AND Domain='$domf'";
-    
     if ($subdomf != null)
     {
         $sql .= " AND (";
@@ -69,7 +64,7 @@ else {
     
 	$result = $conn->pquery($sql)->get_result();
 	if ($result->num_rows == 0)
-		echo getErrMsg('No results! Try again later.<br><a href="search_advanced.php">Back to search</a>');
+		echo getErrMsg('No results! Try again later.');
 	else
 	{
 		$textos = array();
@@ -78,35 +73,37 @@ else {
 			$partes = array("Abstract","Introduction","Method","Result","Analysis","Discussion/Conclusion");
 			for ($k = 1; $k <= 6; $k++)
 			{
-				if ($row["Route".$k]!=NULL && $row["Route".$k]!="NULL")
+				if ($row["Route".$k."_ANN"]!=NULL && $row["Route".$k."_ANN"]!="NULL")
 				{
-					$ocurrencias = searchWords($row["Route".$k],$_POST["phrase"]);
-					for ($i = 0; $i < $ocurrencias[0]; $i++)
+                    $frases = returnPhrases($row["Route".$k."_ANN"]);
+                    $phr = array();
+                    $len = 0;
+                    foreach($frases as $f)
+                    {
+                        if ($f[1]==$abs || $abs==null)
+                        {
+                            $len++;
+                            array_push($phr,$f[0]);
+                        }
+                    }
+					for ($i = 0; $i < $len; $i++)
+                    {
 						array_push($textos,array(
 						"Domain"=>$row["Domain"],
 						"Name"=>$row["Name"],
 						"Author"=>$row["Author"],
 						"Subdomain"=>$row["Subdomain"],
 						"Part"=>$partes[$k-1],
-						"Context"=>getColorizedContext(tokenize($row["Route".$k."_CLAWS"],$_POST["phrase"]),$i,5),
+						"Context"=>$phr[$i],
 						"Link"=>"<a href='javascript:void(0)'>Go</a>")); // TODO
-				}
+                    }
+                }
 			}
 		}
 	}
 	$conn->close();
-}
-
 ?>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link href="style.css" rel="stylesheet" type="text/css" />
-</head>
-
-<body class="default">
 <?php
 if (isset($textos))
 {
@@ -127,6 +124,3 @@ if (isset($textos))
 	echoTable("STAR-ABMN",$textos1);
 }
 ?>
-
-</body>
-</html>

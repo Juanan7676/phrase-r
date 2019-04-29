@@ -5,7 +5,7 @@ require_once 'core/parser.php';
 
 $conn = new SQLConnection();
 
-$res = $conn->pquery("SELECT * FROM texts")->get_result();
+$res = $conn->pquery("SELECT * FROM texts WHERE Route1_ANN IS NOT NULL")->get_result();
 $random = rand(1,$res->num_rows);
 $row = NULL;
 for ($k = 0; $k<$random; $k++) $row = $res->fetch_assoc();
@@ -38,7 +38,7 @@ var sentences = [
 	?>
 	];
 
-var mappings = {"Introduction":"intr","Purpose":"aim","State":"state","Motivation":"mot","Methodology":"meth","Orienting":"ori","Analysis":"analy","Conclusion":"concl","Recommendation":"recom"};	
+var mappings = {"Introduction":"intr","Aim":"aim","Background":"state","Aim+Ref":"aim2","Aim+Methodology":"aim3","Methodology":"meth","Methodology+Conclusion":"meth2","Analysis":"analysis","Conclusion":"concl"};	
 
 function check()
 {
@@ -60,14 +60,14 @@ function check()
     	<td width="70%" id="p'.$k.'" style="border-bottom:1px solid #000">'.$frases[$k-1][0].'</td>
         <td width="30%"><select id="r'.$k.'">
 		<option>Introduction</option>
-		<option>Purpose</option>
-		<option>State</option>
-		<option>Motivation</option>
+		<option>Background</option>
+		<option>Aim</option>
+		<option>Aim+Ref</option>
+		<option>Aim+Methodology</option>
 		<option>Methodology</option>
-		<option>Orienting</option>
+		<option>Methodology+Conclusion</option>
 		<option>Analysis</option>
 		<option>Conclusion</option>
-		<option>Recommendation</option>
 		</select></td>
     </tr>
 	';

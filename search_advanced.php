@@ -35,7 +35,7 @@
 			}
 			
 			.nav li a:hover {
-				background-color:#434343;
+				background-color:#fff;
 			}
 			
 			.nav li ul {
@@ -75,45 +75,73 @@ function newWindow(name,w1,h1,s1) {
 			remote.opener = window;
 	remote.opener.name = "opener";
 }
-function selectDomain(name) {
+function selectDomain(name,sn) {
 	document.getElementById("domain").innerHTML = 'Domain: <b> '+name+'</b>';
-    document.getElementById("domv").value = name;
+    document.getElementById("domv").value = sn;
     document.getElementById("subdomv").value = "";
     document.getElementById("subdomain").innerHTML = 'Subdomain: <b></b>';
     
     if (name=="Engineering,Manufact and Const Technologies")
     {
-        document.getElementById("subselect").innerHTML = "<li><a href=\"javascript:change('Aerospace engineering')\">Aerospace engineering</a></li><li><a href=\"javascript:void(0)\">Energy and fuels ></a><ul style=\"left:173px\"><li><a href=\"javascript:change('Wind Energy')\">Wind Energy</a></li></ul></li><li><a href=\"javascript:change('Marine Engineering')\">Marine Engineering</a></li><li><a href=\"javascript:change('Ocean Engineering')\">Ocean Engineering</a></li><li><a href=\"javascript:change('Robotics')\">Robotics</a></li><li><a href=\"javascript:change('Naval Engineering')\">Naval Engineering</a></li>"
+        document.getElementById("subselect").innerHTML = "<li><a href=\"javascript:change('Aerospace engineering','AEN')\">Aerospace engineering</a></li><li><a href=\"javascript:void(0)\">Energy and fuels ></a><ul style=\"left:173px\"><li><a href=\"javascript:change('Wind Energy','WE')\">Wind Energy</a></li></ul></li><li><a href=\"javascript:change('Marine Engineering','ME')\">Marine Engineering</a></li><li><a href=\"javascript:change('Ocean Engineering','OE')\">Ocean Engineering</a></li><li><a href=\"javascript:change('Robotics','RBT')\">Robotics</a></li><li><a href=\"javascript:change('Naval Engineering','NE')\">Naval Engineering</a></li>"
         //document.getElementById("subselect").style = "left:185px; min-width:150px";
     }
     if(name=="Maritime Navigation")
     {
-        document.getElementById("subselect").innerHTML = "<li><a href=\"javascript:change('Maritime Policy and Management')\">Maritime Policy and Management</a></li><li><a href=\"javascript:change('Shipping and Ports')\">Shipping and Ports </a></li><li><a href=\"javascript:change('Navigation')\">Navigation</a></li><li><a href=\"javascript:change('Ship Transportation Science')\">Ship Transportation Science</a></li>";
+        document.getElementById("subselect").innerHTML = "<li><a href=\"javascript:change('Maritime Policy and Management','MPM')\">Maritime Policy and Management</a></li><li><a href=\"javascript:change('Shipping and Ports','SHP')\">Shipping and Ports </a></li><li><a href=\"javascript:change('Navigation','NVG')\">Navigation</a></li><li><a href=\"javascript:change('Ship Transportation Science','STS')\">Ship Transportation Science</a></li>";
         console.log("test");
     }
     if (name=="Applied Sciences")
     {
-        document.getElementById("subselect").innerHTML = "<li><a href=\"javascript:change('Astronomy and Astrophysics')\">Astronomy and Astrophysics</a></li><li><a href=\"javascript:change('Marine and Fresh Water Biology')\">Marine and Fresh Water Biology</a></li><li><a href=\"javascript:change('Meteorology and Atmospheric Sciences')\">Meteorology and Atmospheric Sciences</a></li><li><a href=\"javascript:change('Oceanography')\">Oceanography</a></li><li><a href=\"javascript:change('Applied Physics')\">Applied Physics</a></li>";
+        document.getElementById("subselect").innerHTML = "<li><a href=\"javascript:change('Astronomy and Astrophysics','AA')\">Astronomy and Astrophysics</a></li><li><a href=\"javascript:change('Marine and Fresh Water Biology','MFB')\">Marine and Fresh Water Biology</a></li><li><a href=\"javascript:change('Meteorology and Atmospheric Sciences','MAS')\">Meteorology and Atmospheric Sciences</a></li><li><a href=\"javascript:change('Oceanography','OCE')\">Oceanography</a></li><li><a href=\"javascript:change('Applied Physics','APH')\">Applied Physics</a></li>";
         //document.getElementById("subselect").style = "";
     }
+    requestResults();
 }
-function change(name) {
+function change(name,sn) {
     document.getElementById("subdomain").innerHTML = 'Subdomain: <b> '+name+'</b>';
-    document.getElementById("subdomv").value = name;
-    
+    document.getElementById("subdomv").value = sn;
+    requestResults();
 }
 function changeSection(name) {
     document.getElementById("abstract").innerHTML = 'Abstract section: <b> '+name+'</b>';
     document.getElementById("abssecv").value = name;
+    requestResults();
+}
+function requestResults() {
+    var domain = document.getElementById("domv").value;
+    var subdomain = document.getElementById("subdomv").value;
+    var abs = document.getElementById("abssecv").value;
+    
+    if (subdomain == "") subdomain="ALL"
+    
+    var http = new XMLHttpRequest();
+    var url = 'search_results_advanced.php';
+    var params = 'domv='+domain+"&subdomv="+subdomain+"&abs="+abs;
+    http.open('POST', url, true);
+
+    http.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+
+    http.onreadystatechange = function() {
+        if (http.readyState == 4 && http.status == 200) {
+            document.getElementById("resultados").innerHTML = this.responseText;
+        }
+    }
+    http.send(params);
 }
 </script>
 
 <form action="search_results_advanced.php" method="post">
 <table height="480" width="100%" cellpadding="0" cellspacing="0">
 <tr height="40">
-<td colspan="2">
+<td colspan="3">
 <div align="left"><b>Seach filters</b></div>
 </td>
+</tr>
+<tr>
+    <td width="25%">&nbsp;</td>
+    <td width="25%"></td>
+    <td width="50%"></td>
 </tr>
 <tr height="20"></tr>
 <tr height="20">
@@ -125,9 +153,9 @@ function changeSection(name) {
             	<ul>
                 	<li><a href="javascript:void(0)">Scientific-Technical ></a>
                     <ul style="min-width:190px; left:158px">
-                    	<li><a href="javascript:selectDomain('Engineering,Manufact and Const Technologies')">Engineering,Manufact and Const Technologies</a></li>
-                        <li><a href="javascript:selectDomain('Maritime Navigation')">Maritime Navigation</a></li>
-                        <li><a href="javascript:selectDomain('Applied Sciences')">Applied Sciences</a></li>
+                    	<li><a href="javascript:selectDomain('Engineering,Manufact and Const Technologies','ENG')">Engineering,Manufact and Const Technologies</a></li>
+                        <li><a href="javascript:selectDomain('Maritime Navigation','MRN')">Maritime Navigation</a></li>
+                        <li><a href="javascript:selectDomain('Applied Sciences','APS')">Applied Sciences</a></li>
                     </ul>
                     </li>
                     <li><a href="javascript:void(0)">Humanities</a></li>
@@ -141,8 +169,8 @@ function changeSection(name) {
 </tr>
 <tr height="20"><td>&nbsp;</td></tr>
 <tr height="20">
-    <td width="30%" align="left" id="subdomain">Subdomain: </td><input type="hidden" id="subdomv" name="subdomv"></input>
-    <td width="70%" align="left">
+    <td width="25%" align="left" id="subdomain">Subdomain: </td><input type="hidden" id="subdomv" name="subdomv"></input>
+    <td width="25%" align="left">
         <div id="header" align="left">
             <ul class="nav">
                 <li><a href="javascript:void(0)">Select...</a>
@@ -154,8 +182,8 @@ function changeSection(name) {
 </tr>
 <tr height="20"><td>&nbsp;</td></tr>
 <tr height="20">
-    <td width="30%" align="left" id="abstract">Abstract section: </td><input type="hidden" id="abssecv" name="abssecv"></input>
-    <td width="70%" align="left">
+    <td width="25%" align="left" id="abstract">Abstract section: </td><input type="hidden" id="abssecv" name="abssecv"></input>
+    <td width="25%" align="left">
         <div id="header" align="left">
             <ul class="nav">
                 <li><a href="javascript:void(0)">Select...</a>
@@ -163,7 +191,7 @@ function changeSection(name) {
                         <li><a href="javascript:changeSection('Introduction')">Introduction</a></li>
                         <li><a href="javascript:changeSection('Background')">Background</a></li>
                         <li><a href="javascript:changeSection('Aim')">Aim</a></li>
-                        <li><a href="javascript:changeSection('Aim+Conclusion-Ref')">Aim+Conclusion-Ref</a></li>
+                        <li><a href="javascript:changeSection('Aim+Ref')">Aim+Ref</a></li>
                         <li><a href="javascript:changeSection('Aim+Methodology')">Aim+Methodology</a></li>
                         <li><a href="javascript:changeSection('Methodology')">Methodology</a></li>
                         <li><a href="javascript:changeSection('Methodology+Conclusion')">Methodology+Conclusion</a></li>
@@ -175,16 +203,12 @@ function changeSection(name) {
         </div>
     </td>
 </tr>
-<tr height="20">
-    <td colspan="2"><div align="left"><b>Type a lemma or a phrase</b></div></td>
+<tr height="300">
+        <td colspan="3" width="100%">
+            <div id="resultados" width="100%" height="100%">
+        </td>
+    </td>
 </tr>
-<tr height="20"><td>&nbsp;</td></tr>
-<tr height="20">
-    <td colspan="2"><div align="left"><input name="phrase" type="text" maxlength="60" size="30" style="text-align:center;" /></div></td>
-</tr>
-<tr height="20"><td>&nbsp;</td></tr>
-<tr height="20"><td colspan="2"><div align="left"><input type="submit" value="Buscar"></div></td></tr>
-<tr height="220"></tr>
 </table>
 </form>
 </body>
