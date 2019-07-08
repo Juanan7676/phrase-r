@@ -1,5 +1,6 @@
 <?php
 require 'core/SQL.php';
+require 'config/phraser.php';
 $conn = new SQLConnection();
 $errno=0;
 if (isset($_GET["Err"]))
@@ -25,6 +26,7 @@ function myF()
 </div>
 </td>
 </tr>
+<?php if (!__PAGE_CLOSED) { ?>
 <tr>
 <td colspan="2" height="10">&nbsp;</td>
 </tr>
@@ -63,6 +65,14 @@ Email:</td><td><input type="text" name="email" size=30 /></td>
 </div>
 </td>
 </tr>
+<?php } else { ?>
+<tr>
+<td width="100%" align="center" style="font-size:20px"><b>Page closed</b></td>
+</tr>
+<tr>
+<td width="70%" align="center" style="font-size:13px">Phrase-R is currently closed for maintenance. Check again later!</td>
+</tr>
+<?php } ?>
 <tr>
 <td>&nbsp;</td>
 </tr>
